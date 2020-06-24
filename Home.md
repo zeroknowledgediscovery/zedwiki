@@ -1,4 +1,4 @@
-# This is a Wiki for the [ZeD Lab](zed.uchicago.edu)
+# Wiki for the [ZeD Lab](zed.uchicago.edu)
 
 [wiki.zeroknowledgediscovery.org](wiki.zeroknowledgediscovery.org)
 

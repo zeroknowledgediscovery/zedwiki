@@ -49,7 +49,9 @@ We begin by noting that in our approach, we employ **no neurons, no fixed activa
 ## Multi-scale
 ```diff
 + With no vanishing gradient 
-+ **Done** in Figure 1 above
++ **Done** in Figure 1 above for syntheic data 
+- Need to do the same for the physical examples
+
 ```
 ## Partial updates
 ```diff
@@ -59,8 +61,7 @@ We begin by noting that in our approach, we employ **no neurons, no fixed activa
 ```
 ## Rigorous performance bounds
 ```diff
-+ **Done** for syntheic data in theory development, see below in Fig 4
-- Need to do the same for the physical examples
++ **Done** in theory development, see below in Fig 4
 ```
 <img alt='nn comparison' src="uploads/theoryscheme.png" width="700px">
 

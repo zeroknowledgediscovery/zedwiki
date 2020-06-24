@@ -1,4 +1,4 @@
-## Betacoronavirus
+# Betacoronavirus
 
 
 Betacoronaviruses (β-CoVs or Beta-CoVs) are one of four genera (Alpha-, Beta-, Gamma-, and Delta-) of coronaviruses. It is in the subfamily Orthocoronavirinae in the family Coronaviridae, of the order Nidovirales. They are enveloped, positive-sense, single-stranded RNA viruses of zoonotic origin. The coronavirus genera are each composed of varying viral lineages with the betacoronavirus genus containing four such lineages: A, B, C, D. In older literature, this genus is also known as group 2 coronaviruses.
@@ -7,7 +7,7 @@ The Beta-CoVs of the greatest clinical importance concerning humans are OC43 (wh
 
 The Alphacoronavirus and Betacoronavirus genera descend from the bat gene pool.[6][7][8]
 
-## Virology
+# Virology
 
 
 Alpha- and Betacoronaviruses mainly infect bats, but they also infect other species like humans, camels, and rabbits.[6][7][8][9] Beta-CoVs that have caused epidemics in humans generally induce fever and respiratory symptoms. They include:
@@ -29,7 +29,7 @@ Coronaviruses have a large genome size that ranges from 26 to 32 kilobases. With
 Genetic recombination can occur when two or more viral genomes are present in the same host cell. The dromedary camel Beta-CoV HKU23 exhibits genetic diversity in the African camel population.[16] Contributing to this diversity are several recombination events that had taken place in the past between closely related Beta-CoVs of the subgenus Embecovirus.[16] Also the Beta-CoV, Human SARS-CoV, appears to have had a complex history of recombination between ancestral coronaviruses that were hosted in several different animal groups.[17][18]
 
 
-## References
+# References
 
 
 [3] "Phylogeny of SARS-like betacoronaviruses". nextstrain. Retrieved 18 January 2020.

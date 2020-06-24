@@ -1,5 +1,7 @@
 1. https://github.com/zeroknowledgediscovery/pub_autism_
+    + submitted
 2. https://github.com/zeroknowledgediscovery/pub_crime_
+    + modification under progress
 3. https://github.com/zeroknowledgediscovery/pub_gest_diab_ 
 4. https://github.com/zeroknowledgediscovery/pub_nncomput_ 
 5. https://github.com/zeroknowledgediscovery/pub_ptsd_

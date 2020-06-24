@@ -1,5 +1,5 @@
 1. [Autism Prediction](https://github.com/zeroknowledgediscovery/pub_autism_)
-    + submitted
+    - [x] submitted
 2. [Urban Crime](https://github.com/zeroknowledgediscovery/pub_crime_)
     + modification under progress
 3. [Gestational Diabetes](https://github.com/zeroknowledgediscovery/pub_gest_diab_ )

@@ -1,6 +1,18 @@
-# [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
-#### **Collaboration with** [Alex Leow](alexfeuillet@gmail.com) 
+# Top Level
 
+Use the hash sign to organize levels, as in standard markdown syntax.
+Single hash (#) is the top level, 2 hashes one level down etc.
+
+# Organization
+
++ Hoem page only has the global TOC
++ Edit the Zed Concepts page [[ZeD concepts]]
+
+
+## [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
+### **Collaboration with** [Alex Leow](alexxxllet@gmail.com) 
+
+# Status Badges
 ![submission status](https://img.shields.io/badge/submission%20status-under%20review-green)
 ![submission status](https://img.shields.io/badge/submission%20status-submitted-yellow)
 ![submission status](https://img.shields.io/badge/submission%20status-preparation-orange)
@@ -16,16 +28,18 @@
 ![results](https://img.shields.io/badge/draft%20status-preparation-orange)
 ![resultss](https://img.shields.io/badge/draft%20status-preparation-lightgrey)
 
-### Milestones
+## Milestones
 
 + Email Alex, Debrief on consortium grant
 + Get UCM Data, initiate draft for R01/R21
 + Initiate draft for paper
 
-### Timeline
+## Timeline
 
 - **Next Milestone**: Get Data
 - **Time To Next Milestone**: 1 week (June 24)
+
+## Horizontal Line
 
 ---
 

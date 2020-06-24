@@ -89,7 +89,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/10--blue) [Modeling Cognitive Dissonance](https://github.com/zeroknowledgediscovery/pub_cogdis_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-progress-orange)
+# ![ID](https://img.shields.io/badge/10--blue) [Cognitive Dissonance](https://github.com/zeroknowledgediscovery/pub_cogdis_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-progress-orange)
 ## Milestones
 ## Notes
     + prepare qnet dataframes
@@ -98,7 +98,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/11--blue) [Semi-Universal Communication](https://github.com/zeroknowledgediscovery/pub_ucomm_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/11--blue) [Universal Communication](https://github.com/zeroknowledgediscovery/pub_ucomm_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
 ## Milestones
 ## Notes
     + prepare qnet dataframes
@@ -136,7 +136,7 @@
 ---
 
 
-# ![ID](https://img.shields.io/badge/15--blue) [Modeling Urban Crime](https://github.com/zeroknowledgediscovery/pub_crime_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/15--blue) [Urban Crime](https://github.com/zeroknowledgediscovery/pub_crime_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
 ## Milestones
 ## Notes
     + prepare qnet dataframes
@@ -145,7 +145,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/16--blue) [Infant Microbiome Modeling](https://github.com/zeroknowledgediscovery/pub_mubiome_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/16--blue) [Infant Microbiome](https://github.com/zeroknowledgediscovery/pub_mubiome_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
 **Collaboration with** [Erika Claud](gupadhyay@medicine.bsd.uchicago.edu )
 ## Milestones
 ## Notes

@@ -1,11 +1,22 @@
-1. [PTSD](https://github.com/zeroknowledgediscovery/pub_ptsd_)
+1. [CAD PTSD](https://github.com/zeroknowledgediscovery/pub_ptsd_)
+```
+   Collaboration with Robert Gibbons
+```
+ 
 2. [Cardiac Event Prediction](https://github.com/zeroknowledgediscovery/pub_cardiac_ )
+```
+   Collaboration with Gaurav Upadhyay
+```
 
 3. [Autism Prediction](https://github.com/zeroknowledgediscovery/pub_autism_)
     > submitted
 4. [Eating Disorder](https://github.com/zeroknowledgediscovery/pub_eating_dis_)
 5. [Gestational Diabetes](https://github.com/zeroknowledgediscovery/pub_gest_diab_ )
 6. [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
+```
+   Collaboration with Alex Leow
+```
+
 
 7. [Qnet Modeling of Phylogeny](https://github.com/zeroknowledgediscovery/pub_pan_one_ )
 8. [Pandemic Strain Prediction](https://github.com/zeroknowledgediscovery/pub_pan_two_)
@@ -21,6 +32,9 @@
     + modification under progress
 
 16. [Infant Microbiome Modeling](https://github.com/zeroknowledgediscovery/pub_mubiome_)
+```
+   Collaboration with Erika Claud
+```
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 

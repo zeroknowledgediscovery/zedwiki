@@ -8,10 +8,10 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 + Hoem page only has the global TOC
 + Edit the Zed Concepts page at [[ZeD Concepts]]
 + Note that pages should be linked like: \[\[page name\]\]
-
-
-## [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
-### **Collaboration with** [Alex Leow](alexxxllet@gmail.com) 
++ External link:  [Alex Leow](alexxxllet@gmail.com)
++ Images example: ![submission status](https://img.shields.io/badge/submission%20status-under%20review-green)
++ You can upload files as well
++ Link To Gihub Repo if Possible  [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
 
 # Status Badges
 ![submission status](https://img.shields.io/badge/submission%20status-under%20review-green)
@@ -29,18 +29,12 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 ![results](https://img.shields.io/badge/draft%20status-preparation-orange)
 ![resultss](https://img.shields.io/badge/draft%20status-preparation-lightgrey)
 
-## Milestones
 
-+ Email Alex, Debrief on consortium grant
-+ Get UCM Data, initiate draft for R01/R21
-+ Initiate draft for paper
+## UML Diagroams
 
-## Timeline
-
-- **Next Milestone**: Get Data
-- **Time To Next Milestone**: 1 week (June 24)
-
-## Horizontal Line
-
----
-
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml

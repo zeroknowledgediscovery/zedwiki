@@ -1,7 +1,3 @@
-# Wiki for the [ZeD Lab](zed.uchicago.edu)
-
-[wiki.zeroknowledgediscovery.org](wiki.zeroknowledgediscovery.org)
-
 ## Research Topics: Overview
 
 * [EHR Projects](https://readymag.com/zed/zero/)

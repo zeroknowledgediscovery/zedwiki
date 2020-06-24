@@ -1,7 +1,7 @@
 ## Betacoronavirus
 
 
-Betacoronaviruses (β-CoVs or Beta-CoVs) are one of four genera (Alpha-, Beta-, Gamma-, and Delta-) of coronaviruses. It is in the subfamily Orthocoronavirinae in the family Coronaviridae, of the order Nidovirales. They are enveloped, positive-sense, single-stranded RNA viruses of zoonotic origin. The coronavirus genera are each composed of varying viral lineages with the betacoronavirus genus containing four such lineages: A, B, C, D. In older literature, this genus is also known as group 2 coronaviruses
+Betacoronaviruses (β-CoVs or Beta-CoVs) are one of four genera (Alpha-, Beta-, Gamma-, and Delta-) of coronaviruses. It is in the subfamily Orthocoronavirinae in the family Coronaviridae, of the order Nidovirales. They are enveloped, positive-sense, single-stranded RNA viruses of zoonotic origin. The coronavirus genera are each composed of varying viral lineages with the betacoronavirus genus containing four such lineages: A, B, C, D. In older literature, this genus is also known as group 2 coronaviruses.
 
 The Beta-CoVs of the greatest clinical importance concerning humans are OC43 (which can cause the common cold) and HKU1 of the A lineage, SARS-CoV and SARS-CoV-2 (which causes the disease COVID-19) of the B lineage,[3] and MERS-CoV of the C lineage. MERS-CoV is the first betacoronavirus belonging to lineage C that is known to infect humans.[4][5]
 

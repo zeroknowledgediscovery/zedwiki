@@ -61,7 +61,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/7--blue) [Qnet Modeling of Phylogeny](https://github.com/zeroknowledgediscovery/pub_pan_one_ ) ![submission status](https://img.shields.io/badge/submission%20status-preparation-orange) ![results](https://img.shields.io/badge/results-advanced-green)
+# ![ID](https://img.shields.io/badge/7--blue) [Qnet: Epidemic+Phylogeny](https://github.com/zeroknowledgediscovery/pub_pan_one_ ) ![submission status](https://img.shields.io/badge/submission%20status-preparation-orange) ![results](https://img.shields.io/badge/results-advanced-green)
 ## Milestones
 ## Notes
     + prepare qnet dataframes
@@ -70,7 +70,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/8--blue) [Pandemic Strain Prediction](https://github.com/zeroknowledgediscovery/pub_pan_two_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/8--blue) [Qnet: Pandemic](https://github.com/zeroknowledgediscovery/pub_pan_two_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-advanced-yellow)
 ## Milestones
 ## Notes
     + prepare qnet dataframes
@@ -79,7 +79,7 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/9--blue) [Escape resistant Vaccine Design]() ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-progress-orange)
+# ![ID](https://img.shields.io/badge/9--blue) [Escape-resistant Vaccine]() ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-progress-orange)
 **Collaboration with** [Aaron Esser-kahn](gupadhyay@medicine.bsd.uchicago.edu )
 ## Milestones
 ## Notes

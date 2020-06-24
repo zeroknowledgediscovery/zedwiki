@@ -59,7 +59,8 @@ We begin by noting that in our approach, we employ **no neurons, no fixed activa
 ```
 ## Rigorous performance bounds
 ```diff
-+ **Done** in theory development, see below in Fig 4
++ **Done** for syntheic data in theory development, see below in Fig 4
+- Need to do the same for the physical examples
 ```
 <img alt='nn comparison' src="uploads/theoryscheme.png" width="700px">
 

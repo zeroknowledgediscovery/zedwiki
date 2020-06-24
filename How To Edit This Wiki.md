@@ -7,7 +7,7 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 
 + Hoem page only has the global TOC
 + Edit the Zed Concepts page at [[ZeD Concepts]]
-+ Note that pages should be linked like: [[page name]]
++ Note that pages should be linked like: \[\[page name\]\]
 
 
 ## [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)

@@ -32,11 +32,14 @@ salt
 # Figure 4 in FNet
 
 ## parsimony
-> (compare number of parameters)
+> compare number of parameters
+
 ## depth 
-> by link multiplicity (synthetic example, and from data)
+> by link multiplicity, synthetic example, and from data
+
 ## multi-scale 
->no vanishing gradient (show nice spatial decay for weather and seismic, and not for crime)
+> no vanishing gradient (show nice spatial decay for weather and seismic, and not for crime)
+
 ## partial updates 
->(show for crime)
+> show for crime
 - 

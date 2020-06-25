@@ -1,4 +1,3 @@
-![https://readymag.com/zed/zero-best-applications/](https://readymag.com/zed/zero-best-applications/)
 
 @startuml
 salt
@@ -19,3 +18,11 @@ salt
 }
 }
 @enduml
+
+@startgantt
+[Prototype design] lasts 10 days
+[Code prototype] lasts 10 days
+[Write tests] lasts 5 days
+[Code prototype] starts at [Prototype design]'s end
+[Write tests] starts at [Code prototype]'s start
+@endgantt

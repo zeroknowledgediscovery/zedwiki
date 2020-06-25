@@ -19,9 +19,7 @@ salt
 @enduml
 
 @startuml
-[Prototype design] lasts 10 days
-[Code prototype] lasts 10 days
-[Write tests] lasts 5 days
-[Code prototype] starts at [Prototype design]'s end
-[Write tests] starts at [Code prototype]'s start
+[foo] lasts 21 days
+[foo] is 40% completed
+[bar] lasts 30 days and is 10% complete
 @enduml

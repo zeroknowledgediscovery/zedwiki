@@ -1,6 +1,7 @@
 ![https://readymag.com/zed/zero-best-applications/](https://readymag.com/zed/zero-best-applications/)
 
-@startsalt
+@startuml
+salt
 {
 {T
  + World
@@ -17,4 +18,4 @@
  ++ Africa
 }
 }
-@endsalt
+@enduml

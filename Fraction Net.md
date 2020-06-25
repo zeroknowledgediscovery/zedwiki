@@ -21,6 +21,13 @@ We begin by noting that in our approach, we employ **no neurons, no fixed activa
 <img alt='fraction Net' src='uploads/results.png' width="800px" >
 
 # To Do
+##  Extended Data
+```diff
+- Fix extended data figure 5. Currently, we are starting the caption with "panel f".
+- Move the pfsas to left, and plots to right
+- THE FIGURE MUST READ FROM LEFT TO RIGHT, not jump randomly between panels
+```
+
 ## Fast Example Notebook
 ```diff
 - gpu implementation for rapid split file generation

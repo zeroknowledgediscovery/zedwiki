@@ -33,7 +33,7 @@ salt
 
 ## parsimony
 > (compare number of parameters)
-##depth 
+## depth 
 > by link multiplicity (synthetic example, and from data)
 ## multi-scale 
 >no vanishing gradient (show nice spatial decay for weather and seismic, and not for crime)

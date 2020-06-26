@@ -31,7 +31,7 @@ salt
 1. cynet has much lower number fo variables(2 orders of magnitude less)
 2. nu. of variables inferred in cynet positively correlates with RNN performance (this implies that when the pattern is encode just as more states, rnns cope better. WHen it is encoded in teh structure and non-sync structure, then rnns fail)
 3. physical system decay phase with distance, social systems dont
-
+4. phase never goes negative for EQ (since within a delay of months, since events often lead to aftershocks, and absence of events increase prob of event.. no it is always positive phse on average)
 
 
 

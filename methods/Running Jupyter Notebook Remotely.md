@@ -1,5 +1,7 @@
 + In remote host, open the terminal, change directory to where you have your notebooks and type:
-
+```
+jupyter notebook --no-browser --port=8889
+```
 
 + In your local computer:
 

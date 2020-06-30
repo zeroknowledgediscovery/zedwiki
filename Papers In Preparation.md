@@ -59,6 +59,7 @@
 ## Notes
     + run H3N2 north and south predictions
     + update cluster results to reduce prediction error for HA and NA
+    + Prepare a distance calculator script for Influenza current year, SARS1 and SARS2 taht we can deploy on pypi (with precomputed qnets)
     + update figure in draft
     + update text to switch order of applications
 ---

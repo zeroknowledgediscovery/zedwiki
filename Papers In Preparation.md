@@ -58,15 +58,21 @@
 ## Milestones
 ## Notes
     + run H3N2 north and south predictions
-    + update cluster results
+    + update cluster results to reduce prediction error for HA and NA
     + update figure in draft
-    + update text to swicth order of applications
+    + update text to switch order of applications
 ---
 
 # ![ID](https://img.shields.io/badge/8--blue) [Qnet: Pandemic](https://github.com/zeroknowledgediscovery/pub_pan_two_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-lightgrey) ![results](https://img.shields.io/badge/results-advanced-yellow)
 ## Milestones
 ## Notes
-    + diffusion analysis for HIV (2-3 clinical phenotypes), CCHF, H3N2 HA NA, H1N1 HA NA, SARS2 and SARS1
+    + diffusion analysis for 
+        HIV (2-3 clinical phenotypes), 
+        CCHF, 
+        H3N2 HA NA, 
+        H1N1 HA NA, 
+        SARS2 and 
+        SARS1
     + results on vaccine effectiveness (IEDB, maybe BCELL interaction)
 ---
 

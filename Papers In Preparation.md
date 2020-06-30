@@ -86,13 +86,13 @@
     + investigate perturbation results on q-sampling
 ---
 
-# ![ID](https://img.shields.io/badge/11--blue) [Universal Communication](https://github.com/zeroknowledgediscovery/pub_ucomm_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/11--blue) [Universal Communication](https://github.com/zeroknowledgediscovery/pub_ucomm_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-complete-green)
 ## Milestones
 ## Notes
     + update draft
 ---
 
-# ![ID](https://img.shields.io/badge/12--blue) [Data Smashing 2.0](https://github.com/zeroknowledgediscovery/pub_ds2_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-advanced-yellow)
+# ![ID](https://img.shields.io/badge/12--blue) [Data Smashing 2.0](https://github.com/zeroknowledgediscovery/pub_ds2_) ![submission status](https://img.shields.io/badge/submission%20status-preparation-yellow) ![results](https://img.shields.io/badge/results-complete-green)
 ## Milestones
 ## Notes
     + update abstract and introduction

@@ -104,7 +104,7 @@
 ## Notes
     + update abstract and introduction
 ```diff
-    + update challenge dataset
++ update challenge dataset
 ```
 ---
 

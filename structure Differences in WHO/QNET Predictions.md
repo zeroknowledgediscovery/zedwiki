@@ -85,6 +85,17 @@ Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequ
 }
 # Comparative structural analysis of haemagglutinin proteins from type A influenza viruses: conserved and variable features
 
+@article{righetto2014comparative,
+  title={Comparative structural analysis of haemagglutinin proteins from type A influenza viruses: conserved and variable features},
+  author={Righetto, Irene and Milani, Adelaide and Cattoli, Giovanni and Filippini, Francesco},
+  journal={BMC bioinformatics},
+  volume={15},
+  number={1},
+  pages={363},
+  year={2014},
+  publisher={Springer}
+}
+
 ## Background
 Genome variation is very high in influenza A viruses. However, viral evolution and spreading is strongly influenced by immunogenic features and capacity to bind host cells, depending in turn on the two major capsidic proteins. Therefore, such viruses are classified based on haemagglutinin and neuraminidase types, e.g. H5N1. Current analyses of viral evolution are based on serological and primary sequence comparison; however, comparative structural analysis of capsidic proteins can provide functional insights on surface regions possibly crucial to antigenicity and cell binding.
 

@@ -44,3 +44,43 @@ The accessible surface area (ASA) or solvent-accessible surface area (SASA) is t
   year={2005},
   publisher={Wiley Online Library}
 }
+
+
+
+We indexed the 200 possible amino acid pairs for their compatibility regarding the three major physicochemical properties – size, charge and hydrophobicity – and constructed Size, Charge and Hydropathy Compatibility Indices and Matrices (SCI & SCM, CCI & CCM, and HCI & HCM). Each index characterized the expected strength of interaction (compatibility) of two amino acids by numbers from 1 (not compatible) to 20 (highly compatible). We found statistically significant positive correlations between these indices and the propensity for amino acid co-locations in real protein structures (a sample containing total 34630 co-locations in 80 different protein structures)
+
+@article{biro2006amino,
+  title={Amino acid size, charge, hydropathy indices and matrices for protein structure analysis},
+  author={Biro, JC},
+  journal={Theoretical Biology and Medical Modelling},
+  volume={3},
+  number={1},
+  pages={15},
+  year={2006},
+  publisher={Springer}
+}
+
+Hydropathy patterning complements charge patterning to describe conformational preferences of disordered proteins
+
+@article{zheng2020hydropathy,
+  title={Hydropathy patterning complements charge patterning to describe conformational preferences of disordered proteins},
+  author={Zheng, Wenwei and Dignon, Gregory and Brown, Matthew and Kim, Young C and Mittal, Jeetain},
+  journal={The journal of physical chemistry letters},
+  volume={11},
+  number={9},
+  pages={3408--3415},
+  year={2020},
+  publisher={ACS Publications}
+}
+Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequence Distributions of Oppositely Charged Residues
+@article{das2013conformations,
+  title={Conformations of intrinsically disordered proteins are influenced by linear sequence distributions of oppositely charged residues},
+  author={Das, Rahul K and Pappu, Rohit V},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={110},
+  number={33},
+  pages={13392--13397},
+  year={2013},
+  publisher={National Acad Sciences}
+}
+

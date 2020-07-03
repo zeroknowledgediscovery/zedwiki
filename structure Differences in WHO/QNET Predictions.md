@@ -83,4 +83,13 @@ Conformations of Intrinsically Disordered Proteins Are Influenced by Linear Sequ
   year={2013},
   publisher={National Acad Sciences}
 }
+# Comparative structural analysis of haemagglutinin proteins from type A influenza viruses: conserved and variable features
 
+## Background
+Genome variation is very high in influenza A viruses. However, viral evolution and spreading is strongly influenced by immunogenic features and capacity to bind host cells, depending in turn on the two major capsidic proteins. Therefore, such viruses are classified based on haemagglutinin and neuraminidase types, e.g. H5N1. Current analyses of viral evolution are based on serological and primary sequence comparison; however, comparative structural analysis of capsidic proteins can provide functional insights on surface regions possibly crucial to antigenicity and cell binding.
+
+## Results
+We performed extensive structural comparison of influenza virus haemagglutinins and of their domains and subregions to investigate type- and/or domain-specific variation. We found that structural closeness and primary sequence similarity are not always tightly related; moreover, type-specific features could be inferred when comparing surface properties of haemagglutinin subregions, monomers and trimers, in terms of electrostatics and hydropathy. Focusing on H5N1, we found that variation at the receptor binding domain surface intriguingly relates to branching of still circulating clades from those ones that are no longer circulating.
+
+## Conclusions
+Evidence from this work suggests that integrating phylogenetic and serological analyses by extensive structural comparison can help in understanding the ‘functional evolution’ of viral surface determinants. In particular, variation in electrostatic and hydropathy patches can provide molecular evolution markers: intriguing surface charge redistribution characterizing the haemagglutinin receptor binding domains from circulating H5N1 clades 2 and 7 might have contributed to antigenic escape hence to their evolutionary success and spreading.

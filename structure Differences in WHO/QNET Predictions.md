@@ -124,3 +124,81 @@ Stressing relevance of local surface variation is particularly important when co
 ## sequence based studies
 
 Thanks to the availability of thousands of viral genomes/gene sequences and of several specific antibodies/vaccines, a large number of sequence-based/phylogenetic and serological analyses of avian flu viruses have been performed and published so far. This notwithstanding, mechanisms in viral evolution are still elusive, as genome/proteome-wide analyses on sequence variation or antigenic features are able to only partially unveil a number of relevant changes, because of the overall mutational noise. Therefore, structural zoom in is needed to integrate such analyses by identifying `meaningful’ variation. This prompted us to take advantage from availability of structural templates to perform structural comparison among different HA subtypes, in order to identify subtype- and subregion-specific feature variation suggestive for possible involvement in antigenic recognition, or pathogenicity and host specificity. Last but not least, evidence from structural comparison can check relationship among serological, phylogenetic and structural closeness.
+
+## comparison among solved HA structures: prior work
+ Preliminary analysis of the six available HA structures was performed in order to evaluate intra- and inter-group structural variation by superposition of all structure pairs and computation of their Root Mean Square Deviation (RMSD). Indeed, the RMSD of two superposed structures indicates their `structural divergence’ from one another. As both sequence mutation and conformational variation inflate the RMSD, values up to 2 Ångstrom indicate structural similarity [17].
+ 
+ 
+ ```
+ %17
+ @article{carugo2001normalized,
+  title={A normalized root-mean-spuare distance for comparing protein three-dimensional structures},
+  author={Carugo, Oliviero and Pongor, S{\'a}ndor},
+  journal={Protein science},
+  volume={10},
+  number={7},
+  pages={1470--1473},
+  year={2001},
+  publisher={Wiley Online Library}
+}
+```
+
+Evidence that RMSD values for monomer pairs are lower than those ones for corresponding HA1 or RBD regions is not surprising, because RBDs are major determinants in antigenic variation [9].
+
+```
+%9
+@article{russell2004h1,
+  title={H1 and H7 influenza haemagglutinin structures extend a structural classification of haemagglutinin subtypes},
+  author={Russell, RJ and Gamblin, SJ and Haire, LF and Stevens, DJ and Xiao, B and Ha, Y and Skehel, JJ},
+  journal={Virology},
+  volume={325},
+  number={2},
+  pages={287--296},
+  year={2004},
+  publisher={Elsevier}
+}
+
+```
+
+Structural fold and architecture can be highly conserved even among proteins and protein domains showing no sequence homology because of either long evolutionary divergence or even convergent evolution [21]. At the same time, within such families, fold can be disrupted (resulting in loss of function and disease) by single or few specific mutation(s), which indeed result in keeping 99% or higher sequence identity values [22],[23]. 
+
+
+```
+%21
+@article{de2014longin,
+  title={Longin and GAF domains: structural evolution and adaptation to the subcellular trafficking machinery},
+  author={De Franceschi, Nicola and Wild, Klemens and Schlacht, Alexander and Dacks, Joel B and Sinning, Irmgard and Filippini, Francesco},
+  journal={Traffic},
+  volume={15},
+  number={1},
+  pages={104--121},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+%22
+@article{jang2002crystal,
+  title={Crystal structure of SEDL and its implications for a genetic disease spondyloepiphyseal dysplasia tarda},
+  author={Jang, Se Bok and Kim, Yeon-Gil and Cho, Yong-Soon and Suh, Pann-Ghill and Kim, Kyung-Hwa and Oh, Byung-Ha},
+  journal={Journal of Biological Chemistry},
+  volume={277},
+  number={51},
+  pages={49863--49869},
+  year={2002},
+  publisher={ASBMB}
+}
+%23
+@article{jeyabalan2010sedlin,
+  title={SEDLIN forms homodimers: characterisation of SEDLIN mutations and their interactions with transcription factors MBP1, PITX1 and SF1},
+  author={Jeyabalan, Jeshmi and Nesbit, M Andrew and Galvanovskis, Juris and Callaghan, Richard and Rorsman, Patrik and Thakker, Rajesh V},
+  journal={PloS one},
+  volume={5},
+  number={5},
+  pages={e10646},
+  year={2010},
+  publisher={Public Library of Science}
+}
+
+```
+
+Mutations altering the overall backbone/fold of the RBD would impair binding to host cells hence conservation (track 1) is needed to keep such basic function. However, local variation (track 2) is needed to modulate surface features hence interactions. Therefore, we did not further investigate secondary structure variation and moved instead to surface analysis, considering both most relevant features: (i) electrostatic charge distribution and (ii) hydropathy/hydrophilicity patches.
+

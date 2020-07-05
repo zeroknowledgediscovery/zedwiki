@@ -249,3 +249,5 @@ Despite the fluctuating efficacy of the seasonal influenza vaccine from year to 
 }
 ```
 
+![http://34.66.189.202:4567/uploads/dnavac1.png](http://34.66.189.202:4567/uploads/dnavac1.png)
+

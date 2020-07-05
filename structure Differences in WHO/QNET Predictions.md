@@ -234,5 +234,18 @@ Thus, many of the mutations influenza viruses accumulate during egg-adaptation r
 
 Despite the fluctuating efficacy of the seasonal influenza vaccine from year to year, it remains the best strategy for combating infection. Experimental universal influenza vaccines are intended to broadly protect against many (if not all) influenza virus strains regardless of antigenic mutation in the HA head domain (reviewed in [86,87,88]). As with the development of any new vaccine, the timeline for their widespread use in humans, as well as their true efficacy against divergent viral strains is uncertain. Thus, as a short-term measure, efforts to improve the efficacy of the seasonal vaccine as well as the development of other anti-viral therapeutics are still needed. The development and application of new approaches to improve on the current technologies, along with the development of completely new vaccines, makes this an exciting time to be part of the influenza virus research community. Current efforts and further optimization of many complementary strategies for influenza vaccine development are critical to our ability to reduce and even prevent the epidemic and pandemic outbreaks of the future.
 
+# DNA Vacccines against Influenza
+
+```
+@article{stachyra2014dna,
+  title={DNA vaccines against influenza.},
+  author={Stachyra, Anna and G{\'o}ra-Sochacka, Anna and Sirko, Agnieszka},
+  journal={Acta Biochimica Polonica},
+  volume={61},
+  number={3},
+  year={2014}
+}
+```
+
 
 

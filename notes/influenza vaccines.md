@@ -236,6 +236,8 @@ Despite the fluctuating efficacy of the seasonal influenza vaccine from year to 
 
 # DNA Vacccines against Influenza
 
+[DNA Vaccines](http://34.66.189.202:4567/uploads/dnavaccines.pdf)
+
 ```
 @article{stachyra2014dna,
   title={DNA vaccines against influenza.},

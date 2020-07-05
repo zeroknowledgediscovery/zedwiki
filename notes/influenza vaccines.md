@@ -211,6 +211,9 @@ Evidence from this work shows that sequence homology is often, but not always, r
 
 # Efforts to Improve the Seasonal Influenza Vaccine
 
+
+[review paper](http://34.66.189.202:4567/uploads/vaccines-06-00019.pdf)
+
 ```
 @article{harding2018efforts,
   title={Efforts to improve the seasonal influenza vaccine},

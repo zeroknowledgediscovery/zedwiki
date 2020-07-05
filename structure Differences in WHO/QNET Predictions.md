@@ -205,3 +205,34 @@ Mutations altering the overall backbone/fold of the RBD would impair binding to 
 ## Why we Need Phylogeny: And Hence q-phylogeny should be better
 
 Evidence from this work shows that sequence homology is often, but not always, related to structural similarity and vice versa. In fact, in some instances, protein domains with less related sequences can show intriguing structural closeness. Therefore, in order to obtain a more complete view of the `functional evolution’, phylogenetic analyses based on sequence comparison and resulting in trees, might be integrated taking into account information from structural comparison.
+
+
+
+
+# Efforts to Improve the Seasonal Influenza Vaccine
+
+```
+@article{harding2018efforts,
+  title={Efforts to improve the seasonal influenza vaccine},
+  author={Harding, Alfred T and Heaton, Nicholas S},
+  journal={Vaccines},
+  volume={6},
+  number={2},
+  pages={19},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
+
+Data from the WHO Global Influenza Surveillance and Response System ensures the strains in the vaccine match circulating viruses; hence, the term “seasonal vaccine” [5]. This need for continual adjustment of the vaccine formula is a result of influenza viruses’ ability to accumulate mutations over time, a process termed “antigenic drift” [6]. Influenza viruses, like many RNA viruses, have a much higher mutation rate than organisms with DNA genomes due to the lower fidelity of RNA polymerases [7]. Intrinsic viral mutation combined with immune selective pressures result in the fixation of viral variants that are antigenically distinct from their predecessors. These “drifted” viruses are frequently capable of escaping the immune response elicited by the previous vaccination or infection, leading to the requirement for constant monitoring and testing of isolated strains to ensure the current vaccine is a match to circulating viruses. Vaccine mediated protection against influenza viruses is further complicated by the fact that the segmented viral genome permits two different virus strains to reassort genetic material with one another upon coinfection, potentially leading to “antigenic shift” [8]. Antigenic shift enables the creation of antigenically novel viral strains capable of causing pandemic outbreaks. Thus, seasonal influenza vaccine production must be flexible enough to deal with the annual acquisition of mutations in circulating strains and to rapidly respond to pandemic outbreaks as occurred with a reassortant H1N1 strain in 2009 [9].
+
+Rapid influenza virus evolution leads to the yearly requirement for massive vaccine manufacturing infrastructure capable of generating hundreds of millions doses. Currently, the majority of influenza virus vaccines are manufactured using embryonated chicken eggs [10].
+
+Increased production time reduces the flexibility of the manufacturing process, necessitating the start of production long before the start of the season. This timeline reduces the ability of public health officials to adapt to sudden changes in circulating strains. This process of egg-adaptation is both slow and, at times, ineffective. Despite efforts to adapt reassortant viruses to culture in eggs, some strains, especially H3N2 viruses, continue to grow poorly in eggs [25]. This inability to adapt strains can result in significant delays in vaccine production due to the lower yield of these strains and, in some severe cases, may necessitate the removal of a predicted strain due to its inability to be grown to sufficient levels [25,26]. This problem occurred during the 2003–2004 season, when the predicted A/Fujian/411/2002 strain was unable to be grown successfully in chicken eggs and was subsequently replaced by the prior year’s H3N2 strain [27].
+
+Thus, many of the mutations influenza viruses accumulate during egg-adaptation result in altered antigenicity. This potentially changed antigenicity is usually controlled for during the generation of CVVs by continually testing the antigenicity of isolated strains. However, due to the complex nature of influenza immune responses in individuals with multiple exposures to different strains, it can be difficult to accurately predict the antigenicity of a given vaccine strain
+
+Despite the fluctuating efficacy of the seasonal influenza vaccine from year to year, it remains the best strategy for combating infection. Experimental universal influenza vaccines are intended to broadly protect against many (if not all) influenza virus strains regardless of antigenic mutation in the HA head domain (reviewed in [86,87,88]). As with the development of any new vaccine, the timeline for their widespread use in humans, as well as their true efficacy against divergent viral strains is uncertain. Thus, as a short-term measure, efforts to improve the efficacy of the seasonal vaccine as well as the development of other anti-viral therapeutics are still needed. The development and application of new approaches to improve on the current technologies, along with the development of completely new vaccines, makes this an exciting time to be part of the influenza virus research community. Current efforts and further optimization of many complementary strategies for influenza vaccine development are critical to our ability to reduce and even prevent the epidemic and pandemic outbreaks of the future.
+
+
+

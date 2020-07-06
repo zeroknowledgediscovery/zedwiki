@@ -5,11 +5,10 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 
 # Organization
 
-+ Hoem page only has the global TOC
-+ Edit the Zed Concepts page at [[ZeD Concepts]]
++ Home page only has the global TOC
 + Note that pages should be linked like: \[\[page name\]\]
-+ External link:  [Alex Leow](alexxxllet@gmail.com)
-+ Images example: ![submission status](https://img.shields.io/badge/submission%20status-under%20review-green)
++ External link:  [Alex Leow](alexxxllet@gmail.com) inserted as follows: \[Alex Leow\]\(alexxxllet@gmail.com\)
++ Images example: ![submission status](https://img.shields.io/badge/submission%20status-under%20review-green) inserted as follows \!\[text\]\(path_to_image\)
 + You can upload files as well
 + Link To Gihub Repo if Possible  [Manic Episode Prediction](https://github.com/zeroknowledgediscovery/pub_manic_)
 

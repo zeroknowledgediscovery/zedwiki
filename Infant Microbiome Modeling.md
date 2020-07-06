@@ -7,4 +7,8 @@
 ## Aim one: Reverse-engineering the Wiring between control to state to oucome
 ![http://34.66.189.202:4567/uploads/Untitled.jpeg](http://34.66.189.202:4567/uploads/Untitled.jpeg)
 
-## Aim two: How Does Perturbations in Internal states or Control Variables affect the rest of the parameters
+## Aim two: How Does Perturbations in Internal States or Control Variables Affect the Rest of the Parameters
+
+## How do we incorporate time in the analysis
+
+## Can we carry out modeling at the highest entity resolution?

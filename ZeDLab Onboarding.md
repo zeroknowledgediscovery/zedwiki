@@ -8,7 +8,7 @@
     1. Full name
     2. email
     
-# github Account
+# Github Account
     email ishanu@uchicago.edu with details
     1. githum id
 

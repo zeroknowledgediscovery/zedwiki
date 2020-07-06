@@ -6,3 +6,5 @@
 
 ## Aim one: Reverse-engineering the Wiring between control to state to oucome
 ![http://34.66.189.202:4567/uploads/Untitled.jpeg](http://34.66.189.202:4567/uploads/Untitled.jpeg)
+
+## Aim two: How Does Perturbations in Internal states or Control Variables affect the rest of the parameters

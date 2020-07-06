@@ -60,7 +60,10 @@ salt
 
 ## Aim one: Reverse-engineering the Wiring between control to state to oucome
 
-
+@startuml
+Feeding_type -> State
+State --> outcome
+@enduml
 
 
 

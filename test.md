@@ -58,4 +58,9 @@ salt
 +   We have one or more `outcome measures` such as head circumeference measurement as a proxy of cognitive development
 +   All these measurements have tagged timestamps
 
+## Aim one: Reverse-engineering the Wiring between control to state to oucome
+
+
+
+
 

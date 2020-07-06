@@ -1,4 +1,12 @@
 
+# Notes
+
+- Influenza vaccine is currently made as inactivated particles grown in chicken embryo
+- Virus evolution follows 2 tracks… function conservation and hyper mutation in residues that are not constrained. Can we model these effects, which actually might not be separate ie residues might change as much as allowed by function requirements
+- Small and even single residue changes might result in large changes in physical properties. Even more so when the residues have different properties such as side chain accessible area or hydropathy or charge
+- So predicting group changes if possible is very valuable 
+- Consensus vs dominant strain. Consensus strategy as on might not even be a valid sequence. While dominant strain as we define is g uh guaranteed to have occurred frequently and 
+
 
 # Property Notes
 

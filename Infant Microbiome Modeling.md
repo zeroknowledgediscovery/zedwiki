@@ -6,5 +6,4 @@
 +   All these measurements have tagged timestamps
 
 ## Aim one: Reverse-engineering the Wiring between control to state to oucome
-
 ![http://34.66.189.202:4567/uploads/Untitled.jpeg](http://34.66.189.202:4567/uploads/Untitled.jpeg)

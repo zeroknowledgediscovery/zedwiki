@@ -1,10 +1,10 @@
-# [Urban Crime](project/Urnam Crime)
+# [Predicting Urban Crime](project/Urnam Crime)
 
+# [Deep Learning without Neural Nets](project/Fraction Net.md)
 
+# [Predicting Evolutionary Trajectory In Novel Pathogens](project/Qnet Epidemic Strain & SARS2 Origin .md)
 
-# [Evolutionary Trajectory](project/Qnet Epidemic Strain & SARS2 Origin .md)
-
-# [EHR To Diagnostic Risk](project/EHR To DIagnostic Risk.md)
+# [Predicting RIsk from EHR](project/EHR To DIagnostic Risk.md)
 
 # [Cognitive Dissonance Modeling](project/Cognitive Dissonance.md)
 

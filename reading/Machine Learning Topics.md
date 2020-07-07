@@ -1,4 +1,6 @@
-# ![ID](https://img.shields.io/badge/1--red) Probability Theory
+# ![ID](https://img.shields.io/badge/1--red) Probability Theory 
+
+<img src='../uploads/dice.jpeg' width=100px>
 
 ## Random variables
 

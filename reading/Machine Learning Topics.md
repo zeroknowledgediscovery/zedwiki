@@ -103,3 +103,10 @@
 
 
 # ![ID](https://img.shields.io/badge/12--red) Case Studies
+
+
+## Comparison of Genomic Sequences
+
+## Genome Wide Association Studies
+
+## Epidemiology

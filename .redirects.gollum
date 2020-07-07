@@ -14,3 +14,4 @@ project/Qnet Epidemic Strain %26 SARS2 Origin .md: project/Qnet Epidemic Strain 
   SARS2 Origin .md
 Python Snippets.md: method/Python Snippets.md
 method/Python Snippets.md: method/methods/Python Snippets.md
+Urban Crime.md: project/Urban Crime.md

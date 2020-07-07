@@ -10,7 +10,6 @@
 
 # ![ID](https://img.shields.io/badge/2--red) Bayesian Statsitics
 
-<img src='../uploads/bayes.png' width=100px>
 
 ## Baye's Error
 

@@ -1,6 +1,6 @@
 # ![ID](https://img.shields.io/badge/1--red) Probability Theory
 
-## ![ID](https://img.shields.io/badge/a--yellow)Random variables
+## ![ID](https://img.shields.io/badge/a--yellow) Random variables
 
 ## ![ID](https://img.shields.io/badge/b--yellow) Bayes' Theorem
 

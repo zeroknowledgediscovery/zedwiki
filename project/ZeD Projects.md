@@ -1,9 +1,9 @@
 # [Predicting Urban Crime](project/Urnam Crime)
 
-![../uploads/ structcomp.png](http://34.66.189.202:4567/uploads/download.png)
+<img alt='nn comparison' src="http://34.66.189.202:4567/uploads/download.png" width="700px">
 
 # [Deep Learning without Neural Nets](project/Fraction Net.md)
-![../uploads/ structcomp.png](http://34.66.189.202:4567/uploads/structcomp.png)
+<img alt='nn comparison' src="http://34.66.189.202:4567/uploads/structcomp.png" width="700px">
 
 # [Predicting Evolutionary Trajectory In Wild](project/Qnet Epidemic Strain & SARS2 Origin .md)
 

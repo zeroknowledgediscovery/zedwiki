@@ -12,13 +12,24 @@
 
 ## Bayes' Classifier
 
+---
+
+
 # ![ID](https://img.shields.io/badge/3--red) Bias vs Variance
+
+---
 
 # ![ID](https://img.shields.io/badge/4--red) The Scikit-learn Library
 
+---
+
+
 # ![ID](https://img.shields.io/badge/5--red) Classification 
 
+
 ## Naive Bayes
+
+
 
 ## Nearest Neighbor
 
@@ -32,6 +43,8 @@
 
 ## Stochastic Gradient Descent
 
+---
+
 
 # ![ID](https://img.shields.io/badge/6--red) Regression
 
@@ -41,8 +54,11 @@
 
 ## LOESS
 
+---
+
 # ![ID](https://img.shields.io/badge/7--red) Embedding
 
+---
 
 # ![ID](https://img.shields.io/badge/8--red) Neural Networks
 
@@ -52,6 +68,8 @@
 
 ## Convolutional Neural Networks
 
+---
+
 # ![ID](https://img.shields.io/badge/9--red) Time Series Analysis
 
 ## ARIMA Models
@@ -60,6 +78,8 @@
 
 ## PFSA Models
 
+---
+
 
 # ![ID](https://img.shields.io/badge/10--red) Time Series Modeling with Neural Networks
 
@@ -67,12 +87,15 @@
 
 ## Long-short Memory Models
 
+---
 
 # ![ID](https://img.shields.io/badge/11--red) Autoencoders
 
 ## Variational Autoencoders
 
 ## Autoencoders and Kolmogorov Complexity
+
+---
 
 
 # ![ID](https://img.shields.io/badge/12--red) Case Studies

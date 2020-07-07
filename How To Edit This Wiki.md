@@ -5,6 +5,11 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 
 # Organization
 
++ We have a few directories: [methods](http://34.66.189.202:4567/gollum/overview/methods/), [project](http://34.66.189.202:4567/gollum/overview/project/), [reading](http://34.66.189.202:4567/gollum/overview/reading/), [notes](http://34.66.189.202:4567/gollum/overview/notes/), [development](http://34.66.189.202:4567/gollum/overview/development/)
++ Put topics ie new pages in respective directories. For example any devvelooment notes goes into development. Any new poject goes into project
+
+# Inserting Images and Links
+
 + Home page only has the global TOC
 + Note that pages should be linked like: \[\[page name\]\]
 + External link:  [Alex Leow](alexxxllet@gmail.com) inserted as follows: \[Alex Leow\]\(alexxxllet@gmail.com\)

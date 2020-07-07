@@ -9,7 +9,7 @@
 <img alt='nn comparison' src="http://34.66.189.202:4567/uploads/tape1.png" width="500px">
 
 # [Predicting Risk from EHR](project/EHR To Diagnostic Risk.md)
-<img alt='nn comparison' src="http://34.66.189.202:4567/uploads/aut.png" width="500px">
+<img alt='nn comparison' src="http://34.66.189.202:4567/uploads/perfA.png" width="500px">
 
 # [Cognitive Dissonance Modeling](project/Cognitive Dissonance.md)
 <img alt='nn comparison' src="http://34.66.189.202:4567/uploads/cogdis.png" width="500px">

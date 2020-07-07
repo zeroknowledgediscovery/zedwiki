@@ -6,5 +6,8 @@
 
 **The ZeD Concepts Summary Page:** [[ZeD Concepts.md]]
 
+**Reading: Machine Learning Topics** [[Machine Learning Topics.md]]
+
+**Reading: Viral EVolution** [[Viral EVolution.md]]
 
 <<GlobalTOC()>>

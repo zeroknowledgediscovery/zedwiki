@@ -22,7 +22,7 @@
 
 ## Nearest Neighbor
 
-## Support VEctor Machines
+## Support Vector Machines
 
 ## Multi Layer Perceptron
 

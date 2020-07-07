@@ -11,6 +11,7 @@
 # ![ID](https://img.shields.io/badge/2--red) Bayesian Statsitics
 
 
+
 ## Baye's Error
 
 ## Bayes' Classifier

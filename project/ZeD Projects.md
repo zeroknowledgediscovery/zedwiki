@@ -2,7 +2,7 @@
 
 # [Deep Learning without Neural Nets](project/Fraction Net.md)
 
-# [Predicting Evolutionary Trajectory In Novel Pathogens](project/Qnet Epidemic Strain & SARS2 Origin .md)
+# [Predicting Evolutionary Trajectory In Wild](project/Qnet Epidemic Strain & SARS2 Origin .md)
 
 # [Predicting RIsk from EHR](project/EHR To DIagnostic Risk.md)
 

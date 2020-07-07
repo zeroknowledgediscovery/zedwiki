@@ -46,6 +46,33 @@
 
 # Neural Networks
 
+## Feed forward Networks
+
+## Tensorflow Scripting
+
+## Convolutional Neural Networks
+
 # Time Series Analysis
+
+## ARIMA Models
+
+## GARCH Models
+
+## PFSA Models
+
+
+# Back to Neural Networks
+
+## Recurrent Neural Networks
+
+## Long-short Memory Models
+
+
+## Autoencoders
+
+## Variational Autoencoders
+
+## Autoencoders and Kolmogorov Complexity
+
 
 # Case Studies

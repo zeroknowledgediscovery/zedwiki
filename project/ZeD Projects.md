@@ -1,5 +1,7 @@
 # [Predicting Urban Crime](project/Urnam Crime)
 
+![](../uploads/ structcomp.png)
+
 # [Deep Learning without Neural Nets](project/Fraction Net.md)
 
 # [Predicting Evolutionary Trajectory In Wild](project/Qnet Epidemic Strain & SARS2 Origin .md)

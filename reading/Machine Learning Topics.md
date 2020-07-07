@@ -2,7 +2,7 @@
 
 ## Random variables
 
-## Baye's Theorem
+## Bayes' Theorem
 
 
 
@@ -10,7 +10,7 @@
 
 ## Baye's Error
 
-## Baye's Classifier
+## Bayes' Classifier
 
 # ![ID](https://img.shields.io/badge/3--red) Bias vs Variance
 

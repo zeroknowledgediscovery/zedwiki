@@ -6,7 +6,7 @@
 
 **The ZeD Concepts Summary Page:** [[ZeD Concepts.md]]
 
-**Reading: Machine Learning Topics** [[Machine Learning Topics.md]]
+**Reading: Machine Learning Topics** [[reading/Machine Learning Topics.md]]
 
 **Reading: Viral EVolution** [[Viral EVolution.md]]
 

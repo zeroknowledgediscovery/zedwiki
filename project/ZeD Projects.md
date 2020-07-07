@@ -1,6 +1,6 @@
 # [Predicting Urban Crime](project/Urnam Crime)
 
-![](../uploads/ structcomp.png)
+![../uploads/ structcomp.png](../uploads/ structcomp.png)
 
 # [Deep Learning without Neural Nets](project/Fraction Net.md)
 

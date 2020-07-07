@@ -1,7 +1,7 @@
 ---
 ZeD Wiki.md: ZeD.md
 Betacoronaviruses.md: scratch.md
-test.md: How To Edit This Wiki.md
+test.md: development/test.md
 ZeD Methods Snippets.md: ZeD Technical Method Snippets.md
 Cognitive Dissonance.md: project/Cognitive Dissonance.md
 Infant Microbiome Modeling.md: project/Infant Microbiome Modeling.md

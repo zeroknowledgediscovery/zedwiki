@@ -1,7 +1,7 @@
 # Deep Learning without NN
 
 
-<img alt='nn comparison' src="uploads/structcomp.png" width="700px">
+<img alt='nn comparison' src="../uploads/structcomp.png" width="700px">
 
 [https://pypi.org/project/cynet/](https://pypi.org/project/cynet/)
 
@@ -12,13 +12,13 @@ We develop a framework for modeling the coupled evolution of  discrete time stoc
 
 # Fraction-nets & Self-similar Compression
 
-<img alt='fraction Net' src='uploads/fnet.png' width="600px" >
+<img alt='fraction Net' src='../uploads/fnet.png' width="600px" >
 
 We begin by noting that in our approach, we employ **no neurons, no fixed activation functions,  no user-specified loss functions, and no global optimization via back-propagation**. Instead an assembly of local models inferred via **self-similar compression (SSC)** is distilled from data. Deviations from target behavior is measured via an **universal notion of divergence**, thus eliminating the need for user-specified loss functions. 
 
 # Result Montage
 
-<img alt='fraction Net' src='uploads/results.png' width="800px" >
+<img alt='fraction Net' src='../uploads/results.png' width="800px" >
 
 # To Do
 ##  Extended Data
@@ -70,7 +70,7 @@ We begin by noting that in our approach, we employ **no neurons, no fixed activa
 ```diff
 + **Done** in theory development, see below in Fig 4
 ```
-<img alt='nn comparison' src="uploads/theoryscheme.png" width="700px">
+<img alt='nn comparison' src="../uploads/theoryscheme.png" width="700px">
 
 
 

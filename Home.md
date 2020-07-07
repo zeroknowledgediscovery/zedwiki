@@ -8,6 +8,6 @@
 
 **Reading: Machine Learning Topics** [[reading/Machine Learning Topics.md]]
 
-**Reading: Viral EVolution** [[reading/Viral Evolution.md]]
+**Reading: Viral Evolution** [[reading/Viral Evolution.md]]
 
 <<GlobalTOC()>>

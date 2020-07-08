@@ -6,6 +6,7 @@
 
 ## Confusion Matrix
 
+---
 
 # ![ID](https://img.shields.io/badge/1--red) Probability Theory 
 
@@ -29,6 +30,11 @@
 
 
 # ![ID](https://img.shields.io/badge/3--red) Bias vs Variance
+
+
+## Optimal Model Complexity
+
+
 
 ---
 

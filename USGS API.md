@@ -13,7 +13,7 @@ API documentation [page](https://earthquake.usgs.gov/fdsnws/event/1/)
 
 4. `starttime` and `endtime`;
 
-The first 3 paramters are fixed, while `starttime` and `endtime` has to be given for each "sub-query".
+The first 3 paramters are fixed, while `starttime` and `endtime` have to be given for each "sub-query".
 ```
 import requests
 import csv

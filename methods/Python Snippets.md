@@ -1,10 +1,9 @@
+
+# Writing Latex Tables from Pandas
+
 ```
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
 import pandas as pd
 import numpy as np
-import pylab as plt
-import seaborn as sns
 
 DUMMY=False
 STRA='L{1in}|L{1.25in}|L{1.25in}|L{1.5in}|L{.3in}|L{.3in}'

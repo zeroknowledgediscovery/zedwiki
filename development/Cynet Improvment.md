@@ -31,7 +31,7 @@ There is a parameter named `LOG_PATH` in for `run_pipeline()`, but it seems it d
 because it get overwritten (on around line 1844-1847 of cynet.py) anyway.
 
 ### *\[Bug\]* petrubation_parallel vs perturbation
-We have a function peturbation_parallel in the cynet class, which is a typo. 
+We have a function called `peturbation_parallel` in the cynet class, which is a typo. 
 
 ### *\[Improvement\]* Automated RUNLEN and FLEX_TAIL_LEN from dates
 Yi wrote two little pieces of code so that when `RUNLEN` and `FLEX_TAIL_LEN` in the `config.yaml` are given as -1, 

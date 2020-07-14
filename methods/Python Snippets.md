@@ -1,4 +1,3 @@
-
 # Writing Latex Tables from Pandas
 
 ```
@@ -36,7 +35,11 @@ def texTable(df,tabname='tmp.tex',FORMAT='%1.2f',INDEX=True,DUMMY=DUMMY,USE_l=Fa
     
     with open(tabname,'a') as f:
         f.write('\\end{tabular}\n')
-    
+```
+
+# Saving Publication Quality Figures from Matplotlib
+
+```
 def saveFIG(filename='tmp.pdf',AXIS=False):
     '''
         save fig for publication

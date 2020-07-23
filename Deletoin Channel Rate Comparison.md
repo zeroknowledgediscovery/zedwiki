@@ -7,4 +7,7 @@
 | \[12\]| .03  |.5 | fixed and psuedo-random mark, 120 errors at sequence length 4000 (the 120 was not stated explicitly in paper, I calculate it from reading a table) |
 | \[15\] | .29 | .25 | 2900 errors in 10012 long block, Non-binary channel|
 | \[15\] | .08 (or .16) | .7 | read from figure 8 of the paper, block size not listed, and also .08 is for deletion only, but the paper actually considered insertion too, and insertion is assume to have the same probability as deletion in this table | 
-| \[7\]| 1- \\\(\varepilon\\\)|
+| \[7\] | \\\(1 - \varepsilon\\\)| \\\(poly(\varepsilon)\\\) | on alphabet size  \\\(poly(1/\varepsilon)\\\) |
+| \[7\] | \\\(\varepsilon\\\) | \\\(1 - \tilde{O}\(\sqrt{\varepsilon}\)\\\) | 
+| \[7\] | \\\(.5 - \varepsilon\\\) | \\\(poly(\varepsilon)\\\) | list-decoded |
+| \[6\] | \\\(p\\\) | \\\(\(1-p\)/120\\\) | for all \\\(p\\\) | 

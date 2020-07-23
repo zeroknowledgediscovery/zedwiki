@@ -37,7 +37,11 @@ Can we design a set of PFSA, and then allow a *CANNOT TELL* response, so that th
 | \[6\] | \\\(p\\\) | \\\(\(1-p\)/120\\\) | for all \\\(p\\\) | 
 
 \[2\]: [Matthew C Davey and David JC MacKay. Reliable communication over channels with insertions, deletions, and substitutions.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=910582)
+
 \[12\]:[ Edward A Ratzer. Marker codes for channels with insertions and deletions.](https://link.springer.com/article/10.1007/BF03219806)
+
 \[15\]: [Raman Yazdani and Masoud Ardakani. Reliable communication over nonbinary insertion/deletion channels.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6334504)
+
 \[7\]: [Deletion Codes in the High-Noise and High-Rate Regimes](https://ieeexplore.ieee.org/document/7835185)
+
 \[6\]: [Venkatesan Guruswami and Ray Li. Polynomial time decodable codes for the binary deletion channel.](https://ieeexplore.ieee.org/document/8502134)

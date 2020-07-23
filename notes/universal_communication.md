@@ -28,20 +28,23 @@ Can we design a set of PFSA, and then allow a *CANNOT TELL* response, so that th
 |:--|:--|:--|:--|
 | \[2\] | .006 | .7 | The double-layered method (watermark) (30 errors in 5000 long block) | 
 | \[2\] | .098 | .214 | The double-layered method (watermark) (450 erros in 4600 long block) |
-| \[12\]| .03  |.5 | fixed and psuedo-random mark, 120 errors at sequence length 4000 (the 120 was not stated explicitly in paper, I calculate it from reading a table) |
+| \[11\]| .03  |.5 | fixed and psuedo-random mark, 120 errors at sequence length 4000 (the 120 was not stated explicitly in paper, I calculate it from reading a table) |
+| \[14\]| .01 | .86 | LDPC outer layer and optimized fixed marker inner layer |
+| \[14\]| .1 | .486 | |
 | \[15\] | .29 | .25 | 2900 errors in 10012 long block, Non-binary channel|
 | \[15\] | .08 (or .16) | .7 | Number read from figure 8 of the paper, block size not listed. Also .08 is for deletion only, but the paper actually considered insertion too. Insertion is assume to have the same probability as deletion in this figure 8 and hence the .16. | 
-| \[7\] | \\\(1 - \varepsilon\\\)| \\\(poly(\varepsilon)\\\) | on alphabet size  \\\(poly(1/\varepsilon)\\\). \[7\] is purely theoretical, and no numerical experiment was given|
-| \[7\] | \\\(\varepsilon\\\) | \\\(1 - \tilde{O}\(\sqrt{\varepsilon}\)\\\) | 
-| \[7\] | \\\(.5 - \varepsilon\\\) | \\\(poly(\varepsilon)\\\) | list-decoded |
-| \[6\] | \\\(p\\\) | \\\(\(1-p\)/120\\\) | for all \\\(p\\\). \[6\] is purely theoretical, and no numerical experiment was given| 
+| \[6\] | \\\(1 - \varepsilon\\\)| \\\(poly(\varepsilon)\\\) | on alphabet size  \\\(poly(1/\varepsilon)\\\). \[7\] is purely theoretical, and no numerical experiment was given|
+| \[6\] | \\\(\varepsilon\\\) | \\\(1 - \tilde{O}\(\sqrt{\varepsilon}\)\\\) | 
+| \[6\] | \\\(.5 - \varepsilon\\\) | \\\(poly(\varepsilon)\\\) | list-decoded |
+| \[5\] | \\\(p\\\) | \\\(\(1-p\)/120\\\) | for all \\\(p\\\). \[6\] is purely theoretical, and no numerical experiment was given| 
 
 \[2\]: [Matthew C Davey and David JC MacKay. Reliable communication over channels with insertions, deletions, and substitutions.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=910582)
 
-\[12\]:[ Edward A Ratzer. Marker codes for channels with insertions and deletions.](https://link.springer.com/article/10.1007/BF03219806)
+\[11\]:[ Edward A Ratzer. Marker codes for channels with insertions and deletions.](https://link.springer.com/article/10.1007/BF03219806)
 
 \[15\]: [Raman Yazdani and Masoud Ardakani. Reliable communication over nonbinary insertion/deletion channels.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6334504)
 
-\[7\]: [Deletion Codes in the High-Noise and High-Rate Regimes](https://ieeexplore.ieee.org/document/7835185)
+\[6\]: [Deletion Codes in the High-Noise and High-Rate Regimes](https://ieeexplore.ieee.org/document/7835185)
 
-\[6\]: [Venkatesan Guruswami and Ray Li. Polynomial time decodable codes for the binary deletion channel.](https://ieeexplore.ieee.org/document/8502134)
+\[5\]: [Venkatesan Guruswami and Ray Li. Polynomial time decodable codes for the binary deletion channel.](https://ieeexplore.ieee.org/document/8502134)
+\[14\]: [Symbol-Level Synchronization and LDPC Code Design for Insertion/Deletion Channels](https://ieeexplore.ieee.org/abstract/document/5733455)

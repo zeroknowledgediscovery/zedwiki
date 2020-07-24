@@ -21,3 +21,7 @@ wrong with making them. If they are false, however:
 
 + The resulting statistical inference will be questionable
 + We might miss interesting patterns in the data
+
+# \\\(1-\alpah\\\) Confidence Bounds from DKW 
+
+$$ \epsilon = \sqrt{\frac{1}{2n} \log \frac{2}{\alpha}} $$

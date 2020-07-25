@@ -1,6 +1,6 @@
 # Research Topics: Overview
 
-* [EHR Projects](https://readymag.com/zed/zero/)
+* [EHR Projects](https://readymag.com/zed/zbl-applications/)
 * Qnets: Modeling Ultra High Dimensional Dependency Networks
 * Cynet: Deep Learning without Neural Networks
 * Cognitive Dissonance Modeling

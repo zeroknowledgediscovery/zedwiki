@@ -30,3 +30,11 @@ Fig. 1C. You can also have slightly longer description of what things like *mean
 Please draw samples from the population, compute AUCs for the different time points, and 
 compute upper and lower confidence bounds using the formula:
 $$\hat{y} = y \pm \frac{2.63\sigma}{\sqrt{n}} $$
+
+The header of the resultant csv file is the following:
+```
+lb,v,ub,time,gender,dataset
+```
+where *dataset* currently is just `TRUVEN`, and *time* here is one of  0,-1,-2,-4
+
+

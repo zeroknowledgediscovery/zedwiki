@@ -15,8 +15,8 @@ Please stop hobbling the results. We need to put our best (but correct) foot for
 
 The following snippets are helpful. 
 
-<<Note("Note that *RHO* is the prevalence 
-which we should look up from literarure.")>>
+<<Note(Note that *RHO* is the prevalence 
+which we should look up from literarure.)>>
 
 Please generate PRC for each time points that you ahev used in the rest of the 
 analysis

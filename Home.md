@@ -20,7 +20,7 @@
 
 [Development Notes](development/Readme.md)
 
-[Code Snippets](method/Readme.md)
+[Code Snippets](methods/Readme.md)
 
 
 [General Notes](notes/Readme.md)

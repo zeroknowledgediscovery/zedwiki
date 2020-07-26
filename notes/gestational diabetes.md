@@ -1,6 +1,6 @@
 # To Do
 
-## Generate Precision-Recal Curves 
+## ![ID](https://img.shields.io/badge/1--blue) Generate Precision-Recal Curves 
 
 The following snippets are helpful. Note that *RHO* is the prevalence,
 which we should look up from paper.
@@ -20,12 +20,12 @@ def getPPV(row,RHO):
     return row.tpr/(row.tpr + row.fpr*(1./RHO -1))
 ```
 
-## Short labels for feature names 
+## ![ID](https://img.shields.io/badge/2--blue) Short labels for feature names 
 
 Please write short, undertstandable labels for fetaure names, that we can use in the ylabels of
 Fig. 1C. You can also have slightly longer description of what things like *mean position* etc. means that we can add to teh figure caption, and which makes sense when someone reads the caption only.
 
-## Confidence Bounds for AUC
+## ![ID](https://img.shields.io/badge/3--blue) Confidence Bounds for AUC
 
 Please draw samples from the population, compute AUCs for the different time points, and 
 compute upper and lower confidence bounds using the formula:

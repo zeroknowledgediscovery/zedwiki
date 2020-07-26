@@ -15,5 +15,17 @@
 
 [Notes](notes/Readme.md)
 
+[Projects](project/Readme.md)
+
+[Development Notes](development/Readme.md)
+
+[Reading List](reading/Readme.md)
+
+
+
+
+
+
+
 
 <<GlobalTOC()>>

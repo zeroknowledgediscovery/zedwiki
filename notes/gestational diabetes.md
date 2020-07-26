@@ -13,8 +13,10 @@ Please stop hobbling the results. We need to put our best (but correct) foot for
 
 ## ![ID](https://img.shields.io/badge/2--blue) Generate Precision-Recal Curves 
 
-The following snippets are helpful. Note that *RHO* is the prevalence,
-which we should look up from paper.
+The following snippets are helpful. 
+
+<<Note("Note that *RHO* is the prevalence,
+which we should look up from literarure.", "bell")>>
 
 Please generate PRC for each time points that you ahev used in the rest of the 
 analysis
@@ -48,4 +50,5 @@ lb,v,ub,time,gender,dataset
 ```
 where *dataset* currently is just `TRUVEN`, and *time* here is one of  0,-1,-2,-4
 
+## ![ID](https://img.shields.io/badge/5--blue) Generate Publisher Files for Postpartem
 

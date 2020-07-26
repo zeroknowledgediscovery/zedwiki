@@ -13,14 +13,17 @@
 
 # Topics
 
-[Notes](notes/Readme.md)
 
 [Projects](project/Readme.md)
 
-[Development Notes](development/Readme.md)
-
 [Reading List](reading/Readme.md)
 
+[Development Notes](development/Readme.md)
+
+[Code Snippets](method/Readme.md)
+
+
+[General Notes](notes/Readme.md)
 
 
 

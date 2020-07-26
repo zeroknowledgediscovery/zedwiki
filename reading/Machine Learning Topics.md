@@ -48,13 +48,32 @@
 
 ## Naive Bayes
 * A supervised learning algorithm
-* Applies Bayes’ Theorem using a naive assumption - assumes conditional independence between each pair of features (given value of the class variable)
+# Applies Bayes’ Theorem using a naive assumption - assumes conditional independence between each pair of features (given value of the class variable)
 * Used to classify data based on features 
 * For example, classifying emails as spam or not spam
 
 
 
 ## Nearest Neighbor
+* Unsupervised nearest neighbors - manifold learning and spectral clustering 
+* Supervised neighbors - classification of data with discrete labels, and regression of data with continuous labels
+* Works by finding the closest predefined number of training samples to a new point, and then predicting a label based on those 
+
+### Brute force
+
+* Only computes the distances between all pairs of points
+* Classifies new data exclusively through these computed distances 
+
+### KD tree
+
+* Generates a binary tree structure through the recursive partitioning of data along the data axes provided
+* Computes distances based on the partitions made by the tree as opposed to computing it for each data point, thus reducing the number of distance calculations
+
+### Ball tree 
+
+* KD Trees only partition data within cartesian axes, so ball trees separate data into a series of nesting hyper-spheres to all for higher dimensions
+* The data is divided into nodes defined by a centroid and radius, and the neighbor search utilizes the triangle inequality for classification
+
 
 ## Support Vector Machines
 

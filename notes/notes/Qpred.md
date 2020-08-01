@@ -18,6 +18,7 @@ Lets start with CCHF. We do the following steps:
 + Try making Qnets with this 2 year data (after aliognment, and segment choice)
 + Carry out dominant strain pred and validation (check how well we do from the actual dominant strain prediction)
 
+
 Currently looking at HIV patient specific data availability
 
 # Task List
@@ -37,5 +38,9 @@ Let k be the diffusion simulation step.
    Compute   $$average_{x \in E_k} min_{y \in E_0} L(x,y)$$
 3. Plot the averge E_k line, averaged over mutiple simulation runs
 
+# IRAT task
 
+1. Show qIRAT for 100 H1N1, 100 H3N2, and sufficient number of recent H5 and H7 sequences (report minimum score over 2010-current, and the current year score)
+2. List top 3 for each variety (minimum current year score)
+3. as usual report seqName, seqAccession, etc
 

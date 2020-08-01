@@ -20,5 +20,22 @@ Lets start with CCHF. We do the following steps:
 
 Currently looking at HIV patient specific data availability
 
+# Task List
+
+1. generate the alphabeta and the metadata csvs as above
+2. Shere  the link with the diffusion simulation u did for the different viruses
+3. Dominat strain tracking task (above)
+4. We need to do a EPITOPE MATCH task (detailed later)
+5. We need to do a IRAT calculation task as well (this will be a seprate paper)
+
+# Epitope Match Task
+Let k be the diffusion simulation step.
+1. compute the MHCI top epitopes using the application u tried, call this set E_k
+2. compute the deviation of E_k from E_0 as follows:
+   
+   Note these are sets of strings
+   Compute   $$average_{x \in E_k} min_{y \in E_0} L(x,y)$$
+3. Plot the averge E_k line, averaged over mutiple simulation runs
+
 
 

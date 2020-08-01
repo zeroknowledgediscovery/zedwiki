@@ -2,6 +2,28 @@
 
 [Latest Figures](http://34.66.189.202:4567/uploads/figs.pdf)
 
+
+# New To Do
+
+## Distribution of GD diagnosis time
+## GD diagnosis time vs birth time
+## GD diagnosis with other pregnancy complications
+
+You can probably produce a single dataframe to have all this info.
+Having a bunch of patients with diagnosis time, birth time, and  other 
+complications (maybe flags for certain complications) would suffice
+
+
+## Indicative Diseases With obvious codes
+
+Need to put this as supplementary. So dont rewrite what there is now
+
+# Perturbation Analysis
+
+Increase of raw risk with one extra endocrine code, and one extra infection,
+asa function of time (in the training period)
+
+
 # To Do
 
 ## ![ID](https://img.shields.io/badge/1--blue) Update results with BEST Auc 

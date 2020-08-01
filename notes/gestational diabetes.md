@@ -5,7 +5,7 @@
 
 # New To Do
 
-## Distribution of GD diagnosis time
+## 1.Distribution of GD diagnosis time
 ## GD diagnosis time vs birth time
 ## GD diagnosis with other pregnancy complications
 
@@ -14,11 +14,11 @@ Having a bunch of patients with diagnosis time, birth time, and  other
 complications (maybe flags for certain complications) would suffice
 
 
-## Indicative Diseases With obvious codes
+## 2. Indicative Diseases With obvious codes
 
 Need to put this as supplementary. So dont rewrite what there is now
 
-# Perturbation Analysis
+# 3. Perturbation Analysis
 
 Increase of raw risk with one extra endocrine code, and one extra infection,
 asa function of time (in the training period)

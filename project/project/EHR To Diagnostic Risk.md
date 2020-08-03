@@ -5,3 +5,7 @@
 [Public Page](https://readymag.com/zed/ehr)
 
 [Public Page (Presentation Version)](https://readymag.com/zed/ehr-presentation)
+
+### CRI data request criteria:
+
+

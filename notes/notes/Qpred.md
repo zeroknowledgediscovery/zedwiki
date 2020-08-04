@@ -31,7 +31,9 @@ Currently looking at HIV patient specific data availability
 
 # Epitope Match Task
 Let k be the diffusion simulation step.
+
 1. compute the MHCI top epitopes using the application u tried, call this set E_k
+
 2. compute the deviation of E_k from E_0 as follows:
    
    Note these are sets of strings

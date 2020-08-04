@@ -9,3 +9,5 @@
 5. Negative patients are determined by not having any of the target codes. To ascertain the negativity, Negative patients must have target_code-free EHR records available for 32 weeks after the first V22 code recorded.
 
 # Discussion
+
+<img alt='nn comparison' src="http://34.66.189.202:4567/uploads/gd_spectrum.png" width="600px">

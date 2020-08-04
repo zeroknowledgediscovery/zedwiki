@@ -1,6 +1,5 @@
 # Top Pages
 
-
 **On-boarding to ZeDlab:** [[ZeDLab Onboarding]]
 
 **How To Edit This Wiki:** [[How To Edit This Wiki]]
@@ -13,7 +12,6 @@
 
 # Topics
 
-
 [Projects](project/Readme.md)
 
 [Reading List](reading/Readme.md)
@@ -22,11 +20,7 @@
 
 [Code Snippets](methods/Readme.md)
 
-
 [General Notes](notes/Readme.md)
-
-
-
 
 
 # All Pages

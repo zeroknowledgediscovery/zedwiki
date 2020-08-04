@@ -1,1 +1,1 @@
-[[_TOC_|levels = 2]]
+[[TOC|levels = 2]]

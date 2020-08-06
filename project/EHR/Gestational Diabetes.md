@@ -66,7 +66,7 @@ In 2017, it was estimated that 21.3 million births (16.2%) worldwide were affect
 ## Costs of GDM
 
 Costs of GDM to society are significant. A 2012 US cost analysis determined that the national cost of gestational dia-
-betes was $1.3 billion with an average cost of $5800 per case of GDM. Between 2007 and 2012, the national burden dou-
+betes was \$ 1.3 billion with an average cost of $5800 per case of GDM. Between 2007 and 2012, the national burden dou-
 bled for GDM (103% increase) including a 23% increase in prevalence and 65% increase in cost per case [7]. The rising
 prevalence and substantial costs of GDM make this a critical national and international health concern.
 

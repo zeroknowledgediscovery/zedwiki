@@ -35,6 +35,27 @@ Maternal lipids are strong determinants of fetal fat mass.  During early pregnan
 ## Unspecified disorder of carbohydrate transport and metabolism (271.9)
  Alterations in organic acid biomarkers from fatty acid and carbohydrate metabolism have been documented in type 2 diabetes patients, and their association with GDM is increasingly becoming clear~\cite{pmid24703806}.  Women with normal glucose tolerance before conception who develop gestational diabetes have significant decreased insulin sensitivity relative to women in a control group, and alterations to carbohydrate meatbolism in gestation in women with normal and abnormal glucose tolerance is suspected~\cite{pmid8194212,pmid24703806}, and might have long-term effects on carbohydrate metabolism after pregnancy~\cite{pmid22385344}. 
  
+# Motivation
+
+Gestational diabetes mellitus is a common pregnancy complication associated with significant adverse
+health outcomes for both women and infants. Effective screening and early prediction tools as part of
+routine clinical care are needed to reduce the impact of the disease on the baby and mother. Using
+large-scale electronic health records, Artzi and colleagues developed and evaluated a machine
+learning driven tool to identify women at high and low risk of GDM. Their findings showcase how
+artificial intelligence approaches can potentially be embedded in clinical care to enable accurate and
+rapid risk stratification. 
+
+Gestational diabetes mellitus (GDM), defined as glucose intolerance during
+gestation, is a common complication of pregnancy. GDM is associated with an increased risk of short- and long-term complications in both mother and child, including type 2 diabetes and operative
+delivery. Identifying women at a higher risk of GDM, as early into the pregnancy
+as possible, can potentially enable the implementation of lifestyle intervention strategies, thereby reducing the associated
+disease burden. However, GDM diagnostic criteria vary by country, illustrating the lack of consensus around the most effec-
+tive way to screen in routine clinical care[1]. Embedding a data-driven prognostic tool within routine care can potentially address these challenges and enable clinicians to identify women at higher or lower risk earlier and with greater accuracy. In a recent work, Artzi et al. [2] present an algorithm constructed using machine learning (ML) and retrospective electronic health records (EHR) to predict GDM.
+
+Gestational diabetes (GDM) is associated with adverse pregnancy and neonatal outcomes and increased
+maternal risk for subsequent type 2 diabetes. 
+
+
 
 
 

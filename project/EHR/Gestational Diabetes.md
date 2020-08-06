@@ -101,5 +101,13 @@ GDM can be managed with lifestyle interventions alone in up to 80–90% of women
 managed with lifestyle interventions alone [20, 21].
 
 
+# Key Comparison Points Against Competition
 
++ Pulling back to 4 months and still beat the AUC, and this lead time might imply we can substabntially reduce risk by preventice regimens in women who are trying to be pregnant
++ Works without considering most commonly used biomarkers like diabetes history. Hence particularly applicable to  low risk cases
++ + at first prenantal visit, AUC is  >97% for low risk cohosrt, and > 95% for the general cohort.
++ sens > 83% at 95% sepcificity at > 53% PPV (competion: 30% sensoitivity and 40% PPV)
++ we can delay pregnancy to reduce risk
++ Might also allow identification fo rare disorders that are confused with GDM lkike Cushing's disease
++ Fundamentally different approach, relying very little on the choice of which biomarkers to choose. Works even if we do not know or know little about the pathobiology of a complex disease. 
 

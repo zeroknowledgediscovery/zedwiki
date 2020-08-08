@@ -31,6 +31,9 @@ run by a few key decisions and happenings.
 
 
 
+ [Network Dimension](http://34.66.189.202:4567/uploads/nature03248.pdf)
+ 
+ [Fractal Slide](http://34.66.189.202:4567/uploads/FractalSlides.pdf)
 
 
 

@@ -20,7 +20,7 @@ the potential for a better scientific understanding of complex systems. These cr
 impacts and range from large natural catastrophes, catastrophic events of environmental degradation, to the failure
 of engineering structures, crashes in the stock market, social unrest leading to large-scale strikes and upheaval,
 economic drawdowns on national and global scales, regional power blackouts, traffic gridlock, diseases and epidemics,
-etc. It is essential to realize that the long-term behaviour of these complex systems is often controlled in large part by these rare catastrophic events: the universe was probably born during an extreme explosion  (the  “big-bang”);  the nucleosynthesis of most important atomic elements constituting our matter results from the colossal explosion of
+etc. **It is essential to realize that the long-term behaviour of these complex systems is often controlled in large part by these rare catastrophic events:** the universe was probably born during an extreme explosion  (the  “big-bang”);  the nucleosynthesis of most important atomic elements constituting our matter results from the colossal explosion of
 supernovae; the largest earthquake in California repeating about once every two centuries accounts for a significant
 fraction of the total tectonic deformation; landscapes are more shaped by the “millennium” flood that moves large
 boulders rather than the action of all other eroding agents; the largest volcanic eruptions lead to major topographic

@@ -10,7 +10,7 @@ Rare or extreme events are events that occur with low frequency, and often refer
  
  ---
  
- [Why Markets Crash?](uploads/whyMarketsCrash.pdf)
+ [Why Markets Crash?](http://34.66.189.202:4567/uploads/whyMarketsCrash.pdf)
  
  
  

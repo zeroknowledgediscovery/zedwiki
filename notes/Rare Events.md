@@ -35,7 +35,20 @@ run by a few key decisions and happenings.
  
  [Fractal Slide](http://34.66.189.202:4567/uploads/FractalSlides.pdf)
 
+# Refs
 
+```
+@article{goodwin2010limits,
+  title={The limits of forecasting methods in anticipating rare events},
+  author={Goodwin, Paul and Wright, George},
+  journal={Technological forecasting and social change},
+  volume={77},
+  number={3},
+  pages={355--368},
+  year={2010},
+  publisher={Elsevier}
+}
+```
 
 # Datasets
 

@@ -34,6 +34,9 @@ run by a few key decisions and happenings.
  [Network Dimension](http://34.66.189.202:4567/uploads/nature03248.pdf)
  
  [Fractal Slide](http://34.66.189.202:4567/uploads/FractalSlides.pdf)
+ 
+ [http://nora.nerc.ac.uk/id/eprint/501966/1/grl50103.pdf](http://nora.nerc.ac.uk/id/eprint/501966/1/grl50103.pdf)
+
 
 # Refs
 
@@ -47,6 +50,19 @@ run by a few key decisions and happenings.
   pages={355--368},
   year={2010},
   publisher={Elsevier}
+}
+```
+
+```
+@article{watkins2013bunched,
+  title={Bunched black (and grouped grey) swans: Dissipative and non-dissipative models of correlated extreme fluctuations in complex geosystems},
+  author={Watkins, Nicholas W},
+  journal={Geophysical research letters},
+  volume={40},
+  number={2},
+  pages={402--410},
+  year={2013},
+  publisher={Wiley Online Library}
 }
 ```
 

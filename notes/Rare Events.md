@@ -40,4 +40,5 @@ run by a few key decisions and happenings.
 # Datasets
 
 + [https://ucdp.uu.se/downloads/index.html#ged_global](https://ucdp.uu.se/downloads/index.html#ged_global)
++ [https://guides.ucf.edu/war/wardata#s-lg-box-wrapper-1778686](https://guides.ucf.edu/war/wardata#s-lg-box-wrapper-1778686)
  

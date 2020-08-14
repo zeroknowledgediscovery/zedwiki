@@ -1,3 +1,7 @@
+# [PNAS REF](http://34.66.189.202:4567/uploads/pnasrare.pdf)
+
+
+
 Rare or extreme events are events that occur with low frequency, and often refers to infrequent events that have widespread impact and which might destabilize systems (for example, stock markets,[1] ocean wave intensity[2] or optical fibers [3] or society[4]). Rare events encompass natural phenomena (major earthquakes, tsunamis, hurricanes, floods, asteroid impacts, solar flares, etc.), anthropogenic hazards (warfare and related forms of violent conflict, acts of terrorism, industrial accidents, financial and commodity market crashes, etc.), as well as phenomena for which natural and anthropogenic factors interact in complex ways (epidemic disease spread, global warming-related changes in climate and weather, etc.).
 
 ---

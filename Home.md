@@ -13,7 +13,7 @@
 # Group Meeting Notes
 
 
-## [17-8-2020.md](group%20meeting/17-8-2020.md)
+
 
 
 

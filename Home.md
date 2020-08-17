@@ -12,7 +12,7 @@
 
 ---
 
-# [Group Meeting Notes](group meeting/Group Meeting Notes.md)
+## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 
 ---

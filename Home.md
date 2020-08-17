@@ -10,7 +10,7 @@
 
 **Reading:** [[reading/Machine Learning Topics.md]]
 
-# Group Meeting Notes
+# [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 
 

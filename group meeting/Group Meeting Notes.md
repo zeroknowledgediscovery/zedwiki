@@ -1,1 +1,1 @@
-## [17-8-2020.md](group%20meeting/17-8-2020.md)
+## [17-8-2020.md](group meeting/17-8-2020.md)

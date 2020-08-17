@@ -1,3 +1,6 @@
+
+## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
+
 # Top Pages
 
 **On-boarding to ZeDlab:** [[ZeDLab Onboarding]]
@@ -10,9 +13,6 @@
 
 **Reading:** [[reading/Machine Learning Topics.md]]
 
----
-
-## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 
 

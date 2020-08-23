@@ -1,3 +1,110 @@
+
+In statistics, a record $$x_i , i \in \{ 1 , 2 , \cdots , N \}$$ is called a rare event if its value is above (or below) a given threshold $q$. Altering this threshold alters th enumber and dependencies of events. A large number of factors nonlinearly interact with each other, leading to rare events being erratic, unstable, or chaotic.
+
+```
+@article{zhao2016universal,
+  title={Universal and non-universal properties of recurrence intervals of rare events},
+  author={Zhao, Xiaojun and Shang, Pengjian and Lin, Aijing},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={448},
+  pages={132--143},
+  year={2016},
+  publisher={Elsevier}
+}
+```
+Nowadays, some recent studies involving areas of geography [26,27], hydrology [28,29], climate [30,31], and finance [32]
+indicate that rare events do not appear randomly. Records in many systems were found to show long-range persistence
+[33–35]. Consequently, the clustering of rare events (also the clustering of non-rare events) make that the probabilities of
+having recurrence intervals well below τ¯ and well above τ¯ are strongly enhanced in the correlated records, where τ¯ is closely related with the threshold q [36]. Furthermore, it was revealed that the distribution of recurrence intervals for long-range persistent records by the Fourier-filtering method generally followed a stretched exponential function [30],
+
+```
+%26
+@article{telesca2004detrended,
+  title={Detrended fluctuation analysis of the spatial variability of the temporal distribution of Southern California seismicity},
+  author={Telesca, Luciano and Cuomo, Vincenzo and Lapenna, Vincenzo and Macchiato, Maria},
+  journal={Chaos, Solitons \& Fractals},
+  volume={21},
+  number={2},
+  pages={335--342},
+  year={2004},
+  publisher={Elsevier}
+}
+%27
+@article{yakovlev2006simulation,
+  title={Simulation-based distributions of earthquake recurrence times on the San Andreas fault system},
+  author={Yakovlev, Gleb and Turcotte, Donald L and Rundle, John B and Rundle, Paul B},
+  journal={Bulletin of the Seismological Society of America},
+  volume={96},
+  number={6},
+  pages={1995--2007},
+  year={2006},
+  publisher={Seismological Society of America}
+}
+%28
+@article{ouarda2001regional,
+  title={Regional flood frequency estimation with canonical correlation analysis},
+  author={Ouarda, Taha BMJ and Girard, Claude and Cavadias, George S and Bob{\'e}e, Bernard},
+  journal={Journal of Hydrology},
+  volume={254},
+  number={1-4},
+  pages={157--173},
+  year={2001},
+  publisher={Elsevier}
+}
+%29
+@article{kantelhardt2006long,
+  title={Long-term persistence and multifractality of precipitation and river runoff records},
+  author={Kantelhardt, Jan W and Koscielny-Bunde, Eva and Rybski, Diego and Braun, Peter and Bunde, Armin and Havlin, Shlomo},
+  journal={Journal of Geophysical Research: Atmospheres},
+  volume={111},
+  number={D1},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+%30
+@article{lennartz2008long,
+  title={Long-term memory in earthquakes and the distribution of interoccurrence times},
+  author={Lennartz, S and Livina, VN and Bunde, A and Havlin, S},
+  journal={EPL (Europhysics Letters)},
+  volume={81},
+  number={6},
+  pages={69001},
+  year={2008},
+  publisher={IOP Publishing}
+}
+%31
+@article{bodai2012annual,
+  title={Annual variability in a conceptual climate model: Snapshot attractors, hysteresis in extreme events, and climate sensitivity},
+  author={B{\'o}dai, Tam{\'a}s and T{\'e}l, Tam{\'a}s},
+  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  volume={22},
+  number={2},
+  pages={023110},
+  year={2012},
+  publisher={American Institute of Physics}
+}
+%32
+@article{siokis2013multifractal,
+  title={Multifractal analysis of stock exchange crashes},
+  author={Siokis, Fotios M},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={392},
+  number={5},
+  pages={1164--1171},
+  year={2013},
+  publisher={Elsevier}
+}
+
+```
+
+$$    \gamma^{s}_{r, \Delta} = 1 - \frac{\textrm{uncertainty of the next output in $x_r$ with observation of $x_s$}}{\textrm{uncertainty of the next output in $x_r$}}
+$$
+
+
+
+---
+
+
 # [PNAS REF](http://34.66.189.202:4567/uploads/pnasrare.pdf)
 
 

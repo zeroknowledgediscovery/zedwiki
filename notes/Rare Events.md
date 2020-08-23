@@ -1,4 +1,3 @@
-
 In statistics, a record $$x_i , i \in \{ 1 , 2 , \cdots , N \}$$ is called a rare event if its value is above (or below) a given threshold $q$. Altering this threshold alters th enumber and dependencies of events. A large number of factors nonlinearly interact with each other, leading to rare events being erratic, unstable, or chaotic.
 
 ```
@@ -97,7 +96,7 @@ having recurrence intervals well below τ¯ and well above τ¯ are strongly enh
 
 ```
 
-$$    \gamma^{s}_{r, \Delta} = 1 - \frac{\textrm{uncertainty of the next output in $x_r$ with observation of $x_s$}}{\textrm{uncertainty of the next output in $x_r$}}
+$$    \gamma^{s}_{r, \Delta} = 1 - \frac{\textrm{uncertainty of the next output in $x_r$ given  observation of  $x_s$}}{\textrm{unconditional uncertainty of the next output in $x_r$}}
 $$
 
 

@@ -77,7 +77,7 @@
 
 ## Support Vector Machines
 
-* A supervised learning algorithm that can be used for classification, regression, and outlier detection
+* A supervised learning method that can be used for classification, regression, and outlier detection
 * Effective in high dimensions
 * SVMs transform data (as necessary) into higher dimensions in order to best classify it based on the training data provided
 * This is done through kernel functions that determine the relationships between data points and then set parameters to classify data
@@ -85,11 +85,31 @@
 
 ## Multi Layer Perceptron
 
+* A supervised learning algorithm - learns a function based on features that are provided as input (each input feature is represented as a neuron)
+* Neurons in the hidden layer (between the input and output) transform the values from each previous layer through a weighted linear summation and then a non-linear activation function
+* Finally, the output layer transforms values received from the last hidden layer into output values
+
+
 ## Random Forest
+
+* A meta estimator - fits various subsets of the given data using decision tree classifiers 
+* Trees in the ensemble are generated with replacement (bootstrap sample)
+* The results of these many trees are averaged 
+* The randomness used to generate the trees and the averaging of the trees decreases variance, increases predictive accuracy and controls over-fitting
+
 
 ## AdaBoost
 
+* Fits a sequence of small decision trees (stumps) that are weak learners on different versions of the data
+* Results from all the stumps are combined through a weighted sum to generate the final prediction
+* Relies on successive iterations of the algorithm based on sample weights of the data in order to train the model (at each step, incorrectly predicted training examples have their weight increased, while correctly predicted examples weights’ are decreased)
+
 ## Stochastic Gradient Descent
+
+* SGD is an optimization technique, a way to train a model, and it is sensitive to feature scaling
+* Similar to gradient descent in methodology, but only looks at one/a mini batch of samples at each step that are randomly selected
+* SGD also takes larger steps at first and uses fewer samples per step, but then increases the number of steps/decreases step size as the optimal value is approached 
+
 
 ---
 

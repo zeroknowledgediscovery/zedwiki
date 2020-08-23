@@ -101,6 +101,31 @@ $$
 
 For simple single varaible  systems, e.g., with just  \\\(x(t)\\\) , the \\\( \gamma \\\) is simialr to auto-correlation. However, it generalizes to situations with arbitrary number fo varaibles and where the dependence structure has a non-trivial and unknown state structure. Under such generalizations, theliterature tries to use ARIMA or FARIMA models, which are plagued by a host of different prior assumptions. The problem is the inference of states is in explicably linked to computing any dependency measures like \\\( \gamma \\\).
 
+
+## Modelling heavy-tailed time series
+
+### Standard time series models
+
+Classical time series analysis has been concerned mostly with linear processes:
+$$ X_t = \sum_{j=-\infty}^{\infty} \psi_jZ_{t-j}, t \in \mathbb{Z} $$
+
+where \\\( \psi_j \\\)  is an appropriate sequence of real coefficients and \\\( Z_t\\\)  is a innovations
+sequence. The sequence \\\( Z_t \\\) is classically assumed to be white noise (i.e. stationary, uncorrelated and mean-zero); in most applications \\\( Z_t \\\) is even supposed
+to be i.i.d. The model ( includes stationary ARMA and FARIMA processes
+which are the time series models used most frequently in applications in engineering, physics, chemistry, meteorology, hydrology, etc. ARMA processes and, more
+generally, linear processes with finite variance are exible to model any kind of
+autocorrelation structure of a stationary sequence.  These are some reasons for
+the success story of linear processes whose theory and applications are described
+in Brockwell and Davis [12, 13]. As a matter of fact, the estimation of the parameters of an ARMA or FARIMA
+process is closely related to the estimation of their covariances and correlations,
+and so is the prediction of future values in a time series based on its past and
+present values. 
+
++ Do LSTMS do better than ARMA models?
++ DO LSTM models do better in specific situations?
+
+
+
 ---
 
 

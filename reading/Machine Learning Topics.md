@@ -78,11 +78,8 @@
 ## Support Vector Machines
 
 * A supervised learning algorithm that can be used for classification, regression, and outlier detection
-
 * Effective in high dimensions
-
 * SVMs transform data (as necessary) into higher dimensions in order to best classify it based on the training data provided
-
 * This is done through kernel functions that determine the relationships between data points and then set parameters to classify data
 
 

@@ -99,7 +99,7 @@ having recurrence intervals well below τ¯ and well above τ¯ are strongly enh
 $$    \gamma^{s}_{r, \Delta} = 1 - \frac{\textrm{uncertainty of the next output in $x_r$ given  observation of  $x_s$}}{\textrm{unconditional uncertainty of the next output in $x_r$}}
 $$
 
-
+For simple single varaible  systems, e.g., with just  \\\(x(t)\\\) , the \\\( \gamma \\\) is simialr to auto-correlation. However, it generalizes to situations with arbitrary number fo varaibles and where the dependence structure has a non-trivial and unknown state structure.
 
 ---
 

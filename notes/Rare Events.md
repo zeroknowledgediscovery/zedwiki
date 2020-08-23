@@ -99,7 +99,7 @@ having recurrence intervals well below τ¯ and well above τ¯ are strongly enh
 $$    \gamma^{s}_{r, \Delta} = 1 - \frac{\textrm{uncertainty of the next output in $x_r$ given  observation of  $x_s$}}{\textrm{unconditional uncertainty of the next output in $x_r$}}
 $$
 
-For simple single varaible  systems, e.g., with just  \\\(x(t)\\\) , the \\\( \gamma \\\) is simialr to auto-correlation. However, it generalizes to situations with arbitrary number fo varaibles and where the dependence structure has a non-trivial and unknown state structure.
+For simple single varaible  systems, e.g., with just  \\\(x(t)\\\) , the \\\( \gamma \\\) is simialr to auto-correlation. However, it generalizes to situations with arbitrary number fo varaibles and where the dependence structure has a non-trivial and unknown state structure. Under such generalizations, theliterature tries to use ARIMA or FARIMA models, which are plagued by a host of different prior assumptions. The problem is the inference of states is in explicably linked to computing any dependency measures like \\\( \gamma \\\).
 
 ---
 

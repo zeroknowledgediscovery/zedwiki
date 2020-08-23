@@ -48,7 +48,7 @@
 
 ## Naive Bayes
 * A supervised learning algorithm
-# Applies Bayes’ Theorem using a naive assumption - assumes conditional independence between each pair of features (given value of the class variable)
+* Applies Bayes’ Theorem using a naive assumption - assumes conditional independence between each pair of features (given value of the class variable)
 * Used to classify data based on features 
 * For example, classifying emails as spam or not spam
 

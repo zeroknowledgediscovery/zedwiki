@@ -1,5 +1,29 @@
 # [**Readymag Page**](https://readymag.com/zed/gestational-diabetes/)
 
+
+# SME Discussion points
+
+1. Data on when patients show up for first pre-natal visit
+2. Update figure 2e to reflect that time might not be from pregnancy betgining
+3. Low risk ptient vs high risk patient:
+    + in LOW risk, the real goal is to avoid GCT, get them on a schedule to avoid the GD test
+    + High risk, 4 months before helps clinically?
+    + A timeline on how to apply this clinically
+$. In pilot study, should we enroll at the first prenatal visit and then wait 6 months, or should be enroll at 28 weeks and run the algorithm for past data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Exclusion Criteria
 
 1. All patients must have the ICD9 code for the observation of pregnancy (`V22.0, V22.1`)

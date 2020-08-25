@@ -19,11 +19,15 @@ where \\\(h\\\) is th ebinary entropy function, and \\\(h_0\\\) is the binary en
 $$ p \sim h^{-1}((1-\gamma)h_0)) $$
 Inverting the binary entropy in \\\([0,0.5]\\\) is problematic. We use the approximation:
 $$ h^{-1}(x) \sim \frac{x}{log_2(1/x)} $$
+Using the above relationship, we estimate \\\(p(\Delta)\\\).
+
+
 Finally, we must solve the curve fitting problem:
 
 $$
 p(\Delta) = \frac{d_0}{(d_1 + \Delta)^{d_2}}
 $$
+to identify constants \\\(d_0,d_1,d_2\\\).
 
 ---
 *Notes Follow*

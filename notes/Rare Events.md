@@ -1,3 +1,33 @@
+# Power Law Recovery
+
+## Omori's law 
+The frequency of aftershocks decreases roughly with the reciprocal of time after the main shock. This empirical relation was first described by Fusakichi Omori in 1894 and is known as Omori's law.[1] It is expressed as
+$$ n(t)=\frac{k}{(c+t)}$$
+where k and c are constants, which vary between earthquake sequences. A modified version of Omori's law, now commonly used, was proposed by Utsu in 1961.[2][3] $$ n(t)=\frac {k}{(c+t)^{a}}$$
+where a is a third constant which modifies the decay rate and typically falls in the range 0.7–1.5.
+
+
+## Relating Omori-Utsu Law to \\\(\gamma\\\)
+
+Let \\\(p(\Delta)\\\) be the probability of the rare event of interest at time-shift \\\(\Delta\\\). Then considering \\\(N\\\) spatial tiles, the average event frequency may be estimated as \\\(p N \\\). Expecting this to follow the OU Law would require:
+$$ p \sim \frac{k/N}{(c+\Delta)^a} $$
+
+First, recovering event probability \\\(p\\\) approximately from the observed \\\(\gamma\\\):
+
+$$ \gamma \sim 1 - \frac{h(p)}{h_0}$$
+where \\\(h\\\) is th ebinary entropy function, and \\\(h_0\\\) is the binary entropy of the average event frequency. Thus:
+$$ p \sim h^{-1}((1-\gamma)h_0)) $$
+Inverting the binary entropy in \\\([0,0.5]\\\) is problematic. We use the approximation:
+$$ h^{-1}(x) \sim \frac{x}{log_2(1/x)} $$
+Finally, we must solve the curve fitting problem:
+
+$$
+p(\Delta) = \frac{d_0}{(d_1 + \Delta)^{d_2}}
+$$
+
+---
+*Notes Follow*
+---
 # decay interpretation
 
 ## Can we relate the decay behavior to omori-utsu law?

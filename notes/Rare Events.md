@@ -4,7 +4,7 @@
 The frequency of aftershocks decreases roughly with the reciprocal of time after the main shock. This empirical relation was first described by Fusakichi Omori in 1894 and is known as Omori's law.[1] It is expressed as
 $$ n(t)=\frac{k}{(c+t)}$$
 where k and c are constants, which vary between earthquake sequences. A modified version of Omori's law, now commonly used, was proposed by Utsu in 1961.[2][3] $$ n(t)=\frac {k}{(c+t)^{a}}$$
-where a is a third constant which modifies the decay rate and typically falls in the range 0.7–1.5.
+where \\\(a\\\) is a third constant which modifies the decay rate and typically falls in the range 0.7–1.5.
 
 
 ## Relating Omori-Utsu Law to \\\(\gamma\\\)

@@ -15,7 +15,7 @@ $$ p \sim \frac{k/N}{(c+\Delta)^a} $$
 First, recovering event probability \\\(p\\\) approximately from the observed \\\(\gamma\\\):
 
 $$ \gamma \sim 1 - \frac{h(p)}{h_0}$$
-where \\\(h\\\) is th ebinary entropy function, and \\\(h_0\\\) is the binary entropy of the average event frequency. Thus:
+where \\\(h\\\) is the binary entropy function, and \\\(h_0\\\) is the binary entropy of the average event frequency. Thus:
 $$ p \sim h^{-1}((1-\gamma)h_0)) $$
 Inverting the binary entropy in \\\([0,0.5]\\\) is problematic. We use the [approximation](http://cseweb.ucsd.edu/~ccalabro/thesis.pdf):
 $$ h^{-1}(x) \sim \frac{x}{log_2(1/x)} $$

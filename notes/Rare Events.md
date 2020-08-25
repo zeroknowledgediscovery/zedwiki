@@ -1,3 +1,15 @@
+# decay interpretation
+
+## Can we relate the decay behavior to omori-utsu law?
+
+## Can we show that simialr law exists for weather?
+
+## can we show generalization for social systems
+
+## How do we relate \\\( \gamma \\\) to after shock frequency with time
+
+
+
 In statistics, a record $$x_i , i \in \{ 1 , 2 , \cdots , N \}$$ is called a rare event if its value is above (or below) a given threshold $q$. Altering this threshold alters th enumber and dependencies of events. A large number of factors nonlinearly interact with each other, leading to rare events being erratic, unstable, or chaotic.
 
 ```

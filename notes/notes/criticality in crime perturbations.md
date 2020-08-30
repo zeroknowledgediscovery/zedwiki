@@ -1,4 +1,4 @@
-We nned to plot the spatial correlation function \\\(C(r)\\\) for \\\(r\in [0, R\\\).
+We nned to plot the spatial correlation function \\\(C(r)\\\) for \\\(r\in [0, R]\\\).
 where \\\(R\\\) is potentially the max distance between tiles.
 
 $$

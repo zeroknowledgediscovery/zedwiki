@@ -5,13 +5,16 @@ $$
 C(r) = \frac{1}{c_0} \frac{\sum_{i,j} {\mathbf{U_i}} \cdot {\mathbf{U_j}} \delta(r-r_{ij})}{\sum_{i,j} \delta(r-r_{ij})}
 $$
 
-and \\\( c_0\\\)  is chosen suc that \\\(C(r=0\\\) = 1
 where 
 
 $$
 \delta(r) = \frac{1}{a\sqrt{\pi}}e^{-(x/a)^2}
 $$
-for some small value of $a$ (say a=0.01) and
+for some small value of $a$ (say a=0.01) 
+and \\\( c_0\\\)  is chosen suc that \\\(C(r=0) = 1\\\)
+
+and
+
 
 + \\\(r_{ij}\\\) is the distance between \\\(r_i,r_j\\\)
 + \\\(U_i\\\) is the perturbation response vector defined as the vector  \\\( [ U^{violent}_i, U^{prop}_i ] \\\) where \\\( U^{prop}_i\\\) is the deviation of the average perturbation response of the tile i, ie:

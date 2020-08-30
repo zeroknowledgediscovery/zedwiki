@@ -7,3 +7,7 @@ where
 $$
 \delta(r) = \frac{1}{a\sqrt{\pi}}e^{-(x/a)^2}
 $$
+for some small value of $a$ (say a=0.01) and
+
++ \\\(r_{ij}\\\) is the distance between \\\(r_i,r_j\\\)
++ 

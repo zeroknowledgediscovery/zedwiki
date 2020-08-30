@@ -11,7 +11,8 @@ $$
 \delta(r) = \frac{1}{a\sqrt{\pi}}e^{-(x/a)^2}
 $$
 for some small value of $a$ (say a=0.01) 
-and \\\( c_0\\\)  is chosen suc that \\\(C(r=0) = 1\\\)
+
+and \\\( c_0\\\)  is chosen such that \\\(C(r=0) = 1\\\)
 
 and
 

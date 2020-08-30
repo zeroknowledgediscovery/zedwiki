@@ -13,7 +13,7 @@ $$
 for some small value of $a$ (say a=0.01) and
 
 + \\\(r_{ij}\\\) is the distance between \\\(r_i,r_j\\\)
-+ \\\(U_i\\\) is the perturbation response vector defined as the vector   where \\\( U_{prop}\\\) is the deviation of the average perturbation response of the tile, ie:
++ \\\(U_i\\\) is the perturbation response vector defined as the vector   where \\\( U^{prop}_i\\\) is the deviation of the average perturbation response of the tile i, ie:
 
 $$
 U^{prop}_i = V^{prop}_i - \frac{1}{N} \sum_i V^{prop}_i

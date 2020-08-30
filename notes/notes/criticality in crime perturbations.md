@@ -1,3 +1,9 @@
 $$
 C(r) = \frac{1}{c_0} \frac{\sum_{i,j} {\mathbf{U_i}} \cdot {\mathbf{U_j}} \delta(r-r_{ij})}{\sum_{i,j} \delta(r-r_{ij})}
 $$
+
+where 
+
+$$
+\delta(r) = \frac{1}{a\sqrt{\pi}}e^{-(x/a)^2}
+$$

@@ -10,4 +10,4 @@ $$
 for some small value of $a$ (say a=0.01) and
 
 + \\\(r_{ij}\\\) is the distance between \\\(r_i,r_j\\\)
-+ 
++ \\\(U_i\\\) is the perturbation response vector defined as \\\([ U_{prop} \ U_{violent}]\\\)

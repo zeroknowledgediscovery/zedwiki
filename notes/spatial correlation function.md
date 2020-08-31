@@ -18,4 +18,4 @@ and  \\\(r_{i}\\\) is the distance between tiles
 
 # Criticality Reference
 
-[https://zdiscovery.slack.com/files/U63N03K2P/F019B93N031/mora-bialek2011_article_arebiologicalsystemspoisedatcr.pdf?origin_team=T63Q6NS6N&origin_channel=DAF1N2ABC](https://zdiscovery.slack.com/files/U63N03K2P/F019B93N031/mora-bialek2011_article_arebiologicalsystemspoisedatcr.pdf?origin_team=T63Q6NS6N&origin_channel=DAF1N2ABC)
+[Are Biological Systems Poised at Criticality?](https://link.springer.com/content/pdf/10.1007/s10955-011-0229-4.pdf)

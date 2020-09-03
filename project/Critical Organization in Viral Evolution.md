@@ -12,4 +12,10 @@ Even though we show the difference in the scaling parameters, it is still not cl
 1. the difference between controlled disease like influenza and epidemic disease lkike coronavirus
 2. Biases from the creation of QNet because of the difference in the number of data. For coronavirus, the number of nodes is around 3000, while for influenza, it is only around 100-300. Perhaps, I should sample only 300 data points from coronavirus.
 
-# 
+# Measuring the scaling parameters over yearly data of H1N1
+<img alt='H1N1' src="../uploads/h1n1_yearly.PNG" width="700px">
+Yearly data of H1N1 show significant fluctuations in the scaling parameters, especially during the year 2006. However, H1N1 became an epidemic during 2008-2009, and the scaling parameters stayed close to 2 during that time. 
+
+# Measuring the effect of the number of data on the scaling parameters
+I plan to plot alpha vs the number of data N on coronavirus data. I would like to see if the scaling parameter is dependent on the number of data.
+

@@ -2,6 +2,8 @@
 
 ## [Great Introductory ML Course](https://mlcourse.ai/)
 
+Includes a decent amount of math foundation, practice jupyter notebooks and a kaggle competition.
+
 ## Performance Measures
 
 ## Reciever Operating Characteristics

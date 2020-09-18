@@ -22,7 +22,7 @@ Includes a decent amount of math foundation, practice jupyter notebooks and a ka
 
 ---
 
-# ![ID](https://img.shields.io/badge/2--red) Bayesian Statsitics
+# ![ID](https://img.shields.io/badge/2--red) Bayesian Statistics
 
 
 

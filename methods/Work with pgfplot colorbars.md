@@ -88,15 +88,17 @@ rgb255(8cm)=(128,0,0)
 The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
 
 ## One color bar with two set of scales
-This is need for the snapshot figure in the `nncomput_` project. 
-For four of datasets (Weather and the Crimes), we have two types of events, and we used jet and reverted jet as the colormap for the density plots of the two types.
-Since we have limited space, we only want to put one color bars, but the color bar will have to show two scales. 
+This is needed for the snapshot figure in the `nncomput_` project. 
+For four of datasets (Weather and the Crimes), we have two types of events, 
+and we used jet and reverted jet as the colormap for the density plots of the two types.
+Since we have limited space, we only want to put one color bars, 
+and hence the color bar has to have two scales. 
 Again, this may not be the most neat and elegant solution. 
 In this solution, we make a `groupplot` of two axis. 
 We set the dimension of the axis to be 0 so that we only have colorbars.
-We position the first color bar under the axis and the second one, above. 
+We position the first color bar under its axis and the second one, above. 
 And we position the two color bar so that they are touching each other. 
-We remove the color bars original frames, and when we are done, we plot a frame surrounding both bars.
+We remove the color bars original frames and by the end, we plot a frame surrounding both bars.
 ```
 \documentclass[tikz]{standalone}
 \usepackage{pgfplots}
@@ -177,3 +179,5 @@ We remove the color bars original frames, and when we are done, we plot a frame 
 
 ```
 This will be the result: ![one color bar two scales](/uploads/one_color_bar_two_scales.png)
+
+**For the complete tex file that has the snapshot and colorbar, please visiti `pub_nncomput_` repo, `./tex/Figures/snapshot.tex`** (to be done)

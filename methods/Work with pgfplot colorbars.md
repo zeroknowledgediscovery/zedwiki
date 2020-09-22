@@ -87,6 +87,85 @@ rgb255(8cm)=(128,0,0)
 ```
 The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
 
-## 
+## One color bar with two set of scales
+```
+\documentclass[tikz]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.16}
+\usepgfplotslibrary{groupplots}
+
+\begin{document}
+
+\begin{tikzpicture}
+	\def\WIDTH{5cm}
+	\def\HEIGHT{3mm}
+	\def\ys{3mm}
+	\begin{groupplot}[
+		% set the axis width and height to zero
+		% because we only need the color bar
+		width=0pt, 
+		height=0pt,
+		group style = {
+			group size=1 by 2,
+			vertical sep=2cm,
+		},
+	]
+		\nextgroupplot[
+			hide axis,
+			scale only axis,
+			colorbar horizontal,
+			% specify the minimal value represented by the color bar
+			point meta min=20,
+			% specify the maximal value represented by the color bar
+			point meta max=80, 
+			colorbar style = {
+				% name the colorbar for positioning
+				name=cb1,
+				width=\WIDTH,
+				height=\HEIGHT,
+				at={(rel axis cs: 0, 0)},
+				anchor=north west,
+				% remove frame around colorbar
+				axis line style={draw=none}, 
+				% the POSITIONS of the ticks
+				xtick={20, 40, 60, 80}, 
+				% the labels at the positions defined by the xtick parameters
+				xticklabels={20, 40, 60, 80}, 
+			}
+		]
+			% dummy plot since we only want the color bar
+			\addplot[draw=none] coordinates {(0, 0)};
+      
+		\nextgroupplot[
+			hide axis,
+			scale only axis,
+			colorbar horizontal,
+			point meta min=.2,
+			point meta max=1.,
+			colorbar style = {
+				name=cb2,
+				width=\WIDTH,
+				height=\HEIGHT,
+				anchor=south west,
+				at=(cb1.north west),
+				% Move it around so that the two color bars are touching 
+				yshift=\ys,
+				axis line style={draw=none},
+				% give a different color to the tick labels (optional)
+				xticklabel style={blue},
+				% put the the tick labels on top
+				xticklabel pos=upper,
+				xtick={.2, .4, .6, .8, 1},
+				xticklabels={1, .8, .6, .4, .2},
+			}
+		]
+			\addplot[draw=none] coordinates {(0, 0)};
+	\end{groupplot}
+	% draw a box around the two colorbars as a frame
+	\draw (cb1.south west) rectangle (cb2.north east);
+\end{tikzpicture}
+\end{document}
+
+```
 
 ![one color bar two scales](/uploads/one_color_bar_two_scales.png)

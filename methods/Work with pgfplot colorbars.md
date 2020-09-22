@@ -1,9 +1,9 @@
-# Under construction
+# Work with pgfplot color bar (Under construction)
 
-# Get inverted jet
-It is not the most succinct solution to invert a color map, but may a more versatile one:
-In the following example, we want to have the original jet color bar, and an inverted jet color bar. 
-We note that, all predefined colormap has a definition by a list of RGB 3-tuples, and hence if we can find the defining list, we can manually invert it.
+## Get reverted colormap jet (or any colormap you may define)
+It is not the most succinct solution to reverting a colormap but probably a more versatile one.
+In the following example, we want to have the original jet color bar, and an reverted jet color bar. 
+We note that, all predefined colormap has a definition by a list of RGB 3-tuples, and hence if we can find the defining list, we can manually revert it.
 
 According to [pgfplot manual](https://mirrors.concertpass.com/tex-archive/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf#page=194) (page 197), the jet colormap is equivalent to the RGB 3-tuples list
 ```
@@ -85,4 +85,6 @@ rgb255(8cm)=(128,0,0)
 \end{tikzpicture}
 \end{document}
 ```
-The result will be ![reverted color bar](/uploads/colorbar_reverted.pdf)
+The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
+
+## 

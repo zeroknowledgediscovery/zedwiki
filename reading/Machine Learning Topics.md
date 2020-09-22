@@ -120,11 +120,30 @@ Includes a decent amount of math foundation, practice jupyter notebooks and a ka
 
 # ![ID](https://img.shields.io/badge/6--red) Regression
 
-## LASSO
-
 ## Ridge
 
+* Performs a special type of linear regression (least squares)
+* It minimizes the sum of squared residuals and the least regression penalty
+    * Least regression penalty = ɑ*(slope + other parameters)^2
+    * ɑ is determined using cross validation
+    * This term introduces bias and as ɑ increases, the slope approaches 0 and sensitivity along the x-axis decreases
+* Ultimately, it improves predictions by decreasing variance, making the predictions less sensitive to the training data and can be very beneficial when sample size is relatively small or there is not enough data to perform least squares regression 
+
+## LASSO
+
+* Similar to Ridge regression, LASSO introduces bias to least squares regression to decrease variance
+* It minimizes sum of squared residuals and ɑ*|slope + other parameters| 
+    * As ɑ increases, the slope can actually be 0 (Ridge can only approach 0 asymptotically) and sensitivity along the x-axis decreases 
+* When performed on data sets with many parameters, LASSO can be used to eliminate parameters by setting their slope to 0, thus LASSO is better than Ridge at reducing variables if a model has many useless parameters/variables
+
+
 ## LOESS
+
+* Fits a curve to the data by using a sliding window to break the data down into smaller sections where each section is fit using weighted least squares
+* Each window has a focal point and weighted least squares is performed based on the distance from each point to the focal point within the window 
+* The window (generally based on a percentage of the data set) moves as the focal point moves creating a set of preliminary points, and these points are then used to re-weight the original points based on their distance from the calculated points. The re-weighting process can be repeated and then a curve can be constructed through the calculated points
+
+
 
 ---
 

@@ -88,6 +88,9 @@ rgb255(8cm)=(128,0,0)
 The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
 
 ## One color bar with two set of scales
+This is need for the snapshot figure in the `nncomput_` project. 
+For four of datasets (Weather and the Crimes), we have two types of events, and we used jet and reverted jet as the colormap for the density plots of the two types.
+Since we have limited space, we only want to put one color bars, but the color bar will have to show two scales. 
 ```
 \documentclass[tikz]{standalone}
 \usepackage{pgfplots}

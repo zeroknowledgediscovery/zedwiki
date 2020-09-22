@@ -88,3 +88,5 @@ rgb255(8cm)=(128,0,0)
 The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
 
 ## 
+
+![one color bar two scales](/uploads/one_color_bar_two_scales.png)

@@ -15,6 +15,7 @@ rgb255(7cm)=(255,0,0)
 rgb255(8cm)=(128,0,0)
 ```
 ```
+% colorbar_reverted.tex
 \documentclass{standalone}
 \usepackage{pgfplots}
 \usetikzlibrary{positioning}
@@ -30,15 +31,13 @@ rgb255(8cm)=(128,0,0)
 			colorbar horizontal, 
 			point meta min=0,
 			point meta max=1.,
-			colorbar style={
-				name=cb1,
-				width=5cm,
-				height=.5cm,
-				at={(0,1.2)},
-				anchor=north west,
-				xlabel={original jet},
-				xlabel style={yshift=.1cm},
-			},
+		},
+		CBstyle/.style={
+			width=5cm,
+			height=.5cm,
+			at={(0,1.2)},
+			anchor=north west,
+			xlabel style={yshift=.1cm},	
 		}
 	}
 	\node (B1) at (0, 0) {
@@ -52,6 +51,10 @@ rgb255(8cm)=(128,0,0)
 				rgb255(5cm)=(255,255,0); 
 				rgb255(7cm)=(255,0,0); 
 				rgb255(8cm)=(128,0,0);
+			},
+			colorbar style={
+				CBstyle,
+				xlabel={original jet},
 			},
 		]
 		\addplot[draw=none] coordinates {(0, 0)};
@@ -70,6 +73,10 @@ rgb255(8cm)=(128,0,0)
 				rgb255(7cm)=(0,0,255); 
 				rgb255(8cm)=(0,0,128); 
 			},
+			colorbar style={
+				CBstyle,
+				xlabel={reverted jet},
+			},
 		]
 		\addplot[draw=none] coordinates {(0, 0)};
 		\end{axis}
@@ -78,4 +85,4 @@ rgb255(8cm)=(128,0,0)
 \end{tikzpicture}
 \end{document}
 ```
-
+The result will be

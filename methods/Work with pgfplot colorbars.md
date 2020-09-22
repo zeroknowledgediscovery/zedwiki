@@ -85,4 +85,4 @@ rgb255(8cm)=(128,0,0)
 \end{tikzpicture}
 \end{document}
 ```
-The result will be
+The result will be ![reverted color bar](/uploads/colorbar_reverted.pdf)

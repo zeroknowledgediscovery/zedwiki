@@ -187,3 +187,34 @@ This will be the result: ![one color bar two scales](/uploads/one_color_bar_two_
 
 **Please find the files that has the snapshots with colorbar for the `nncomput_` project [here](https://github.com/zeroknowledgediscovery/pub_nncomput_/tree/master/tex/Figures). 
 The files are `snapshot_colorbar.tex` and `color.tex`**
+
+
+# Automatic inversion of predefined colormap
+For later reference, here is a solution that inverts a predefined colormap from stackoverflow.
+```
+\documentclass{standalone}
+\usepackage{pgfplots}
+\usepgfplotslibrary{colormaps}
+
+\begin{document}
+\pgfplotsset{colormap/jet}
+  \begin{tikzpicture}
+    \begin{axis}[colorbar]
+      \addplot[mesh, thick, samples=200] {x^2};
+    \end{axis}
+  \end{tikzpicture}
+
+  \begin{tikzpicture}
+    \begin{axis}[
+      colorbar,
+        colormap={reverse jet}{
+            indices of colormap={
+                \pgfplotscolormaplastindexof{jet},...,0 of jet
+        }
+      },
+    ]
+      \addplot[mesh, thick, samples=200] {x^2};
+    \end{axis}
+  \end{tikzpicture}
+\end{document}
+```

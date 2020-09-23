@@ -1,4 +1,4 @@
-# Work with pgfplot color bar (Under construction)
+# Work with pgfplot color bar
 
 ## Get reverted colormap jet (or any colormap you may define)
 It is not the most succinct solution to reverting a colormap but probably a more versatile one.

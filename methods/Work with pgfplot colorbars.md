@@ -66,27 +66,27 @@ rgb255(8cm)=(128,0,0)
             \end{axis}
         \end{tikzpicture}
     };
-	\node[below=0cm of B1] (B2) {
-		\begin{tikzpicture}
-		\begin{axis}[
-			CB,
-			colormap={}{
-				rgb255(0cm)=(128,0,0);
-				rgb255(1cm)=(255,0,0); 
-				rgb255(3cm)=(255,255,0); 
-				rgb255(5cm)=(0,255,255); 
-				rgb255(7cm)=(0,0,255); 
-				rgb255(8cm)=(0,0,128); 
-			},
-			colorbar style={
-				CBstyle,
-				xlabel={reverted jet},
-			},
-		]
-		\addplot[draw=none] coordinates {(0, 0)};
-		\end{axis}
-		\end{tikzpicture}
-	};
+    \node[below=0cm of B1] (B2) {
+        \begin{tikzpicture}
+            \begin{axis}[
+                CB,
+                colormap={}{
+                    rgb255(0cm)=(128,0,0);
+                    rgb255(1cm)=(255,0,0); 
+                    rgb255(3cm)=(255,255,0); 
+                    rgb255(5cm)=(0,255,255); 
+                    rgb255(7cm)=(0,0,255); 
+                    rgb255(8cm)=(0,0,128); 
+                },
+                colorbar style={
+                    CBstyle,
+                    xlabel={reverted jet},
+                },
+            ]
+                \addplot[draw=none] coordinates {(0, 0)};
+            \end{axis}
+        \end{tikzpicture}
+    };
 \end{tikzpicture}
 \end{document}
 ```

@@ -22,13 +22,13 @@ rgb255(8cm)=(128,0,0)
 
 \begin{document}
 \begin{tikzpicture}
-	\pgfplotsset{
-		CB/.style={
-		    % Since we only want the color bar,
-		    % we want to set the dimension of the axis to be 0.
-		    % However, if we don't hide axis and 
-		    % apply the width and height to the axis (scale only axis),
-		    % latex will complain that the width and height are too small.
+    \pgfplotsset{
+        CB/.style={
+            % Since we only want the color bar,
+            % we want to set the dimension of the axis to be 0.
+            % However, if we don't hide axis and 
+            % apply the width and height only to the axis (scale only axis),
+            % latex will complain that the width and height being too small.
 			hide axis,
 			scale only axis,
 			width=0pt,

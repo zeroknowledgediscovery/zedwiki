@@ -180,4 +180,5 @@ We remove the color bars original frames and by the end, we plot a frame surroun
 ```
 This will be the result: ![one color bar two scales](/uploads/one_color_bar_two_scales.png)
 
-**For the complete tex file that has the snapshot and colorbar, please visiti `pub_nncomput_` repo, `./tex/Figures/snapshot.tex`** (to be done)
+**Please find the files that has the snapshots with colorbar for the `nncomput_` project [here](https://github.com/zeroknowledgediscovery/pub_nncomput_/tree/master/tex/Figures). 
+The files are snapshot_colorbar.tex` and `color.tex`**

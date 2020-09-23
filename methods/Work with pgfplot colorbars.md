@@ -1,9 +1,9 @@
 # Work with pgfplot color bar
 
-## Get reverted colormap jet (or any colormap you may define)
-It is not the most succinct solution to reverting a colormap but probably a more versatile one.
-In the following example, we want to have the original jet color bar, and an reverted jet color bar. 
-We note that, all predefined colormap has a definition by a list of RGB 3-tuples, and hence if we can find the defining list, we can manually revert it.
+## Get inverted colormap jet (or any colormap you may define)
+In the following example, we want to have the original jet color bar, and an inverted jet color bar. 
+We note that, all predefined colormap has a definition by a list of RGB 3-tuples, 
+and hence if we can find the defining list, we can manually invert it.
 
 According to [pgfplot manual](https://mirrors.concertpass.com/tex-archive/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf#page=194) (page 197), the jet colormap is equivalent to the RGB 3-tuples list
 ```
@@ -15,7 +15,7 @@ rgb255(7cm)=(255,0,0)
 rgb255(8cm)=(128,0,0)
 ```
 ```
-% colorbar_reverted.tex
+% colorbar_inverted.tex
 \documentclass{standalone}
 \usepackage{pgfplots}
 \usetikzlibrary{positioning}
@@ -90,10 +90,10 @@ The result will be ![reverted color bar](/uploads/colorbar_reverted.png)
 ## One color bar with two set of scales
 This is needed for the snapshot figure in the `nncomput_` project. 
 For four of datasets (Weather and the Crimes), we have two types of events, 
-and we used jet and reverted jet as the colormap for the density plots of the two types.
+and we used jet and inverted jet as the colormap for the density plots of the two types.
 Since we have limited space, we only want to put one color bars, 
 and hence the color bar has to have two scales. 
-Again, this may not be the most neat and elegant solution. 
+
 In this solution, we make a `groupplot` of two axis. 
 We set the dimension of the axis to be 0 so that we only have colorbars.
 We position the first color bar under its axis and the second one, above. 

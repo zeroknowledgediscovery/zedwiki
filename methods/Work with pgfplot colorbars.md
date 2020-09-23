@@ -24,6 +24,11 @@ rgb255(8cm)=(128,0,0)
 \begin{tikzpicture}
 	\pgfplotsset{
 		CB/.style={
+		    % Since we only want the color bar,
+		    % we want to set the dimension of the axis to be 0.
+		    % However, if we don't hide axis and 
+		    % apply the width and height to the axis (scale only axis),
+		    % latex will complain that the width and height are too small.
 			hide axis,
 			scale only axis,
 			width=0pt,
@@ -95,10 +100,10 @@ Since we have limited space, we only want to put one color bars,
 and hence the color bar has to have two scales. 
 
 In this solution, we make a `groupplot` of two axis. 
-We set the dimension of the axis to be 0 so that we only have colorbars.
+We set the dimension of the axis to be \\\(0\\\) so that we only have colorbars.
 We position the first color bar under its axis and the second one, above. 
 And we position the two color bar so that they are touching each other. 
-We remove the color bars original frames and by the end, we plot a frame surrounding both bars.
+We remove the color bars original frames and, by the end, we plot a frame surrounding both bars.
 ```
 \documentclass[tikz]{standalone}
 \usepackage{pgfplots}

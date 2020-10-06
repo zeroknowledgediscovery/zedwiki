@@ -1,7 +1,6 @@
-
 # AIM
- “a self awareness of the complex time-conditioned property of neural networks’ knowledge encoding.”
-
+** “a self awareness of the complex time-conditioned property of neural networks’ knowledge encoding.”
+**
 
 # Overview
 

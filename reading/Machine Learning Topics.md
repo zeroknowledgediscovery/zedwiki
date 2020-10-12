@@ -36,7 +36,17 @@ Includes a decent amount of math foundation, practice jupyter notebooks and a ka
 
 ## Random variables
 
+* A variable whose value depends on outcomes of random phenomena
+* Serve as a way to map the outcomes of random processes to real numbers
+
+
 ## Bayes' Theorem
+
+* Conditional probability - Allows you to calculate the probability of A occurring given that event B occured
+* Bayes’ Theorem generalizes a tree diagram: The numerator is the probability of A and B while the denominator is the marginal probability of B
+* $P(A|B) = \frac{P(A)P(B|A)}{P(B)}$ 
+
+
 
 ---
 

@@ -1,4 +1,6 @@
-# [https://www.statsmodels.org/stable/glm.html](https://www.statsmodels.org/stable/glm.html)
+# Links
+
+https://www.statsmodels.org/stable/glm.html
 https://www.statsmodels.org/stable/examples/notebooks/generated/glm_formula.html
 
 

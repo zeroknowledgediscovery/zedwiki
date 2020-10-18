@@ -113,7 +113,9 @@ mod2 = smf.glm(formula=formula, data=dta, family=sm.families.Binomial()).fit()
 print(mod2.summary())
 ```
 
+# Comprehensive Link
 
+https://online.stat.psu.edu/stat504/node/216/
 
 ### Recall a simple linear regression model
 

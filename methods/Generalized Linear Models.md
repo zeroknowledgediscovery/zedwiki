@@ -102,6 +102,17 @@ PTRATIO:PCTAF               -0.0001      0.022     -0.005      0.996      -0.044
 PERSPENK:PTRATIO:PCTAF      -0.0002      0.005     -0.051      0.959      -0.010       0.009
 ============================================================================================
 ```
+# Data Transformation
+
+```
+def double_it(x):
+    return 2 * x
+formula = 'SUCCESS ~ double_it(LOWINC) + PERASIAN + PERBLACK + PERHISP + PCTCHRT + \
+           PCTYRRND + PERMINTE*AVYRSEXP*AVSALK + PERSPENK*PTRATIO*PCTAF'
+mod2 = smf.glm(formula=formula, data=dta, family=sm.families.Binomial()).fit()
+print(mod2.summary())
+```
+
 
 
 

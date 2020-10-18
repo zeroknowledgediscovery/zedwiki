@@ -1,3 +1,18 @@
+# Quick Example
+```
+import pandas as pd
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+data=pd.read_csv('data.csv') # assume columns ar Y XA XB
+formula = 'Y ~ XA + XB + XA*XB'
+mod1 = smf.glm(formula=formula, data=data).fit()
+#assume gaussian family with identity link ie we assume y is normally distributed, and 
+# link(y) = x^T \beta, and the link(.) is identity
+
+print(mod1.summary())
+```
+
+
 # Links
 
 https://www.statsmodels.org/stable/glm.html

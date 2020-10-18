@@ -17,6 +17,7 @@ print(mod1.summary())
 
 https://www.statsmodels.org/stable/glm.html
 https://www.statsmodels.org/stable/examples/notebooks/generated/glm_formula.html
+https://www.statsmodels.org/stable/generated/statsmodels.genmod.generalized_linear_model.GLM.html#statsmodels.genmod.generalized_linear_model.GLM
 https://online.stat.psu.edu/stat504/node/216/
 
 

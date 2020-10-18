@@ -115,6 +115,18 @@ print(mod2.summary())
 
 
 
+### Recall a simple linear regression model
 
+Objective: model the expected value of a continuous variable, Y, as a linear function of the continuous predictor, X, E(Yi) = β0 + β1xi
+Model structure: Yi = β0 + β1xi + ei
+Model assumptions: Y is is normally distributed, errors are normally distributed, ei ∼ N(0, σ2), and independent, and X is fixed, and constant variance σ2.
+Parameter estimates and interpretation: β^0 is estimate of β0 or the intercept, and β^1 is estimate of the slope, etc... Do you recall, what is the interpretation of the intercept and the slope?
+Model fit: R 2, residual analysis, F-statistic
+Model selection: From a plethora of possible predictors, which variables to include?
+
+
+## Generalized Linear Models (GLMs)
+
+ First, let’s clear up some potential misunderstandings about terminology.  The term general linear model (GLM) usually refers to conventional linear regression models for a continuous response variable given continuous and/or categorical predictors. It includes multiple linear regression, as well as ANOVA and ANCOVA (with fixed effects only). The form is yi∼N(xiTβ,σ2), where xi contains known covariates and β contains the coefficients to be estimated. These models are fit by least squares and weighted least squares using, for example: SAS Proc GLM or R functions lsfit() (older, uses matrices) and lm() (newer, uses data frames).
 
 

@@ -132,3 +132,8 @@ Model selection: From a plethora of possible predictors, which variables to incl
  First, let’s clear up some potential misunderstandings about terminology.  The term general linear model (GLM) usually refers to conventional linear regression models for a continuous response variable given continuous and/or categorical predictors. It includes multiple linear regression, as well as ANOVA and ANCOVA (with fixed effects only). The form is yi∼N(xiTβ,σ2), where xi contains known covariates and β contains the coefficients to be estimated. These models are fit by least squares and weighted least squares using, for example: SAS Proc GLM or R functions lsfit() (older, uses matrices) and lm() (newer, uses data frames).
 
 
+### There are three components to any GLM:
+
++ Random Component – refers to the probability distribution of the response variable (Y); e.g. normal distribution for Y in the linear regression, or binomial distribution for Y in the binary logistic regression.  Also called a noise model or error model.  How is random error added to the prediction that comes out of the link function?
++ Systematic Component - specifies the explanatory variables (X1, X2, ... Xk) in the model, more specifically their linear combination in creating the so called linear predictor; e.g., β0 + β1x1 + β2x2 as we have seen in a linear regression, or as we will see in a logistic regression in this lesson.
++ Link Function, η or g(μ) - specifies the link between random and systematic components. It says how the expected value of the response relates to the linear predictor of explanatory variables; e.g., η = g(E(Yi)) = E(Yi) for linear regression, or  η = logit(π) for logistic regression.

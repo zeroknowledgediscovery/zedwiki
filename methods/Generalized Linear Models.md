@@ -103,3 +103,7 @@ The standardized regression (beta) coefficients of different regression can be c
 Now, in case the regression coefficients are already given and we are not able to run standardized regression, it is possible to convert the usual regression coefficient into beta coefficients, by making use of their relationships. The relationship between the usual regression coefficient and the beta coefficient is as follows: beta coefficient = usual regression coefficient multiplied by the sample standard deviation of IV(X) and divide by the sample standard deviation of the DV (Y). This relationship holds true in multiple regression also. 
 
 Look also here https://stats.stackexchange.com/questions/59327/how-to-compare-two-regression-slopes-for-one-predictor-on-two-different-outcomes
+
+## Deviance
+
+https://bookdown.org/egarpor/PM-UC3M/glm-deviance.html

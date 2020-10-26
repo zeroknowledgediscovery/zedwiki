@@ -12,6 +12,14 @@ As you get older, your risk for severe illness from COVID-19 increases. For exam
 
 However, this does not mean that the odds of contracting COVID, or that of transmitting COVID increases with age. Implying that populations with older people might not have higher number of infected  people. But since testing was limited at teh begining, it could be that people with more severe symtoms were more likely to be diagnosed, implying a population with higher number of older people might seem to have higher rates of teh disease.
 
+# Risk Factors
+
++ age
++ Race/Ethnicity
++ Poverty
++ Crowding
+
+
 
 
 

@@ -27,6 +27,11 @@ Firstly, COVID-19 and influenza viruses have a similar disease presentation. Tha
 
 Secondly, both viruses are transmitted by contact, droplets and fomites. As a result, the same public health measures, such as hand hygiene and good respiratory etiquette (coughing into your elbow or into a tissue and immediately disposing of the tissue), are important actions all can take to prevent infection. 
 
+https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-vs-flu/art-20490339
+
+The viruses that cause COVID-19 and the flu spread in similar ways. They can both spread between people who are in close contact (within 6 feet, or 2 meters). The viruses spread through respiratory droplets or aerosols released through talking, sneezing or coughing. These droplets can land in the mouth or nose of someone nearby or be inhaled. These viruses can also spread if a person touches a surface with one of the viruses on it and then touches his or her mouth, nose or eyes.
+
+
 ## How are Flu and Covid Different?
 
 The speed of transmission is an important point of difference between the two viruses. Influenza has a shorter median incubation period (the time from infection to appearance of symptoms) and a shorter serial interval (the time between successive cases) than COVID-19 virus. The serial interval for COVID-19 virus is estimated to be 5-6 days, while for influenza virus, the serial interval is 3 days. This means that influenza can spread faster than COVID-19.  

@@ -19,6 +19,13 @@ However, this does not mean that the odds of contracting COVID, or that of trans
 + Poverty
 + Crowding
 
+# Similarity of Flu and COVID
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-similarities-and-differences-covid-19-and-influenza?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKizXaIFuuLcuy2eVYiO8zv4x2gxRC3QaPcCXc0KsTH3Fvz_Q2-ETwaAnj_EALw_wcB
+
+Firstly, COVID-19 and influenza viruses have a similar disease presentation. That is, they both cause respiratory disease, which presents as a wide range of illness from asymptomatic or mild through to severe disease and death. 
+
+Secondly, both viruses are transmitted by contact, droplets and fomites. As a result, the same public health measures, such as hand hygiene and good respiratory etiquette (coughing into your elbow or into a tissue and immediately disposing of the tissue), are important actions all can take to prevent infection. 
 
 
 

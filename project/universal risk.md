@@ -35,6 +35,7 @@ The GLM solution has the following implications, results and observations:
 
 ## \\\(\mathbf{u}_0 \times r\\\) Dominance
  
+ This shows that learning patterns from the seasonal flu epidemic may be meaningfully transferred to the case of COVID infection, or perhaps any infection that shares similarities in the transmission process.
  
 
 ### GenESeSS Command used
@@ -43,7 +44,7 @@ The GLM solution has the following implications, results and observations:
 `
 
 
-## Innovation
+# Innovation
 
-## So What
+# Impact
 

@@ -27,7 +27,10 @@
     - **The model we find is robust, in the sense it is stable to perturbations** 
     - **We can use this model to make predictions on future COVID counts**
 
-### GenESeSS Cooamd used
+### GenESeSS Command used
+`
+./genESeSS -f 
+`
 
 ## Innovation
 

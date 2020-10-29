@@ -14,6 +14,10 @@
 
 
 + Finally we use sequence likelihood divergence to quantify teh deviation of the count variation in each county from this model, thus hgiving us a static measure of universal initiation risk in each county (denote this as \\\(\mathbf{u}_0\\\))
+
+ <img src="http://34.66.189.202:4567/uploads/urisk.png"  width="250"/>  
+
+
 + We construcnt a General Linear Model (Poisson log-linear regression) to connect this covraiate along with other suspected co-variates to observed and confirmed COVID counts in each US county, thus solving a well-defined GLM problem.
 
 # Results, Observations & Implications

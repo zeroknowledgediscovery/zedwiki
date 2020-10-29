@@ -1,7 +1,7 @@
 # Universal Risk
 
 ##  Risk Calculation
- <div style="width: 100%; overflow: hidden;">
+ <div style="width: 120%; overflow: hidden;">
  <div style="width: 250px; float: left;"> 
  <img src="http://34.66.189.202:4567/uploads/urisk.png"  width="250"/>  
  </div>

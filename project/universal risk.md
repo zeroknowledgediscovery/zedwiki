@@ -26,10 +26,12 @@
 
 
 The GLM solution has the following implications, results and observations:
-- **The \\\(\mathbf{u}_0 \times r\\\) is the most imprtant covaraite where \\\( r \\\) is the fraction of the population living in an urban environment (non-rural as defined by US census)  in each county**
-- **The model we find correlates very well with confirmed COVID cases across US counties**
-- **The model is robust, in the sense that it is stable to diverse perturbations we experimented with** 
-- **We can use this model to make county-specific forecast of  COVID counts in the near term**
+1. **The \\\(\mathbf{u}_0 \times r\\\) is the most imprtant covaraite where \\\( r \\\) is the fraction of the population living in an urban environment (non-rural as defined by US census)  in each county**
+2. **The model we find correlates very well with confirmed COVID cases across US counties**
+3. **The model is robust, in the sense that it is stable to diverse perturbations we experimented with** 
+4. **We can use this model to make county-specific forecast of  COVID counts in the near term**
+
+
 
 ### GenESeSS Command used
 `

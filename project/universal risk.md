@@ -41,7 +41,7 @@ The GLM solution has the following implications, results and observations:
 
 ### State of the Art
 https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html
-<img src="https://www.cdc.gov/coronavirus/2019-ncov/images/case-updates/National-Forecast-Incident-Cases-2020-10-19.jpg" width="700"/> 
+<img src="https://www.cdc.gov/coronavirus/2019-ncov/images/case-updates/National-Forecast-Incident-Cases-2020-10-19.jpg" width="1000"/> 
 
 
 

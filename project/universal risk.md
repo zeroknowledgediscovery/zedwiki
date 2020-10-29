@@ -2,8 +2,8 @@
 
 ##  Risk Calculation
  <div style="width: 100%; overflow: hidden;">
- <div style="width: 300px; float: left;"> 
- <img src="http://34.66.189.202:4567/uploads/urisk.png"  width="300"/>  
+ <div style="width: 250px; float: left;"> 
+ <img src="http://34.66.189.202:4567/uploads/urisk.png"  width="250"/>  
  </div>
     <div style="width: 500px; margin-left: 300px;">
     <img src="http://34.66.189.202:4567/uploads/fig3.png" width="500"/> 

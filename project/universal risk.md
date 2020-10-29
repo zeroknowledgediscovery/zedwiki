@@ -1,11 +1,14 @@
 # Universal Risk
+The spread of infection from a transmissible virus is a complex spatio-temporal process with many hard to model factors. 
+While the factors that drive such a process is broadly understood, making precise forecasts is a diffuclt modeling problem. 
+Faced with the challenge of forecasting the case count in the current pandemic, a diversity of modeling techniques have been proposed. There is however no single model that has emerged that can make precise predictions. In this study we introduce the concept of a universal geo-spatial risk measure for flu-like transmission. 
 
 ## The Hypothesis
-
+We hypothesize that the seasonal flu epidemic encodes patterns that are comon to and drive COVID epidemiology. Using a novel approach to quantifying simialrity of stochastic sample paths, we learn from past flu seasonal epidemics, and subsequently incorporate these patterns to model and forecast COVID case counts. Our approach demonstrates that broad commonalities in transmission dynamics can be effectively leveraged for forcasting the number of new cases. We call this the Universal Risk Load of Influenza-like Illnesses (the U-score). 
 
 ##  Risk Calculation Approach
 
-+ We hypothesize that the seasonal flu epidemic encodes patterns that drive COVID epidemiology and collect countywise infection count data over a period of 9 years from 2003 to 2013 flu season in US
++ We collect countywise infection count data over a period of 9 years from 2003 to 2013 flu season in US
 + We use a novel approach to quantifying similarity between categorical time series samples to identify natural clustering of the counties, according to the sequential count variations
 + Using insight from our previous work (https://elifesciences.org/articles/30756), and this similarity metric,  we determine the cluster of counties whichinclude the set corresponding to epidemic initiation on average over the flu seasons. These are  coastal counties with high population  and the right conjunction of weather, demographic, and socio-economic factors that trigger the seasonal flu epidemic. We hypothesize that the risk of initiation of the yearly flu season also track sthe risk of COVID infections during the current pandemic.
 + Using the infection count variations in these "high initial risk" counties (lets denote this set as  \\\(G_0\\\)  and our prior work on inferring finite state probabilistic automata (PFSA) models of finite valued  stochastic processes (https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0543), we infer a generative model \\\(\mathcal{G}_0 \\\) from the set of quantized count variatoions \\\( G_0\\\).

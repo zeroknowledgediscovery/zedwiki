@@ -20,9 +20,10 @@
 
 + We construcnt a General Linear Model (Poisson log-linear regression) to connect this covraiate along with other suspected co-variates to observed and confirmed COVID counts in each US county, thus solving a well-defined GLM problem.
 
+# Results, Observations & Implications
+
 <img src="http://34.66.189.202:4567/uploads/fig3.png" width="500"/> 
 
-# Results, Observations & Implications
 
 The GLM solution has the following implications, results and observations:
 - **The \\\(\mathbf{u}_0 \times r\\\) is the most imprtant covaraite where \\\( r \\\) is the fraction of the population living in an urban environment (non-rural as defined by US census)  in each county**

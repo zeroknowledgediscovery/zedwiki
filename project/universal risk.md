@@ -35,7 +35,7 @@ The GLM solution has the following implications, results and observations:
 
 ## \\\(\mathbf{u}_0 \times r\\\) Dominance
  
- This shows that learning patterns from the seasonal flu epidemic may be meaningfully transferred to the case of COVID infection, or perhaps any infection that shares similarities in the transmission process.
+ This shows that learning patterns from the seasonal flu epidemic may be meaningfully transferred to the case of COVID infection, or perhaps any infection that shares similarities in the transmission process. And the information encoded in these patterns is hard to replicate by manually including co-variates; there is always some degree of pattrens that are unmodeled, or cannot be effectively explained by covraiates we can think of; nevertheless it apperas that thgis unmodlled degrress of freedome o fthe underlying driving dynamics shares features between COVID and flu, such that teh risk computed by us enmds up being th emost important co-vraiate with the largest coefficients.
  
 
 ### GenESeSS Command used

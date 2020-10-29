@@ -18,7 +18,7 @@
 + We use a novel approach to quantifying simialrity between categorical time series samples to identify natural clustering of the counties
 + Using insight from our previous work we determine the cluster which correspond to epidemic initiation on average. This is teh cluster which included coastal high population  counties, and have the right conjunction of factors that trigger the seasonal epidemic
 + Using the infection count variations in these "high initial risk" counties (lets denote this set as the Ground Zero Set \\\(G_0\\\) )
-+ Using our prior work on inferreing finite state probabilistic automata (PFSA) models of a class of stochastic processes, we infer a model \\\(\mathcal{G}_0\\\)
++ Using our prior work on inferreing finite state probabilistic automata (PFSA) models of a class of stochastic processes, we infer a model \\\(\mathcal{G}_0 \\\) from the set of quantized count variatoions \\\( G_0\\\).
 
 ## Innovation
 

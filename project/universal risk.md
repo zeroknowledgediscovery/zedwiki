@@ -19,8 +19,13 @@
 + Using insight from our previous work we determine the cluster which correspond to epidemic initiation on average. This is teh cluster which included coastal high population  counties, and have the right conjunction of factors that trigger the seasonal epidemic
 + Using the infection count variations in these "high initial risk" counties (lets denote this set as the Ground Zero Set \\\(G_0\\\) )
 + Using our prior work on inferreing finite state probabilistic automata (PFSA) models of a class of stochastic processes, we infer a model \\\(\mathcal{G}_0 \\\) from the set of quantized count variatoions \\\( G_0\\\).
-+ Finally we use sequence likelihood divergence to quantify teh deviation of the count variation in each county from this model, thus hgiving us a static measure of initiation risk in each county (denote this as \\\(\rho\\\))
-+ We construcnt a General Linear Model (Poisson log-linear regression) to connect this 
++ Finally we use sequence likelihood divergence to quantify teh deviation of the count variation in each county from this model, thus hgiving us a static measure of universal initiation risk in each county (denote this as \\\(\mathbf{u}_0\\\))
++ We construcnt a General Linear Model (Poisson log-linear regression) to connect this covraiate along with other suspected co-variates to observed and confirmed COVID counts in each US county, thus solving a well-defined GLM problem.
++ The GLM solution has the following implications, results and observations:
+    - The \\\(\mathbf{u}_0 \times r\\\) is the most imprtant covaraite where \\\( r \\\) is the fraction of the population living in an urban environment (non-rural as defined by US census)  in each county
+    - The model we find correlates very well with confirmed COVID county 
+    - The model we find is robust, in the sense it is stable to perturbations 
+    - We can use this model to make predictions on future COVID counts
 
 
 ## Innovation

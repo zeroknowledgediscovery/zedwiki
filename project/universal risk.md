@@ -1,6 +1,6 @@
 # Universal Risk
 
-##  Risk Calculation
+##  Risk Calculation Approach
  <div style="width: 120%; overflow: hidden;">
  <div style="width: 250px; float: left;"> 
  <p> Fig 1. Initial Clustering and Risk Calculation</p>
@@ -13,7 +13,7 @@
     </div>
 </div>
 
+## Innovation
 
-
-## Results
+## So What
 

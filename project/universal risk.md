@@ -19,6 +19,7 @@
 
 
 + We construcnt a General Linear Model (Poisson log-linear regression) to connect this covraiate along with other suspected co-variates to observed and confirmed COVID counts in each US county, thus solving a well-defined GLM problem.
+    <img src="http://34.66.189.202:4567/uploads/fig3.png" width="500"/> 
 
 # Results, Observations & Implications
 

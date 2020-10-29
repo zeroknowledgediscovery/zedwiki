@@ -42,9 +42,14 @@ The GLM solution has the following implications, results and observations:
 ## Forecasts: What we Bring To the Table
 
 ### State of the Art
+The Center for Disease COntrol has gathered a suite of modeling approaches fof COVID-19 case count, with bi-weekly prjections at the nation and state level. These models use a vast diversity of approaches.
 https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html
 <img src="https://www.cdc.gov/coronavirus/2019-ncov/images/case-updates/National-Forecast-Incident-Cases-2020-10-19.jpg" width="1000"/> 
+Our aooroach here is to use the geome data along with suspected covariates to infer a predictor for data within a 2-week period, and then project the counts over the next 2 week period. In that sense, a sketch for our algorithm is as follows:
 
+```
+   Input: \\\(u_0, v_1, \cdots v_m\\\)
+```
 
 
 ### GenESeSS Command used

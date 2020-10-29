@@ -49,9 +49,12 @@ Our aooroach here is to use the geome data along with suspected covariates to in
 
 ```
    Input: u_0, v_1, \cdots v_m
-   Infer: NN(u_0, v_1, \cdots v_m,X_{t-1}) where X_{t-1} is the case count vector in the previous period t-1
-   Predict: NN(u_0, v_1, \cdots v_m,X_t) as the case count in period t+1
+   Infer: GLM(u_0, v_1, \cdots v_m)
+   Predict: Y from GLM model
+   Infer Feedforward Neural Net: X_t=NN(X_{t-1},Y) where X_{t-1} is the case count vector in the previous period t-1
+   Predict: NN(X_t,Y) as the case count in period t+1
 ```
+
 
 
 ### GenESeSS Command used

@@ -15,7 +15,7 @@ We hypothesize that the seasonal flu epidemic encodes complex geo-spatial stocha
  <!--img src="http://34.66.189.202:4567/uploads/mc.png"  width="250"/-->  
 
 
-+ Finally we use sequence likelihood divergence to quantify the deviation of the count variation in each county from this model, to formulate a static measure of universal initiation risk in each county (denote this as \\\(\mathbf{u}_0\\\))
++ Finally we use sequence likelihood divergence to quantify the deviation of the count variation in each county from this model, to formulate a time-independent spatially varying measure of universal initiation risk (\\\(\mathbf{u}_0\\\)), which we call the geome.
 
  <!--img src="http://34.66.189.202:4567/uploads/urisk.png"  width="250"/-->  
 

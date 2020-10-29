@@ -2,3 +2,6 @@
 
 
 ![results](http://34.66.189.202:4567/uploads/fig3.png)
+
+
+<img src="http://34.66.189.202:4567/uploads/fig3.png" alt="Your image title" width="150"/>

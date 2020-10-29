@@ -33,7 +33,7 @@ The GLM solution has the following implications, results and observations:
 4. We can use this model to make county-specific forecast of  COVID counts in the near term
 
 
-### \\\(\mathbf{u}_0 \times r\\\) Dominance
+## \\\(\mathbf{u}_0 \times r\\\) Dominance
  
  
 

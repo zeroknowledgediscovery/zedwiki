@@ -5,7 +5,7 @@
  <div style="width: 600px; float: left;"> 
  <img src="http://34.66.189.202:4567/uploads/urisk.png"  width="500"/>  
  </div>
-    <div style="width: 600px; margin-left: 620px;">
+    <div style="width: 600px; margin-left: 600px;">
     <img src="http://34.66.189.202:4567/uploads/fig3.png" width="700"/> 
     </div>
 </div>

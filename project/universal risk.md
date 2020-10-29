@@ -1,10 +1,9 @@
-# Universal Risk
-The spread of infection from a transmissible virus is a complex spatio-temporal process with many hard to model factors. 
-While the factors that drive such a process is broadly understood, making precise forecasts is a diffuclt modeling problem. 
-Faced with the challenge of forecasting the case count in the current pandemic, a diversity of modeling techniques have been proposed. There is however no single model that has emerged that can make precise predictions. In this study we introduce the concept of a universal geo-spatial risk measure for flu-like transmission. 
+# The Geome for Flu-like Ttransmission 
+The spread of infection from a transmissible virus is a complex spatio-temporal process impacted by the specific transmission mechanism of the virus, the survivability of the virus outside the host under varying enviromental factors such as tempretaure and humidity, population density of viable hosts, and possibly the level of enforcement of social distancing policies.
+While the key factors that drive such thsi complex  process for infleunza and COVID-19 are broadly understood, making precise actionable forecasts is still a diffcult modeling problem. Faced with the challenge of forecasting the case count in the context of the  COVID-19 pandemic, a diversity of modeling approaches have been suggested. However a single "best" model is yet to emerge. In this study we introduce the concept of a universal geo-spatial risk measure for flu-like transmissions, and demosntrate that this risk significantly improves current forecasts. 
 
 ## The Hypothesis
-We hypothesize that the seasonal flu epidemic encodes patterns that are comon to and drive COVID epidemiology. Using a novel approach to quantifying simialrity of stochastic sample paths, we learn from past flu seasonal epidemics, and subsequently incorporate these patterns to model and forecast COVID case counts. Our approach demonstrates that broad commonalities in transmission dynamics can be effectively leveraged for forcasting the number of new cases. We call this the Universal Risk Load of Influenza-like Illnesses (the U-score). 
+We hypothesize that the seasonal flu epidemic encodes complex geo-spatial stochastic incidence patterns that are common to, and drive,  COVID epidemiology. Using a novel approach to quantifying similarity of stochastic sample paths, we learn from nearly a decade of historical flu seasonal epidemics, and effectively incorporate these patterns to model and forecast COVID case counts. Our approach demonstrates that broad commonalities in transmission dynamics may be effectively leveraged for forcasting the number of new cases, even if the specific pathogen is biologically distinct. We call this the Universal Risk Load of Influenza-like Illnesses (the U-score). 
 
 ##  Risk Calculation Approach
 

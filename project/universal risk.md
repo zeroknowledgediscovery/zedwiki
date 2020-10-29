@@ -37,10 +37,10 @@ The GLM solution has the following implications, results and observations:
  
  This shows that learning patterns from the seasonal flu epidemic may be meaningfully transferred to the case of COVID infection, or perhaps any infection that shares similarities in the transmission process. And the information encoded in these patterns is hard to replicate by manually including co-variates; there is always some degree of pattrens that are unmodeled, or cannot be effectively explained by covraiates we can think of; nevertheless it apperas that thgis unmodlled degrress of freedome o fthe underlying driving dynamics shares features between COVID and flu, such that teh risk computed by us enmds up being th emost important co-vraiate with the largest coefficients. Also, teh model we develop correlates very well with catual count data within the modeling period. Other measures of goodness of fit and explainability are also demonstrated, clearly establishing that including this measure of risk does indeed significantly improve county wise count prediction for the COVID-19 pandemic in the USA.
  
-## Forecast
+## Forecasts: What we Bring To the Table
 
+### State of the Art
 https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/forecasts-cases.html
-
 <img src="https://www.cdc.gov/coronavirus/2019-ncov/images/case-updates/National-Forecast-Incident-Cases-2020-10-19.jpg" width="700"/> 
 
 

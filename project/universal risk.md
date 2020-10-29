@@ -26,6 +26,7 @@
 
 
 The GLM solution has the following implications, results and observations:
+
 1. **The \\\(\mathbf{u}_0 \times r\\\) is the most imprtant covaraite where \\\( r \\\) is the fraction of the population living in an urban environment (non-rural as defined by US census)  in each county**
 
 2. **The model we find correlates very well with confirmed COVID cases across US counties**

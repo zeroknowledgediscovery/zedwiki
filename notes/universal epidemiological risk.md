@@ -1,3 +1,76 @@
+# Literature
+
+@article{bertozzi2020challenges,
+  title={The challenges of modeling and forecasting the spread of COVID-19},
+  author={Bertozzi, Andrea L and Franco, Elisa and Mohler, George and Short, Martin B and Sledge, Daniel},
+  journal={arXiv preprint arXiv:2004.04741},
+  year={2020}
+}
+
+The coronavirus disease 2019 (COVID-19) pandemic has placed epidemic modeling at the forefront of worldwide public policy making. Nonetheless, modeling and forecasting the spread of COVID-19 remain a challenge. Here, we present and detail three regional-scale models for forecasting and assessing the course of the pandemic. This work is intended to demonstrate the utility of parsimonious models for understanding the pandemic and to provide an accessible framework for generating policy-relevant insights into its course. We show how these models can be connected to each other and to time series data for a particular region. Capable of measuring and forecasting the impacts of social distancing, these models highlight the dangers of relaxing nonpharmaceutical public health interventions in the absence of a vaccine or antiviral therapies.
+Capable of measuring and forecasting the impacts of social distancing, these models highlight the dangers of relaxing nonpharmaceutical public health interventions in the absence of a vaccine or antiviral therapies.
+
+The world is in the midst of an ongoing pandemic, caused by the emergence of a novel coronavirus. Pharmaceutical interventions such as vaccination and antiviral drugs are not currently available. Over the next year, addressing the coronavirus disease 2019 (COVID-19) outbreak will depend critically on the successful implementation of public health measures including social distancing, shelter in place orders, disease surveillance, contact tracing, isolation, and quarantine (1, 2). 
+
+@article{phelan2020novel,
+  title={The novel coronavirus originating in Wuhan, China: challenges for global health governance},
+  author={Phelan, Alexandra L and Katz, Rebecca and Gostin, Lawrence O},
+  journal={Jama},
+  volume={323},
+  number={8},
+  pages={709--710},
+  year={2020},
+  publisher={American Medical Association}
+}
+@misc{pan2020association,
+  title={Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China. JAMA},
+  author={Pan, A and Liu, L and Wang, C and Guo, H and Hao, X and Wang, Q and Huang, J and He, N and Yu, H and Lin, X and others},
+  year={2020}
+}
+
+Here, we present three basic models of disease transmission that can be fit to data emerging from local and national governments. While the Imperial College study employed an agent-based method (one that simulates individuals getting sick and recovering through contacts with other individuals in the population), we present three macroscopic models: 1) exponential growth, 2) self-exciting branching process, and 3) the susceptible–infected–resistant (SIR) compartment model. These models have been chosen for their simplicity, minimal number of parameters, and for their ability to describe regional-scale aspects of the pandemic. 
+
+The epidemiological perspective on modeling infectious disease spread involves consideration of a larger number of modeling parameters detailing the spread of and recovery from the disease, additional compartments corresponding to age categories, and other related choices (e.g., refs. 3 and 13). A data-driven approach to modeling COVID-19 has also emerged, in which statistical and machine learning models are used for forecasting cases, hospitalizations, deaths, and impacts of social distancing (14, 15). Our work demonstrates the utility of parsimonious epidemic models for understanding the pandemic and provides an accessible framework for a larger group of quantitative scientists to follow and forecast the COVID-19 pandemic.
+
+%14
+@article{altieri2020curating,
+  title={Curating a COVID-19 data repository and forecasting county-level death counts in the United States},
+  author={Altieri, Nick and Barter, Rebecca L and Duncan, James and Dwivedi, Raaz and Kumbier, Karl and Li, Xiao and Netzorg, Robert and Park, Briton and Singh, Chandan and Tan, Yan Shuo and others},
+  journal={arXiv preprint arXiv:2005.07882},
+  year={2020}
+}
+
+%15
+@article{covid2020forecasting,
+  title={Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months},
+  author={COVID, IHME and Murray, Christopher JL and others},
+  journal={MedRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+A. Exponential Growth.
+Epidemics naturally exhibit exponential behavior in the early stages of an outbreak, when the number of infections is already substantial but recoveries and deaths are still negligible. 
+
+B. Self-Exciting Branching Process.
+A branching point process (23⇓–25) can also model the rate of infections over time. Point process models are data driven and allow for parametric or nonparametric estimation of the reproduction number and transmission timescale.
+
+
+
+C. Compartmental Models.
+The SIR model (40⇓–42) describes a classic “compartmental” model with SIR population groups. A related model, susceptible–exposed–infected–resistant (SEIR), includes an “exposed” compartment that models a delay between exposure and infectiousness.
+
+
+
+Our analysis, employing parsimonious models, illustrates several key points. 1) The reproduction number R is highly variable both over time and by location, and this variability is compounded by distancing measures. These variations can be calculated using a stochastic model, and lower R is critical to decreasing strains on health care systems and to creating time to develop effective vaccines and antiviral therapies. 2) Mortality data and confirmed case data have statistics that vary by location and by time depending on testing and on accurate accounting of deaths due to the disease. Differences in collection methods and in the accuracy of morbidity and mortality data can lead to different projected outcomes. 3) Nonpharmaceutical public health interventions (NPIs) such as social distancing and shelter in place orders offer an important means of reducing the virus’s reproduction number. Nonetheless, NPIs may not have a substantial impact on the total number of infections unless sustained over time. Policy makers should be cautious about scaling back distancing measures after early signs of effectiveness.
+
+
+
+
+
+
+
+
+
 # Risk Factors for COVID
 
 https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/assessing-risk-factors.html

@@ -59,6 +59,28 @@ A branching point process (23⇓–25) can also model the rate of infections ove
 C. Compartmental Models.
 The SIR model (40⇓–42) describes a classic “compartmental” model with SIR population groups. A related model, susceptible–exposed–infected–resistant (SEIR), includes an “exposed” compartment that models a delay between exposure and infectiousness.
 
+@book{brauer2019mathematical,
+  title={Mathematical models in epidemiology},
+  author={Brauer, Fred and Castillo-Chavez, Carlos and Feng, Zhilan},
+  year={2019},
+  publisher={Springer}
+}
+@article{kermack1927contribution,
+  title={A contribution to the mathematical theory of epidemics},
+  author={Kermack, William Ogilvy and McKendrick, Anderson G},
+  journal={Proceedings of the royal society of london. Series A, Containing papers of a mathematical and physical character},
+  volume={115},
+  number={772},
+  pages={700--721},
+  year={1927},
+  publisher={The Royal Society London}
+}
+@article{tolles2020modeling,
+  title={Modeling Epidemics With Compartmental Models},
+  author={Tolles, Juliana and Luong, ThaiBinh},
+  journal={Jama},
+  year={2020}
+}
 
 
 Our analysis, employing parsimonious models, illustrates several key points. 1) The reproduction number R is highly variable both over time and by location, and this variability is compounded by distancing measures. These variations can be calculated using a stochastic model, and lower R is critical to decreasing strains on health care systems and to creating time to develop effective vaccines and antiviral therapies. 2) Mortality data and confirmed case data have statistics that vary by location and by time depending on testing and on accurate accounting of deaths due to the disease. Differences in collection methods and in the accuracy of morbidity and mortality data can lead to different projected outcomes. 3) Nonpharmaceutical public health interventions (NPIs) such as social distancing and shelter in place orders offer an important means of reducing the virus’s reproduction number. Nonetheless, NPIs may not have a substantial impact on the total number of infections unless sustained over time. Policy makers should be cautious about scaling back distancing measures after early signs of effectiveness.

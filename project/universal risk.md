@@ -1,4 +1,7 @@
-# Universal Risk Phenotype of US Counties for Flu-like Epidemics: Epidemiologically Informed Precise Incidence Forecasts for COVID-19 and Influenza-like Illnesses
+# Universal Risk Phenotype of US Counties for Flu-like Transmission Dynamics 
+
+
+Epidemiologically Informed Precise Incidence Forecasts for COVID-19 and Influenza-like Illnesses
 
 
 # Geome of Flu-like Transmission 

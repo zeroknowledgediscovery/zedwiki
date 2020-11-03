@@ -89,8 +89,69 @@ Our analysis, employing parsimonious models, illustrates several key points. 1) 
 
 
 
+```
+@article{hernandez2020forecasting,
+  title={Forecasting of COVID19 per regions using ARIMA models and polynomial functions},
+  author={Hernandez-Matamoros, Andres and Fujita, Hamido and Hayashi, Toshitaka and Perez-Meana, Hector},
+  journal={Applied Soft Computing},
+  volume={96},
+  pages={106610},
+  year={2020},
+  publisher={Elsevier}
+}
+
+```
+
+We propose an algorithm to performed and evaluated the ARIMA model for 145 countries, which are distributed into 6 regions. Then, we construct a model for these regions using the ARIMA parameters, the population per 1M people, the number of cases, and polynomial functions. The proposal is able to predict the COVID-19 cases with a RMSE average of 144.81. The main outcome of this paper is showing a relation between COVID-19 behavior and population in a region, these results show us the opportunity to create more models to predict the COVID-19 behavior using variables as humidity, climate, culture, among others.
 
 
+In December 2019 in Wuhan, China started the pandemic of COVID-19, commonly known as Coronavirus, which has caused havoc around the world. World Health organization reported on June 7 [1], the virus is in 216 Countries, there are 6 750 521 active cases, and it has produced 395 779 deaths. For this reason, scientists around the world have been focused on topics such detect it [2], prevent it [3], cure it [4], and predict it [5], [6], [7], [8], [9], [10], [11], [12], [13]. To predict the coronavirus different schemes has been applied, for example in [11] proposes an approach, which is based Composite Monte Carlo enhanced by deep learning and fuzzy rule induction to predict the COVID-19,  [14] detailed models for forecasting the course of the pandemic, these models demonstrate the utility of parsimonious models for early-time data. Using the official data forecasting, [15] studied the spread of COVID-19, they realized forward prediction and backward inference of the epidemic. [16] applied mathematical models and time-series to describe the outbreak among passengers and crew members on Princess Cruises Ship.
+```
+@article{benvenuto2020application,
+  title={Application of the ARIMA model on the COVID-2019 epidemic dataset},
+  author={Benvenuto, Domenico and Giovanetti, Marta and Vassallo, Lazzaro and Angeletti, Silvia and Ciccozzi, Massimo},
+  journal={Data in brief},
+  pages={105340},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{fong2020finding,
+  title={Finding an accurate early forecasting model from small dataset: A case of 2019-ncov novel coronavirus outbreak},
+  author={Fong, Simon James and Li, Gloria and Dey, Nilanjan and Crespo, Rub{\'e}n Gonz{\'a}lez and Herrera-Viedma, Enrique},
+  journal={arXiv preprint arXiv:2003.10776},
+  year={2020}
+}
+@article{ding2020brief,
+  title={Brief Analysis of the ARIMA model on the COVID-19 in Italy},
+  author={Ding, Guorong and Li, Xinru and Shen, Yang and Fan, Jiao},
+  journal={medRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+@article{fong2020composite,
+  title={Composite Monte Carlo decision making under high uncertainty of novel coronavirus epidemic using hybridized deep learning and fuzzy rule induction},
+  author={Fong, Simon James and Li, Gloria and Dey, Nilanjan and Crespo, Rub{\'e}n Gonz{\'a}lez and Herrera-Viedma, Enrique},
+  journal={Applied Soft Computing},
+  pages={106282},
+  year={2020},
+  publisher={Elsevier}
+}
+```
+
+
+According to the transmission characteristics of epidemic at different stages, this paper uses Gaussian distribution theory to construct a new model of coronavirus transmission. By simulating the propagation process of the COVID-19, we found that the curves of proposed model well simulate the official data curves of Hubei, Non-Hubei area of China and also South Korea, Italy, and Iran. The study points out the key factors that affect the spread of the virus, such as the basic reproduction number, virus incubation period, and daily infection number. 
+
+```
+@article{li2020propagation,
+  title={Propagation analysis and prediction of the COVID-19},
+  author={Li, Lixiang and Yang, Zihang and Dang, Zhongkai and Meng, Cui and Huang, Jingze and Meng, Haotian and Wang, Deyu and Chen, Guanhua and Zhang, Jiaxuan and Peng, Haipeng and others},
+  journal={Infectious Disease Modelling},
+  volume={5},
+  pages={282--292},
+  year={2020},
+  publisher={Elsevier}
+}
+```
 
 
 

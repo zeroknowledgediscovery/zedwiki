@@ -1,3 +1,6 @@
+# Universal Risk Phenotype of US Counties for Flu-like Epidemics: Epidemiologically Informed Precise Incidence Forecasts for COVID-19 and Influenza-like Illnesses
+
+
 # Geome of Flu-like Transmission 
 The spread of infection from a transmissible virus is a complex spatio-temporal process impacted by the specific transmission mechanism of the virus, the survivability of the virus outside the host under varying enviromental factors such as tempretaure and humidity, population density of viable hosts, and possibly the level of enforcement of social distancing policies.
 While the key factors that drive such thsi complex  process for infleunza and COVID-19 are broadly understood, making precise actionable forecasts is still a diffcult modeling problem. Faced with the challenge of forecasting the case count in the context of the  COVID-19 pandemic, a diversity of modeling approaches have been suggested. However a single "best" model is yet to emerge. In this study we introduce the concept of a organism-invariant geo-spatial risk measure, **referred to as the geome**, for flu-like transmissions,  and demosntrate that this risk significantly improves current forecasts. 

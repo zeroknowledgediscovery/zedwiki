@@ -128,6 +128,10 @@ In December 2019 in Wuhan, China started the pandemic of COVID-19, commonly know
   year={2020},
   publisher={Cold Spring Harbor Laboratory Press}
 }
+```
+
+which is based Composite Monte Carlo enhanced by deep learning and fuzzy rule induction to predict the COVID-19
+```
 @article{fong2020composite,
   title={Composite Monte Carlo decision making under high uncertainty of novel coronavirus epidemic using hybridized deep learning and fuzzy rule induction},
   author={Fong, Simon James and Li, Gloria and Dey, Nilanjan and Crespo, Rub{\'e}n Gonz{\'a}lez and Herrera-Viedma, Enrique},
@@ -150,6 +154,22 @@ According to the transmission characteristics of epidemic at different stages, t
   pages={282--292},
   year={2020},
   publisher={Elsevier}
+}
+```
+
+
+self-organizing mechanism 
+ dynamical characteristics such as the memory effect, through the autocorrelation function, in the studied epidemiological dynamical systems.
+ ```
+ @article{contoyiannis2020universal,
+  title={A Universal Physics-Based Model Describing COVID-19 Dynamics in Europe},
+  author={Contoyiannis, Yiannis and Stavrinides, Stavros G and P Hanias, Michael and Kampitakis, Myron and Papadopoulos, Pericles and Picos, Rodrigo and M Potirakis, Stelios},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={17},
+  number={18},
+  pages={6525},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
 

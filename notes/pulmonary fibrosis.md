@@ -31,11 +31,11 @@ Although IPF is diagnosed in Finland at a older age, the prognosis is better tha
   publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
-Idiopathic pulmonary fibrosis (IPF) is a fatal lung disease with an unpredictable course. An
+**Idiopathic pulmonary fibrosis (IPF) is a fatal lung disease with an unpredictable course.** An
 observational study was set up using the French hospital discharge database to describe
 the reasons, outcomes and costs of hospitalisations related to this disease. Patients newly
-hospitalised for idiopathic pulmonary fibrosis (ICD-10 code: J84.1) in 2008 were identified
-and followed for 5 years. As J84.1 includes other fibrotic pulmonary diseases, an algorithm
+hospitalised for idiopathic pulmonary fibrosis **(ICD-10 code: J84.1)** in 2008 were identified
+and followed for 5 years. **As J84.1 includes other fibrotic pulmonary diseases,** an algorithm
 excluding age < 50 years and presence of a differential diagnosis in the following year was
 defined. Overall, 6,476 patients were identified; of whom 30% were admitted through the
 emergency unit and 12% died during their first hospitalisation. Most of patients were hospitalised at least once for one or several acute events (n = 5,635; 87.0% of patients), of whom
@@ -46,6 +46,17 @@ median cost of €4,584 (IQR, €2,803–6,399)); 30.2% of these events occurred
 first hospitalisation. Finally, the 3-year in-hospital mortality crude rate was 36.8%. This study
 is the first providing extensive data on hospitalisations in patients with pulmonary fibrosis,
 mostly idiopathic, in France, demonstrating high burden and hospital cost.
+
+J84.1: 
+
+The ICD code J841 is used to code Acute interstitial pneumonitis
+Acute interstitial pneumonitis (also known as acute interstitial pneumonia or Hamman–Rich syndrome) is a rare, severe lung disease that usually affects otherwise healthy individuals. There is no known cause or cure.
+
+J84.10 Pulmonary fibrosis, unspecified (516.31) 
+
+J84.11 Idiopathic interstitial pneumonia (516.3)
+
+J84.17 Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere (516.3)
 
 
 

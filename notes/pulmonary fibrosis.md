@@ -59,5 +59,46 @@ J84.11 Idiopathic interstitial pneumonia (516.3)
 J84.17 Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere (516.3)
 
 
+----
+
+
+Idiopathic pulmonary fibrosis (IPF) is a specific form of chronic, progressive, fibrosing interstitial pneumonia of unknown cause and limited to the lungs. It is a rare disease with an incidence estimated at 3.81 per 100,000 inhabitants in Europe [1].
+According to an international consensus statement jointly issued by the American Thoracic
+Society, the European Respiratory Society, the Japanese Respiratory Society and the Latin
+American Thoracic Association, IPF is a distinct clinical entity associated with the histological
+and/or radiological appearance of usual interstitial pneumonia [2]. The definition of IPF
+requires the exclusion of other forms of interstitial pneumonia including other idiopathic
+interstitial pneumonias and interstitial lung diseases associated with environmental exposure,
+medication or systemic disease. IPF predominantly presents in individuals older than 50 years
+[2,3] with a preponderance in men and previous or current smokers. Patients present with
+chronic exertional dyspnoea, bibasilar inspiratory crackles, and commonly with cough, and
+finger clubbing.
+IPF is characterised by progressive worsening of dyspnoea and lung function. This chronic
+disease is associated with a poor prognosis [2,4]. The median survival of patients diagnosed with
+this condition is estimated between 3 and 5 years [5]. The natural disease course is variable and
+characterised by various acute events, of whom idiopathic acute exacerbations are a major concern [6,7]. Currently there are no markers to reliably predict the clinical course in an individual
+patient. Little is known about the incidence and outcomes after acute events in Europe. While
+studies with small samples have focused on the poor prognosis of patients with severe IPF
+admitted to intensive care units in Europe and in the United States (US) [8–12], only one recent
+single-centre US study has evaluated the reasons for hospital admission and the outcomes for
+patients with IPF [13]. The results showed that hospitalisations, especially those related to respiratory problems, were common, and were associated with high in-hospital mortality.
+
+https://www.ajmc.com/view/overview-idiopathic-pulmonary-fibrosis-evidence-based-guidelines-recent-developments-treatment-landscape
+
+Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive-fibrosing interstitial lung disease of unknown origin that affects 3 million people worldwide and imparts substantial burdens to patients, their families, and the healthcare system. The IPF disease course is highly variable and presents several diagnostic and management-related challenges.
+
+```
+@article{glassberg2019overview,
+  title={Overview of idiopathic pulmonary fibrosis, evidence-based guidelines, and recent developments in the treatment landscape},
+  author={Glassberg, Marilyn K},
+  journal={Am J Manag Care},
+  volume={25},
+  pages={S195--203},
+  year={2019}
+}
+```
+
+Overview of Idiopathic Pulmonary Fibrosis and Evidence-Based Guidelines
+Am J Manag Care. 2019;25:-S0
 
 

@@ -1,4 +1,3 @@
-
 ```
 @article{kaunisto2019demographics,
   title={Demographics and survival of patients with idiopathic pulmonary fibrosis in the FinnishIPF registry},
@@ -32,7 +31,21 @@ Although IPF is diagnosed in Finland at a older age, the prognosis is better tha
   publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
-
+Idiopathic pulmonary fibrosis (IPF) is a fatal lung disease with an unpredictable course. An
+observational study was set up using the French hospital discharge database to describe
+the reasons, outcomes and costs of hospitalisations related to this disease. Patients newly
+hospitalised for idiopathic pulmonary fibrosis (ICD-10 code: J84.1) in 2008 were identified
+and followed for 5 years. As J84.1 includes other fibrotic pulmonary diseases, an algorithm
+excluding age < 50 years and presence of a differential diagnosis in the following year was
+defined. Overall, 6,476 patients were identified; of whom 30% were admitted through the
+emergency unit and 12% died during their first hospitalisation. Most of patients were hospitalised at least once for one or several acute events (n = 5,635; 87.0% of patients), of whom
+36.5% of patients with an acute respiratory worsening (in-hospital mortality of 17.0% and
+median cost of €3,224; interquartile range (IQR €889–6,092)), 43.7% of patients with a respiratory infection (in-hospital mortality of 29.5% and median cost of €5,432 (IQR, €3,620–
+9,115)) and 51.7% of patients with a cardiac event (in-hospital mortality of 35.7% and
+median cost of €4,584 (IQR, €2,803–6,399)); 30.2% of these events occurred during the
+first hospitalisation. Finally, the 3-year in-hospital mortality crude rate was 36.8%. This study
+is the first providing extensive data on hospitalisations in patients with pulmonary fibrosis,
+mostly idiopathic, in France, demonstrating high burden and hospital cost.
 
 
 

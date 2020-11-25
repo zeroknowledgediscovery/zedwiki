@@ -28,7 +28,7 @@ from matplotlib import pyplot as plt
 kmf.survival_function_.plot()
 plt.title('Survival function of political regimes');
 ```
-
+![](https://lifelines.readthedocs.io/en/latest/_images/lifelines_intro_kmf_curve.png)
 
 ```
 kmf.plot()

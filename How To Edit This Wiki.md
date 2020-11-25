@@ -15,6 +15,12 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 + Put topics ie new pages in respective directories. For example any develooment notes goes into development. Any new poject goes into project
 + The [reading](http://34.66.189.202:4567/gollum/overview/reading/) pages are backgrouns information, and required or optional reading in the ZeDLab
 
+# Inserting math
+
+\\\( \alpha \\\)
+
+$$ \alpha + \bet $$
+
 # Inserting Images and Links
 
 + Home page only has the global TOC

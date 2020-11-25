@@ -37,3 +37,30 @@ kmf.plot()
 
 ![](https://lifelines.readthedocs.io/en/latest/_images/lifelines_intro_kmf_fitter.png)
 
+```
+kmf.median_survival_time_
+#   4.0
+```
+```
+from lifelines.utils import median_survival_times
+median_ci = median_survival_times(kmf.confidence_interval_)
+```
+We might be interested in estimating the probabilities in between some points. We can do that with the timeline argument. We specify the times we are interested in and are returned a DataFrame with the probabilities of survival at those points:
+
+```
+import numpy as np
+
+ax = plt.subplot(111)
+
+t = np.linspace(0, 50, 51)
+kmf.fit(T[dem], event_observed=E[dem], timeline=t, label="Democratic Regimes")
+ax = kmf.plot(ax=ax)
+
+kmf.fit(T[~dem], event_observed=E[~dem], timeline=t, label="Non-democratic Regimes")
+ax = kmf.plot(ax=ax)
+
+plt.title("Lifespans of different global regimes");
+```
+
+![](https://lifelines.readthedocs.io/en/latest/_images/lifelines_intro_multi_kmf_fitter_2.png)
+

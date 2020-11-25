@@ -7,3 +7,24 @@ The estimator of the survival function \\\(S(t)\\\) (the probability that life i
 $$ \widehat{S}(t)= \prod_{i: t_i \leq t} \left ( 1 - \frac{d_i}{n_i}  \right )$$
 
 with \\\( t_{i} \\\) a time when at least one event happened, \\\(d_i\\\)  the number of events (e.g., deaths) that happened at time \\\( t_{i}\\\), and \\\( n_{i}\\\) the individuals known to have survived (have not yet had an event or been censored) up to time \\\( t_{i}\\\).
+
+https://lifelines.readthedocs.io/en/latest/Survival%20analysis%20with%20lifelines.html
+
+```
+from lifelines import KaplanMeierFitter
+kmf = KaplanMeierFitter()
+
+```
+```
+T = data["duration"]
+E = data["observed"]
+
+kmf.fit(T, event_observed=E)
+```
+```
+from matplotlib import pyplot as plt
+
+
+kmf.survival_function_.plot()
+plt.title('Survival function of political regimes');
+```

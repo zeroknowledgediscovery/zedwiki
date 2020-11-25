@@ -4,6 +4,6 @@ The Kaplan–Meier estimator,[1][2] also known as the product limit estimator, i
 
 The estimator of the survival function \\\(S(t)\\\) (the probability that life is longer than \\\(t\\\) is given by:
 
-$$ \widehat{S}(t)=$$
+$$ \widehat{S}(t)= \prod_{i: t_i \leq t} \left ( 1 - \frac{d_i}{n_i}  \right )$$
 
-with \\\( t_{i} \\\) a time when at least one event happened, di the number of events (e.g., deaths) that happened at time \\\( t_{i}\\\), and \\\( n_{i}\\\) the individuals known to have survived (have not yet had an event or been censored) up to time \\\( t_{i}\\\).
+with \\\( t_{i} \\\) a time when at least one event happened, \\\(d_i\\\)  the number of events (e.g., deaths) that happened at time \\\( t_{i}\\\), and \\\( n_{i}\\\) the individuals known to have survived (have not yet had an event or been censored) up to time \\\( t_{i}\\\).

@@ -19,7 +19,7 @@ Single hash (#) is the top level, 2 hashes one level down etc.
 
 \\\( \alpha \\\)
 
-$$ \alpha + \bet $$
+$$ \alpha + \beta $$
 
 # Inserting Images and Links
 

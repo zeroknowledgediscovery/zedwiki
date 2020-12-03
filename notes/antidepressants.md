@@ -8,7 +8,10 @@ No consistent gender differences have been found in a number of variables includ
 
 *Important gender distinctions are also found in patterns of co-morbidity.*
 
-
+Finally, the three risk factors identified by
+Model 5 provide a negative predictive value of 0.96 but a positive
+predictive value of 0.25 only, thus they are useful only to exclude
+the risk of switch.
 
 ```
 @article{diflorio2010sex,

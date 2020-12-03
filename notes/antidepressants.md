@@ -1,7 +1,16 @@
 # Bupropion
 
+Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI).[12]
+
 Bupropion has several features that distinguish it from other antidepressants: for instance, unlike the majority of antidepressants, it does not usually cause sexual dysfunction.[26] Bupropion treatment also is not associated with the sleepiness or weight gain that may be produced by other antidepressants.[27] In depressed people who experience symptoms of sleepiness and fatigue, bupropion has been found to be more effective than selective serotonin reuptake inhibitors (SSRIs) in alleviating these symptoms.[28] There appears to be a modest advantage for the SSRIs over bupropion in the treatment of anxious depression.[29]
 ```
+%12
+@book{dwoskin2014emerging,
+  title={Emerging Targets and Therapeutics in the Treatment of Psychostimulant Abuse},
+  author={Dwoskin, Linda P},
+  year={2014},
+  publisher={Academic Press}
+}
 %26
 @article{clayton2003antidepressant,
   title={Antidepressant-associated sexual dysfunction: a potentially avoidable therapeutic challenge},

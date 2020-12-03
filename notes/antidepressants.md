@@ -1,3 +1,20 @@
+# gender diffrenced
+
+```
+@article{diflorio2010sex,
+  title={Is sex important? Gender differences in bipolar disorder},
+  author={Diflorio, Arianna and Jones, Ian},
+  journal={International review of psychiatry},
+  volume={22},
+  number={5},
+  pages={437--452},
+  year={2010},
+  publisher={Taylor \& Francis}
+}
+```
+
+
+
 # Bupropion
 
 Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI).[12]

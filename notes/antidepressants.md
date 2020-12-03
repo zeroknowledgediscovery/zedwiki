@@ -2,6 +2,10 @@
 
 Most studies, but not all, report an almost equal gender ratio in the prevalence of bipolar disorder but the majority of studies do report an increased risk in women of bipolar II/hypomania, rapid cycling and mixed episodes. 
 
+
+No consistent gender differences have been found in a number of variables including rates of depressive episodes, age and polarity of onset, symptoms, severity of the illness, response to treatment and suicidal behaviour. Unsurprisingly, however, perhaps the major distinction between men and women with bipolar disorder is the impact that reproductive life events, particularly childbirth, have on women with this diagnosis.
+
+
 *Important gender distinctions are also found in patterns of co-morbidity.*
 
 

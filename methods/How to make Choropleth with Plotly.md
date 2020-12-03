@@ -105,6 +105,5 @@ else:
 fig.show(config=config)
 ```
 
-
-Here is the code: [Choropleth_example.py](/uploads/choropleth_example.py)
-Here is the data: [Choropleth_example.csv](/uploads/choropleth_example.csv)
+* Here is the code: [Choropleth_example.py](/uploads/choropleth_example.py)
+* Here is the data: [Choropleth_example.csv](/uploads/choropleth_example.csv)

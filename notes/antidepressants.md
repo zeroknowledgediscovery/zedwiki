@@ -25,8 +25,25 @@ Bupropion has several features that distinguish it from other antidepressants: f
   publisher={Springer}
 }
 %28
-
+@article{baldwin2006symptoms,
+  title={Symptoms of fatigue and sleepiness in major depressive disorder.},
+  author={Baldwin, David S and Papakostas, George I},
+  journal={The Journal of clinical psychiatry},
+  volume={67},
+  pages={9--15},
+  year={2006}
+}
 %29
+@article{papakostas2008efficacy,
+  title={Efficacy of bupropion and the selective serotonin reuptake inhibitors in the treatment of major depressive disorder with high levels of anxiety (anxious depression): a pooled analysis of 10 studies.},
+  author={Papakostas, George I and Stahl, Stephen M and Krishen, Alok and Seifert, Cheryl A and Tucker, Vivian L and Goodale, Elizabeth P and Fava, Maurizio},
+  journal={Journal of Clinical Psychiatry},
+  volume={69},
+  number={8},
+  pages={1287--1292},
+  year={2008},
+  publisher={[Memphis, Tenn., Physicians Postgraduate Press]}
+}
 ```
 # escitalopram
  selected serotonin reuptake inhibitor SSRI 

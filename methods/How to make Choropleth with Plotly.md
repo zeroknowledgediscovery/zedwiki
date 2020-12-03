@@ -1,3 +1,4 @@
+## Resources
 First, let us start with some helpful manual webpages:
 
 1. [plotly Choropleth in general.](https://plotly.com/python/choropleth-maps/)
@@ -6,6 +7,7 @@ First, let us start with some helpful manual webpages:
 4. [Trace.](https://plotly.com/python/reference/choropleth/)
 4. [Color scale.](https://plotly.com/python/builtin-colorscales/)
 
+## Example
 Here is a minimal(ish) working example:
 
 I cut it up in parts to provide some explanation in between, I will link you to the full example code and data files by the end of this tutorial.
@@ -105,5 +107,7 @@ else:
 fig.show(config=config)
 ```
 
+
+## Downloads
 * Here is the code: [Choropleth_example.py](/uploads/choropleth_example.py)
 * Here is the data: [Choropleth_example.csv](/uploads/choropleth_example.csv)

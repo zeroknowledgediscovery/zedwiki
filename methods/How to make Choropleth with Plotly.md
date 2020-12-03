@@ -106,7 +106,7 @@ else:
     config = None
 fig.show(config=config)
 ```
-
+![choropleth_example](/uploads/choropleth_example.pdf)
 
 ## Downloads
 * Here is the code: [Choropleth_example.py](/uploads/choropleth_example.py)

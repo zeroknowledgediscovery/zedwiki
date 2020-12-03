@@ -1,3 +1,22 @@
+# trazodone good
+
+@article{wichniak2015low,
+  title={Low risk for switch to mania during treatment with sleep promoting antidepressants},
+  author={Wichniak, A and Jarkiewicz, M and Wierzbicka, A and Holka-Pokorska, J and Rybakowski, JK and others},
+  journal={Pharmacopsychiatry},
+  volume={25},
+  number={03},
+  pages={83--88},
+  year={2015},
+  publisher={{\copyright} Georg Thieme Verlag KG}
+}
+https://pubmed.ncbi.nlm.nih.gov/21870714/
+
+# SSRI bad
+
+Rashmi Patel, Peter Reiss, Hitesh Shetty, Matthew Broadbent, Robert Stewart, Philip McGuire, Matthew Taylor. Do antidepressants increase the risk of mania and bipolar disorder in people with depression? A retrospective electronic case register cohort study: Table 1. BMJ Open, 2015; 5 (12): e008341 DOI: 10.1136/bmjopen-2015-008341
+
+
 # gender diffrenced
 
 Most studies, but not all, report an almost equal gender ratio in the prevalence of bipolar disorder but the majority of studies do report an increased risk in women of bipolar II/hypomania, rapid cycling and mixed episodes. 

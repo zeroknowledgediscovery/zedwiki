@@ -1,8 +1,9 @@
 # gender diffrenced
 
 Most studies, but not all, report an almost equal gender ratio in the prevalence of bipolar disorder but the majority of studies do report an increased risk in women of bipolar II/hypomania, rapid cycling and mixed episodes. 
-** Important gender distinctions are also found in patterns of co-morbidity.
-**
+** Important gender distinctions are also found in patterns of co-morbidity.**
+
+
 
 ```
 @article{diflorio2010sex,

@@ -13,6 +13,24 @@ Model 5 provide a negative predictive value of 0.96 but a positive
 predictive value of 0.25 only, thus they are useful only to exclude
 the risk of switch.
 
+Limitations: Limitations of the present study should be mentioned. Firstly,
+switch from depression to mania was not directly reported in the
+CMF form thus it was derived from clinical status changes during
+follow-up. The CMF clinical status was based on several clinical
+evaluations of depressive and manic symptoms that were tested
+for being switch risk factors. In other words, no independent in-
+struments were used to assess the diagnosis of depression (that
+was used to build the dependent variable) and some of the clinical
+characteristics that were used as independent variables. Secondly,
+some possible stratification factors could have biased our results.
+In particular, the effect of drug doses and drug combinations was
+not included, as well as different bipolar spectrum diagnoses.
+Anyway, other studies focusing on the phenomenon of switch
+considered the diagnosis of manic/mixed episode as the inclusion
+criteria rather than a definite type of bipolar spectrum disorder
+(Vieta et al., 2009).
+
+
 ```
 @article{diflorio2010sex,
   title={Is sex important? Gender differences in bipolar disorder},

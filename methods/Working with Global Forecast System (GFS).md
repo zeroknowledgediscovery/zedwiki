@@ -23,11 +23,13 @@ After the order is done, you can find the download link at `Delievery Location`.
 
 [[/uploads/GFS_download_page.png|height=300px,alt=GFS download page]]
 
-Download one `tar` file, for example `gfs_3_2019010100.g2.tar`, and save it to a directory and in the directory run
+Now we can download one `tar` file, for example `gfs_3_2019010100.g2.tar`, and save it to a directory. To extract the tar file, in the directory, run
 ```
 $ tar -xf gfs_3_2019010100.g2.tar
 ```
-Each tar file contains many files, one for each horizon. For day 0 to day 9, GFS forecasts for every 3 hours, and for day 9 to day 15, every 12 hours. The file names last field is the prediction horizon in hours. 
+Each tar file contains many files, one for each horizon. 
+
+For day 0 to day 9, GFS forecasts for every 3 hours, and for day 9 to day 15, every 12 hours. The file names last field is the prediction horizon in hours. 
 
 In the example below, we will use the file `gfs_3_20190101_0000_384.grb2`, so download [here](/uploads/gfs_3_20190101_0000_384.grb2) if you want to try out the code.
 

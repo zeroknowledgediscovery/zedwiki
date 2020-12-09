@@ -63,15 +63,21 @@ with open('meta.csv', 'w') as handle:
 df = pd.read_csv('meta.csv', sep=':', header=None, index_col=0)
 df.columns = ['name', 'units', 'gridType', 'typeOfLevel', 'level', 'forecastTime', 'dataDate']
 df.to_csv('meta.csv', index=False)
-df.head()
+print(df.head())
 ```
 Output is:
+[[/uploads/GFS_meta_output.png|height=200px,alt=meta dataframe]]
 
-
-Use the following 
+We can get the visibility forecast (record 1) for North America with the following code.
 ```
 grb = grbs.message(1)
 print(grb)
 data, lats, lons = grb.data(lat1=20,lat2=70,lon1=220,lon2=320)
 ```
 Output: `1:Visibility:m (instant):regular_ll:surface:level 0:fcst time 384 hrs:from 201901010000`
+Note: the `lats` and `lons` are both 2d matrix, like the ones you get by running `numpy.meshgrid()`.
+
+
+# Download
+1. [Example data](/uploads/gfs_3_20190101_0000_384.grb2)
+2. Example code

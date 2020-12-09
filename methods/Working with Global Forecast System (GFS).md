@@ -80,4 +80,4 @@ Note: the `lats` and `lons` are both 2d matrix, like the ones you get by running
 
 # Download
 1. [Example data](/uploads/gfs_3_20190101_0000_384.grb2)
-2. Example code
+2. [Example code](/uploads/pygrib_example.py)

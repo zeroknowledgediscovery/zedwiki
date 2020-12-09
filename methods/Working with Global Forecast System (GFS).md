@@ -37,7 +37,7 @@ The GFS forecast is named as follows: `gfs_[grid type]_[forecast-on date YYYYMMD
 # The organization of a `grb` file
 The GFS forecast `grb` file is organized as follows: it records locations and values for many variables. Each record of a `grb` files is a 3-tuple: (variable description, locations (a 2d matrix), values (a 2d matrix)).
 
-# Process the `grb` file with python
+# Process `grb` file with python
 We first have to install a package that can process `grb` file. 
 ```
 $ python3 -m pip install --user pygrib

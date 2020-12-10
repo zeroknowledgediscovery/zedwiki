@@ -27,6 +27,8 @@
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
+File (here)[/uploads/ijerph-17-06963.pdf]
+
 ...the postnatal very preterm gut is colonised in a structured sequence by facultative anaerobes followed by obligate anaerobes. The initial class is Bacilli followed by a bloom of Gammaproteobacteria and finally an increase in Clostridia. There is a paucity of Lactobacillus,Bifidobacillus and the phyla Bacteroidetes and Actinobacteria. 
 + The final pattern is well established by 30 to 36 weeks corrected age. 
 + At phylum level, Firmicutes dominates at 1 week and Proteobacteria at 1 month. 
@@ -34,3 +36,4 @@
 + The Shannon diversity index ranges from 0.38 to 1.4 at 1 week, increases by 2 weeks and reaches 0.71 to 0.9 by 1 month.
 
 1. measure the Shannon diversity index
+

@@ -33,4 +33,4 @@
 + The prevalence of Firmicutes at 1 week is 0.65 decreasing to 0.32 by 1 month while Proteobacteria increases from 0.28 to 0.66 over the same period. 
 + The Shannon diversity index ranges from 0.38 to 1.4 at 1 week, increases by 2 weeks and reaches 0.71 to 0.9 by 1 month.
 
-** measure the Shannon diversity index**
+** measure the Shannon diversity index  **

@@ -53,3 +53,8 @@ File [here](/uploads/ijerph-17-06963.pdf)
 
 File [here](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0248-8)
 
+
+Microbial dysbiosis preceding NEC in preterm infants is characterized by increased relative abundances of Proteobacteria and decreased relative abundances of Firmicutes and Bacteroidetes. Microbiome optimization may provide a novel strategy for preventing NEC.
+
+
+

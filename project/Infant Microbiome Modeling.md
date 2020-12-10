@@ -37,3 +37,19 @@ File [here](/uploads/ijerph-17-06963.pdf)
 
 1. measure the Shannon diversity index
 
+```
+@article{pammi2017intestinal,
+  title={Intestinal dysbiosis in preterm infants preceding necrotizing enterocolitis: a systematic review and meta-analysis},
+  author={Pammi, Mohan and Cope, Julia and Tarr, Phillip I and Warner, Barbara B and Morrow, Ardythe L and Mai, Volker and Gregory, Katherine E and Kroll, J Simon and McMurtry, Valerie and Ferris, Michael J and others},
+  journal={Microbiome},
+  volume={5},
+  number={1},
+  pages={31},
+  year={2017},
+  publisher={Springer}
+}
+
+```
+
+File [here](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0248-8)
+

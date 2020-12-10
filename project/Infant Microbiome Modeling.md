@@ -27,7 +27,7 @@
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
-File (here)[/uploads/ijerph-17-06963.pdf]
+File [here](/uploads/ijerph-17-06963.pdf)
 
 ...the postnatal very preterm gut is colonised in a structured sequence by facultative anaerobes followed by obligate anaerobes. The initial class is Bacilli followed by a bloom of Gammaproteobacteria and finally an increase in Clostridia. There is a paucity of Lactobacillus,Bifidobacillus and the phyla Bacteroidetes and Actinobacteria. 
 + The final pattern is well established by 30 to 36 weeks corrected age. 

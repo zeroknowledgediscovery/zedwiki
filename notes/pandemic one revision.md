@@ -76,6 +76,23 @@ eventually caused the severe acute respiratory syndrome out-
 break.
 
 
+## Of Mice and men: the coronavirus MHV and mouse models
+
+```
+@article{korner2020mice,
+  title={Of Mice and men: the coronavirus MHV and mouse models as a translational approach to understand SARS-CoV-2},
+  author={K{\"o}rner, Robert W and Majjouti, Mohamed and Alcazar, Miguel A Alejandre and Mahabir, Esther},
+  journal={Viruses},
+  volume={12},
+  number={8},
+  pages={880},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
+
+As with SARS-CoV, SARS-CoV-2 was first described in persons who were exposed to a live-animal market 
+in China [15]. In the case of SARS-CoV SARS-like coronaviruses were isolated from Himalayan palm civets (Paguma larvata) and a raccoon dog (Nyctereutes procyonoides) from live-animal markets but not in the wild. It was suspected that civets and raccoon dogs served as intermediate hosts but bats were proposed to be the natural reservoir hosts of SARS-CoV. SARS-like coronaviruses with a broad genetic spectrum were isolated from Chinese horseshoe bats (Rhinolophus sinicus). SARS-CoV-2 is 96% identical at the whole genome level to a bat coronavirus (RaTG13) and shares 79.6% sequence identity to SARS-CoV [13]. Apart from the strong evidence that SARS-CoV-2 also originated in bats [10,13], it remains unclear how the bat-human transmission occurred. Pangolins have been considered as potential intermediate hosts [16]. Interestingly, SARS-CoV-2-related coronaviruses in pangolins show an 85.5% to 92.4% sequence similarity to SARS-CoV-2 at the whole genome level [16] and a 97.4% amino acid similarity in the RBD of SARS-CoV-2. However, the remainder of the genome of SARS-CoV-2 is more closely related to the bat coronavirus RaTG13 [16]. As with SARS-CoV, the RaTG13 and the examined pangolin coronaviruses also lack the furin-like cleavage site in the S protein. This polybasic cleavage site might have facilitated the rapid spread of SARS-CoV-2 in the human population [16]. After all, the exact route of transmission from natural reservoirs to humans remains speculative.
 
 
 

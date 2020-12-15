@@ -1,5 +1,17 @@
 ## COVID-19 infection: Origin, transmission, and characteristics of human
 coronaviruses
+```
+@article{shereen2020covid,
+  title={COVID-19 infection: Origin, transmission, and characteristics of human coronaviruses},
+  author={Shereen, Muhammad Adnan and Khan, Suliman and Kazmi, Abeer and Bashir, Nadia and Siddique, Rabeea},
+  journal={Journal of Advanced Research},
+  year={2020},
+  publisher={Elsevier}
+}
+```
+
+
+
 
 ![]( /uploads/covtran.png)
 

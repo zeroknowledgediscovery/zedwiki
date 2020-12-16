@@ -258,4 +258,31 @@ substitution rates, base frequencies can vary.
 - GTR: General Time Reversible (Lanave et al. 1984) Six classes of substitutions, base
 frequencies vary. 
 
+## Supposed advantages.
+- Appropriate for simple data like DNA sequences, where we can reasonably model the largely
+stochastic processes, i.e. a statistical description of the stochastic processes.
+- lower variance than other methods (i.e. estimation method least affected by sampling error)
+- robust to many violations of the assumptions in the evolutionary model, even with very short
+sequences it may outperform alternative methods such as parsimony or distance methods.
+- the method is statistically well understood
+- has explicit model of evolution that you can make fit the data
+- evaluate different tree topologies (vs. NJ)
+- use all the sequence information (vs. Distance)
+- better accounting for branch lengths, e.g. incorporates “multiple hits” thereby providing more
+realistic branch length and reducing the region of LBA. Also, information is derived from sites
+that would be uninformative under parsimony.
 
+## Supposed disadvantages.
+- very computationally intensive and so slow (though this is becoming much less of an issue)
+- Apparently susceptible to asymmetrical presence of data in partitions (see Simmons, M.P., 2011.
+Misleading results of likelihood-based phylogenetic analyses in the presence of missing data. Cladistics.
+27:1-15.)
+- the result is dependent on the model used and information is derived from sites that are
+uninformative under parsimony is only due to the model used.
+- questionably applicable to complex data like morphology given the difficulty of modeling the
+numerous processes
+- philosophically less well established, especially in terms the applicability of probabilities and
+statistical measures of unique historical events (vs. Parsimony as a general principle). This is a
+fundamental distinction between reconstruction and estimation, e.g. “Although the true phylogeny
+maybe “unknowable” it can nonetheless be estimated…” Phylogenetic Inference", Swofford, Olsen,
+Waddell, and Hillis, in Molecular Systematics, 2nd ed., Sinauer Ass., Inc., 1996, Ch. 11. 

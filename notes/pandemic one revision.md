@@ -234,4 +234,28 @@ tance between populations of 4.57 ± 0.61 AAs.
 
 http://ib.berkeley.edu/courses/ib200a/lect/ib200a_lect11_Will_likelihood.pdf
 
+Among-Site Rate Variation (Γ)
+The starting hypothesis is that all sites are assumed to have equal rates of substitution. This
+assumption can be relaxed, allowing rates to differ across sites by having rates drawn from a
+gamma distribution. The gamma is useful as its shape parameter (ά) has a strong influence on the
+values in the distribution. 
+
+Choosing a model:
+As you might imagine, there are many models already available (ModelTest discussed below
+looks at 56!!) and an effectively infinite number are possible. How can one choose?
+The program ModelTest (Posada & Crandal 1998) uses log likelihood scores to establish the
+model that best fits the data. Goodness of fit is tested using the likelihood ratio score. 
+
+## Some typical models.
+
+- JC, Jukes & Cantor (1969): all substitutions are equal and all base frequencies are equal. Most
+restrictive.
+- F81, Felsenstein (1981): all substitutions are equal, base frequencies can vary.
+-K2P, Kimura 2 parameter, Kimura (1980): Transitions and transversions have different
+substitution rates, base frequencies are assumed equal.
+-HKY85, Hasegawa-Kishino-Yano (1985): Transitions and transversions have different
+substitution rates, base frequencies can vary.
+-GTR: General Time Reversible (Lanave et al. 1984) Six classes of substitutions, base
+frequencies vary. 
+
 

@@ -199,5 +199,28 @@ or log 2 titer distance from HI measurements.
 
 + Increased antigenic drift relative to previously circulating strains is expected to correspond to increased viral fitness.
 + Mutational load estimates functional constraint by measuring the number of putatively deleterious mutations that have accumulated in each strain since their ancestor in the previous season. 
-+ DMS mutational effects provide a more comprehensive biophysical model of functional constraint by measuring the beneficial or deleterious effect of each possible single amino acid mutation in HA from the background of a previous
-vaccine strain, A/Perth/16/2009.
++ DMS mutational effects provide a more comprehensive biophysical model of functional constraint by measuring the beneficial or deleterious effect of each possible single amino acid mutation in HA from the background of a previous vaccine strain, A/Perth/16/2009.
++ The growth metrics estimate how successful populations of strains have been in the last six months based on either rapid branching in the phylogeny (LBI) or the change in clade frequencies over time (delta frequency).
++ We fit models for individual fitness metrics and combinations of metrics that we anticipated would be mutually beneficial. For each model, we learned coefficient(s) that minimized the earth mover’s distance between HA amino acid sequences from the observed population one year in the future and the estimated population produced by the fitness model (Equation 2).
+
+---
+
+## How are future strains being calculated? Not clear
+
++ it seems that whole strains must already exist. (of course NOONE can predict a new strain), and then apply growth dynamics
+
+## Still measure closeness in AA metric
+
+As expected, the true fitness model outperformed all other models, estimating a future popula-
+tion within 6.82 ± 1.52 amino acids (AAs) of the observed future and surpassing the naive model in
+32 (97%) of 33 timepoints (Figure 4, Table 4). Although the true fitness model performed better
+than the naive model’s average distance of 8.97 ± 1.35 AAs, it did not reach the closest possible dis-
+tance between populations of 4.57 ± 0.61 AAs.
+
+-----
+
+
+
+
+
+

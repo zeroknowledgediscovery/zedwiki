@@ -230,7 +230,7 @@ tance between populations of 4.57 ± 0.61 AAs.
 + impact of indels
 + IRAT
 
-# ML phylogeny
+## ML phylogeny
 
 http://ib.berkeley.edu/courses/ib200a/lect/ib200a_lect11_Will_likelihood.pdf
 
@@ -246,7 +246,7 @@ looks at 56!!) and an effectively infinite number are possible. How can one choo
 The program ModelTest (Posada & Crandal 1998) uses log likelihood scores to establish the
 model that best fits the data. Goodness of fit is tested using the likelihood ratio score. 
 
-## Some typical models.
+### Some typical models.
 
 - JC, Jukes & Cantor (1969): all substitutions are equal and all base frequencies are equal. Most
 restrictive.
@@ -258,7 +258,7 @@ substitution rates, base frequencies can vary.
 - GTR: General Time Reversible (Lanave et al. 1984) Six classes of substitutions, base
 frequencies vary. 
 
-## Supposed advantages.
+#### Supposed advantages.
 - Appropriate for simple data like DNA sequences, where we can reasonably model the largely
 stochastic processes, i.e. a statistical description of the stochastic processes.
 - lower variance than other methods (i.e. estimation method least affected by sampling error)
@@ -272,7 +272,7 @@ sequences it may outperform alternative methods such as parsimony or distance me
 realistic branch length and reducing the region of LBA. Also, information is derived from sites
 that would be uninformative under parsimony.
 
-## Supposed disadvantages.
+#### Supposed disadvantages.
 - very computationally intensive and so slow (though this is becoming much less of an issue)
 - Apparently susceptible to asymmetrical presence of data in partitions (see Simmons, M.P., 2011.
 Misleading results of likelihood-based phylogenetic analyses in the presence of missing data. Cladistics.
@@ -302,6 +302,6 @@ Waddell, and Hillis, in Molecular Systematics, 2nd ed., Sinauer Ass., Inc., 1996
 }
 ```
 
-# IRAT
+### IRAT
 
 https://www.cdc.gov/flu/pdf/pandemic-resources/cd-irat-validation-report.pdf

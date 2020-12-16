@@ -305,3 +305,9 @@ Waddell, and Hillis, in Molecular Systematics, 2nd ed., Sinauer Ass., Inc., 1996
 ## IRAT
 
 https://www.cdc.gov/flu/pdf/pandemic-resources/cd-irat-validation-report.pdf
+
+## Coding
+
++ make table/csv comparing naive baseline (predict last season's strain)
++ add IRAT results
+

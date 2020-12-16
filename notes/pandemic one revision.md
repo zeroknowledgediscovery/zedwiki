@@ -286,3 +286,18 @@ statistical measures of unique historical events (vs. Parsimony as a general pri
 fundamental distinction between reconstruction and estimation, e.g. “Although the true phylogeny
 maybe “unknowable” it can nonetheless be estimated…” Phylogenetic Inference", Swofford, Olsen,
 Waddell, and Hillis, in Molecular Systematics, 2nd ed., Sinauer Ass., Inc., 1996, Ch. 11. 
+
+
+```
+
+@article{simmons2012misleading,
+  title={Misleading results of likelihood-based phylogenetic analyses in the presence of missing data},
+  author={Simmons, Mark P},
+  journal={Cladistics},
+  volume={28},
+  number={2},
+  pages={208--222},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+```

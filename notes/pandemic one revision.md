@@ -301,3 +301,7 @@ Waddell, and Hillis, in Molecular Systematics, 2nd ed., Sinauer Ass., Inc., 1996
   publisher={Wiley Online Library}
 }
 ```
+
+# IRAT
+
+https://www.cdc.gov/flu/pdf/pandemic-resources/cd-irat-validation-report.pdf

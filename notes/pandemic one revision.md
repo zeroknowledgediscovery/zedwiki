@@ -141,3 +141,30 @@ portion of aligned sequences (Rota et al., 2003; Eickmann et al., 2003; Marra et
 However, other sequences including those coding for Nsp 3 and 12 and the S protein show
 combined origins from other groups. For example, half of S1 domain of the S protein is partly related to
 the MHV, whereas the remaining sequence is related to HCoV-229E. (note MHV is murive hep)
+
+
+# Integrating genotypes and phenotypes improves long-term forecasts of seasonal influenza A/H3N2 evolution
+
+```
+@article{huddleston2020integrating,
+  title={Integrating genotypes and phenotypes improves long-term forecasts of seasonal influenza A/H3N2 evolution},
+  author={Huddleston, John and Barnes, John R and Rowe, Thomas and Xu, Xiyan and Kondor, Rebecca and Wentworth, David E and Whittaker, Lynne and Ermetal, Burcu and Daniels, Rodney Stuart and McCauley, John W and others},
+  journal={Elife},
+  volume={9},
+  pages={e60067},
+  year={2020},
+  publisher={eLife Sciences Publications Limited}
+}
+```
+
+Despite the promise of these sequence-only models, they explicitly omit experimental measure-
+ments of antigenic or functional phenotypes. Recent developments in computational methods and
+influenza virology have made it feasible to integrate these important metrics of influenza fitness into
+a single predictive model. For example, phenotypic measurements of antigenic drift are now accessi-
+ble through phylogenetic models (Neher et al., 2016) and functional phenotypes for HA are avail-
+able from deep mutational scanning (DMS) experiments (Lee et al., 2018). We describe an
+approach to integrate previously disparate sequence-only models of influenza evolution with high-
+quality experimental measurements of antigenic drift and functional constraint.
+
+**Are DMS values publicaly available for sequences?**
+

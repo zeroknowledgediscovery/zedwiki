@@ -230,6 +230,8 @@ tance between populations of 4.57 ± 0.61 AAs.
 + impact of indels
 + IRAT
 
+# ML phylogeny
 
+http://ib.berkeley.edu/courses/ib200a/lect/ib200a_lect11_Will_likelihood.pdf
 
 

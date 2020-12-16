@@ -219,7 +219,16 @@ tance between populations of 4.57 ± 0.61 AAs.
 
 -----
 
+# Revision points
 
++ Maximum likelihood phylogenies
++ Other genetic distances
++ SARS2 writeup in context
++ have last years dominant strain as prediction (naive baseline)
++ impact of clades
++ impact of misalignment
++ impact of indels
++ IRAT
 
 
 

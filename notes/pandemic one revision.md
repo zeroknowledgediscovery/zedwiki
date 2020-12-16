@@ -251,11 +251,11 @@ model that best fits the data. Goodness of fit is tested using the likelihood ra
 - JC, Jukes & Cantor (1969): all substitutions are equal and all base frequencies are equal. Most
 restrictive.
 - F81, Felsenstein (1981): all substitutions are equal, base frequencies can vary.
--K2P, Kimura 2 parameter, Kimura (1980): Transitions and transversions have different
+- K2P, Kimura 2 parameter, Kimura (1980): Transitions and transversions have different
 substitution rates, base frequencies are assumed equal.
--HKY85, Hasegawa-Kishino-Yano (1985): Transitions and transversions have different
+- HKY85, Hasegawa-Kishino-Yano (1985): Transitions and transversions have different
 substitution rates, base frequencies can vary.
--GTR: General Time Reversible (Lanave et al. 1984) Six classes of substitutions, base
+- GTR: General Time Reversible (Lanave et al. 1984) Six classes of substitutions, base
 frequencies vary. 
 
 

@@ -166,5 +166,38 @@ able from deep mutational scanning (DMS) experiments (Lee et al., 2018). We desc
 approach to integrate previously disparate sequence-only models of influenza evolution with high-
 quality experimental measurements of antigenic drift and functional constraint.
 
+
+Current vaccine predictions focus on the hemagglutinin (HA) protein, which acts as the primary
+target of human immunity. Until recently, the hemagglutination inhibition (HI) assay has been the pri-
+mary experimental measure of antigenic cross-reactivity between pairs of circulating viruses
+(Hirst, 1943). Most modern H3N2 strains carry a glycosylation motif that reduces their binding effi-
+ciency in HI assays (Chambers et al., 2015; Zost et al., 2017), prompting the increased use of virus
+neutralization assays including the neutralization-based focus reduction assay (FRA) (Okuno et al.,
+1990). Together, these two assays are the gold standard in virus antigenic characterizations for vac-
+cine strain selection, but they are laborious and low-throughput compared to genome sequencing
+(Wood et al., 2012). **As a result, researchers have developed computational methods to predict influenza evolution from sequence data alone (Luksza and Lässig, 2014; Steinbrück et al., 2014; Neher et al., 2014).**
+
 **Are DMS values publicaly available for sequences?**
 
+## clades issue
+
+I dont belive this is an issue. Clades only help in prediction. One is saying that 
+there are subgroups A and B, and A' is more likely from A and B' from B. So what?
+We can incorporate these to make better predictions though
+
+
++ We estimated viral fitness with biologically-informed metrics including those originally defined by
+Luksza and Lässig, 2014 of epitope antigenic novelty and mutational load (non-epitope mutations)
+as well as four more recent metrics including hemagglutination inhibition (HI) antigenic novelty
+(Neher et al., 2016), deep mutational scanning (DMS) mutational effects (Lee et al., 2018), local
+branching index (LBI) (Neher et al., 2014), and change in clade frequency over time (delta fre-
+quency) (Table 1). 
++ All of these metrics except for HI antigenic novelty and DMS mutational effects
+rely only on HA sequences. The antigenic novelty metrics estimate how antigenically distinct each
+strain at time t is from previously circulating strains based on either genetic distance at epitope sites
+or log 2 titer distance from HI measurements.
+
++ Increased antigenic drift relative to previously circulating strains is expected to correspond to increased viral fitness.
++ Mutational load estimates functional constraint by measuring the number of putatively deleterious mutations that have accumulated in each strain since their ancestor in the previous season. 
++ DMS mutational effects provide a more comprehensive biophysical model of functional constraint by measuring the beneficial or deleterious effect of each possible single amino acid mutation in HA from the background of a previous
+vaccine strain, A/Perth/16/2009.

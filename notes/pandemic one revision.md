@@ -311,3 +311,4 @@ https://www.cdc.gov/flu/pdf/pandemic-resources/cd-irat-validation-report.pdf
 + make table/csv comparing naive baseline (predict last season's strain)
 + add IRAT results
 + correct loglikelihood values? should we do it?
++ redraw phylogeny in star mode to show that rats are further apart

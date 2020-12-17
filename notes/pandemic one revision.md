@@ -312,3 +312,19 @@ https://www.cdc.gov/flu/pdf/pandemic-resources/cd-irat-validation-report.pdf
 + add IRAT results
 + correct loglikelihood values? should we do it?
 + redraw phylogeny in star mode to show that rats are further apart
+
+
+---
+
+## What is involved to update Theorem 1
+
+
+
+
+
+
+
+
+
+
+

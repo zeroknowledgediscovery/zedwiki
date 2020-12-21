@@ -306,3 +306,58 @@ for PubmedArticle in root.iter('PubmedArticle'):
     print('}')
 
 ```
+
+```
+
+def fancyPivot(df,INDEX=None,COLUMN=None,
+               SUBINDEX=None,STRL=None,
+              HFORMAT='\\bf\\sffamily',
+              FONTSMALL='\\fontsize{8}{8}\\selectfont'):
+    vI=df[INDEX].value_counts().index.values
+    vC=df[COLUMN].value_counts().index.values
+    D={}
+    for i in vI:
+        for c in vC:
+            df_=df[(df[INDEX]==i) & (df[COLUMN]==c)].drop([INDEX,COLUMN],axis=1).set_index(SUBINDEX)
+            D[(i,c)]=df_
+            subcols=len(df_.columns)+1
+            subrows=len(df_.index.values)+1
+    Tcols=len(vC)*subcols+1
+    Trows=len(vI)*subrows
+    
+    STR='\\begin{tabular}{'
+    
+    if STRL is None:
+        STR=STR+'L{1in}||'
+        for i in np.arange(len(vC)):
+            STR=STR+'L{.7in}'*(subcols)  +'|'
+        STR=STR[:-1]+'}'
+    else:
+        STR=STR+STRL+'}'
+        
+    S2='\\hline'
+    for i in vC:
+        S2=S2+'&'+'\multicolumn{'+str(subcols)+'}{c}{'+HFORMAT+FONTSMALL+' '+i+'}'
+    S2=S2+'\\\\\\cline{2-7}'
+    
+    for i in vI:
+        S2=S2+'\multirow{'+str(subrows)+'}{*}{'+HFORMAT+FONTSMALL+' '+i+'}&'+'\n'
+        for c in vC:
+            S2=S2+'&'
+            for cc in df_.columns:
+                S2=S2+HFORMAT+FONTSMALL+' '+cc+'&'
+        S2=S2[:-1]+'\\\\\cline{2-7}'
+        for r in df_.index:
+            S2=S2+'\multirow{'+str(subrows)+'}{*}{}&'
+            for c in vC:
+                S2=S2+r+'&'
+                for cc in df_.columns:
+                    S2=S2+"{:3.3f}".format(D[(i,c)].loc[r,cc])+'&'
+            S2=S2[:-1]+'\\\\'
+        S2=S2+'\\hline'
+    
+    return STR+S2+'\\end{tabular}'
+
+```
+
+

@@ -307,6 +307,8 @@ for PubmedArticle in root.iter('PubmedArticle'):
 
 ```
 
+# Fancy Pivot to Latex
+
 ```
 
 def fancyPivot(df,INDEX=None,COLUMN=None,

@@ -258,4 +258,4 @@ rgb255(9cm)=(211,60,78);
 rgb255(10cm)=(158,1,66);
 ```
 
-[[/uploads/GFS_AIRS.png|height=400px,alt=GFS AIRS Request submission page]]
+[[/uploads/wiki_colorbar_get_color_strings_for_latex.png|height=200px,alt=output_getting_color_strings_for_latex]]

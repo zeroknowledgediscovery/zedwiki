@@ -1,6 +1,6 @@
-# Next Steps
+# Next Steps @Lynn
 
-* replicate the 29 biomes for data2 that we have for data1
+* Replicate the 29 biomes for data2 that we have for data1
 * Time series forecasting for all biomes for data1 and data2
 * Keep track of which biomes have more/less data
 * Check if qnet for data2 is generated at higher p-value
@@ -8,7 +8,7 @@
 
 ---
 
-# Organize Pipeline
+# Organize Pipeline @Alice
 
 Write python classes for the following: 
 

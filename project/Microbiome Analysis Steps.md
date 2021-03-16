@@ -20,6 +20,7 @@ If  "masking check" then
 --> "Forecaster"
 else
 --> "hypothesis generator"
+Endif
 --> (*)
 
 @enduml

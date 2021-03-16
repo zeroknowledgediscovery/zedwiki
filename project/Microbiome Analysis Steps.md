@@ -28,7 +28,6 @@ zb.quantize(numlevels=5)
 zb.qnet()
 df=zb.masked_runs(biomes='all')
 ef=zb.forecast(biomes='all',sampleid='all',observation_periods=4)
-```
 zb.generate_hypothesis(time,causality_window)
-
+```
 

@@ -12,7 +12,11 @@
 
 
 @startuml
-Alice -> Bob
+
+(*) --> "First Action"
+-->[You can put also labels] "Second Action"
+--> (*)
+
 @enduml
 
 Write python classes for the following: 

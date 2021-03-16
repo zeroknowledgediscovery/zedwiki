@@ -13,8 +13,13 @@
 
 @startuml
 
-(*) --> "First Action"
--->[You can put also labels] "Second Action"
+(*) --> "Data Formatting"
+-->[You can put also labels] "Quantization"
+-->[You can put also labels] "Qnet generation"
+If  "masking check" then
+--> "Forecaster"
+else
+--> "hypothesis generator"
 --> (*)
 
 @enduml

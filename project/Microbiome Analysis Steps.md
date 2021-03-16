@@ -14,14 +14,13 @@
 @startuml
 
 (*) --> "Data Formatting"
--->[You can put also labels] "Quantization"
--->[You can put also labels] "Qnet generation"
+-->[generate qunatization map] "Quantization"
+-->[find right p-value] "Qnet generation"
 If  "masking check" then
 --> "Forecaster"
 else
 --> "hypothesis generator"
 Endif
---> (*)
 
 @enduml
 

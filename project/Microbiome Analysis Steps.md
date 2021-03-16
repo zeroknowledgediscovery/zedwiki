@@ -4,7 +4,7 @@
 * Time series forecasting for all biomes for data1 and data2
 * Keep track of which biomes have more/less data
 * Check if qnet for data2 is generated at higher p-value
-* Next level of microbiome organization: **Class Family Genus**
+* Next levels of microbiome organization: **Genus**
 
 ---
 

@@ -10,6 +10,11 @@
 
 # Organize Pipeline @Alice
 
+
+@startuml
+Alice -> Bob
+@enduml
+
 Write python classes for the following: 
 
 1. Data formatting  

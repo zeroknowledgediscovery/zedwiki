@@ -40,7 +40,7 @@ import zbiome as zb
 zb.getdata(filepath,tax='phylum')
 zb.quantize(numlevels=5)
 zb.qnet(significance_level=0.9)
-df=zb.masked_runs(biomes='all')
+df=zb.masked_runs(biomes='all',mask_percentage=10)
 ef=zb.forecast(biomes='all',sampleid='all',observation_periods=4)
 zb.generate_hypothesis(time,causality_window)
 ```

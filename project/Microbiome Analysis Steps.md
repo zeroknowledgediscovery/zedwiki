@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/zeroknowledgediscovery/course_notes/master/dat
 import zbiome as zb
 zb.getdata(filepath,tax='phylum')
 zb.quantize(numlevels=5)
-zb.qnet()
+zb.qnet(significance_level=0.9)
 df=zb.masked_runs(biomes='all')
 ef=zb.forecast(biomes='all',sampleid='all',observation_periods=4)
 zb.generate_hypothesis(time,causality_window)

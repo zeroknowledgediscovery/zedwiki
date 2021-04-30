@@ -55,7 +55,13 @@ Use \$\$ \$\$ for block equations or backslash bracket  for inline
 pdoc --html hypothesis/ -o docs/ -c latex_math=True -f --template-dir custom_templates/
 ```
 
-where we first copy the contents of the dfault pdoc/templates to custim_templates, and then use this as the css.mako [css.mako](http://34.66.189.202:4567/uploads/css.mako/3e814aa20e8b7ce8d029eeb632da5f1d549df3a9)
-
+where we first copy the contents of the dfault pdoc/templates to custim_templates, and then use this  [css.mako](http://34.66.189.202:4567/uploads/css.mako/3e814aa20e8b7ce8d029eeb632da5f1d549df3a9). You can update the logo.mako as 
+```
+<img src="logo.png" alt="drawing" style="width:400px;"/>
+```
+and the credits.mako as 
+```
+Author: Lynn Zheng, Jin Li and Ishanu Chattopadhyay <a href="https://zed.uchicago.edu"> Zero Knowledge Discovery, University of Chicago</a>. Email: ishanu@uchicago.edu
+```
 
 This creates a directory `docs/qbiome`. Host `docs/qbiome/index.html` on GitHub Pages and you have your documentation website.

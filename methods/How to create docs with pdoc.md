@@ -41,4 +41,13 @@ Say me code lives in a directory called `qbiome`. Run the command below:
 pdoc --html qbiome/ --output-dir docs --force
 ```
 
+# Adding mathematical equations
+
+```
+pdoc --html dir/ -o docs/ -c latex_math=True -f
+```
+
+Use $$ $$ for block equations or \( \) for inline
+
+
 This creates a directory `docs/qbiome`. Host `docs/qbiome/index.html` on GitHub Pages and you have your documentation website.

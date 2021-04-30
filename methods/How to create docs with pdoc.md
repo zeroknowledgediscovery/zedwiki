@@ -47,11 +47,15 @@ pdoc --html qbiome/ --output-dir docs --force
 pdoc --html dir/ -o docs/ -c latex_math=True -f
 ```
 
-Use \$\$ \$\$ for block equations or 
+Use \$\$ \$\$ for block equations or backslash bracket  for inline
 
-> \( \)
+# Dark mode
 
- for inline
+```
+pdoc --html hypothesis/ -o docs/ -c latex_math=True -f --template-dir custom_templates/
+```
+
+where we first copy the contents of the dfault pdoc/templates to custim_templates, and then 
 
 
 This creates a directory `docs/qbiome`. Host `docs/qbiome/index.html` on GitHub Pages and you have your documentation website.

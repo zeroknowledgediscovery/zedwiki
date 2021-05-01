@@ -51,6 +51,8 @@ Use \$\$ \$\$ for block equations or backslash bracket  for inline
 
 # Dark mode
 
+To get dark mode (see example [here](/uploads/hypothesis.html)):
+
 ```
 pdoc --html hypothesis/ -o docs/ -c latex_math=True -f --template-dir custom_templates/
 ```

@@ -311,9 +311,19 @@ for PubmedArticle in root.iter('PubmedArticle'):
 
 ```
 
+def chk(val,FLAG=True):
+    if FLAG:
+        if not isinstance(val, str):
+            val=str(val)
+            if len(val) > 4:
+                return val[:4]
+    return val
+        
+
+
 def fancyPivot(df,INDEX=None,COLUMN=None,
-               SUBINDEX=None,STRL=None,
-              HFORMAT='\\bf\\sffamily',
+               SUBINDEX=None,STRL=None,FLAG=False,
+              HFORMAT='\\bf\\sffamily ',
               FONTSMALL='\\fontsize{8}{8}\\selectfont'):
     vI=df[INDEX].value_counts().index.values
     vC=df[COLUMN].value_counts().index.values
@@ -321,6 +331,8 @@ def fancyPivot(df,INDEX=None,COLUMN=None,
     for i in vI:
         for c in vC:
             df_=df[(df[INDEX]==i) & (df[COLUMN]==c)].drop([INDEX,COLUMN],axis=1).set_index(SUBINDEX)
+            df_.index.name=SUBINDEX
+            df_=df_.sort_index()
             D[(i,c)]=df_
             subcols=len(df_.columns)+1
             subrows=len(df_.index.values)+1
@@ -340,26 +352,25 @@ def fancyPivot(df,INDEX=None,COLUMN=None,
     S2='\\hline'
     for i in vC:
         S2=S2+'&'+'\multicolumn{'+str(subcols)+'}{c}{'+HFORMAT+FONTSMALL+' '+i+'}'
-    S2=S2+'\\\\\\cline{2-7}'
+    S2=S2+'\\\\\\cline{2-'+str((len(df.columns)-2)*2+1)+'}'
     
     for i in vI:
         S2=S2+'\multirow{'+str(subrows)+'}{*}{'+HFORMAT+FONTSMALL+' '+i+'}&'+'\n'
         for c in vC:
-            S2=S2+'&'
+            S2=S2+HFORMAT+SUBINDEX+'&'
             for cc in df_.columns:
                 S2=S2+HFORMAT+FONTSMALL+' '+cc+'&'
-        S2=S2[:-1]+'\\\\\cline{2-7}'
+        S2=S2[:-1]+'\\\\\cline{2-'+str((len(df.columns)-2)*2+1)+'}'
         for r in df_.index:
             S2=S2+'\multirow{'+str(subrows)+'}{*}{}&'
             for c in vC:
                 S2=S2+r+'&'
                 for cc in df_.columns:
-                    S2=S2+"{:3.3f}".format(D[(i,c)].loc[r,cc])+'&'
+                    S2=S2+"{}".format(chk(D[(i,c)].loc[r,cc],FLAG))+'&'
             S2=S2[:-1]+'\\\\'
         S2=S2+'\\hline'
     
     return STR+S2+'\\end{tabular}'
-
 ```
 
 

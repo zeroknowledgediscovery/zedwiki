@@ -373,4 +373,12 @@ def fancyPivot(df,INDEX=None,COLUMN=None,
     return STR+S2+'\\end{tabular}'
 ```
 
+## Example use of fancy-pivot
 
+```
+BF1.columns=['target problem', 'gender', 'subcohort', 'auc', '\% change']
+s=fancyPivot(BF1,INDEX='target problem',COLUMN='gender',SUBINDEX='subcohort',STRL="L{.8in}||L{1in}C{.35in}R{.65in}|L{1in}C{.35in}R{.65in}")
+
+with open("../figfiles/tex/Figures/subcohort.tex", "w") as text_file:
+    text_file.write("%s" % s)
+```

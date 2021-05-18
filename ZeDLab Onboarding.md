@@ -18,3 +18,12 @@
     2. address/contact details
     3. Major/work-study details if applicable
 
+# Familiarity with the wiki 
+    This wiki.
+    Note: This is written in markdown
+    Note: Do not edit the header and sidebar please
+    **Please make pages with sercheable names on ony of the following**
+    + Any code snippets you might reuse
+    + Any methods/bugs you encounter
+    + Reading material that others might find useful
+    + Staging place for blog posts

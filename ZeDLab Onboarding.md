@@ -1,4 +1,5 @@
 # RCC Account
+    (after you get a uchicago id)
     Submit online form with PI-name: ishanu
     
 [https://rcc.uchicago.edu/accounts-allocations/request-account](https://rcc.uchicago.edu/accounts-allocations/request-account)

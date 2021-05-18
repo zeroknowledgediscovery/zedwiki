@@ -22,8 +22,18 @@
     This wiki.
     Note: This is written in markdown
     Note: Do not edit the header and sidebar please
-    **Please make pages with sercheable names on ony of the following**
-    + Any code snippets you might reuse
-    + Any methods/bugs you encounter
-    + Reading material that others might find useful
-    + Staging place for blog posts
+
+**Please make pages with sercheable names on ony of the following**
+
++ Any code snippets you might reuse
++ Any methods/bugs you encounter
++ Reading material that others might find useful
++ Staging place for blog posts
+
+# Familiarity with current publications from the lab
+
+https://zed.uchicago.edu/data/pub_drafts_/
+
+# Familiarity with presentations made from lab
+
+https://zed.uchicago.edu/presentations/

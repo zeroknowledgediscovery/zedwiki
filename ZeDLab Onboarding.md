@@ -1,3 +1,12 @@
+# University contact details to get on workday
+    email ishanu@uchicago.edu with:
+    1. Uchicago id if available
+    2. address/contact details including phnone number and current email
+    3. Major/work-study details if applicable
+    
+# Headshot
+    Please send a headshot to ishanu@uchicago.edu to include in the lab webpage
+
 # RCC Account
     (after you get a uchicago id)
     Submit online form with PI-name: ishanu
@@ -12,12 +21,6 @@
 # Github Account
     email ishanu@uchicago.edu with details
     1. github id
-
-# University contact details
-    email ishanu@uchicago.edu with:
-    1. Uchicago id
-    2. address/contact details
-    3. Major/work-study details if applicable
 
 # Familiarity with the wiki 
     This wiki.

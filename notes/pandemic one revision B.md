@@ -72,9 +72,77 @@ tion is the ease with which hypotheses can be formulated and tested.
 ```
 ## Genomic Classification Using an Information-Based Similarity Index: Application to the SARS Coronavirus
 
+Measures of genetic distance based on alignment methods are confined to studying sequences
+that are conserved and identifiable in all organisms under study. A number of alignment-free
+techniques based on either statistical linguistics or information theory have been developed to
+overcome the limitations of alignment methods. We present a novel alignment-free approach
+to measuring the similarity among genetic sequences that incorporates elements from both
+word rank order-frequency statistics and information theory.
+
+We have recently developed and validated a generic information-based similarity index to quantify
+the similarity between symbolic sequences. This method, which has been used for analysis of complex
+physiologic signals (Yang et al., 2003a) and literary texts (Yang et al., 2003b), can be readily adapted to
+genetic sequences by examining usages of n-tuple nucleotides (“words”). We first determine the frequencies
+for each n-tuple by applying a sliding window (moving one nucleotide/step) across the entire genome, and
+then rank each n-tuple according to its frequency in descending order. To compare the similarity between
+genetic sequences, we plot the rank number of each n-tuple in the first sequence against that of the
+second sequence.
+
+Produces phylogeny but not useful fot sampling or genertion/prediction of new sequences
 
 
 
+```
+@article{neher2014predicting,
+  title={Predicting evolution from the shape of genealogical trees},
+  author={Neher, Richard A and Russell, Colin A and Shraiman, Boris I},
+  journal={Elife},
+  volume={3},
+  pages={e03568},
+  year={2014},
+  publisher={eLife Sciences Publications Limited}
+}
+```
+## Predicting evolution from the shape of genealogical trees
 
+Given a sample of genome sequences from an asexual population, can one predict its
+evolutionary future? Here we demonstrate that the branching patterns of reconstructed genealogical
+trees contains information about the relative fitness of the sampled sequences and that this
+information can be used to predict successful strains. Our approach is based on the assumption
+that evolution proceeds by accumulation of small effect mutations, does not require species
+specific input and can be applied to any asexual population under persistent selection pressure.
+We demonstrate its performance using historical data on seasonal influenza A/H3N2 virus. We
+predict the progenitor lineage of the upcoming influenza season with near optimal performance in
+30% of cases and make informative predictions in 16 out of 19 years. Beyond providing a tool for
+prediction, our ability to make informative predictions implies persistent fitness variation among
+circulating influenza A/H3N2 viruses.
+
+A general method to predict the evolutionary trajectories of asexual populations would be extremely
+valuable for understanding the population dynamics of pathogens or of malignant cells. For example,
+the vaccine against seasonal influenza needs to be updated frequently since virus populations evolve
+to evade increasing immunity among humans (Hampson, 2002; Nelson and Holmes, 2007). Reliable
+prediction of the strains most likely to circulate in the upcoming season, and particularly the ability to
+predict antigenic change, would be transformative to the vaccine strain selection process.
+
+Predictability from genetic sequence data requires heritable fitness variation among the sampled
+sequences. Neutral evolution - population dynamics in the absence of selective pressure - is by defini-
+tion unpredictable: all sequences are equally fit. Yet even when selection determines the success of
+individual lineages, predictability depends on the effect size of fitness-altering mutations.
+
+# Integrating genotypes and phenotypes improves long-term forecasts of seasonal influenza A/H3N2 evolution
+
+```
+@article{huddleston2020integrating,
+  title={Integrating genotypes and phenotypes improves long-term forecasts of seasonal influenza A/H3N2 evolution},
+  author={Huddleston, John and Barnes, John R and Rowe, Thomas and Xu, Xiyan and Kondor, Rebecca and Wentworth, David E and Whittaker, Lynne and Ermetal, Burcu and Daniels, Rodney Stuart and McCauley, John W and others},
+  journal={Elife},
+  volume={9},
+  pages={e60067},
+  year={2020},
+  publisher={eLife Sciences Publications Limited}
+}
+```
+
+Integrates phenotypi information with sequnec edata. Only works fro flu, and results are crappy.
 
 

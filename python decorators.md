@@ -1,3 +1,5 @@
+# Decorators
+
 https://towardsdatascience.com/10-fabulous-python-decorators-ab674a732871
 ## @lru_cache
 
@@ -53,3 +55,7 @@ class Example:
 
 We also do not need to explicitly provide our class as an argument. The staticmethod decorator takes care of this for us.
 
+# Functools
+
+
+https://towardsdatascience.com/functools-an-underrated-python-package-405bbef2dd46

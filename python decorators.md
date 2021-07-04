@@ -45,7 +45,8 @@ In some cases, there might be circumstances where one might want to be able to a
 Using this decorator, we can make C++ static methods for working with our classes. Normally, methods that are written in the scope of a class will be private to that class, and not accessible unless called as a child. There are circumstances, however, where you might want to take a more functional approach with the way your methods interact with data. Using this decorator, we can create both options without the need for creating more than one function.
 class Example:
 
-```   @staticmethod
+```   
+@staticmethod
     def our_func(stuff):
         print(stuff)
 ```

@@ -1,4 +1,5 @@
 https://towardsdatascience.com/10-fabulous-python-decorators-ab674a732871
+## @lru_cache
 
 ```
 @lru_cache
@@ -9,7 +10,8 @@ def factorial(n):
 
 ---
 
-@dataclass
+## @dataclass
+
 One of the best decorators I utilize all the time in order to save time when writing classes is the dataclass decorator. This decorator can be used to quickly write common standard methods that are typically found in the classes that we write.
 
 ```
@@ -36,7 +38,8 @@ A very valid advantage to using this decorator is also that it avoids a lot of c
 
 ---
 
-@staticmethod
+## @staticmethod
+
 In some cases, there might be circumstances where one might want to be able to access things that are defined privately as in a more global sense. Sometimes we have functions that are contained within classes that we want to have methodized, and this is exactly what the staticmethod decorator is used for.
 
 

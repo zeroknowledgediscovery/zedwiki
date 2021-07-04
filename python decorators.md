@@ -23,6 +23,11 @@ class Food:
         
 ```
 
+Now we can create a new class by calling this constructor, like so:
+
+`carrot = Food("Carrot", .45, 25)
+`
+
 https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20DataClasses.ipynb
 
 A very valid advantage to using this decorator is also that it avoids a lot of clutter in classes. The example of assigning each individual value inside of a Python class to a member variable is actually incredibly common. There is not really a great reason to write an entire function with a ridiculous amount of `self.x = x` when this is entirely avoidable by simply using a decorator. This can also serve to make a class a lot more readable.

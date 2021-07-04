@@ -23,3 +23,5 @@ class Food:
         
 ```
 
+https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20DataClasses.ipynb
+

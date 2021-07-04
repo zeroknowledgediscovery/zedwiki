@@ -7,6 +7,7 @@ def factorial(n):
     
 ```
 
+---
 
 @dataclass
 One of the best decorators I utilize all the time in order to save time when writing classes is the dataclass decorator. This decorator can be used to quickly write common standard methods that are typically found in the classes that we write.
@@ -31,3 +32,11 @@ Now we can create a new class by calling this constructor, like so:
 https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Python%20DataClasses.ipynb
 
 A very valid advantage to using this decorator is also that it avoids a lot of clutter in classes. The example of assigning each individual value inside of a Python class to a member variable is actually incredibly common. There is not really a great reason to write an entire function with a ridiculous amount of `self.x = x` when this is entirely avoidable by simply using a decorator. This can also serve to make a class a lot more readable.
+
+
+---
+
+@staticmethod
+In some cases, there might be circumstances where one might want to be able to access things that are defined privately as in a more global sense. Sometimes we have functions that are contained within classes that we want to have methodized, and this is exactly what the staticmethod decorator is used for.
+
+

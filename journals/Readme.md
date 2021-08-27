@@ -52,10 +52,10 @@ jrvh1md@gmail.com
 sam.searle@nshealth.ca 
 
 > James Mastrianni
-jmast@neurology.bsd.uchicago.edu
+jmast@neurology.bsd.uchicago.edu, Professor of Neurology, Memory Center Director
 
 > Kenneth Rockwood
-Kenneth.Rockwood@dal.ca 
+Kenneth.Rockwood@dal.ca, Division of Geriatric Medicine , Department of Medicine , Department of Community Health and Epidemiology , School of Health Administration
 
 
 # Potential Reviewers

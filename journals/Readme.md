@@ -1,8 +1,6 @@
 # Journals
 
-## Cell 
-
-### STAR Methods
+## Cell STAR Methods
 
 
 # Authors

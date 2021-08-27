@@ -136,6 +136,8 @@ https://star-methods.com/
 
 https://www.cell.com/star-supplemental-information
 
+ The limit for the total number of supplemental items (figures + tables + additional SI items) is twice the number of main text items.
+
 + Supplemental figures with corresponding titles and legends and supplemental tables with
 corresponding titles and legends (non-Excel/CSV): combined in one PDF file: Titles should include “related to” info; legends are mandatory for supplemental figures but
 optional for supplemental tables

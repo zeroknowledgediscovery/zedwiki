@@ -32,6 +32,8 @@
 
 [General Notes](notes/Readme.md)
 
+[Journal Info for authors](journals/Readme.md)
+
 
 # All Pages
 

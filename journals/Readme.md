@@ -1,5 +1,10 @@
 # Journals
 
+## Cell 
+
+### STAR Methods
+
+
 # Authors
 
 > Jin Li

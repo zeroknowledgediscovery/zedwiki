@@ -1,6 +1,6 @@
 # Journals
 
-CELL.md
+[CELL](journals/CELL.md)
 
 # Authors
 

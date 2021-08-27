@@ -94,13 +94,13 @@ publication. DOIs are listed in the key resources table.
 Any additional information required to reanalyze the data
 reported in this paper is available from the lead contact upon request.
 
-### METHOD DETAILS
+## METHOD DETAILS
 
 All datasets, program code, and methods used in your manuscript must be appropriately cited in the text
 and listed in the references section, either in the form of the publications in which they were first reported
 or in the form of independent persistent identifiers such as the DOI.
 
-### QUANTIFICATION AND STATISTICAL ANALYSIS
+## QUANTIFICATION AND STATISTICAL ANALYSIS
 
 Statistical tests used, exact value of n, what n represents (e.g., number of
 animals, number of devices, number of cells, number of times a chemical reaction was run, etc.),
@@ -110,11 +110,11 @@ used to determine strategies for randomization and/or stratification, sample siz
 and exclusion of any data or subjects, as well as any methods used to determine whether the data met
 assumptions of the statistical approach.
 
-### ADDITIONAL RESOURCES 
+## ADDITIONAL RESOURCES 
 
 Omit unless clinical trial, or some other website membership
 
-### KEY RESOURCES TABLE
+## KEY RESOURCES TABLE
 
 The key resources table serves to highlight materials and resources (including starting materials needed
 for synthesis, genetically modified organisms and strains, cell lines, reagents, software, experimental
@@ -130,7 +130,7 @@ https://star-methods.com/
 
 ---
 
-## CELL Supplementary Information
+# CELL Supplementary Information
 
 https://www.cell.com/star-supplemental-information
 

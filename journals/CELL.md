@@ -2,7 +2,7 @@
 
 Title, authors, affiliations, author list footnotes, corresponding author(s) e-mail address(es), summary, introduction, results, discussion, acknowledgments, author contributions, declaration of interests, figure titles and legends, tables with titles and legends, STAR Methods, supplemental information titles and legends, and references. The text (title through references) should be provided as one document. Figures, supplemental information, and the key resources table should be provided separately.
 
-## Cover letter
+# Cover letter
 
 What was previously known (background), the conceptual advance pr###ovided by your work (contributions), and the significance to a broad readership (impact). This is one of the few chances to "sell" your work to the editor—why is this article a good fit for Cell Reports Medicine? What is the work's relevance to society in the context of environmental change and/or sustainability? Try to avoid repeating segments from the abstract and/or conclusions. Please indicate all contributing authors and their affiliations. You may also suggest appropriate reviewers or referees and make up to three requests for reviewer or referee exclusions. Please use the cover letter to notify us of information that is relevant to our handling and evaluation of your paper (e.g., related work, time constraints, competition).
 

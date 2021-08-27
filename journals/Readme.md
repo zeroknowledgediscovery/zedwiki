@@ -1,3 +1,7 @@
+# Writing Different Sections
+
+[Discussion](discussion_section.md)
+
 # Journals
 
 [CELL](CELL.md)

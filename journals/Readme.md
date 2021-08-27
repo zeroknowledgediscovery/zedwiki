@@ -1,5 +1,6 @@
 # Journals
 
+CELL.md
 
 # Authors
 

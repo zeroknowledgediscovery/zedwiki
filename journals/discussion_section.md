@@ -2,7 +2,7 @@
 
 First make sure your study follows the [STROBE checklist](https://www.strobe-statement.org/checklists/) for cohort studies.
 
-First start with answering the research question (that you put at the end of your introduction) briefly, with a summary of the most important findings.
+First start with answering the research question (**that you put at the end of your introduction**) briefly, with a summary of the most important findings.
 
 Then go to discussing each finding separately, starting with the most important and moving to the least. 
 

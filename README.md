@@ -1,5 +1,5 @@
 # Gollum Wiki for zedlab
 
-[Wiki link](wiki.zeroknowledgediscovery.org)
+[Wiki link](http://wiki.zeroknowledgediscovery.org)
 
 

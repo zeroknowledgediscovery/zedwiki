@@ -5,7 +5,7 @@
 
 # Journals
 
-[CELL](CELL.md)
++ [CELL](CELL.md)
 
 # Authors
 

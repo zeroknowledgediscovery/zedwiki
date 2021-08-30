@@ -1,3 +1,8 @@
+# Cell Report Medicine
+
+[article types](https://www.cell.com/cell-reports-medicine/article-types)
+
+
 # Cell manuscript structure
 
 Title, authors, affiliations, author list footnotes, corresponding author(s) e-mail address(es), summary, introduction, results, discussion, acknowledgments, author contributions, declaration of interests, figure titles and legends, tables with titles and legends, STAR Methods, supplemental information titles and legends, and references. The text (title through references) should be provided as one document. Figures, supplemental information, and the key resources table should be provided separately.

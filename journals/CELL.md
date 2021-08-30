@@ -6,6 +6,13 @@
 
 [article types](https://www.cell.com/med/authors)
 
+
++ Clinical Advances (CA)
+Clinical Advances report exclusively on human studies, from significant first-in-human studies all the way to phase IV clinical trial outcomes with major clinical impact. Clinical Advances (CA) research articles vary in length, depending on their scope, and range from 5 to 7 figures/display items, around 4000-5000 words of main text, and additional supplemental information, which includes STAR Methods.
+
++ Clinical and Translational Article (CTA)
+Clinical and Translational Articles (CTA) are solid bench-to-bedside research studies presenting conceptual advances of unusual significance on a medical question of wide interest. The scope of the research should be driven by the medical question and or the disease setting. CTAs can contain pre-clinical data only or both pre-clinical and clinical data. CTAs are under 5000 words in length with 7 or fewer figures/display items, and a STAR Methods section. Additional results and figures may be published online as Supplemental Information; please see the Supplemental Information guidelines for more information.
+
 # Cell manuscript structure
 
 Title, authors, affiliations, author list footnotes, corresponding author(s) e-mail address(es), summary, introduction, results, discussion, acknowledgments, author contributions, declaration of interests, figure titles and legends, tables with titles and legends, STAR Methods, supplemental information titles and legends, and references. The text (title through references) should be provided as one document. Figures, supplemental information, and the key resources table should be provided separately.

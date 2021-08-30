@@ -1,7 +1,10 @@
-# Cell Report Medicine
+# Cell Reports Medicine
 
 [article types](https://www.cell.com/cell-reports-medicine/article-types)
 
+# Cell Med
+
+[article types](https://www.cell.com/med/authors)
 
 # Cell manuscript structure
 

@@ -22,3 +22,4 @@ method/methods/USGS API.md: method/USGS API.md
 project/project/EHR To Diagnostic Risk.md: project/project/project/EHR To Diagnostic
   Risk.md
 journals/Abstract How To.md: journals/Abstract.md
+journals/Abstract.md: journals/abstract.md

@@ -1,0 +1,3 @@
+# Summary for CELL
+
+The summary is a single paragraph no longer than 150 words. An effective summary includes the following elements: (1) a brief background of the question that avoids statements about how a process is not well understood; (2) a description of the results and approaches and/or model systems framed in the context of their conceptual interest; and (3) an indication of the broader significance of the work. We discourage novelty claims (e.g., use of the word “novel”) because they are overused, tend not to add meaning, and are difficult to verify. Please do not include references in the summary.

@@ -1,6 +1,7 @@
 # Writing Different Sections
 
 + [Overall Guidance: STROBE](https://www.strobe-statement.org/download/strobe-checklist-case-control-studies-pdf)
++ [Abstract How to](abstract.md)
 + [Discussion How to](discussion_section.md)
 
 # Journals

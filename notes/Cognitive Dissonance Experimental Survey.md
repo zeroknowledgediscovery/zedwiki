@@ -49,7 +49,7 @@
 + Influenza vaccine should be mandated by law
 + Common cold vaccine, if available, should be mandated by law
 + Recreational drug use should have strict penalty or taxation
-+ Alcohol abuse should have crimianl penalty and/or taxation
++ Alcohol abuse should have criminal penalty and/or taxation
 + Unhealthy habits such as drinking soda or smoking should be penalized by the government
 + Religious institutions should pay tax in the same manner as any corporation
 + Mosques should be tax exempt

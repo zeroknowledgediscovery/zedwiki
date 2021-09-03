@@ -1,6 +1,6 @@
 # Survey Questions
 
-Responses are choices from:
+>Responses are choices from:
 + strongly agree
 + agree
 + somewhat agree
@@ -8,4 +8,5 @@ Responses are choices from:
 + somewhat disagree
 + disagree
 + strongly disagree
+
 

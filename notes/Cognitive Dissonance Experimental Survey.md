@@ -1,4 +1,4 @@
-# Survey Questions
+# Valid Responses
 
 >Responses are choices from:
 + strongly agree
@@ -9,5 +9,5 @@
 + disagree
 + strongly disagree
 
----
+# Survey Questions
 

@@ -52,4 +52,5 @@
 + Alcohol abuse should have criminal penalty and/or taxation
 + Unhealthy habits such as drinking soda or smoking should be penalized by the government
 + Religious institutions should pay tax in the same manner as any corporation
-+ Mosques should be tax exempt
++ Socialism as an ideology is superior to capitalism
++ Socialist governments have historically led to prosperous societies

@@ -19,8 +19,8 @@
 + Violence is never justified in social activism
 + Violence is justified when opposing violent ideology
 + Violence is justified when opposing harmful non-violent ideology
-+ Requiring government-issues identification to access social resources is discriminatory
-+ Requiring government-issues identification for voting is highly discriminatory
++ Requiring government-issued identification to access social resources is discriminatory
++ Requiring government-issued identification for voting is highly discriminatory
 + Vaccine passports are not discriminatory and should be legal
 + Vaccine passports should be legal as a temporary measure
 + Employers must offer equal opportunity irrespective of race

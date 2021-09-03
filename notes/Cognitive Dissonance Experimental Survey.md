@@ -54,3 +54,5 @@
 + Religious institutions should pay tax in the same manner as any corporation
 + Socialism as an ideology is superior to capitalism
 + Socialist governments have historically led to prosperous societies
++ Free speech is an inalienable right
++ Speech that is dangerous should be silenced

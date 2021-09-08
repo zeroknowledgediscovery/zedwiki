@@ -22,7 +22,7 @@ Paper link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324272/
 
 https://ieee-dataport.org/documents/event-related-potentials-p300-eeg-bci-dataset
 
-paper: https://www.ncbi.nlm.nih.gov/pubmed/30668507
+paper [here](/uploads/features_BCI.pdf) https://www.ncbi.nlm.nih.gov/pubmed/30668507
 
 ## Concealed information test
 

@@ -23,13 +23,13 @@ In conclusion, to minimize the odds of a future pandemic at the scale of we are 
 To win the war, we must take the fight to the animal reservoir, before a jump to the human populace actually occurs. 
 
 
-[1] Fair, J. & Fair, J. Viral forecasting, pathogen cataloging, and disease ecosystem mapping: Measuring returns on investments (2019). 
-[2] Ozery-Flato, M. & Shamir, R. Two notes on genome rearrangement. Journal of Bioinformatics and Computational Biology 1, 71–94 (2003). 
-[3] Tesler, G. Efficient algorithms for multichromosomal genome rearrangements. Journal of Computer and System Sciences 65, 587–609 (2002).
-[4] Dos Santos, G., Neumeier, E. & Bekkat-Berkani, R. Influenza: Can we cope better with the unpredictable? Human vaccines & immunotherapeutics 12, 699–708 (2016).
-[5] Agor, J. K. & Özaltın, O. Y. Models for predicting the evolution of influenza to inform vaccine strain selection. Human vaccines & immunotherapeutics 14, 678–683 (2018).
-[6] (2020). URL https://www.cdc.gov/flu/vaccines-work/effectiveness-studies.htm.
-[7] https://www.medrxiv.org/content/10.1101/2020.07.17.20156364v3
+1. Fair, J. & Fair, J. Viral forecasting, pathogen cataloging, and disease ecosystem mapping: Measuring returns on investments (2019)
+2. Ozery-Flato, M. & Shamir, R. Two notes on genome rearrangement. Journal of Bioinformatics and Computational Biology 1, 71–94 (2003). 
+3. Tesler, G. Efficient algorithms for multichromosomal genome rearrangements. Journal of Computer and System Sciences 65, 587–609 (2002).
+4. Dos Santos, G., Neumeier, E. & Bekkat-Berkani, R. Influenza: Can we cope better with the unpredictable? Human vaccines & immunotherapeutics 12, 699–708 (2016).
+5. Agor, J. K. & Özaltın, O. Y. Models for predicting the evolution of influenza to inform vaccine strain selection. Human vaccines & immunotherapeutics 14, 678–683 (2018).
+6. https://www.cdc.gov/flu/vaccines-work/effectiveness-studies.htm.
+7. https://www.medrxiv.org/content/10.1101/2020.07.17.20156364v3
 
 # NORAD for Emergenet Bio-Threats: Global Active Pandemic Surveillance & Defense (PANDORA)
 

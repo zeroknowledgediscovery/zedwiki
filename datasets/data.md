@@ -25,6 +25,7 @@ https://ieee-dataport.org/documents/event-related-potentials-p300-eeg-bci-datase
 ## Concealed information test: 
 
 Link: https://osf.io/3cewx/
+
 Paper: https://pubmed.ncbi.nlm.nih.gov/30969387/
 
 

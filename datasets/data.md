@@ -11,3 +11,7 @@ https://nij.ojp.gov/funding/real-time-crime-forecasting-challenge-posting#data
 [Multiple data sets](/uploads/mts_data.zip)
 
 Baseline comparison [here](https://slack-files.com/T63Q6NS6N-F01SMS51XJP-46f2509028)
+
+# EEG Datasets
+
+https://physionet.org/content/chbmit/1.0.0/

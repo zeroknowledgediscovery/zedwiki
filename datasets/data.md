@@ -28,6 +28,8 @@ paper [here](/uploads/features_BCI.pdf)
 
 Link: https://osf.io/3cewx/
 
-Paper: https://pubmed.ncbi.nlm.nih.gov/30969387/
+Paper [here]( /uploads/lukas2019.pdf)
+
+https://pubmed.ncbi.nlm.nih.gov/30969387/
 
 

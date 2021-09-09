@@ -45,3 +45,5 @@ https://zed.uchicago.edu/presentations/
 # The Basic How-Tos
 
 + [How to use RCC resources](/How%20To%20Use%20RCC%20Resources%3A%20The%20Quick%20Start%20Guide.md)
++ How to register a python package on pypi
++ How clone a git repo

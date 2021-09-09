@@ -42,6 +42,8 @@ Running resource intensive jobs on teh compute node will get you booted.
 You have to either use the slurm job scheduler to launch jobs on teh compute nodes, or 
 use an interactive session. 
 
+## Interactive Sessions
+
 Link to more info on intecative sessions is [here](https://rcc.uchicago.edu/docs/using-midway/index.html#id11)
 Quickstart:
 
@@ -57,11 +59,55 @@ or even simpler:
 Reserving inetractive nodes for long times (8 hrs is a long time) will not get you allocated quickly. For quick stuff, you can use a *debug* allocation:
 
 ```
-sinteractive --qos=debug --time=00:15:00 --ntasks=2
+sinteractive --qos=debug --time=00:15:00 --ntasks=4
 ```
 
+## Slurm Batch Jobs
 
+The basic command to run to schedule a batch job:
 
+```
+sbatch example.sbatch
+```
+ where `example.batch` is a *batch* file, which is a text file with specification on how and what to run as follows:
+ 
+ ```
+ #!/bin/bash
+#SBATCH --job-name=example_sbatch
+#SBATCH --output=example_sbatch.out
+#SBATCH --error=example_sbatch.err
+#SBATCH --time=00:05:00
+#SBATCH --partition=broadwl
+#SBATCH --nodes=4
+#SBATCH --ntasks-per-node=14
+#SBATCH --mem-per-cpu=2000
+
+module load openmpi
+./hello-world
+ 
+ ```
+
+We have a special launcher we use at ZedLab to streamline this, and write our batch files, located at  `/project2/ishanu/ZED_RESOURCES`, the *launcher_s.sh*
+
+```
+./launcher_s.sh -h
+===> SLURM LAUNCHER <=== copyright ishanu@uchicago.edu 2017
+OPTIONS:
+-P : program string: use single or quoates
+-F : interpret program as file
+-X : log dependency graphviz style in filename jobid.depx
+-p : partition to target
+-J : jobname
+-C : number of cores on 1 node
+-T : time in hours
+-N : Number of nodes
+-M : memory gb allocated
+-D : string of job dependecies: ids sep by space: use single or double quotes
+-A : string of afterany job dependecies: ids sep by space: use single or double quotes
+-d : dry-run
+-Y : forward dep string sep by space
+============================
+```
 
 
 

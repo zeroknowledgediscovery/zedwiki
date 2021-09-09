@@ -39,7 +39,7 @@ Thus, the steps are:
 + Use the whole string in the browser window on your local machine on VPN
 + Detach screen is `CNTRL-D`, and you can exit RCC node
 
-# Using Ineractive Sessions
+# Using Interactive Sessions
 
 If you would rather use the RCC midway as a remote desktop, you can do so via the thinlinc client, as demonstrated by the short webm:
 

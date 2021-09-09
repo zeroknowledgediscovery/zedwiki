@@ -4,6 +4,15 @@ Detailed documentation on how to use RCC is [here](https://rcc.uchicago.edu/docs
 What follows is to be used as a *quick start*, along with some specific details on 
 how the ZedLab applications are often run on RCC nodes.
 
+# Accessing RCC
+
+```
+ssh -X username@midway.rcc.uchicago.edu
+```
+ Follow instructions
+
+
+
 # Running Jupyter Notebooks Remotely
 
 The general approach is to run an instance of a Jupyter notebook without a browser
@@ -169,14 +178,36 @@ You may need to add the above to the PATH (See below)
 
 + Create a file `.bashrc` under your home directory (`/home/USERNAME`) if one is not already present
 + Add the following line to the end of that file
+
 ```
 export PATH="~/.local/bin:$PATH"
 ```
+
 + source ~/.bashrc
+
 # Visualization and Plots
+
+Use the `-X` switch to allow bash to open graphics windows. For whatever reason it doesnot always work.
+You can use gnuplot dumb terminal to plot simple graphics
+
+Set the following in gnuplot:
+
+```
+set term dumb
+```
+
 
 # Monitoring the Queue
 
+```
+squeue -u username
+```
+
 # Cancelling Jobs
+
+```
+scancel -u username
+scancel <jobid>
+```
 
 # Using The Screen Command 

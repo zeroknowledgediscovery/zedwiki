@@ -43,6 +43,17 @@ You have to either use the slurm job scheduler to launch jobs on teh compute nod
 use an interactive session. 
 
 Link to more info on intecative sessions is [here](https://rcc.uchicago.edu/docs/using-midway/index.html#id11)
+Quickstart:
+
+```
+ sinteractive --exclusive --nodes=2 --time=08:00:00
+```
+
+or even simpler:
+```
+ sinteractive --exclusive  --time=08:00:00
+```
+
 
 
 

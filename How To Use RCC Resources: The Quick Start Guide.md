@@ -127,6 +127,29 @@ which produces:
 
 ![launch example]( /uploads/lauch_example.png)
 
+You can see that it creates the sbatch file `ZEDTEST_.sbc` which is used to schedule the job:
+
+```
+#!/bin/bash
+#SBATCH --job-name=ZEDTEST
+#SBATCH --output=/project2/ishanu/ZED_RESOURCES/ZEDTESTO.out
+#SBATCH --error=/project2/ishanu/ZED_RESOURCES/ZEDTESTE.err
+#SBATCH --time=1:00:00
+#SBATCH --qos=normal
+#SBATCH --mem=1000
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --partition=broadwl
+date; sleep 10  ; date
+
+```
+
+Instead of specifying an inline command to run on the slurm, you can schedule a program from a file. You need to then set the `-F` flag:
+
+```
+/project2/ishanu/ZED_RESOURCES/launcher_s.sh -P "prog.sh" -F -T 1 -N 1 -M 1 -p broadwl -J 'ZEDTEST' -C 1
+```
+
 
 # Running Jobs on Login Nodes
 

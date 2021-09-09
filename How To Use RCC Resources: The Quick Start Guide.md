@@ -208,7 +208,7 @@ gnuplot -e 'set term dumb; plot "data.dat" u 1 w lp'
 ```
 produces:
 
-
+![gnuplot example]( /uploads/gnuplot_example.png)
 
 
 # Monitoring the Queue

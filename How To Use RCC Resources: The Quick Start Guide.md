@@ -201,6 +201,15 @@ Set the following in gnuplot:
 set term dumb
 ```
 
+Using the example `data.dat` in `/project2/ishanu/ZED_RESOURCES`:
+
+```
+gnuplot -e 'set term dumb; plot "data.dat" u 1 w lp'
+```
+produces:
+
+
+
 
 # Monitoring the Queue
 

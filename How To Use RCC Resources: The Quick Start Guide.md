@@ -108,23 +108,71 @@ OPTIONS:
 -Y : forward dep string sep by space
 ============================
 ```
-
-
-
-
-
-
-
-
-
 # Running Jobs on Login Nodes
+
+Sometimes we do run small jobs on login nodes. Just make sure the jobs use no more than 3 cores, and
+no more than a couple of Gigs of RAM, and you will typically be fine.
+
 
 # Modules
 
+You need to insert modules to do almost anything on RCC. 
+
+Most useful ones are of course `python`, `mpi` etc.
+
+we do this as:
+
+```
+module load python
+```
+
+Sometimes you need to unload a module to load a different version of it.
+```
+module unload python
+```
+
+Check what modules are currently loaded by running:
+
+```
+module list
+```
+ and what versions are available by running for example:
+ 
+ ```
+ module avail python
+ ```
+
 # Which Python To Use
+
+The default python is currently python 3.7.6. For some applications we need
+at least python 3.8. So to load python 3.8, we would typically do:
+
+```
+module unload python
+module load python/cpython-3.8.5 
+```
 
 # Installing Your Own Python Modules
 
+You can install your own modules using `pip`
+The way to do that is 
+
+```
+pip3 install quasinet --user -U
+```
+
+It gets installed in `~/.local/bin`.
+
+You may need to add the above to the PATH (See below)
+
+# Updating PATH variable
+
++ Create a file `.bashrc` under your home directory (`/home/USERNAME`) if one is not already present
++ Add the following line to the end of that file
+```
+export PATH="~/.local/bin:$PATH"
+```
++ source ~/.bashrc
 # Visualization and Plots
 
 # Monitoring the Queue

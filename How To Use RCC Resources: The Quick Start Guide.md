@@ -32,9 +32,25 @@ Thus, the steps are:
 
 # Using Ineractive Sessions
 
+If you would rather use the RCC midway as a remote desktop, you can do so via the thinlinc client, as demonstrated by the short webm:
+
 [Using Thinlinc]( /uploads/thinlinc.webm)
 
 # Launching Jobs on Compute Nodes
+
+Running resource intensive jobs on teh compute node will get you booted.
+You have to either use the slurm job scheduler to launch jobs on teh compute nodes, or 
+use an interactive session. 
+
+Link to more info on intecative sessions is [here](https://rcc.uchicago.edu/docs/using-midway/index.html#id11)
+
+
+
+
+
+
+
+
 
 # Running Jobs on Login Nodes
 

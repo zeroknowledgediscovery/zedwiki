@@ -117,6 +117,17 @@ OPTIONS:
 -Y : forward dep string sep by space
 ============================
 ```
+For example, if you want to run `sleep 10` on a compute node, you can do:
+
+```
+/project2/ishanu/ZED_RESOURCES/launcher_s.sh -P "sleep 10" -T 1 -N 1 -M 1 -p broadwl -J 'ZEDTEST' -C 1
+```
+
+which produces:
+
+
+
+
 # Running Jobs on Login Nodes
 
 Sometimes we do run small jobs on login nodes. Just make sure the jobs use no more than 3 cores, and

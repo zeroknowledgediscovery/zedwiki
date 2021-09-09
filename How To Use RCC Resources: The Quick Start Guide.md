@@ -22,10 +22,17 @@ module load python
 a=`/sbin/ip route get 8.8.8.8 | awk '{print $NF;exit}'`
 jupyter-notebook --no-browser --ip="$a"
 ```
+Thus, the steps are:
 
-
++ run `screen`
++ run `/project2/ishanu/run_jupyter.sh | grep token`
++ copy the string with the external ip: will look something like: `http://128.135.112.68:8888/?token=a4e6d5911b5a5628390061c7a9ff2b5bf82d21f6d277695c`
++ Use the whole string in the browser window on your local machine on VPN
++ Detach screen is `CNTRL-D`, and you can exit RCC node
 
 # Using Ineractive Sessions
+
+
 
 # Launching Jobs on Compute Nodes
 

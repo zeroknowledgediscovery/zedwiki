@@ -41,3 +41,7 @@ https://zed.uchicago.edu/data/pub_drafts_/
 # Familiarity with presentations made from lab
 
 https://zed.uchicago.edu/presentations/
+
+# The Basic How-Tos
+
++ How to use RCC resources

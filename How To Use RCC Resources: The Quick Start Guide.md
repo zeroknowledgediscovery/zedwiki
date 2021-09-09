@@ -4,9 +4,26 @@ Detailed documentation on how to use RCC is [here](https://rcc.uchicago.edu/docs
 What follows is to be used as a *quick start*, along with some specific details on 
 how the ZedLab applications are often run on RCC nodes.
 
+# Running Jupyter Notebooks Remotely
+
+The general approach is to run an instance of a Jupyter notebook without a browser
+on a login or compute node, and communicate with that notebook
+from your local machine *over VPN*
+
+Thus, if you execute the following script from 
+`/project2/ishanu/ZED_RESOURCES`, then 
+it starts a notebook instance using the correct ip.
+Then you need to use the path to the notebook, along with the
+key it produces to talk to the instance from your local machine.
+
+```
+#!/bin/bash
+module load python
+a=`/sbin/ip route get 8.8.8.8 | awk '{print $NF;exit}'`
+jupyter-notebook --no-browser --ip="$a"
+```
 
 
-# Running Jupyter Notebook Remotely
 
 # Using Ineractive Sessions
 

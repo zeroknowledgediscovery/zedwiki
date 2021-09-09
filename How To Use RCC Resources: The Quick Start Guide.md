@@ -211,3 +211,8 @@ scancel <jobid>
 ```
 
 # Using The Screen Command 
+
+The `screen` command is extremely useful. Because it lets you close connection to RCC from your local machine, while some job is running in the command line.
+
+Just, run `screen`, and use commands in the terminal.
+While some application is running, you can detach the screen using `CNTR-D`, and then shut down your remote connection. The application strated on `screen` will run unaffected on RCC node.

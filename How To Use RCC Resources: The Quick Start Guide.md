@@ -160,6 +160,9 @@ at least python 3.8. So to load python 3.8, we would typically do:
 module unload python
 module load python/cpython-3.8.5 
 ```
+Generally, the default python suffices. Note you still have to do `module load python`
+
+Also note that modules must be noted in each new command window you open, or new `screen` instance you start.
 
 # Installing Your Own Python Modules
 

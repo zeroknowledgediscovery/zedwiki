@@ -54,6 +54,14 @@ or even simpler:
  sinteractive --exclusive  --time=08:00:00
 ```
 
+Reserving inetractive nodes for long times (8 hrs is a long time) will not get you allocated quickly. For quick stuff, you can use a *debug* allocation:
+
+```
+sinteractive --qos=debug --time=00:15:00 --ntasks=2
+```
+
+
+
 
 
 

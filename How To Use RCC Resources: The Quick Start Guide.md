@@ -32,7 +32,7 @@ Thus, the steps are:
 
 # Using Ineractive Sessions
 
-
+[Using Thinlinc]( /uploads/thinlinc.webm)
 
 # Launching Jobs on Compute Nodes
 

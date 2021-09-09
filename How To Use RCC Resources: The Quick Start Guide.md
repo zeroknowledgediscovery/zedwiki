@@ -188,6 +188,8 @@ export PATH="~/.local/bin:$PATH"
 
 + source ~/.bashrc
 
+> An example .bashrc is included in ZED_RESOURCES directory, which you may move to your home directory and activate by the above command
+
 # Visualization and Plots
 
 Use the `-X` switch to allow bash to open graphics windows. For whatever reason it doesnot always work.

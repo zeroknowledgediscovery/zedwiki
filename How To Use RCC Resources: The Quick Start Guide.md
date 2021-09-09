@@ -230,3 +230,9 @@ The `screen` command is extremely useful. Because it lets you close connection t
 
 Just, run `screen`, and use commands in the terminal.
 While some application is running, you can detach the screen using `CNTR-D`, and then shut down your remote connection. The application strated on `screen` will run unaffected on RCC node.
+
+
+# Other Notes
+
+Please add any comments, or insights or hacks that you might come across here
+

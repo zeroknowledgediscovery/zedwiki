@@ -1,3 +1,3 @@
 # References 
 
-[Refs](uploads/references)
+[Refs](/uploads/references)

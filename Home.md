@@ -24,17 +24,17 @@
 
 # Topics
 
-[Projects](project/Readme.md)
+## [Projects](project/Readme.md)
 
-[Reading List](reading/Readme.md)
+## [Reading List](reading/Readme.md)
 
-[Development Notes](development/Readme.md)
+## [Development Notes](development/Readme.md)
 
-[Code Snippets](methods/Readme.md)
+## [Code Snippets](methods/Readme.md)
 
-[General Notes](notes/Readme.md)
+## [General Notes](notes/Readme.md)
 
-[Journal Info for authors](journals/Readme.md)
+## [Journal Info for authors](journals/Readme.md)
 
 [Dataset Links](datasets/data.md)
 

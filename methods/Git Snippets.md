@@ -25,3 +25,5 @@ And if you actually want to completely undo it, throwing away all uncommitted ch
 ```
 git reset --hard HEAD^
 ```
+
+

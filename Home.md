@@ -4,8 +4,9 @@
 
 # Top Pages
 
-**How To Edit This Wiki:** [[How To Edit This Wiki]]
-**Reading:** [[reading/Machine Learning Topics.md]]
+## How To Edit This Wiki [[How To Edit This Wiki]]
+
+## Reading [[reading/Machine Learning Topics.md]]
 
 ## [Projects](project/Readme.md)
 

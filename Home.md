@@ -1,4 +1,4 @@
-## On-boarding to ZeDlab: [[ZeDLab Onboarding]]
+# [[ZeDLab Onboarding]]
 
 ## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 

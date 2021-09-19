@@ -4,7 +4,7 @@
 
 # Top Pages
 
-## How To Edit This Wiki [[How To Edit This Wiki]]
+## [[How To Edit This Wiki]]
 
 ## [Projects](project/Readme.md)
 

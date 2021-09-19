@@ -81,7 +81,7 @@ Note nice examples of non-trivial machines are in
 ./bin/psolve -x " 0.8 * A.pfsa - 0.6 * B.pfsa " -o out.pfsa
 ```
 
-3. Operations supported by psolve
+Operations supported by psolve
 
 ```
 + (sum of pfsas)

@@ -1,10 +1,9 @@
 # [[ZeDLab Onboarding]]
+# [Group Meeting Zoom Link](https://uchicagomedicine.zoom.us/j/93466313522?pwd=WG52L3hQREZNbnRCMENET3lrYWNVUT09)
+# [Current and Pending Publications](https://zed.uchicago.edu/data/pub_drafts_/)
 
-## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
-## [Group Meeting Zoom Link](https://uchicagomedicine.zoom.us/j/93466313522?pwd=WG52L3hQREZNbnRCMENET3lrYWNVUT09)
 
-## [Current and Pending Publications](https://zed.uchicago.edu/data/pub_drafts_/)
 
 # Top Pages
 
@@ -19,6 +18,7 @@
 **Reading:** [[reading/Machine Learning Topics.md]]
 
 
+## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 
 

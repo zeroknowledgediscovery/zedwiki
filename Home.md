@@ -6,8 +6,6 @@
 
 ## How To Edit This Wiki [[How To Edit This Wiki]]
 
-## Reading [[reading/Machine Learning Topics.md]]
-
 ## [Projects](project/Readme.md)
 
 ## [Reading List](reading/Readme.md)

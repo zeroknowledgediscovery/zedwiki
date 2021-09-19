@@ -5,7 +5,7 @@ git --fetch all
 git reset --hard origin/main #origin/master
 ```
 
-# rollback commit
+# Rollback commit
 
 Check if something is committed with:
 

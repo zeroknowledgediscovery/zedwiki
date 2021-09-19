@@ -21,8 +21,8 @@
 ## [Dataset Links](datasets/data.md)
 
 
-**The ZeD Projects Summary Page:** [[project/ZeD Projects]]
-**The ZeD Concepts Summary Page:** [[ZeD Concepts.md]]
+##  ZeD Projects [[project/ZeD Projects]]
+##  ZeD Concepts  [[ZeD Concepts.md]]
 ## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 # All Pages

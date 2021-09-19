@@ -6,19 +6,35 @@
 
 ## [[How To Edit This Wiki]]
 
+Documentation on how to edit a gollusm wiki. Please review befor adding pages
+
 ## [Projects](project/Readme.md)
+
+Brief secription of current projects
 
 ## [Reading List](reading/Readme.md)
 
+A reading list. Please add to this as you see fit.
+
 ## [Development Notes](development/Readme.md)
+
+Any tribal knowledge acquired and needed for any development task.
 
 ## [Code Snippets](methods/Readme.md)
 
+Useful code snippets that you keep reusing
+
 ## [General Notes](notes/Readme.md)
+
+Notes
 
 ## [Journal Info for authors](journals/Readme.md)
 
+Information on guidelines, page limits, formatting etc.
+
 ## [Dataset Links](datasets/data.md)
+
+Datasets that are often used in the lab
 
 
 ##  [[project/ZeD Projects]]

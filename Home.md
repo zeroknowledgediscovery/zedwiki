@@ -1,3 +1,5 @@
+## On-boarding to ZeDlab: [[ZeDLab Onboarding]]
+
 ## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
 ## [Group Meeting Zoom Link](https://uchicagomedicine.zoom.us/j/93466313522?pwd=WG52L3hQREZNbnRCMENET3lrYWNVUT09)
@@ -6,7 +8,7 @@
 
 # Top Pages
 
-**On-boarding to ZeDlab:** [[ZeDLab Onboarding]]
+
 
 **How To Edit This Wiki:** [[How To Edit This Wiki]]
 

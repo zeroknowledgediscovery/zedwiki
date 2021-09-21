@@ -86,3 +86,27 @@ salt
 [bar] lasts 30 days and is 10% complete
 
 @enduml
+
+
+
+
+
+@startuml
+salt
+{
+{T
+ + [ZCOR-ADRD](zcor-ADRD.pdf)
+ ++ America
+ +++ Canada
+ +++ USA
+ ++++ New York
+ ++++ Boston
+ +++ Mexico
+ ++ Europe
+ +++ Italy
+ +++ Germany
+ ++++ Berlin
+ ++ Africa
+}
+}
+@enduml

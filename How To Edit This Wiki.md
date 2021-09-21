@@ -95,7 +95,7 @@ salt
 salt
 {
 {T
- + [ZCOR-ADRD](zcor-ADRD.pdf)
+ + https://zed.uchicago.edu/data/pub_drafts_//PAI/zcor-ADRD.pdf
  ++ America
  +++ Canada
  +++ USA

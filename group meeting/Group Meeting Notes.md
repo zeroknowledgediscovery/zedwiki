@@ -1,8 +1,7 @@
 ## Sep22,2021
 
 + drew
-    - patternly | seizures (time period upto before seizure... lets train on preictal period)
-    - 
+    - patternly | seizures (time period upto before seizure. lets train on preictal period)
 + dmytro
     - manic | patient movement through clusters
 + david

@@ -9,4 +9,4 @@ Using pip versions of `qbiome`/`quasinet`,
 - `example2.ipynb`
     * same issue with `label_matrix` and `nan` strings
     * frequently getting 622 features instead of 621 (cf. the [known bug](https://github.com/zeroknowledgediscovery/qbiome/tree/main/examples#bugs))
-        - `sns.lineplot` fails for `'Actinobacteriota', 'Bacteroidota'` biomes
+        - `sns.lineplot` fails for `'Actinobacteriota', 'Bacteroidota'` biomes with `ValueError: cannot reindex from a duplicate axis`

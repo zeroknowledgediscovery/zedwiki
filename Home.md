@@ -24,6 +24,9 @@ Any tribal knowledge acquired and needed for any development task.
 
 Useful code snippets that you keep reusing
 
++ [Python Snippets](/methods/Python%20Snippets.md)
++ [Git Snippets](/methods/Git%20Snippets.md)
+
 ## [General Notes](notes/Readme.md)
 
 Notes

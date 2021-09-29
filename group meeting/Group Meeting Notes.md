@@ -1,3 +1,19 @@
+## Sep 29, 2021
+
++ drew
+    -
+    -
++ dmytro
+    -
+    -
++ david
+    - add notebook to repo, make clean directory
+    - generate distance matrices and embeddings for all years
+    - 
++ nic
+    -
+    -
+
 ## Sep22,2021
 
 + drew

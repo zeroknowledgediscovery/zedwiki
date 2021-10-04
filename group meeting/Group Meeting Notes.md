@@ -2,15 +2,15 @@
 
 + drew
     - interictal period
-    - 
-    -
+     
+    
 + dmytro
     - autism infection POS vs NEG pscores (look at negative or RR < 1, dont do square)
     - manic trajectory: 
 + david
     - add notebook to repo, make clean directory
     - generate distance matrices and embeddings for all years
-    - 
+    
 + nic
     - add notebook to scratch2
     - sign of network

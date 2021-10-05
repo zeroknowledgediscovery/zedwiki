@@ -18,6 +18,7 @@
     - Monday 330.. discuss alpha(p,q)
     - https://github.com/zeroknowledgediscovery/scratch_2/blob/master/sample_networks.ipynb
     - [qualitative stability]( /uploads/qualitative_stability_rossignol.pdf)
+    - [color test]( /uploads/colortest.pdf)
 
 ## Sep22,2021
 

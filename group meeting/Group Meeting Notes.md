@@ -17,6 +17,7 @@
     - qualitative stability
     - Monday 330.. discuss alpha(p,q)
     - https://github.com/zeroknowledgediscovery/scratch_2/blob/master/sample_networks.ipynb
+    - [qualitative stability]( /uploads/qualitative_stab_ecosystem.pdf)
 
 ## Sep22,2021
 

@@ -1,3 +1,19 @@
+# ICD10 API
+
+```
+https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=M35
+
+```
+
+## Getting all infection codes in ICD 10
+
+```
+https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=infect&maxList=716
+```
+Note: the default maxList is 7
+
+
+
 # Writing Latex Tables from Pandas
 
 ```

@@ -18,6 +18,14 @@ Note: the default maxList is 7
 https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=otiti&maxList=716
 ```
 
+## intetine
+
+```
+https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=intest&maxList=716
+```
+
+
+
 # Writing Latex Tables from Pandas
 
 ```

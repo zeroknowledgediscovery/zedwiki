@@ -12,7 +12,11 @@ https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=infe
 ```
 Note: the default maxList is 7
 
+## ear
 
+```
+https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=otiti&maxList=716
+```
 
 # Writing Latex Tables from Pandas
 

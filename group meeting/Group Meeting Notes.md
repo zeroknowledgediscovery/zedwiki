@@ -1,3 +1,21 @@
+## oct 13, 2021
+
++ drew
+    -
+    -
++ david
+    -
+    -
++ dmytro
+    -
+    -
++ nic
+    - question of alpha parameter (subtle)
+    - can we have instability with alpha < 0?
+
+
+
+
 ## Sep 29, 2021
 
 + drew

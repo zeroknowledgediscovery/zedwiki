@@ -1,8 +1,9 @@
 ## oct 13, 2021
 
 + drew
-    - anomaly ithoin 2 hrs (83/ 530 ~15%%s)
-    -
+    - anomaly within 2 hrs (83/ 530 ~15%%s)
+    - 
+
 + david
     - get clusters /cluster center opinion vectors
     - collect the opinion vectors into a polar csv

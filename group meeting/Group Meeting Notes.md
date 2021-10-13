@@ -1,7 +1,7 @@
 ## oct 13, 2021
 
 + drew
-    -
+    - anomaly ithoin 2 hrs (83/ 530 ~15%%s)
     -
 + david
     - get clusters /cluster center opinion vectors
@@ -9,7 +9,7 @@
     - cluster the polar csv
     
 + dmytro
-    -
+    - 
     -
 + nic
     - question of alpha parameter (subtle)

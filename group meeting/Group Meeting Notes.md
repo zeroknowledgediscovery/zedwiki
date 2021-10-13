@@ -4,14 +4,17 @@
     -
     -
 + david
-    -
-    -
+    - get clusters /cluster center opinion vectors
+    - collect the opinion vectors into a polar csv
+    - cluster the polar csv
+    
 + dmytro
     -
     -
 + nic
     - question of alpha parameter (subtle)
     - can we have instability with alpha < 0?
+    - friday 430. 
 
 
 

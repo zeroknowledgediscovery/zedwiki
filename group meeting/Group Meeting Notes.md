@@ -11,7 +11,7 @@
     
 + dmytro
     - plots AED for autism
-    -
+
 + nic
     - question of alpha parameter (subtle)
     - can we have instability with alpha < 0?

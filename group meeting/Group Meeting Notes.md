@@ -2,7 +2,7 @@
 
 + drew
     - anomaly within 2 hrs (83/ 530 ~15%%s)
-    - 
+    - seg faults | 
 
 + david
     - get clusters /cluster center opinion vectors
@@ -10,7 +10,7 @@
     - cluster the polar csv
     
 + dmytro
-    - 
+    - plots AED for autism
     -
 + nic
     - question of alpha parameter (subtle)

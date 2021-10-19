@@ -13,3 +13,5 @@ We report the development of a novel computational framework to uncover, represe
 Gross domestic product (GDP) is the value of a nation's finished domestic goods and services during a specific time period. A related but different metric, the gross national product (GNP), is the value of all finished goods and services owned by a country's residents over a period of time.
 
 GNP "explains" Polar distance over time. Note that GDPcap, GNI are also good predictors, but GNP is the best predictor that produces low enough llk and statistically significant coefficients. Most importantly this underlines the observation that as economic condition improves, the ideological divide between opinion poles falls. Relates economic condition to ideological opinions
+
+# Metric Space for Beliefs, Opinions and Worldviews

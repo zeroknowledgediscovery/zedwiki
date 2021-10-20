@@ -76,7 +76,7 @@ internal opinions is beyond reach in practice.
 
 ### Models of Opinion Shift
 
-+ **Dynamic Model** According to DeGroot’s model [11], people’s
++ **Dynamic Model** According to DeGroot’s model~\cite{degroot1974reaching}, people’s
 opinions are updated gradually through repeated communication.
 In the model, every person i ∈ V has an opinion si(t) at time t, and
 it is influenced by its direct neighbors so as to evolve into a different
@@ -90,20 +90,11 @@ nodes at time t, the updating rule is defined as: **This model formalizes opinio
     - **issue** How do we learn the influence weights in practice
     - **issue** Not very applicable in reality
     - **issue** side steps teh real issue of quantifying how to measure opinions
-    - Noet much of this analysis comes from A, where again opinions are scalars
+    - Much of this analysis comes from~\cite{bindel2015bad}, where again opinions are scalars
 
-A: @article{bindel2015bad,
-  title={How bad is forming your own opinion?},
-  author={Bindel, David and Kleinberg, Jon and Oren, Sigal},
-  journal={Games and Economic Behavior},
-  volume={92},
-  pages={248--265},
-  year={2015},
-  publisher={Elsevier}
-}
 
 + **Static model** In 1990, Friedkin and Johnsen extended the
-model by DeGroot to have two different kinds of opinions [14]: an internal opinion si and an expressed opinion zi. The internal
+model by DeGroot to have two different kinds of opinions~\cite{friedkin1990social}: an internal opinion si and an expressed opinion zi. The internal
 opinions of every person are assumed fixed, while the expressed
 opinions are influenced by the node’s own internal opinion as well
 the expressed opinions of the neighbors. Expressed in matrix-vector notation, and with wi i = 1 (a common
@@ -115,14 +106,10 @@ of node i and the expressed opinion of node i’s neighbors.
 
 > Within this framework, then we can quantify internal/external conflict, controversy and resistance
 
-@inproceedings{chitra2020analyzing,
-  title={Analyzing the impact of filter bubbles on social network polarization},
-  author={Chitra, Uthsav and Musco, Christopher},
-  booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining},
-  pages={115--123},
-  year={2020}
-}
 
+### Filter Bubbles
+
+~cite{chitra2020analyzing}
 While social networks have increased the diversity of ideas and information available to users, they are also blamed for increasing the polarization of user opinions. Eli Pariser's "filter bubble" hypothesis~\cite{pariser2011filter} explains this counterintuitive phenomenon by linking user polarization to algorithmic filtering: to increase user engagement, social media companies connect users with ideas they are already likely to agree with, thus creating echo chambers of users with very similar beliefs.
 
 In this paper, we introduce a mathematical framework to assess the impact of this popular, yet unverified, hypothesis. We augment the classical Friedkin-Johnsen opinion dynamics model to include algorithmic filtering by introducing a network administrator --- an external actor that models social media companies by dynamically adjusting the strength of edges in a social network graph. When the network administrator is incentivized to reduce disagreement among interacting users, we experimentally demonstrate on networks from Reddit and Twitter that even small changes by the administrator to social network graphs can increase user polarization. We support our experiments with theoretical results by showing that social networks generated from the stochastic block model are provably sensitive to algorithmic filtering. Finally, we propose a simple modification to the incentives of the network administrator that limits the filter bubble effect without significantly affecting user engagement.

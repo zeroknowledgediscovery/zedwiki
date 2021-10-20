@@ -113,10 +113,10 @@ is updated as the weighted sum of their own opinion (with weight
 wi i ) and those of the neighbors (with weight wij for neighbor j).
 Given a weighted graph G = (V, E,w), and the opinions si(t) of the
 nodes at time t, the updating rule is defined as: **This model formalizes opinion formation as a repeated averaging process of one’s opinion with one’s neighbors**
-    - Issue 1: Opinions are modlled as 1D scalar. They are not that in practice
-    - The "update rule" is fixed and defined into existance
-    - How do we learn the influence weights in practice
-    - Not very applicable in reality
+    - **issue** Opinions are modlled as 1D scalar. They are not that in practice
+    - **issue** The "update rule" is fixed and defined into existance
+    - **issue** How do we learn the influence weights in practice
+    - **issue** Not very applicable in reality
 
 + **Static model** In 1990, Friedkin and Johnsen extended the
 model by DeGroot to have two different kinds of opinions [14]: an internal opinion si and an expressed opinion zi. The internal

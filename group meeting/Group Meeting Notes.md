@@ -5,9 +5,8 @@
     - seg faults | 
 
 + david
-    - get clusters /cluster center opinion vectors
-    - collect the opinion vectors into a polar csv
-    - cluster the polar csv
+    - do teh PCA for 2016 for polar vectors
+    - perturb the opinion centers for  steps =20, 120
     
 + dmytro
     - IPF (done for Dmytro)

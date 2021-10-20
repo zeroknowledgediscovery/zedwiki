@@ -1,6 +1,6 @@
 # Reverse-engineering Societal Fracture
 
-** Role of economic hardship in fomenting ideological divide in US society**
+**Role of economic hardship in fomenting ideological divide in US society**
 
 
 ## Abstract
@@ -10,9 +10,9 @@ We report the development of a novel computational framework to uncover, represe
 ![polar distance]( /uploads/polardistance.png)
 
 # Central Narrative
-Gross domestic product (GDP) is the value of a nation's finished domestic goods and services during a specific time period. A related but different metric, the gross national product (GNP), is the value of all finished goods and services owned by a country's residents over a period of time.
+**Gross domestic product (GDP)** is the value of a nation's finished domestic goods and services during a specific time period. A related but different metric, the gross national product (GNP), is the value of all finished goods and services owned by a country's residents over a period of time.
 
-GNP "explains" Polar distance over time. Note that GDPcap, GNI are also good predictors, but GNP is the best predictor that produces low enough llk and statistically significant coefficients. Most importantly this underlines the observation that as economic condition improves, the ideological divide between opinion poles falls. Relates economic condition to ideological opinions
+<<Note("GNP __explains__ Polar distance over time. Note that GDPcap, GNI are also good predictors, but GNP is the best predictor that produces low enough llk and statistically significant coefficients. Most importantly this underlines the observation that as economic condition improves, the ideological divide between opinion poles falls. Relates economic conditions to the geometry of ideology")>>
 
 # Metric Space for Beliefs, Opinions and Worldviews
 
@@ -30,6 +30,9 @@ GNP "explains" Polar distance over time. Note that GDPcap, GNI are also good pre
 }
 
 We also find that users who try to bridge the echo chambers, by sharing content with diverse leaning, have to pay a »price of bipartisanship» in terms of their network centrality and content appreciation. In addition, we study the role of »gatekeepers,» users who consume content with diverse leaning but produce partisan content (with a single-sided leaning), in the formation of echo chambers. Finally, we apply these findings to the task of predicting partisans and gatekeepers from social and content features. While partisan users turn out relatively easy to identify, gatekeepers prove to be more challenging.
+
+
+
 
 
 @inproceedings{musco2018minimizing,
@@ -151,14 +154,23 @@ of node i and the expressed opinion of node i’s neighbors.
   year={2020}
 }
 
-While social networks have increased the diversity of ideas and information available to users, they are also blamed for increasing the polarization of user opinions. Eli Pariser's "filter bubble" hypothesis [55] explains this counterintuitive phenomenon by linking user polarization to algorithmic filtering: to increase user engagement, social media companies connect users with ideas they are already likely to agree with, thus creating echo chambers of users with very similar beliefs.
+While social networks have increased the diversity of ideas and information available to users, they are also blamed for increasing the polarization of user opinions. Eli Pariser's "filter bubble" hypothesis~\cite{pariser2011filter} explains this counterintuitive phenomenon by linking user polarization to algorithmic filtering: to increase user engagement, social media companies connect users with ideas they are already likely to agree with, thus creating echo chambers of users with very similar beliefs.
 
 In this paper, we introduce a mathematical framework to assess the impact of this popular, yet unverified, hypothesis. We augment the classical Friedkin-Johnsen opinion dynamics model to include algorithmic filtering by introducing a network administrator --- an external actor that models social media companies by dynamically adjusting the strength of edges in a social network graph. When the network administrator is incentivized to reduce disagreement among interacting users, we experimentally demonstrate on networks from Reddit and Twitter that even small changes by the administrator to social network graphs can increase user polarization. We support our experiments with theoretical results by showing that social networks generated from the stochastic block model are provably sensitive to algorithmic filtering. Finally, we propose a simple modification to the incentives of the network administrator that limits the filter bubble effect without significantly affecting user engagement.
 
-<<Note("None of this holds up to actual experiments:  [Chris bale's paper]( /uploads/chrisbail.pdf) shows that  more mixing may lead to more polarization, in explicit social media experiments (not graph simulations).")>>
+<<Note("None of this holds up to actual experiments:  Chris Bale's paper shows that  more mixing may lead to more polarization, in explicit social media experiments (not graph simulations).")>>
+[Chris bale's paper]( /uploads/chrisbail.pdf)
+
 
 
 ```
+@book{pariser2011filter,
+  title={The filter bubble: What the Internet is hiding from you},
+  author={Pariser, Eli},
+  year={2011},
+  publisher={Penguin UK}
+}
+
 @inproceedings{garimella2018political,
 title={Political discourse on social media: Echo chambers, gatekeepers, and the price of bipartisanship}, 
 author={Garimella, Kiran and De Francisci Morales, Gianmarco and Gionis, Aristides and Mathioudakis, Michael}, booktitle={Proceedings of the 2018 World Wide Web Conference}, 

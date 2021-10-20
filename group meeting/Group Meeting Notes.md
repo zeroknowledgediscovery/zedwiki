@@ -14,7 +14,7 @@
     - CKD Arleen (done)
     - Alex cancers (ongoing)
     - EDA for ASD
-    - EDA for "pneumococcal pneumonia" https://bjgp.org/highwire/markup/23085/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed
+    - EDA for "pneumococcal pneumonia" [Pnenomia codes](https://bjgp.org/highwire/markup/23085/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)
 
 + nic
     - looking at the hypothesis datframes

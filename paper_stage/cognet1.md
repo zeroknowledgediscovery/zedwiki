@@ -74,7 +74,7 @@ internal opinions is beyond reach in practice.
 
 [Link to paper]( /uploads/conflictrisk.pdf)
 
-### Models of Opinion Shift
+# SOTA Models of Opinion Shift
 
 + **Dynamic Model** According to DeGroot’s model~\cite{degroot1974reaching}, people’s
 opinions are updated gradually through repeated communication.
@@ -105,7 +105,7 @@ of node i and the expressed opinion of node i’s neighbors.
 Interestingly, within this framework, then we can quantify internal/external conflict, controversy and resistance, however, these specifications suffrer teh same issues described above
 
 
-### Filter Bubbles
+# Filter Bubbles
 
 ~cite{chitra2020analyzing}
 While social networks have increased the diversity of ideas and information available to users, they are also blamed for increasing the polarization of user opinions. Eli Pariser's "filter bubble" hypothesis~\cite{pariser2011filter} explains this counterintuitive phenomenon by linking user polarization to algorithmic filtering: to increase user engagement, social media companies connect users with ideas they are already likely to agree with, thus creating echo chambers of users with very similar beliefs.

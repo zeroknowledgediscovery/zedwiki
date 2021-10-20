@@ -1,3 +1,24 @@
+## Oct 20, 2021
+
++ drew
+    - anomaly within 2 hrs (83/ 530 ~15%%s)
+    - seg faults | 
+
++ david
+    - get clusters /cluster center opinion vectors
+    - collect the opinion vectors into a polar csv
+    - cluster the polar csv
+    
++ dmytro
+    - plots AED for autism
+
++ nic
+    - question of alpha parameter (subtle)
+    - can we have instability with alpha < 0?
+    
+
++ lucas
+
 ## oct 13, 2021
 
 + drew

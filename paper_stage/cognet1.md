@@ -155,8 +155,8 @@ While social networks have increased the diversity of ideas and information avai
 
 In this paper, we introduce a mathematical framework to assess the impact of this popular, yet unverified, hypothesis. We augment the classical Friedkin-Johnsen opinion dynamics model to include algorithmic filtering by introducing a network administrator --- an external actor that models social media companies by dynamically adjusting the strength of edges in a social network graph. When the network administrator is incentivized to reduce disagreement among interacting users, we experimentally demonstrate on networks from Reddit and Twitter that even small changes by the administrator to social network graphs can increase user polarization. We support our experiments with theoretical results by showing that social networks generated from the stochastic block model are provably sensitive to algorithmic filtering. Finally, we propose a simple modification to the incentives of the network administrator that limits the filter bubble effect without significantly affecting user engagement.
 
-<<Note("None of this holds up to actual experiments:  , shows that  more mixing may lead to more polarization, in explicit social media experiments (not graph simulations).")>>
-[Chris bale's paper]( /uploads/chrisbail.pdf)
+<<Note("None of this holds up to actual experiments:  [Chris bale's paper]( /uploads/chrisbail.pdf) shows that  more mixing may lead to more polarization, in explicit social media experiments (not graph simulations).")>>
+
 
 ```
 @inproceedings{garimella2018political,

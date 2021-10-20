@@ -117,6 +117,18 @@ nodes at time t, the updating rule is defined as: **This model formalizes opinio
     - **issue** The "update rule" is fixed and defined into existance
     - **issue** How do we learn the influence weights in practice
     - **issue** Not very applicable in reality
+    - **issue** side steps teh real issue of quantifying how to measure opinions
+    - Noet much of this analysis comes from A, where again opinions are scalars
+
+A: @article{bindel2015bad,
+  title={How bad is forming your own opinion?},
+  author={Bindel, David and Kleinberg, Jon and Oren, Sigal},
+  journal={Games and Economic Behavior},
+  volume={92},
+  pages={248--265},
+  year={2015},
+  publisher={Elsevier}
+}
 
 + **Static model** In 1990, Friedkin and Johnsen extended the
 model by DeGroot to have two different kinds of opinions [14]: an internal opinion si and an expressed opinion zi. The internal

@@ -17,6 +17,7 @@ We report the development of a novel computational framework to uncover, represe
 # Metric Space for Beliefs, Opinions and Worldviews
 
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)
+\cite{matakos2017measuring}
 
 Users tend to create connections with like-minded individuals, and create echo-chambers and filter bubbles that reinforce their existing opinions (Bakshy et al. 2015; Bessi et al. 2016). In such cases, instead of smoothing the differences, online social networks reinforce them, thus leading to increased polarization. 
 
@@ -36,7 +37,7 @@ of expressed opinions \\\(\mathbf{z}\\\) for the whole network, the length of th
 captures the degree of polarization in the network, referred to as the polarization
 index \\\(\pi(z)\\\) of the network.
 
-Polarization due to rising social media is a common research topic: [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
+Polarization due to rising social media is a common research topic~\cite{bakshy2015exposure} : [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
 
 
 @inproceedings{garimella2018political,
@@ -182,6 +183,28 @@ In this paper, we introduce a mathematical framework to assess the impact of thi
 
 
 ```
+@article{matakos2017measuring,
+  title={Measuring and moderating opinion polarization in social networks},
+  author={Matakos, Antonis and Terzi, Evimaria and Tsaparas, Panayiotis},
+  journal={Data Mining and Knowledge Discovery},
+  volume={31},
+  number={5},
+  pages={1480--1505},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{bakshy2015exposure,
+  title={Exposure to ideologically diverse news and opinion on Facebook},
+  author={Bakshy, Eytan and Messing, Solomon and Adamic, Lada A},
+  journal={Science},
+  volume={348},
+  number={6239},
+  pages={1130--1132},
+  year={2015},
+  publisher={American Association for the Advancement of Science}
+}
+
 @book{pariser2011filter,
   title={The filter bubble: What the Internet is hiding from you},
   author={Pariser, Eli},

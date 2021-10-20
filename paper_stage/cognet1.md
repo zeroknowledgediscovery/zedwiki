@@ -20,6 +20,10 @@ There seems to be no existing literature on opinion metrization, where opinion v
 
 Some authors have attempted to model "opinion formation" after vaguely similat physical phenomena. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140406
 
+In thsi stuy we answer the question:
+
+> Are two opinions close or far apart, and by what amount? Can such a notion of distance be obtained which is intrinsic to social systems, and not merely a distance calculated between some vectors. 
+
 
 # Opinion polarization Literature
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)

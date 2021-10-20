@@ -16,6 +16,10 @@ We report the development of a novel computational framework to uncover, represe
 
 # Metric Space for Beliefs, Opinions and Worldviews
 
+There seems to be no existing literature on opinion metrization, where opinion vectors are treated as they occure: vector of responses to actual questions on socially relevant and often hot-button topics. Most analyses treat "opinions" as a scalar, which is very loosely related to the actual problem of quantifying opinion deviations in the real world.
+
+
+# Opinion polarization Literature
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)
 \cite{matakos2017measuring}
 

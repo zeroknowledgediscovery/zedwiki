@@ -15,3 +15,5 @@ Gross domestic product (GDP) is the value of a nation's finished domestic goods 
 GNP "explains" Polar distance over time. Note that GDPcap, GNI are also good predictors, but GNP is the best predictor that produces low enough llk and statistically significant coefficients. Most importantly this underlines the observation that as economic condition improves, the ideological divide between opinion poles falls. Relates economic condition to ideological opinions
 
 # Metric Space for Beliefs, Opinions and Worldviews
+
+[opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)

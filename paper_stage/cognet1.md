@@ -22,24 +22,21 @@ Users tend to create connections with like-minded individuals, and create echo-c
 
 <<Warn("This might not be true, mixing might also increase polrization counterintuitively")>>
 
-In order to measure polarization, we consider a popular opinion
-formation model (Friedkin and Johnsen 1990). In this model, opinions are modeled as
-real numbers ranging from −1 to 1, depending on the viewpoint of the user. Each user u
-has an internal opinion su that is given as input and it is fixed, and an expressed opinion
-zu that depends on their own internal opinion and the expressed opinions in their social
+In order to measure polarization, the  opinion
+formation model of Friedkin and Johnsen~\cite{friedkin1990social} is used. In this model, opinions are modeled as
+real numbers ranging from \\\(−1\\\) to \\\(1\\\). Each user \\\(u\\\)
+has an internal opinion \\\(s_u\\\) that is fixed, and an expressed opinion
+\\\(z_u\\\) that depends on their own internal opinion and the expressed opinions in their social
 network. Using a random walk interpretation of the opinion formation model, we can
-interpret zu as the expected opinion that node u will reach when taking a random walk
-in the social network. High value of zu implies that the user is surrounded mostly
-by single-minded individuals with extreme opinions, while low value implies that the social network of u adopts moderate and diverse opinions. We view the absolute
-value |zu| as a measure of the degree of the polarization of user u. Given the vector
-of expressed opinions z for the whole network, the length of the opinion vector z2
-captures the degree of polarization in the network. We refer to z2 as the polarization
-index π(z) of the network.
+interpret \\\(z_u\\\) as the expected opinion that node \\\(u\\\) will reach when taking a random walk
+in the social network. High value of \\\(z_u\\\) implies that the user is surrounded mostly
+by single-minded individuals with extreme opinions, while low value implies that the social network of \\\(u\\\) adopts moderate and diverse opinions. We view the absolute
+value \\\(|z_u| \\\) as a measure of the degree of the polarization of user \\\(u\\\). Given the vector
+of expressed opinions \\\(\mathbf{z}\\\) for the whole network, the length of the opinion vector \\\(||\mathbf{z}||^2\\\)
+captures the degree of polarization in the network, referred to as the polarization
+index \\\(\pi(z)\\\) of the network.
 
-
-
-
-[polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
+Polarization due to rising social media is a common research topic: [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
 
 
 @inproceedings{garimella2018political,

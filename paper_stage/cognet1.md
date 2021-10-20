@@ -175,15 +175,43 @@ booktitle={Proceedings of the 2018 World Wide Web Conference},
 pages={369--378}, 
 year={2018} }
 
-@article{mao2018spread, title={Spread of information with confirmation bias in cyber-social networks}, author={Mao, Yanbing and Bolouki, Sadegh and Akyol, Emrah}, journal={IEEE Transactions on Network Science and Engineering}, volume={7}, number={2}, pages={688--700}, year={2018}, publisher={IEEE} }
+@article{mao2018spread, 
+title={Spread of information with confirmation bias in cyber-social networks}, 
+author={Mao, Yanbing and Bolouki, Sadegh and Akyol, Emrah}, 
+journal={IEEE Transactions on Network Science and Engineering}, 
+volume={7}, 
+number={2}, 
+pages={688--700}, 
+year={2018}, 
+publisher={IEEE} }
 
-@inproceedings{aslay2018maximizing, title={Maximizing the diversity of exposure in a social network}, author={Aslay, Cigdem and Matakos, Antonis and Galbrun, Esther and Gionis, Aristides}, booktitle={2018 IEEE International Conference on Data Mining (ICDM)}, pages={863--868}, year={2018}, organization={IEEE} }
+@inproceedings{aslay2018maximizing, 
+title={Maximizing the diversity of exposure in a social network}, 
+author={Aslay, Cigdem and Matakos, Antonis and Galbrun, Esther and Gionis, Aristides}, 
+booktitle={2018 IEEE International Conference on Data Mining (ICDM)}, 
+pages={863--868}, 
+year={2018}, 
+organization={IEEE} }
 
-@inproceedings{chen2018quantifying, title={Quantifying and minimizing risk of conflict in social networks}, author={Chen, Xi and Lijffijt, Jefrey and De Bie, Tijl}, booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining}, pages={1197--1205}, year={2018} }
+@inproceedings{chen2018quantifying, title={Quantifying and minimizing risk of conflict in social networks}, 
+author={Chen, Xi and Lijffijt, Jefrey and De Bie, Tijl}, 
+booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining}, pages={1197--1205}, 
+year={2018} }
 
-@article{bindel2015bad, title={How bad is forming your own opinion?}, author={Bindel, David and Kleinberg, Jon and Oren, Sigal}, journal={Games and Economic Behavior}, volume={92}, pages={248--265}, year={2015}, publisher={Elsevier} }
+@article{bindel2015bad, title={How bad is forming your own opinion?}, 
+author={Bindel, David and Kleinberg, Jon and Oren, Sigal}, 
+journal={Games and Economic Behavior}, 
+volume={92}, 
+pages={248--265}, 
+year={2015}, 
+publisher={Elsevier} }
 
-@inproceedings{chitra2020analyzing, title={Analyzing the impact of filter bubbles on social network polarization}, author={Chitra, Uthsav and Musco, Christopher}, booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining}, pages={115--123}, year={2020} }
+@inproceedings{chitra2020analyzing, 
+title={Analyzing the impact of filter bubbles on social network polarization}, 
+author={Chitra, Uthsav and Musco, Christopher}, 
+booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining}, 
+pages={115--123}, 
+year={2020} }
 
 @article{bail2018exposure,
   title={Exposure to opposing views on social media can increase political polarization},

@@ -10,11 +10,15 @@
     - cluster the polar csv
     
 + dmytro
-    - plots AED for autism
+    - IPF (done for Dmytro)
+    - CKD Arleen (done)
+    - Alex cancers (ongoing)
+    - EDA for ASD
+    - EDA for "pneumococcal pneumonia" https://bjgp.org/highwire/markup/23085/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed
 
 + nic
-    - question of alpha parameter (subtle)
-    - can we have instability with alpha < 0?
+    - looking at the hypothesis datframes
+    - doing the qbiome analysis for **class**
     
 
 + lucas

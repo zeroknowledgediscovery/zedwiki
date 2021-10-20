@@ -157,3 +157,52 @@ In this paper, we introduce a mathematical framework to assess the impact of thi
 
 **Note** : None of this holds up to actual experiments:  [Chris bale's paper]( /uploads/chrisbail.pdf), shows that  more mixing may lead to more polarization, in explicit social media experiments (not graph simulations).
 
+
+```
+@inproceedings{garimella2018political, title={Political discourse on social media: Echo chambers, gatekeepers, and the price of bipartisanship}, author={Garimella, Kiran and De Francisci Morales, Gianmarco and Gionis, Aristides and Mathioudakis, Michael}, booktitle={Proceedings of the 2018 World Wide Web Conference}, pages={913--922}, year={2018} }
+
+@inproceedings{musco2018minimizing, title={Minimizing polarization and disagreement in social networks}, author={Musco, Cameron and Musco, Christopher and Tsourakakis, Charalampos E}, booktitle={Proceedings of the 2018 World Wide Web Conference}, pages={369--378}, year={2018} }
+
+@article{mao2018spread, title={Spread of information with confirmation bias in cyber-social networks}, author={Mao, Yanbing and Bolouki, Sadegh and Akyol, Emrah}, journal={IEEE Transactions on Network Science and Engineering}, volume={7}, number={2}, pages={688--700}, year={2018}, publisher={IEEE} }
+
+@inproceedings{aslay2018maximizing, title={Maximizing the diversity of exposure in a social network}, author={Aslay, Cigdem and Matakos, Antonis and Galbrun, Esther and Gionis, Aristides}, booktitle={2018 IEEE International Conference on Data Mining (ICDM)}, pages={863--868}, year={2018}, organization={IEEE} }
+
+@inproceedings{chen2018quantifying, title={Quantifying and minimizing risk of conflict in social networks}, author={Chen, Xi and Lijffijt, Jefrey and De Bie, Tijl}, booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining}, pages={1197--1205}, year={2018} }
+
+@article{bindel2015bad, title={How bad is forming your own opinion?}, author={Bindel, David and Kleinberg, Jon and Oren, Sigal}, journal={Games and Economic Behavior}, volume={92}, pages={248--265}, year={2015}, publisher={Elsevier} }
+
+@inproceedings{chitra2020analyzing, title={Analyzing the impact of filter bubbles on social network polarization}, author={Chitra, Uthsav and Musco, Christopher}, booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining}, pages={115--123}, year={2020} }
+
+@article{bail2018exposure,
+  title={Exposure to opposing views on social media can increase political polarization},
+  author={Bail, Christopher A and Argyle, Lisa P and Brown, Taylor W and Bumpus, John P and Chen, Haohan and Hunzaker, MB Fallin and Lee, Jaemin and Mann, Marcus and Merhout, Friedolin and Volfovsky, Alexander},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={115},
+  number={37},
+  pages={9216--9221},
+  year={2018},
+  publisher={National Acad Sciences}
+}
+
+@article{degroot1974reaching,
+  title={Reaching a consensus},
+  author={DeGroot, Morris H},
+  journal={Journal of the American Statistical Association},
+  volume={69},
+  number={345},
+  pages={118--121},
+  year={1974},
+  publisher={Taylor \& Francis}
+}
+
+@article{friedkin1990social,
+  title={Social influence and opinions},
+  author={Friedkin, Noah E and Johnsen, Eugene C},
+  journal={Journal of Mathematical Sociology},
+  volume={15},
+  number={3-4},
+  pages={193--206},
+  year={1990},
+  publisher={Taylor \& Francis}
+}
+```

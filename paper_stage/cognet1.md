@@ -123,6 +123,8 @@ a constant, and private to each individual, while the expressed
 opinion zi is public, and a compromise between the internal opinion
 of node i and the expressed opinion of node i’s neighbors.
 
+> Within thsi framework, then we can quantify internal/external conflict, controversy and resistance
+
 @inproceedings{chitra2020analyzing,
   title={Analyzing the impact of filter bubbles on social network polarization},
   author={Chitra, Uthsav and Musco, Christopher},

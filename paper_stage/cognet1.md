@@ -100,6 +100,8 @@ of internal (or external) opinions, depending purely on the topology
 of the network. In this way, we bypass the problem that quantifying
 internal opinions is beyond reach in practice.
 
+[Link to paper]( /uploads/conflictrisk.pdf)
+
 ### Models of Opinion Shift
 
 + **Dynamic Model** According to DeGroot’s model [11], people’s
@@ -123,7 +125,7 @@ a constant, and private to each individual, while the expressed
 opinion zi is public, and a compromise between the internal opinion
 of node i and the expressed opinion of node i’s neighbors.
 
-> Within thsi framework, then we can quantify internal/external conflict, controversy and resistance
+> Within this framework, then we can quantify internal/external conflict, controversy and resistance
 
 @inproceedings{chitra2020analyzing,
   title={Analyzing the impact of filter bubbles on social network polarization},

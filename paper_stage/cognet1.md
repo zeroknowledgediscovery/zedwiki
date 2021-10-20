@@ -159,9 +159,18 @@ In this paper, we introduce a mathematical framework to assess the impact of thi
 
 
 ```
-@inproceedings{garimella2018political, title={Political discourse on social media: Echo chambers, gatekeepers, and the price of bipartisanship}, author={Garimella, Kiran and De Francisci Morales, Gianmarco and Gionis, Aristides and Mathioudakis, Michael}, booktitle={Proceedings of the 2018 World Wide Web Conference}, pages={913--922}, year={2018} }
+@inproceedings{garimella2018political,
+title={Political discourse on social media: Echo chambers, gatekeepers, and the price of bipartisanship}, 
+author={Garimella, Kiran and De Francisci Morales, Gianmarco and Gionis, Aristides and Mathioudakis, Michael}, booktitle={Proceedings of the 2018 World Wide Web Conference}, 
+pages={913--922}, 
+year={2018} }
 
-@inproceedings{musco2018minimizing, title={Minimizing polarization and disagreement in social networks}, author={Musco, Cameron and Musco, Christopher and Tsourakakis, Charalampos E}, booktitle={Proceedings of the 2018 World Wide Web Conference}, pages={369--378}, year={2018} }
+@inproceedings{musco2018minimizing, 
+title={Minimizing polarization and disagreement in social networks}, 
+author={Musco, Cameron and Musco, Christopher and Tsourakakis, Charalampos E}, 
+booktitle={Proceedings of the 2018 World Wide Web Conference}, 
+pages={369--378}, 
+year={2018} }
 
 @article{mao2018spread, title={Spread of information with confirmation bias in cyber-social networks}, author={Mao, Yanbing and Bolouki, Sadegh and Akyol, Emrah}, journal={IEEE Transactions on Network Science and Engineering}, volume={7}, number={2}, pages={688--700}, year={2018}, publisher={IEEE} }
 

@@ -25,6 +25,9 @@ In thsi stuy we answer the question:
 > Are two opinions close or far apart, and by what amount? Can such a notion of distance be obtained which is intrinsic to social systems, and not merely a distance calculated between some vectors. 
 
 
+
+
+
 # Opinion polarization Literature
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)
 \cite{matakos2017measuring}

@@ -1,6 +1,6 @@
 ---
 title: Test bib
-bibliography: test.bib
+bibliography: 
 ---
 
 This is a test document [@Harris1992].

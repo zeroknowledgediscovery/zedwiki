@@ -18,6 +18,27 @@ We report the development of a novel computational framework to uncover, represe
 
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)
 
+Users tend to create connections with like-minded individuals, and create echo-chambers and filter bubbles that reinforce their existing opinions (Bakshy et al. 2015; Bessi et al. 2016). In such cases, instead of smoothing the differences, online social networks reinforce them, thus leading to increased polarization. 
+
+<<Warn("This might not be true, mixing might also increase polrization counterintuitively")>>
+
+In order to measure polarization, we consider a popular opinion
+formation model (Friedkin and Johnsen 1990). In this model, opinions are modeled as
+real numbers ranging from −1 to 1, depending on the viewpoint of the user. Each user u
+has an internal opinion su that is given as input and it is fixed, and an expressed opinion
+zu that depends on their own internal opinion and the expressed opinions in their social
+network. Using a random walk interpretation of the opinion formation model, we can
+interpret zu as the expected opinion that node u will reach when taking a random walk
+in the social network. High value of zu implies that the user is surrounded mostly
+by single-minded individuals with extreme opinions, while low value implies that the social network of u adopts moderate and diverse opinions. We view the absolute
+value |zu| as a measure of the degree of the polarization of user u. Given the vector
+of expressed opinions z for the whole network, the length of the opinion vector z2
+captures the degree of polarization in the network. We refer to z2 as the polarization
+index π(z) of the network.
+
+
+
+
 [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
 
 

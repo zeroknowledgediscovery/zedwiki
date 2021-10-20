@@ -68,6 +68,8 @@ global effect on society [48].
   publisher={IEEE}
 }
 
+This paper provides a model to investigate information spread over cyber-social network of agents. The cyber-social network considered here comprises individuals and information sources. Each individual holds an opinion represented by a scalar that evolves over time. The information sources are stubborn, in the sense that their opinions are time-invariant. Individuals receive the opinions of information sources that are closer to their belief, confirmation bias is explicitly incorporated into the model. The proposed dynamics of cyber-social networks is adopted from DeGroot-Friedkin model, where an individual's opinion update mechanism is a convex combination of her innate opinion, her neighbors' opinions at the previous time step (obtained from the social network), and the opinions passed along by information sources from cyber layer which she follows.
+
 @inproceedings{aslay2018maximizing,
   title={Maximizing the diversity of exposure in a social network},
   author={Aslay, Cigdem and Matakos, Antonis and Galbrun, Esther and Gionis, Aristides},
@@ -77,6 +79,10 @@ global effect on society [48].
   organization={IEEE}
 }
 
+Social-media platforms have created new ways for citizens to stay informed and participate in public debates. However, to enable a healthy environment for information sharing, social deliberation, and opinion formation, citizens need to be exposed to sufficiently diverse viewpoints that challenge their assumptions, instead of being trapped inside filter bubbles. In this paper, we take a step in this direction and propose a novel approach to maximize the diversity of exposure in a social network. We formulate the problem in the context of information propagation, as a task of recommending a small number of news articles to selected users. We propose a realistic setting where we take into account content and user leanings, and the probability of further sharing an article. This setting allows us to capture the balance between maximizing the spread of information and ensuring the exposure of users to diverse viewpoints. The resulting problem can be cast as maximizing a monotone and submodular function subject to a matroid constraint on the allocation of articles to users. 
+
+
+
 @inproceedings{chen2018quantifying,
   title={Quantifying and minimizing risk of conflict in social networks},
   author={Chen, Xi and Lijffijt, Jefrey and De Bie, Tijl},
@@ -84,6 +90,28 @@ global effect on society [48].
   pages={1197--1205},
   year={2018}
 }
+
+Controversy, disagreement, conflict, polarization and opinion divergence in social networks have been the subject of much recent research. In particular, researchers have addressed the question of how such concepts can be quantified given people's prior opinions, and how they can be optimized by influencing the opinion of a small number of people or by editing the network's connectivity.  In this paper, we depart from the
+existing literature in focusing on risk of conflict, rather than on
+conflict around one particular issue. In this way, we overcome both
+shortcomings of prior work discussed above. We still rely on Friedkin and Johnsen’s model of opinion formation to quantify the risk of networks to conflict. However,
+the proposed quantifications are independent of any particular set
+of internal (or external) opinions, depending purely on the topology
+of the network. In this way, we bypass the problem that quantifying
+internal opinions is beyond reach in practice.
+
+### Models of Opinion Shift
+
+According to DeGroot’s model [11], people’s
+opinions are updated gradually through repeated communication.
+In the model, every person i ∈ V has an opinion si(t) at time t, and
+it is influenced by its direct neighbors so as to evolve into a different
+opinion si(t +1) in the next time step. More precisely, their opinion
+is updated as the weighted sum of their own opinion (with weight
+wi i ) and those of the neighbors (with weight wij for neighbor j).
+Given a weighted graph G = (V, E,w), and the opinions si(t) of the
+nodes at time t, the updating rule is defined as: **This model formalizes opinion formation as a repeated averaging process of one’s opinion with one’s neighbors**
+
 
 @inproceedings{chitra2020analyzing,
   title={Analyzing the impact of filter bubbles on social network polarization},

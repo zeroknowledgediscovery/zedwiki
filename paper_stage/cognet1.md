@@ -40,7 +40,7 @@ index \\\(\pi(z)\\\) of the network.
 Polarization due to rising social media is a common research topic~\cite{bakshy2015exposure} : [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
 
 
-cost of bipartisanship~\cite{garimella2018political}
+Cost of bipartisanship~\cite{garimella2018political}
 We also find that users who try to bridge the echo chambers, by sharing content with diverse leaning, have to pay a »price of bipartisanship» in terms of their network centrality and content appreciation. In addition, we study the role of »gatekeepers,» users who consume content with diverse leaning but produce partisan content (with a single-sided leaning), in the formation of echo chambers. Finally, we apply these findings to the task of predicting partisans and gatekeepers from social and content features. While partisan users turn out relatively easy to identify, gatekeepers prove to be more challenging.
 
 

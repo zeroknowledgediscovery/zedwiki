@@ -102,7 +102,7 @@ internal opinions is beyond reach in practice.
 
 ### Models of Opinion Shift
 
-According to DeGroot’s model [11], people’s
++ **Dynamic Model** According to DeGroot’s model [11], people’s
 opinions are updated gradually through repeated communication.
 In the model, every person i ∈ V has an opinion si(t) at time t, and
 it is influenced by its direct neighbors so as to evolve into a different
@@ -112,6 +112,16 @@ wi i ) and those of the neighbors (with weight wij for neighbor j).
 Given a weighted graph G = (V, E,w), and the opinions si(t) of the
 nodes at time t, the updating rule is defined as: **This model formalizes opinion formation as a repeated averaging process of one’s opinion with one’s neighbors**
 
++ **static model** In 1990, Friedkin and Johnsen extended the
+model by DeGroot to have two different kinds of opinions [14]: an internal opinion si and an expressed opinion zi. The internal
+opinions of every person are assumed fixed, while the expressed
+opinions are influenced by the node’s own internal opinion as well
+the expressed opinions of the neighbors. Expressed in matrix-vector notation, and with wi i = 1 (a common
+assumption in the literature that we also make in this paper), this
+equation is solved by (3) below at equilibrium [6. In this model, the internal opinion si of node i is considered
+a constant, and private to each individual, while the expressed
+opinion zi is public, and a compromise between the internal opinion
+of node i and the expressed opinion of node i’s neighbors.
 
 @inproceedings{chitra2020analyzing,
   title={Analyzing the impact of filter bubbles on social network polarization},

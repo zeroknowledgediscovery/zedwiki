@@ -7,7 +7,7 @@
 
 ## [[How To Edit This Wiki]]
 
-Documentation on how to edit a gollusm wiki. Please review befor adding pages
+Documentation on how to edit a gollum wiki. Please review before adding pages
 
 ## [Projects](project/Readme.md)
 

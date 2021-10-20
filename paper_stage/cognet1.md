@@ -40,80 +40,30 @@ index \\\(\pi(z)\\\) of the network.
 Polarization due to rising social media is a common research topic~\cite{bakshy2015exposure} : [polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)
 
 
-@inproceedings{garimella2018political,
-  title={Political discourse on social media: Echo chambers, gatekeepers, and the price of bipartisanship},
-  author={Garimella, Kiran and De Francisci Morales, Gianmarco and Gionis, Aristides and Mathioudakis, Michael},
-  booktitle={Proceedings of the 2018 World Wide Web Conference},
-  pages={913--922},
-  year={2018}
-}
-
+cost of bipartisanship~\cite{garimella2018political}
 We also find that users who try to bridge the echo chambers, by sharing content with diverse leaning, have to pay a »price of bipartisanship» in terms of their network centrality and content appreciation. In addition, we study the role of »gatekeepers,» users who consume content with diverse leaning but produce partisan content (with a single-sided leaning), in the formation of echo chambers. Finally, we apply these findings to the task of predicting partisans and gatekeepers from social and content features. While partisan users turn out relatively easy to identify, gatekeepers prove to be more challenging.
 
 
 
 
-
-@inproceedings{musco2018minimizing,
-  title={Minimizing polarization and disagreement in social networks},
-  author={Musco, Cameron and Musco, Christopher and Tsourakakis, Charalampos E},
-  booktitle={Proceedings of the 2018 World Wide Web Conference},
-  pages={369--378},
-  year={2018}
-}
-
 The rise of social media and online social networks has been a
-disruptive force in society. Opinions are increasingly shaped by
+disruptive force in society~\cite{musco2018minimizing}. Opinions are increasingly shaped by
 interactions on online social media, and social phenomena including
 disagreement and polarization are now tightly woven into everyday
 life. In this work we initiate the study of the following question:
 Given n agents, each with its own initial opinion that reflects its core value on a topic, and an
 opinion dynamics model, what is the structure
 of a social network that minimizes disagreement
-and controversy simultaneously?
-This question is central to recommender systems: should a recommender system prefer a link suggestion between two online
-users with similar mindsets in order to keep disagreement low, or
-between two users with different opinions in order to expose each
-to the others viewpoint of the world, and decrease overall levels of
-polarization and controversy? Such decisions have an important
-global effect on society [48].
+and controversy simultaneously? 
 
 
-@article{mao2018spread,
-  title={Spread of information with confirmation bias in cyber-social networks},
-  author={Mao, Yanbing and Bolouki, Sadegh and Akyol, Emrah},
-  journal={IEEE Transactions on Network Science and Engineering},
-  volume={7},
-  number={2},
-  pages={688--700},
-  year={2018},
-  publisher={IEEE}
-}
+\cite{mao2018spread} investigates information spread over cyber-social network of agents. The cyber-social network considered here comprises individuals and information sources. Each individual holds an opinion represented by a scalar that evolves over time. The information sources are stubborn, in the sense that their opinions are time-invariant. Individuals receive the opinions of information sources that are closer to their belief, confirmation bias is explicitly incorporated into the model. The proposed dynamics of cyber-social networks is adopted from DeGroot-Friedkin model, where an individual's opinion update mechanism is a convex combination of her innate opinion, her neighbors' opinions at the previous time step (obtained from the social network), and the opinions passed along by information sources from cyber layer which she follows.
 
-This paper provides a model to investigate information spread over cyber-social network of agents. The cyber-social network considered here comprises individuals and information sources. Each individual holds an opinion represented by a scalar that evolves over time. The information sources are stubborn, in the sense that their opinions are time-invariant. Individuals receive the opinions of information sources that are closer to their belief, confirmation bias is explicitly incorporated into the model. The proposed dynamics of cyber-social networks is adopted from DeGroot-Friedkin model, where an individual's opinion update mechanism is a convex combination of her innate opinion, her neighbors' opinions at the previous time step (obtained from the social network), and the opinions passed along by information sources from cyber layer which she follows.
-
-@inproceedings{aslay2018maximizing,
-  title={Maximizing the diversity of exposure in a social network},
-  author={Aslay, Cigdem and Matakos, Antonis and Galbrun, Esther and Gionis, Aristides},
-  booktitle={2018 IEEE International Conference on Data Mining (ICDM)},
-  pages={863--868},
-  year={2018},
-  organization={IEEE}
-}
-
-Social-media platforms have created new ways for citizens to stay informed and participate in public debates. However, to enable a healthy environment for information sharing, social deliberation, and opinion formation, citizens need to be exposed to sufficiently diverse viewpoints that challenge their assumptions, instead of being trapped inside filter bubbles. In this paper, we take a step in this direction and propose a novel approach to maximize the diversity of exposure in a social network. We formulate the problem in the context of information propagation, as a task of recommending a small number of news articles to selected users. We propose a realistic setting where we take into account content and user leanings, and the probability of further sharing an article. This setting allows us to capture the balance between maximizing the spread of information and ensuring the exposure of users to diverse viewpoints. The resulting problem can be cast as maximizing a monotone and submodular function subject to a matroid constraint on the allocation of articles to users. 
+Social-media platforms have created new ways for citizens to stay informed and participate in public debates. However, to enable a healthy environment for information sharing, social deliberation, and opinion formation, citizens need to be exposed to sufficiently diverse viewpoints that challenge their assumptions~\cite{aslay2018maximizing}, instead of being trapped inside filter bubbles. In this paper, we take a step in this direction and propose a novel approach to maximize the diversity of exposure in a social network. We formulate the problem in the context of information propagation, as a task of recommending a small number of news articles to selected users. We propose a realistic setting where we take into account content and user leanings, and the probability of further sharing an article. This setting allows us to capture the balance between maximizing the spread of information and ensuring the exposure of users to diverse viewpoints. The resulting problem can be cast as maximizing a monotone and submodular function subject to a matroid constraint on the allocation of articles to users. 
 
 
 
-@inproceedings{chen2018quantifying,
-  title={Quantifying and minimizing risk of conflict in social networks},
-  author={Chen, Xi and Lijffijt, Jefrey and De Bie, Tijl},
-  booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1197--1205},
-  year={2018}
-}
-
-Controversy, disagreement, conflict, polarization and opinion divergence in social networks have been the subject of much recent research. In particular, researchers have addressed the question of how such concepts can be quantified given people's prior opinions, and how they can be optimized by influencing the opinion of a small number of people or by editing the network's connectivity.  In this paper, we depart from the
+Controversy, disagreement, conflict, polarization and opinion divergence in social networks have been the subject of much recent research~\cite{chen2018quantifying}. In particular, researchers have addressed the question of how such concepts can be quantified given people's prior opinions, and how they can be optimized by influencing the opinion of a small number of people or by editing the network's connectivity.  In this paper, we depart from the
 existing literature in focusing on risk of conflict, rather than on
 conflict around one particular issue. In this way, we overcome both
 shortcomings of prior work discussed above. We still rely on Friedkin and Johnsen’s model of opinion formation to quantify the risk of networks to conflict. However,

@@ -17,3 +17,5 @@ GNP "explains" Polar distance over time. Note that GDPcap, GNI are also good pre
 # Metric Space for Beliefs, Opinions and Worldviews
 
 [opinion space](https://www.cs.uoi.gr/~tsap/publications/polarization.pdf)
+
+[polarization exposure](https://www.science.org/doi/10.1126/science.aaa1160)

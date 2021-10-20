@@ -89,13 +89,11 @@ nodes at time t, the updating rule is defined as: **This model formalizes opinio
     - **issue** The "update rule" is fixed and defined into existance
     - **issue** How do we learn the influence weights in practice
     - **issue** Not very applicable in reality
-    - **issue** side steps teh real issue of quantifying how to measure opinions
+    - **issue** Side steps the real issue of quantifying how to measure opinions
     - Much of this analysis comes from~\cite{bindel2015bad}, where again opinions are scalars
 
-
 + **Static model** In 1990, Friedkin and Johnsen extended the
-model by DeGroot to have two different kinds of opinions~\cite{friedkin1990social}: an internal opinion si and an expressed opinion zi. The internal
-opinions of every person are assumed fixed, while the expressed
+model by DeGroot to have two different kinds of opinions~\cite{friedkin1990social}: an internal opinion \\\(s_i\\\) and an expressed opinion \\\(z_i\\\). The internal opinions of every person are assumed fixed, while the expressed
 opinions are influenced by the node’s own internal opinion as well
 the expressed opinions of the neighbors. Expressed in matrix-vector notation, and with wi i = 1 (a common
 assumption in the literature that we also make in this paper), this
@@ -104,7 +102,7 @@ a constant, and private to each individual, while the expressed
 opinion zi is public, and a compromise between the internal opinion
 of node i and the expressed opinion of node i’s neighbors.
 
-> Within this framework, then we can quantify internal/external conflict, controversy and resistance
+Interestingly, within this framework, then we can quantify internal/external conflict, controversy and resistance, however, these specifications suffrer teh same issues described above
 
 
 ### Filter Bubbles

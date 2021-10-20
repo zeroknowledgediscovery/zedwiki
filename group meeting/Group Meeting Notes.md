@@ -1,8 +1,8 @@
 ## Oct 20, 2021
 
 + drew
-    - anomaly within 2 hrs (83/ 530 ~15%%s)
-    - seg faults | 
+    - fixed PFSA segfaults
+    - lets meet Friday 430PM
 
 + david
     - do teh PCA for 2016 for polar vectors

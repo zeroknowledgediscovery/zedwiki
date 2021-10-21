@@ -1,5 +1,7 @@
 # Reverse-engineering Societal Fracture
 
+**Quantifying Difference in Opinion**
+
 **Role of economic hardship in fomenting ideological divide in US society**
 
 

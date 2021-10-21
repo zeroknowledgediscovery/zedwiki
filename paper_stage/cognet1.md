@@ -25,7 +25,7 @@ In this study we answer the question:
 > Are two opinions close or far apart, and by what amount? Can such a notion of distance be obtained which is intrinsic to social systems, and not merely a distance calculated between some vectors. 
 
 
-![cognet metric]( /uploads/cognet_one.drawio.png)
+![cognet metric]( /uploads/cognet_one.png)
 
 
 # Opinion polarization Literature

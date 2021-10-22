@@ -26,7 +26,21 @@ Our key insight is that opinions or beliefs on different topics or questions, ei
 
 + https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/
 
-Throughout this report we utilize a scale composed of 10 questions asked on Pew Research Center surveys going back to 1994 to gauge peoples’ ideological worldview. The questions cover a range of political values including attitudes about size and scope of government, the social safety net, immigration, homosexuality, business, the environment, foreign policy and racial discrimination. The individual items are discussed at the end of this section, and full details about the scale are in Appendix A.
+Throughout this report we utilize a scale composed of 10 questions asked on Pew Research Center surveys going back to 1994 to gauge peoples’ ideological worldview. The questions cover a range of political values including attitudes about size and scope of government, the social safety net, immigration, homosexuality, business, the environment, foreign policy and racial discrimination. 
+
+## Pew Research 10 questions
+
++ Government regulation of business does more harm than good
++ Government is wasteful and inefficient
++ Poor people have it easy because they can get benefits without doing anything
++ Government cannot afford to do much more to help the needy
++ Blacks who cant get ahead are responsible for their own condition
++ Immigrants are a burden becuase they take jobs, housing and healthcare
++ Most corporations make fair reasonable profit
++ Stricter environmental laws hurt trh economy
++ Best way to ensure peace is through military strength
++ Homosexuality should be discouraged by society
+
 
 # Metric Space for Beliefs, Opinions and Worldviews
 

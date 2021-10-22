@@ -16,6 +16,10 @@ We report the development of a novel computational framework to uncover, represe
 
 <<Note("GNP __explains__ Polar distance over time. Note that GDPcap, GNI are also good predictors, but GNP is the best predictor that produces low enough llk and statistically significant coefficients. Most importantly this underlines the observation that as economic condition improves, the ideological divide between opinion poles falls. Relates economic conditions to the geometry of ideology")>>
 
+# Key Insight
+
+Our key insight is that opinions or beliefs have conditional dependencies. These depedencies imply that conditional to the rest of one's beliefs, one's opinion on a particular topic has a specific distribution. This conditional distrbution of an individual's opinion on a  topic is not necessarily degenerate, implying that this individual is free to alter their response when querried on thsi topic, provided the responses follow this hidden distrbution of responses. This framework then implies that responses that define an empircal distribution subtantially diffreent from the latent distribution are overwhelmingly less likely, and those that define an empirical distribution close to the latent distribution are substantially more likely.
+
 # Metric Space for Beliefs, Opinions and Worldviews
 
 There seems to be no existing literature on opinion metrization, where opinion vectors are treated as they occure: vector of responses to actual questions on socially relevant and often hot-button topics. Most analyses treat "opinions" as a scalar, which is very loosely related to the actual problem of quantifying opinion deviations in the real world.

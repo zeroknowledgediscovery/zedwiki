@@ -22,6 +22,8 @@ Our key insight is that opinions or beliefs on different topics or questions, ei
 
 # Metric Space for Beliefs, Opinions and Worldviews
 
++ https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/
+
 There seems to be no existing literature on opinion metrization, where opinion vectors are treated as they occure: vector of responses to actual questions on socially relevant and often hot-button topics. Most analyses treat "opinions" as a scalar, which is very loosely related to the actual problem of quantifying opinion deviations in the real world.
 
 Some authors have attempted to model "opinion formation" after vaguely similat physical phenomena. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140406

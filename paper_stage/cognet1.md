@@ -44,7 +44,8 @@ Throughout this report we utilize a scale composed of 10 questions asked on Pew 
 
 ## add to polar
 
-+ lessreg
++ lessreg (very little info)
++ confed
 + natsoc
 + natenvir
 + natarms

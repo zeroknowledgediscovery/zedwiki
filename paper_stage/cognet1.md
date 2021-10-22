@@ -42,6 +42,13 @@ Throughout this report we utilize a scale composed of 10 questions asked on Pew 
 + Homosexuality should be discouraged by society
 
 
+## add to polar
+
++ lessreg
++ natsoc
++ natenvir
++ natarms
+
 # Metric Space for Beliefs, Opinions and Worldviews
 
 There seems to be no existing literature on opinion metrization, where opinion vectors are treated as they occure: vector of responses to actual questions on socially relevant and often hot-button topics. Most analyses treat "opinions" as a scalar, which is very loosely related to the actual problem of quantifying opinion deviations in the real world.

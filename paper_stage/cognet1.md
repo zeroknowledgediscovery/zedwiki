@@ -20,9 +20,15 @@ We report the development of a novel computational framework to uncover, represe
 
 Our key insight is that opinions or beliefs on different topics or questions, either in an individual's mind or collectively in a social group, have conditional dependencies. These depedencies imply that conditional to the rest of one's beliefs, an opinion on a particular topic has a specific latent distribution. This conditional distrbution of an individual's opinion on a  topic is not necessarily degenerate, implying that this individual is free to alter their response when querried, provided the responses follow this latent distribution of responses. It follows that responses that define an empircal distribution subtantially different from the latent distribution are overwhelmingly unlikely, while those that define an empirical distribution close to the latent one are substantially more likely. Moreover, since  large deviations of an empirical distribution can be quantified, we can define a distance between two opinion vectors as follows: the probability of an opinion vector to realize the second one due to a perturbation in an empirical draw process.
 
-# Metric Space for Beliefs, Opinions and Worldviews
+
+
+# Definition of Ideological Consistency
 
 + https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/
+
+Throughout this report we utilize a scale composed of 10 questions asked on Pew Research Center surveys going back to 1994 to gauge peoples’ ideological worldview. The questions cover a range of political values including attitudes about size and scope of government, the social safety net, immigration, homosexuality, business, the environment, foreign policy and racial discrimination. The individual items are discussed at the end of this section, and full details about the scale are in Appendix A.
+
+# Metric Space for Beliefs, Opinions and Worldviews
 
 There seems to be no existing literature on opinion metrization, where opinion vectors are treated as they occure: vector of responses to actual questions on socially relevant and often hot-button topics. Most analyses treat "opinions" as a scalar, which is very loosely related to the actual problem of quantifying opinion deviations in the real world.
 

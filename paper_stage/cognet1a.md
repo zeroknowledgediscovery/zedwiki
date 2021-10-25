@@ -8,10 +8,12 @@ Notwithstanding the ambiguity of definition, it is common wisdom has it that Ame
 
 Thus, definition of societal polarization, despite the diverse attempts at quantification, needs work.
 In this study we develop a fundamentall novel approach to quantifying divergence of opinion, without mapping multi-dimensional opinions to ordinal values. We have the following advatbages:
-+ data driven
++ data driven inferrence 
 + no need to identify groups 
-+ metric adapats to changing social norms
-+ can objectively compute opinion divergence 
++ metric adapts to changing social norms
++ applies to multidimensional opinion space
++ No need to map opinions to ordinal values
++ measures polarization as a canonical distanec between extreme opinion vectors, which changes to reflect the changes in teh cannonoical metric over time
 
 
 

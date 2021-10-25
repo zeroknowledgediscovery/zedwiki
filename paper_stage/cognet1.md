@@ -12,6 +12,8 @@ We report the development of a novel computational framework to uncover, represe
 
 # Polarization
 
+https://www.journals.uchicago.edu/doi/full/10.1086/688938
+
 Polarization is a topic of intense interest among social scientists, but there is significant
 disagreement regarding the character of the phenomenon and little understanding of underlying mechanics. 
 

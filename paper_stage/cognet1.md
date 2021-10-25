@@ -62,10 +62,18 @@ attitude change all in search of a better understanding of central mechanisms (F
 Lauderdale 2013; Levendusky 2013; Prior 2013; Leeper 2014; Thomsen 2014; Weinschenk 2014; Mason 2015). Claims regarding polarization, however, often remain frustratingly vague. The problem is not restricted to popular presentations but appears in the technical literature of sociology, economics, and political science as well. Entire articles appear on polarization with little attempt to make it clear what precisely is meant by the term~\cite{bramson2017understanding,bramson2016disambiguation}.
 
 
+### Polarization type 1
 
+An obvious way to measure polarization is in terms of the breadth of opinions; that is, how far apart are the extremes? DiMaggio, Evans, and Bryson call this ‘dispersion’: “the event that opinions are diverse, ‘far apart’ in content” (DiMaggio, Evans, and Bryson 1996, 694). They also outline a dispersion principle: “Other things being equal, the more dispersed opinion becomes, the more difficult it will be for the political system to establish and maintain centrist political consensus” (693).
+**Polarization in the sense of spread does not consider whether the agents with the minimum and maximum beliefs are extreme case outliers or the edges of large clusters.** Spread also ignores group characteristics, and any groups in between the extremes. This lack of sensitivity to the shape of the distribution makes spread a weak measure of polarization in isolation.
 
+### Polarization type 2
 
+Another simple way to measure polarization is statistical dispersion (or statistical variation). Any of various measures of statistical dispersion might be used: mean difference, average absolute deviation, standard deviation, coefficient of variation, or entropy. Like spread, dispersion is a measure across the distribution, without being tied to notions of groups or subpopulations.
 
+   Bimodality is frequently mentioned as a feature of polarized distributions and sometimes as part of the definition (Fiorina et al. 2005).
+   
+   
 
 ![polar distance]( /uploads/polardistance.png)
 

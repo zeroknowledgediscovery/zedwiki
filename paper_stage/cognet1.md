@@ -99,7 +99,8 @@ The beliefs of group members can be highly scattered across the spectrum or extr
 ## Polarization type 9: Size parity
 A society that has one dominant opinion group with a few small minority outliers seems less polarized than one with a few comparably sized competing groups. Using the proportions of the population for each group, one can also use an entropy measure or a diversity indicator such as the inverse Simpson index.
 
-
+# Multiple dimensions of polarization
+One example of a sense of polarization requiring multiple dimensions is belief convergence. Given groups that are polarized on issue A, are these same groups polarized on B, C, and D? The more connected rival beliefs are within rival groups, the greater the polarization across the community. This can be measured using a data-clustering technique. Another example is belief coherence: are changes in one belief accompanied by analogous changes in another belief—a solidarity of ideas?
 
 
 ![polar distance]( /uploads/polardistance.png)

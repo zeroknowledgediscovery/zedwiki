@@ -9,6 +9,8 @@ Notwithstanding the ambiguity of definition, it is common wisdom has it that Ame
 Social media has also been cited as contributing to polarization, via the creatation of  echo-chambers and filter bubbles that reinforce their existing opinions (Bakshy et al. 2015; Bessi et al. 2016). In such cases, instead of smoothing the differences, online social networks reinforce them, thus leading to increased polarization. 
 
 
+A precise definition of polrization that satisfies the key qualitative or intuitive requirement sof teh concept is still missing, as are effective measures of computing such measures.
+
 ## Our definition 
 
 Thus, definition of societal polarization, despite the diverse attempts at quantification, needs work.

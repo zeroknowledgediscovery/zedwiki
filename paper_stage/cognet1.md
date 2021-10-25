@@ -33,17 +33,37 @@ such a basic explanatory model and simple fundamental understanding. The
 question is not whether the simple computational models currently available
 for opinion polarization offer a realistic portrayal of empirical phenomena.
 
-Major families of models for social phenomena that have been appealed to as offering clues to the central mechanisms of polarization: Axelrod’s Cultural Diffusion and Polarization models
+Major families of models for social phenomena that have been appealed to as offering clues to the central mechanisms of polarization: 1) Axelrod’s Cultural Diffusion and Polarization models
 represent one modeling tradition (Axelrod 1997; Klemm et al. 2005; Flache
-and Macy 2006a; Centola et al. 2007). The Hegselmann-Krause Bounded
+and Macy 2006a; Centola et al. 2007). 2) The Hegselmann-Krause Bounded
 Confidence model and Deffuant’s Relative Agreement model define another
 approach (Deffuant et al. 2002; Hegselmann and Krause 2002; Deffuant
-2006). Models in a Structural Balance tradition constitute a third family
+2006). 3) Models in a Structural Balance tradition constitute a third family
 (Heider 1946; Cartwright and Harary 1956; Harary 1959; Macy et al. 2003;
 Klemm et al. 2005; Kitts 2006). We extend the analysis to mechanisms for
 ‘group polarization’ suggested within social psychological theories of selfcategorization (Lord, Ross, and Lepper 1979; Hogg, Turner, and Davidson 1990). Each of the models analyzed purports to capture polarization, but it is
 clear that both the kinds and the patterns of phenomena they generate vary
 widely.
+
+Common wisdom has it that American society is becoming increasingly polarized (Fiorina, Abrams, and Pope
+2005; Brownstein 2007; McCarty, Poole, and Rosenthal 2008; Hetherington
+and Weiler 2009). There are measurable aspects of political reality that support that common wisdom. In 1980, only 43% of Americans polled said that they thought there were important differences between the parties. The figure is now 74%. In 1976, almost a third thought it did not make a difference who was president. That figure is now cut in half. Between 1969 and 1976,
+the Nixon and Ford years, the rate at which Republicans voted along party
+lines was about 65% in both the House and the Senate. The same was true
+of Democrats. Between 2001 and 2004, under George W. Bush, Republicans
+voted with their party 90% of the time. Democrats voted with their party
+85% of the time (McCarty et al. 2008).
+
+It has been argued, however, that a focus on political polarization within the political elite obscures a stable or declining cultural polarization within the broader population. On most issues, public polarization has not increased
+between groups, regardless of what groups are being compared: the young and the old, men and women, the more and the less educated, different regions of the country, or different religious affiliations. On a number of points, polarization has clearly decreased. Racial integration was once fought vociferously by major portions of the population, but that is certainly not true now. Views on women’s roles in public life were once extremely contentious in ways that are now quite generally recognized as archaic. 
+
+Polarization is currently a topic of intense interest among social scientists, with analysis of congressional affiliation and voting patterns, sociological studies on popular attitudes, and laboratory studies on media influence and
+attitude change all in search of a better understanding of central mechanisms (Fiorina and Abrams 2008; Iyengar, Sood, and Lelkes 2012; Ura and Ellis 2012; Druckman, Peterson, and Slothuus 2013; Großer and Palfrey 2013;
+Lauderdale 2013; Levendusky 2013; Prior 2013; Leeper 2014; Thomsen 2014; Weinschenk 2014; Mason 2015). Claims regarding polarization, however, often remain frustratingly vague. The problem is not restricted to popular presentations but appears in the technical literature of sociology, economics, and political science as well. Entire articles appear on polarization with little attempt to make it clear what precisely is meant by the term~\cite{bramson2017understanding}.
+
+
+
+
 
 
 
@@ -324,5 +344,16 @@ year={2020} }
   journal={Contributions to mathematical psychology},
   year={1964},
   publisher={Holt, Reinehart and Winston, Inc.}
+}
+
+@article{bramson2017understanding,
+  title={Understanding polarization: Meanings, measures, and model evaluation},
+  author={Bramson, Aaron and Grim, Patrick and Singer, Daniel J and Berger, William J and Sack, Graham and Fisher, Steven and Flocken, Carissa and Holman, Bennett},
+  journal={Philosophy of science},
+  volume={84},
+  number={1},
+  pages={115--159},
+  year={2017},
+  publisher={University of Chicago Press Chicago, IL}
 }
 ```

@@ -71,9 +71,46 @@ An obvious way to measure polarization is in terms of the breadth of opinions; t
 
 Another simple way to measure polarization is statistical dispersion (or statistical variation). Any of various measures of statistical dispersion might be used: mean difference, average absolute deviation, standard deviation, coefficient of variation, or entropy. Like spread, dispersion is a measure across the distribution, without being tied to notions of groups or subpopulations.
 
-   Bimodality is frequently mentioned as a feature of polarized distributions and sometimes as part of the definition (Fiorina et al. 2005).
+Bimodality is frequently mentioned as a feature of polarized distributions and sometimes as part of the definition~\cite{fiorinasamuel} (Fiorina et al. 2005).
    
-   
+### Polarization type 3
+
+The views of polarized factions are often thought of as constituting narrow and tightly packed sets of beliefs. A polarized society is thought of as one with little diversity of opinion, one in which only narrow bands of the opinion space are occupied. A simple way to envisage polarization in this sense is to think of the spectrum of possible beliefs as divided into small bins. The proportion of empty bins will then constitute a measure of polarization as coverage. 
+
+### Polarization type 4
+
+Coverage represents how much of the belief spectrum is occupied by a society, without accounting for the pattern of areas occupied. ‘Polarization’ can also be used to indicate belief regionalization, without attending to the total area covered over all. In considering small bins of possible belief, for example, we might measure polarization not in terms of how many bins are filled but in terms of how many empty regions there are between filled areas.
+
+### Group Definition
+No concept of groups is required for measures of polarization in terms of spread, dispersion, coverage, or regionalization. Other senses of polarization must be explicitly defined in terms of groups. One way to categorize groups is identify them directly from the histogram as collections of individuals categorized by the basins of attraction between local peaks, defining groups endogenously by the patterns in belief values,
+~\cite{downey2001attitudinal}.
+
+‘Polarization’ in various group-dependent senses is also used for cases in which groups are exogenously defined (e.g., by region, ethnicity, sex, education level, or other categories). Groups might also be defined in terms of network links representing association, influence, or communication. For example, one can first identify network-based groups using community structure algorithms, then use those collections of nodes as exogenously defined groups in order to break down the belief histogram.
+
+### Polarization type 5
+A first group-dependent sense of ‘polarization’ is community fracturing: the degree to which the population can be broken into subpopulations.
+If agents are connected via a network structure, however, subcommunities may be referred to as ‘polarized’ simply in the sense that there is little or no communication between them. A similar phenomenon occurs in spatial models in which the locations of agents, or clusters of agents, are far apart [REF].
+
+### Polarization type 6
+
+People are polarized “insofar as people with different positions on an issue cluster into separate camps, with locations between the two modal positions sparsely occupied” (DiMaggio et al. 1996, 694); distinctness focuses on the sparse intermodal region. Attitudes toward abortion between 1970 and 1990, for example, show clear and persistent distinctness
+
+### Polarization type 7
+
+While group distinctness captures how distinct the separation is between groups, regardless of how far away those groups are in their beliefs, group divergence captures the opposite: how distant the groups’ characteristic ideas are without attention to potential group overlap. 
+
+### Polarization type 8: group consensus
+
+The beliefs of group members can be highly scattered across the spectrum or extremely focused on the group’s central ideology (fig. 11). The diversity of opinions within groups constitutes another sense in which those groups can be polarized, independent of how far apart their central ideas are and how distinct the groups are. Prima facie, the greater the variance in beliefs within groups, the more likely it would seem that members of one group might move toward common ground with other groups. The more single-minded or unanimous views are within the groups, the greater the polarization between them and the less likely any such conciliation. The smaller the variance within each distinct group, the greater this sense of polarization across the population. As previously mentioned, this is the main sense in which polarization has increased in the US legislature (McCarty et al. 2008).
+
+
+
+### Polarization type 9: size parity
+
+A society that has one dominant opinion group with a few small minority outliers seems less polarized than one with a few comparably sized competing groups. Using the proportions of the population for each group, one can also use an entropy measure or a diversity indicator such as the inverse Simpson index.
+
+
+
 
 ![polar distance]( /uploads/polardistance.png)
 
@@ -374,6 +411,23 @@ year={2020} }
   pages={80--111},
   year={2016},
   publisher={Taylor \& Francis}
+}
+
+@misc{fiorinasamuel,
+  title={with Samuel J. Abrams and Jeremy C. Pope. 2005. Culture war? The myth of a polarized America},
+  author={Fiorina, Morris P},
+  publisher={New York: Pearson Longman}
+}
+
+@article{downey2001attitudinal,
+  title={Attitudinal polarization and trimodal distributions: measurement problems and theoretical implications},
+  author={Downey, Dennis J and Huffman, Matt L},
+  journal={Social science quarterly},
+  volume={82},
+  number={3},
+  pages={494--505},
+  year={2001},
+  publisher={Wiley Online Library}
 }
 
 ```

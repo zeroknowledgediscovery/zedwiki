@@ -1,3 +1,29 @@
+## Oct 25, 2021
+
++ drew
+    - fixed PFSA segfaults
+    - lets meet Friday 430PM
+
++ david
+    - do teh PCA for 2016 for polar vectors
+    - perturb the opinion centers for  steps =20, 120
+    
++ dmytro
+    - IPF (done for Dmytro)
+    - CKD Arleen (done)
+    - Alex cancers (ongoing)
+    - EDA for ASD
+    - EDA for "pneumococcal pneumonia" [Pnenomia codes](https://bjgp.org/highwire/markup/23085/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)
+
++ nic
+    - looking at the hypothesis datframes
+    - doing the qbiome analysis for **class**
+    
+
++ lucas
+
+
+
 ## Oct 20, 2021
 
 + drew

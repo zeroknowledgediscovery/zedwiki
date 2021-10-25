@@ -9,6 +9,16 @@
 
 We report the development of a novel computational framework to uncover, represent and leverage hidden dependecies between opinions on contentious social topics, to ultimately craft a predictive theory of how opinions shift and mature in social groups. Using data from the General Social Survey that curates responses from approximately 40,000 US participants over 4 decades, we show that the ideological divide between the liberal and conservative thought-centers are modulated by economic variables, indicating the possibility of a causal influence from a faltering economy to worsening social polarization. Our data-driven framework, powered by novel learning algorithms, also quantifies the dependencies between key "hot-button topics", and induce a computable yet intrinsically meaningful metric to compare and contrast world-views at the level of individuals, groups, and communities across the societal hierarchy. Understanding how opinions shift, and coalesce is  key to informing  effective domestic policy, and opens the dorr to new research direction in social theory.
 
+
+## Polarization
+
+Polarization is a topic of intense interest among social scientists, but there is significant
+disagreement regarding the character of the phenomenon and little understanding of underlying mechanics. 
+
+As a fact of social reality, polarization seems ubiquitous and all too easy to produce. Any small room filled with enough people and any remotely contentious issue seems to suffice to create polarization between rival factions. As a fact of modeling, however, it proves surprisingly difficult to produce a model in which simple and intuitive mechanisms produce patterns that even roughly resemble familiar patterns of polarization.
+
+Imitation and the influence of social contacts are an obvious and ubiquitous aspect of opinion dynamics, but as early as 1964 Robert Abelson noted that models in which agents imitate the opinions of others seem to tend inevitably toward central convergence. Abelson points out one way computational models often fail: "Since universal ultimate agreement is an ubiquitous outcome of a very broad class of mathematical models, we are naturally led to inquire what on earth one must assume in order to generate the bimodal outcome of community cleavage studies"~\cite{abelson1964mathematical}. Another way that simple computational models can fail is by producing bifurcation that under iteration progressively drives all agents from middle values to the extremes at 0 and 1. Neither inevitable movement toward a central consensus nor inevitable movement to full polarized extremes seems characteristic of social polarization as we know it.
+
 ![polar distance]( /uploads/polardistance.png)
 
 # Central Narrative
@@ -278,5 +288,13 @@ year={2020} }
   pages={193--206},
   year={1990},
   publisher={Taylor \& Francis}
+}
+
+@article{abelson1964mathematical,
+  title={Mathematical models of the distribution of attitudes under controversy},
+  author={Abelson, Robert P},
+  journal={Contributions to mathematical psychology},
+  year={1964},
+  publisher={Holt, Reinehart and Winston, Inc.}
 }
 ```

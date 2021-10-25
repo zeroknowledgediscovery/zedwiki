@@ -19,6 +19,34 @@ As a fact of social reality, polarization seems ubiquitous and all too easy to p
 
 Imitation and the influence of social contacts are an obvious and ubiquitous aspect of opinion dynamics, but as early as 1964 Robert Abelson noted that models in which agents imitate the opinions of others seem to tend inevitably toward central convergence. Abelson points out one way computational models often fail: "Since universal ultimate agreement is an ubiquitous outcome of a very broad class of mathematical models, we are naturally led to inquire what on earth one must assume in order to generate the bimodal outcome of community cleavage studies"~\cite{abelson1964mathematical}. Another way that simple computational models can fail is by producing bifurcation that under iteration progressively drives all agents from middle values to the extremes at 0 and 1. Neither inevitable movement toward a central consensus nor inevitable movement to full polarized extremes seems characteristic of social polarization as we know it.
 
+
+It has been repeatedly emphasized that models are constructed for many
+purposes. Point predictions and a detailed mirroring of a complex reality are
+typically not the point and are not at any rate to be expected from simplified
+formal models (Epstein and Axtell 1996; Epstein 2006, 2008; Epstein et al.
+2007; Miller, Page, and LeBaron 2008; Grim et al. 2013). It is often said of
+physical phenomena, for example, that it is simple models constructed in
+terms of spheres moving without friction on perfect planes that offers the
+clearest explanation and most fundamental understanding. The challenge
+for models of polarization that we pursue here, however, is in achieving even
+such a basic explanatory model and simple fundamental understanding. The
+question is not whether the simple computational models currently available
+for opinion polarization offer a realistic portrayal of empirical phenomena.
+
+Major families of models for social phenomena that have been appealed to as offering clues to the central mechanisms of polarization: Axelrod’s Cultural Diffusion and Polarization models
+represent one modeling tradition (Axelrod 1997; Klemm et al. 2005; Flache
+and Macy 2006a; Centola et al. 2007). The Hegselmann-Krause Bounded
+Confidence model and Deffuant’s Relative Agreement model define another
+approach (Deffuant et al. 2002; Hegselmann and Krause 2002; Deffuant
+2006). Models in a Structural Balance tradition constitute a third family
+(Heider 1946; Cartwright and Harary 1956; Harary 1959; Macy et al. 2003;
+Klemm et al. 2005; Kitts 2006). We extend the analysis to mechanisms for
+‘group polarization’ suggested within social psychological theories of selfcategorization (Lord, Ross, and Lepper 1979; Hogg, Turner, and Davidson 1990). Each of the models analyzed purports to capture polarization, but it is
+clear that both the kinds and the patterns of phenomena they generate vary
+widely.
+
+
+
 ![polar distance]( /uploads/polardistance.png)
 
 # Central Narrative

@@ -1,6 +1,6 @@
 # Introduction and Motivation
 
-#Polarization is a topic of intense interest among social scientists, but there is significant disagreement regarding the character of the phenomenon and little understanding of underlying mechanics. 
+%Polarization is a topic of intense interest among social scientists, but there is significant disagreement regarding the character of the phenomenon and little understanding of underlying mechanics. 
 
 Polarization is currently a topic of intense interest among social scientists, with analysis of congressional affiliation and voting patterns, sociological studies on popular attitudes, and laboratory studies on media influence and attitude change all in search of a better understanding of central mechanisms (Fiorina and Abrams 2008; Iyengar, Sood, and Lelkes 2012; Ura and Ellis 2012; Druckman, Peterson, and Slothuus 2013; Großer and Palfrey 2013; Lauderdale 2013; Levendusky 2013; Prior 2013; Leeper 2014; Thomsen 2014; Weinschenk 2014; Mason 2015). Claims regarding polarization, however, often remain frustratingly vague. The problem is not restricted to popular presentations but appears in the technical literature of sociology, economics, and political science as well. Entire articles appear on polarization with little attempt to make it clear what precisely is meant by the term~\cite{bramson2017understanding,bramson2016disambiguation}.
 

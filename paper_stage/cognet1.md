@@ -135,7 +135,9 @@ Perhaps the greatest strike against this second family of models is that the cen
 
 <<Warn("All models in this family cite and draw on a long tradition of belief averaging as a simple representation of the important psychological phenomenon of peer influence (French 1956; DeGroot 1974). But we are aware of virtually no evidence that real polarization occurs ‘from the edges’ as it does in these models or that it crystallizes in virtue of a specific distance from the edges as it does here. Indeed, there is a great body of evidence that the dynamics of developing polarization are quite different. The classic study by Lord et al. (1979) shows groups in laboratory conditions that progressively polarize, increasing the distance between them over time despite balanced bodies of evidence (see also Miller et al. 1993; Kuhn and Lao 1996). Cooper, Kelly, and Weaver claim that “one of the most robust findings in social psychology is that of attitude polarization following discussion with like-minded others” (2001, 267).")>>
 
+---
 
+<<Warn("Repeated studies show average attitudes among groups shifting toward extremes in terms of some mechanism not captured in the family of attraction-driven models considered here. The reality of increasing polarization of these familiar types, wherever it occurs, is a dynamic that this family of models is incapable of producing. These models also seem to capture an important and intuitive piece of the story of social opinion dynamics; however, it is not the whole story, and in many particulars it may not be most profitably read as a story of ‘polarization’ at all.")>>
 
 ![polar distance]( /uploads/polardistance.png)
 

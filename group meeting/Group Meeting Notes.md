@@ -1,12 +1,11 @@
 ## Oct 25, 2021
 
 + drew
-    - fixed PFSA segfaults
-    - lets meet Friday 430PM
+    - 
 
 + david
-    - do teh PCA for 2016 for polar vectors
-    - perturb the opinion centers for  steps =20, 120
+    - add polar vectors
+    - see movement of cluster of cluster vectors on qsampling 
     
 + dmytro
     - IPF (done for Dmytro)
@@ -21,6 +20,7 @@
     
 
 + lucas
+    - hypothesis class for cognet
 
 
 

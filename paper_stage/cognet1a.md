@@ -1,5 +1,7 @@
 # Introduction and Motivation
 
+The rise of polarization over the past 25 years has many Americans worried about the state of politics. This worry is understandable: up to a point, polarization can help democracies, but when it becomes too vast, such that entire swaths of the population refuse to consider each other’s views, this thwarts democratic methods for solving societal problems~\cite{heltzel2020polarization}.
+
 Polarization is a topic of intense interest among social scientists, with analysis of congressional affiliation and voting patterns, sociological studies on popular attitudes, and laboratory studies on media influence and attitude change all in search of a better understanding of central mechanisms~\cite{fiorina2008political,iyengar2012affect,ura2012partisan,druckman2013elite,grosser2014candidate,lauderdale2013does,levendusky2013partisan,prior2013challenge,leeper2014informational,thomsen2014ideological,weinschenk2014polarization,mason2015disrespectfully}. Claims regarding polarization, however, often remain frustratingly vague. The problem is not restricted to popular presentations but appears in the technical literature of sociology, economics, and political science as well. Entire articles appear on polarization with little attempt to make it clear what precisely is meant by the term~\cite{bramson2017understanding,bramson2016disambiguation}.
 
 A multitude of polarization measures have been  investigated, along with a number of mechanistic models to explain the emergence of polarized social systems. However,  models are often limited in how much, if any, of real observations may be used in informing the assumed rules of belief shift. Indeed, imitation and the influence of social contacts are assumed as ubiquitous drivers of opinion dynamics, despite the fact that in many of these models opinions tend ultimately tend towards global convergence~\cite{abelson1964mathematical}. Alternatively,  models have bifurcations, tentatively driving all simulated actors to extreme opinions. Inevitable movements either toward a central consensus or to fully polarized extremes are not reflective of actual effects we observe in social systems~\cite{bramson2017understanding,bramson2016disambiguation}.
@@ -13,6 +15,15 @@ A precise definition of polrization that satisfies the key qualitative or intuit
 
 
 ```
+@article{heltzel2020polarization,
+  title={Polarization in America: two possible futures},
+  author={Heltzel, Gordon and Laurin, Kristin},
+  journal={Current opinion in behavioral sciences},
+  volume={34},
+  pages={179--184},
+  year={2020},
+  publisher={Elsevier}
+}
 
 @misc{fiorinasamuel,
   title={with Samuel J. Abrams and Jeremy C. Pope. 2005. Culture war? The myth of a polarized America},

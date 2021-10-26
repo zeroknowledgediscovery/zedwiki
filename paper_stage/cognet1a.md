@@ -2,6 +2,33 @@
 
 The rise of polarization over the past 25 years has many Americans worried about the state of politics. This worry is understandable: up to a point, polarization can help democracies, but when it becomes too vast, such that entire swaths of the population refuse to consider each other’s views, this thwarts democratic methods for solving societal problems~\cite{heltzel2020polarization}.
 
+Political polarization occurs when subsets of a population
+adopt increasingly dissimilar attitudes toward parties and
+party members (i.e., affective polarization; [5]), as well as ideologies and policies(ideological polarization;[6]).1
+With little-to-no polarization, most people support a mixture of
+liberal and conservative stances acrossissues, and they can
+support one party without disliking others. With very high
+polarization, large, separate clusters of the population
+endorse ideologically consistent stances across all issues,
+and love their own party while loathing the other(s). 
+
+Politicalscientists continue todebate the costs andbenefits
+of polarization. At its best, polarization can be benign, and
+produce more effective, stable democracies. It encourages
+civic engagement: Polarized citizens more often vote, protest,andjoin politicalmovements,all ofwhicharenecessary
+for functioning democracy [15] and help disrupt undesirable status quos [16]. Polarization also entails pluralistic
+policy alternatives [17]; this is crucial for democracies,
+which rely on citizens being able to consider multiple
+policies and have thorough, constructive debates between
+them [18]. Ideally, this kind of engagement and pluralism
+ultimately produce effective, stable government: It helps
+societies identify policies that are both optimal for solving
+their biggest problems [89], and unlikely to be overturned
+when a new party takes power since they are mutually
+agreed-upon [85].
+
+
+
 Polarization is a topic of intense interest among social scientists, with analysis of congressional affiliation and voting patterns, sociological studies on popular attitudes, and laboratory studies on media influence and attitude change all in search of a better understanding of central mechanisms~\cite{fiorina2008political,iyengar2012affect,ura2012partisan,druckman2013elite,grosser2014candidate,lauderdale2013does,levendusky2013partisan,prior2013challenge,leeper2014informational,thomsen2014ideological,weinschenk2014polarization,mason2015disrespectfully}. Claims regarding polarization, however, often remain frustratingly vague. The problem is not restricted to popular presentations but appears in the technical literature of sociology, economics, and political science as well. Entire articles appear on polarization with little attempt to make it clear what precisely is meant by the term~\cite{bramson2017understanding,bramson2016disambiguation}.
 
 A multitude of polarization measures have been  investigated, along with a number of mechanistic models to explain the emergence of polarized social systems. However,  models are often limited in how much, if any, of real observations may be used in informing the assumed rules of belief shift. Indeed, imitation and the influence of social contacts are assumed as ubiquitous drivers of opinion dynamics, despite the fact that in many of these models opinions tend ultimately tend towards global convergence~\cite{abelson1964mathematical}. Alternatively,  models have bifurcations, tentatively driving all simulated actors to extreme opinions. Inevitable movements either toward a central consensus or to fully polarized extremes are not reflective of actual effects we observe in social systems~\cite{bramson2017understanding,bramson2016disambiguation}.

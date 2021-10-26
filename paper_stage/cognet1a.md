@@ -11,6 +11,166 @@ Social media has also been cited as contributing to polarization, via the creata
 
 A precise definition of polrization that satisfies the key qualitative or intuitive requirement sof teh concept is still missing, as are effective measures of computing such measures.
 
+
+```
+
+@misc{fiorinasamuel,
+  title={with Samuel J. Abrams and Jeremy C. Pope. 2005. Culture war? The myth of a polarized America},
+  author={Fiorina, Morris P},
+  publisher={New York: Pearson Longman}
+}
+
+@book{brownstein2008second,
+  title={The second civil war: How extreme partisanship has paralyzed Washington and polarized America},
+  author={Brownstein, Ronald},
+  year={2008},
+  publisher={Penguin}
+}
+
+@book{mccarty2016polarized,
+  title={Polarized America: The dance of ideology and unequal riches},
+  author={McCarty, Nolan and Poole, Keith T and Rosenthal, Howard},
+  year={2016},
+  publisher={mit Press}
+}
+
+@book{hetherington2009authoritarianism,
+  title={Authoritarianism and polarization in American politics},
+  author={Hetherington, Marc J and Weiler, Jonathan D},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+@article{fiorina2008political,
+  title={Political polarization in the American public},
+  author={Fiorina, Morris P and Abrams, Samuel J},
+  journal={Annu. Rev. Polit. Sci.},
+  volume={11},
+  pages={563--588},
+  year={2008},
+  publisher={Annual Reviews}
+}
+@article{iyengar2012affect,
+  title={" Affect, not ideology: A social identity perspective on polarization": Erratum.},
+  author={Iyengar, Shanto and Sood, Gaurav and Lelkes, Yphtach},
+  year={2012},
+  publisher={Oxford University Press}
+}
+@article{ura2012partisan,
+  title={Partisan moods: Polarization and the dynamics of mass party preferences},
+  author={Ura, Joseph Daniel and Ellis, Christopher R},
+  journal={The Journal of Politics},
+  volume={74},
+  number={1},
+  pages={277--291},
+  year={2012},
+  publisher={Cambridge University Press New York, USA}
+}
+
+@article{druckman2013elite,
+  title={How elite partisan polarization affects public opinion formation},
+  author={Druckman, James N and Peterson, Erik and Slothuus, Rune},
+  journal={American Political Science Review},
+  volume={107},
+  number={1},
+  pages={57--79},
+  year={2013},
+  publisher={Cambridge University Press}
+}
+
+@article{grosser2014candidate,
+  title={Candidate entry and political polarization: An antimedian voter theorem},
+  author={Grosser, Jens and Palfrey, Thomas R},
+  journal={American Journal of Political Science},
+  volume={58},
+  number={1},
+  pages={127--143},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+@article{lauderdale2013does,
+  title={Does inattention to political debate explain the polarization gap between the US congress and public?},
+  author={Lauderdale, Benjamin E},
+  journal={Public Opinion Quarterly},
+  volume={77},
+  number={S1},
+  pages={2--23},
+  year={2013},
+  publisher={Oxford University Press UK}
+}
+
+@article{levendusky2013partisan,
+  title={Why do partisan media polarize viewers?},
+  author={Levendusky, Matthew S},
+  journal={American Journal of Political Science},
+  volume={57},
+  number={3},
+  pages={611--623},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{prior2013challenge,
+  title={The challenge of measuring media exposure: Reply to Dilliplane, Goldman, and Mutz},
+  author={Prior, Markus},
+  journal={Political Communication},
+  volume={30},
+  number={4},
+  pages={620--634},
+  year={2013},
+  publisher={Taylor \& Francis}
+}
+
+@article{leeper2014informational,
+  title={The informational basis for mass polarization},
+  author={Leeper, Thomas J},
+  journal={Public Opinion Quarterly},
+  volume={78},
+  number={1},
+  pages={27--46},
+  year={2014},
+  publisher={Oxford University Press UK}
+}
+@article{thomsen2014ideological,
+  title={Ideological moderates won’t run: How party fit matters for partisan polarization in Congress},
+  author={Thomsen, Danielle M},
+  journal={The Journal of Politics},
+  volume={76},
+  number={3},
+  pages={786--797},
+  year={2014},
+  publisher={Cambridge University Press New York, USA}
+}
+
+@article{weinschenk2014polarization,
+  title={Polarization, Ideology, and Vote Choice in US Congressional Elections},
+  author={Weinschenk, Aaron C},
+  journal={Journal of Elections, Public Opinion \& Parties},
+  volume={24},
+  number={1},
+  pages={73--89},
+  year={2014},
+  publisher={Taylor \& Francis}
+}
+
+@article{mason2015disrespectfully,
+  title={“I disrespectfully agree”: The differential effects of partisan sorting on social and issue polarization},
+  author={Mason, Lilliana},
+  journal={American Journal of Political Science},
+  volume={59},
+  number={1},
+  pages={128--145},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+
+
+
+```
+
+
+
 ## Our definition 
 
 Thus, definition of societal polarization, despite the diverse attempts at quantification, needs work.

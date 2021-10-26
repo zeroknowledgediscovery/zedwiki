@@ -12,6 +12,9 @@ polarization, large, separate clusters of the population
 endorse ideologically consistent stances across all issues,
 and love their own party while loathing the other(s). 
 
+
+https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0143
+
 Politicalscientists continue todebate the costs andbenefits
 of polarization. At its best, polarization can be benign, and
 produce more effective, stable democracies. It encourages

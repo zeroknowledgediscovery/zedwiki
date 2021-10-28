@@ -56,3 +56,55 @@
 + Socialist governments have historically led to prosperous societies
 + Free speech is an inalienable right
 + Speech that is dangerous should be silenced
+
+
+## polar vars
+
++ abany
++ abdefect
++ abhlth
++ abnomore
++ abpoor
++ abpoorw
++ abpoorw
++ abrape
++ absingle
++ bible
++ colcom
++ colmil
++ comfort
++ conlabor
++ godchnge
++ grass
++ gunlaw
++ intmil
++ libcom
++ libmil
++ libhomo
++ libmslm
++ owngun
++ rowngun
++ pillok
++ polabuse
++ pray
++ prayer
++ prayfreq
++ prayer
++ prayfreq
++ religcon
++ religint
++ reliten
++ rowngun
++ shotgun
++ spkcom
++ spkmil
++ viruses
++ confed
++ natsoc
++ natenvir
++ natarms
++ natarmsy
++ natfare
++ natfarey
+
+

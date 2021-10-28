@@ -9,8 +9,7 @@
 + disagree
 + strongly disagree
 
-# Survey Questions
-
+# COGDIS Module
 + Governmnet should stay off my medical choices "my body, my choice"
 + It should be possible for a pregnant woman to obtain a legal abortion if the woman wants it for any reason
 + Vaccines should not be mandated by law, and should be a personal choice
@@ -58,7 +57,7 @@
 + Speech that is dangerous should be silenced
 
 
-## polar vars
+# Polar module
 
 + abany
 + abdefect
@@ -107,4 +106,4 @@
 + natfare
 + natfarey
 
-## Other Opinion Vars
+# Extra Module

@@ -6,6 +6,8 @@
 + david
     - add polar vectors
     - see movement of cluster of cluster vectors on qsampling 
+    - Notes: wher are dmat, embed files?
+    - Please organize where current results are: dmat,embed,pca,clusters, figures, csvs
     
 + dmytro
     - IPF (done for Dmytro)

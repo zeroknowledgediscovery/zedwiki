@@ -4,10 +4,13 @@
 + strongly agree
 + agree
 + somewhat agree
-+ no opinion
++ not agree/dsagre
 + somewhat disagree
 + disagree
 + strongly disagree
++ don't know
++ no answer
++ not applicable
 
 # COGDIS Module
 + Governmnet should stay off my medical choices "my body, my choice"

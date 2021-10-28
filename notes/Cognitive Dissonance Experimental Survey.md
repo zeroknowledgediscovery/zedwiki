@@ -107,4 +107,4 @@
 + natfare
 + natfarey
 
-
+## Other Opinion Vars

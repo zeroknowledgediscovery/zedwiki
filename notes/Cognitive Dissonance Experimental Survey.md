@@ -88,7 +88,7 @@
 + prayfreq: Now thinking about the present, about how often do you pray [never,less tahn once a year,about once or twice a year,several times a year,about once a month,2-3 times a month,nearly every week,several times a week,once a day,several times a day,don't know,no answer,not applicable]
 + religcon:  Looking around the world, religions bring more conflict than peace [strongly agree,agree,not agree/dsagre,disagree,strongly disagree,cant choose,no answer,not applicable]
 + religint: People with very strong religious beliefs are often too intolerant of others [strongly agree,agree,not agree/dsagre,disagree,strongly disagree,cant choose,no answer,not applicable]
-+ reliten: Would you call yourself a strong (PREFERENCE NAMED IN RELIG) or a not very strong (PREFERENCE NAMED IN RELIG) [strong,not very strong,somewhat strong,no religion,don't know,no answer,not applicable]
++ reliten: Would you call yourself a strong (RELIG if known) or a not very strong (RELIG if known) [strong,not very strong,somewhat strong,no religion,don't know,no answer,not applicable]
 + shotgun: Do you happen to have in your home,house or garage any shotguns [yes,no,refused,don't know,no answer,not applicable]
 + spkcom: A admitted Communist wanted to make a speech in your community. Should he be allowed to speak, or not [allowed,not allowed,don't know,no answer,not applicable]
 + spkmil: A admitted militarist wanted to make a speech in your community. Should he be allowed to speak, or not [allowed,not allowed,don't know,no answer,not applicable]

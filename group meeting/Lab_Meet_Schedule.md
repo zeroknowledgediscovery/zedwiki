@@ -5,7 +5,6 @@ Monday Noon
 # Individual Meetings
 
 ## Dmytro Onishchenko
-    
     Tuesday 3.00
 
 ## Drew Vlasnik

@@ -58,7 +58,7 @@
 
 
 # Polar module
-
+## Responses shown inline in '[]'
 + abany: A Woman can have abortion for any reason [yes,no,don't know,no answer,not applicable]
 + abdefect: A Woman can have abortion if there is a strong chance of serious defect in the baby [yes,no,don't know,no answer,not applicable]
 + abhlth: A Woman can have abortion if the woman's own health is seriously endangered by the pregnancy [yes,no,don't know,no answer,not applicable]

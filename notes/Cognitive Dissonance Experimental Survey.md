@@ -59,41 +59,40 @@
 
 # Polar module
 
-+ abany: A Woman can have abortion for any reason
-+ abdefect: A Woman can have abortion if there is a strong chance of serious defect in the baby
-+ abhlth: If the woman's own health is seriously endangered by the pregnancy
-+ abnomore: If she is married and does not want any more children
-+ abpoor:  If the family has a very low income and cannot afford any more children
-+ abpoorw:  If the family has a very low income and cannot afford any more children XX
-+ abrape:  If she became pregnant as a result of rape
-+ absingle: If she is not married and does not want to marry the man
-+ bible: The Bible is the actual word of God and is to be taken literally, word for word XX
-+ colcom: A communist teaching in a college should  be fired
-+ colmil: A militarist (a person who advocates doing away with elections and letting the military run the country)  teaching in a college, should  be fired
-+ comfort: Religion helps people to gain comfort in times of trouble and sorrow
-+ conlabor: Confidence in organized labor
-+ godchnge: Which best describes your beliefs about God?
-+ grass: Do you think the use of marijuana should be made legal or not?
++ abany: A Woman can have abortion for any reason [yes,no,don't know,no answer,not applicable]
++ abdefect: A Woman can have abortion if there is a strong chance of serious defect in the baby [yes,no,don't know,no answer,not applicable]
++ abhlth: A Woman can have abortion if the woman's own health is seriously endangered by the pregnancy [yes,no,don't know,no answer,not applicable]
++ abnomore: A Woman can have abortion if she is married and does not want any more children [yes,no,don't know,no answer,not applicable]
++ abpoor:  A Woman can have abortion if the family has a very low income and cannot afford any more children [yes,no,don't know,no answer,not applicable]
++ abrape:  A Woman can have abortion if she became pregnant as a result of rape [yes,no,don't know,no answer,not applicable]
++ absingle: A Woman can have abortion if she is not married and does not want to marry the man [yes,no,don't know,no answer,not applicable]
++ bible: Opinion about the Bible [word of god,inspired word,book of fables,other,don't know,no answer,not applicable]
++ colcom: A communist teaching in a college should  be fired [fired, not fired,don't know,no answer,not applicable]
++ colmil: A militarist advocates doing away with elections and letting the military run the country. if he is teaching in a college then he should be [fired, not fired,don't know,no answer,not applicable]
++ comfort: Religion helps people to gain comfort in times of trouble and sorrow [strongly agree,agree,neither agree nor disagree,disagree,strongly disagree,don't know,no answer,not applicable]
++ conlabor: Confidence in organized labor [a great deal,only some,hardly any,don't know,no answer,not applicable]
++ godchnge: Which best describes your beliefs about God? ["don't believe now,never have","don't believe now, used to","believe now, always have",don't know,no answer,not applicable]
++ grass: Do you think the use of marijuana should be made legal or not? [legal,not legal,don't know,no answer,not applicable]
 + gunlaw:  Would you favor or oppose a law which would require a person to obtain a police permit before he or she could buy a gun?
-+ intmil: Issues about military and defense policy. (Are you very interested, moderately interested, or not at all interested?)
-+ libcom: Suppose a known communist wrote a book which is in your public library. Somebody in your community suggests that the book should be removed from the library.  Would you favor removing it, or not?
-+ libmil: Suppose a known militarist wrote a book which is in your public library. Somebody in your community suggests that the book should be removed from the library.  Would you favor removing it, or not?
-+ libhomo:  For a man who admits that he is a homosexual:  If some people in your community suggested that a book he wrote in favor of homosexuality should be taken out of your public library, would you favor removing this book, or not?
-+ libmslm:  For a man who is a Muslim clergyman: If some people in your community suggested that a book he wrote which preaches hatred of the United States should be taken out of your public library, would you favor removing this book, or not?
-+ owngun:  Do you happen to have in your home (house or garage) any guns or revolvers?
-+ rowngun: Do any of these guns that you have in your home personally belong to you?
-+ pillok:  Do you strongly agree, agree, disagree, or strongly disagree that methods of birth control should be available to teenagers between the ages  of 14 and 16 if their parents do not approve?
-+ polabuse:  Would you approve of a policeman striking a citizen who Had said vulgar and obscene things to the policeman
-+ pray: About how often do you pray?
-+ prayer: The United States Supreme Court has ruled that no state or local government may require the reading of the Lord's Prayer or Bible verses in public schools. What are your views on this--do you approve or disapprove of the court ruling?
-+ prayfreq: Now thinking about the present, about how often do you pray
-+ religcon:  Looking around the world, religions bring more conflict than peace
-+ religint: People with very strong religious beliefs are often too intolerant of others
-+ reliten: Would you call yourself a strong (PREFERENCE NAMED IN RELIG) or a not very strong (PREFERENCE NAMED IN RELIG)
-+ shotgun: Do you happen to have in your home (house or garage) any shotguns
-+ spkcom: A admitted Communist wanted to make a speech in your community. Should he be allowed to speak, or not
-+ spkmil: A admitted militarist wanted to make a speech in your community. Should he be allowed to speak, or not
-+ viruses: Antibiotics kill viruses as well as bacteria. Is that true or false?
++ intmil: Are you very interested, moderately interested, or not at all interested in issues about military and defense policy [very interested,moderately interested,not at all interested,don't know,no answer,not applicable]
++ libcom: Suppose a known communist wrote a book which is in your public library. Somebody in your community suggests that the book should be removed from the library.  Would you favor removing it, or not? [remove,not remove,don't know,no answer,not applicable]
++ libmil: Suppose a known militarist wrote a book which is in your public library. Somebody in your community suggests that the book should be removed from the library.  Would you favor removing it, or not? [remove,not remove,don't know,no answer,not applicable]
++ libhomo:  For a man who admits that he is a homosexual:  If some people in your community suggested that a book he wrote in favor of homosexuality should be taken out of your public library, would you favor removing this book, or not? [remove,not remove,don't know,no answer,not applicable]
++ libmslm:  For a man who is a Muslim clergyman: If some people in your community suggested that a book he wrote which preaches hatred of the United States should be taken out of your public library, would you favor removing this book, or not? [remove,not remove,don't know,no answer,not applicable]
++ owngun:  Do you happen to have in your home (house or garage) any guns or revolvers? [yes,no,refused,don't know,no answer,not applicable]
++ rowngun: Do any of these guns that you have in your home personally belong to you? [yes,no,refused,don't know,no answer,not applicable]
++ pillok:  Do you strongly agree, agree, disagree, or strongly disagree that methods of birth control should be available to teenagers between the ages  of 14 and 16 if their parents do not approve? [strongly agree,agree,neither agree nor disagree,disagree,strongly disagree,don't know,no answer,not applicable]
++ polabuse:  Would you approve of a policeman striking a citizen who Had said vulgar and obscene things to the policeman [yes,no,don't know,no answer,not applicable]
++ pray: About how often do you pray? [several times a day,once a day,several times a week,once a week,lt once a week,never,don't know,no answer,not applicable]
++ prayer: The United States Supreme Court has ruled that no state or local government may require the reading of the Lord's Prayer or Bible verses in public schools. What are your views on this--do you approve or disapprove of the court ruling? [approve,disapprove,don't know,no answer,not applicable]
++ prayfreq: Now thinking about the present, about how often do you pray [never,less tahn once a year,about once or twice a year,several times a year,about once a month,2-3 times a month,nearly every week,several times a week,once a day,several times a day,don't know,no answer,not applicable]
++ religcon:  Looking around the world, religions bring more conflict than peace [strongly agree,agree,not agree/dsagre,disagree,strongly disagree,cant choose,no answer,not applicable]
++ religint: People with very strong religious beliefs are often too intolerant of others [strongly agree,agree,not agree/dsagre,disagree,strongly disagree,cant choose,no answer,not applicable]
++ reliten: Would you call yourself a strong (PREFERENCE NAMED IN RELIG) or a not very strong (PREFERENCE NAMED IN RELIG) [strong,not very strong,somewhat strong,no religion,don't know,no answer,not applicable]
++ shotgun: Do you happen to have in your home,house or garage any shotguns [yes,no,refused,don't know,no answer,not applicable]
++ spkcom: A admitted Communist wanted to make a speech in your community. Should he be allowed to speak, or not [allowed,not allowed,don't know,no answer,not applicable]
++ spkmil: A admitted militarist wanted to make a speech in your community. Should he be allowed to speak, or not [allowed,not allowed,don't know,no answer,not applicable]
++ viruses: Antibiotics kill viruses as well as bacteria. Is that true or false? [true,false,don't know,no answer,not applicable]
 + confed: Trust in the executive branch of the federal government [a great deal, only some, hardly any, don't know, no answer, not applicable]
 + natsoc: We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to  tell me whether you think we're spending too much money on it, too little money, or about the right amount. Social security [too little, about right, too much, don't know, no answer, not applicable]
 + natenvir: We are faced with many problems in this country, none of which can be solved easily or inexpensively. I'm going to name some of these problems, and for each one I'd like you to  tell me whether you think we're spending too much money on it, too little money, or about the right amount. Improving and protecting the environment [too little, about right, too much, don't know, no answer, not applicable]

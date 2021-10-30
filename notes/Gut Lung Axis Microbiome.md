@@ -24,3 +24,15 @@ Current research has identified specific bacterial taxa, their components and me
  
  
  This gut dysbiosis in humans has been linked to inflammatory conditions in the gastrointestinal tract itself, but also in the airways, such as in asthma and chronic obstructive pulmonary disease (COPD).8,9} Of note, human epidemiological studies indicate microbial dysbiosis can have long-term consequences, which is supported by data from mouse models, where mice have an increased predisposition to allergic inflammation following early life antibiotic usage.10,11,12,13,14 Accumulating evidence has highlighted the influence of the gut microbiota on lung immunity, referred to as the gut–lung axis, though the underlying pathways and mechanisms are still areas of intensive research.15 Metabolic by-products derived from bacterial fermentation of dietary fibers have been reported as key local and systemic signaling molecules in sustaining immune and tissue homeostasis.16 The impact of various diets on lung health and disease has recently been reviewed.17
+ 
+ > Exact mechanism which operationalizes this gut-lung axis is unknown
+ 
+ > Microbiota may be modifiable by diet and other environmental factors, and is mesiurable with relative ease
+ 
+We aim to investigathe and identify patterns of mirobiota perturbations that modulate risk of future repisratory illnesses such as asthma and peumococcal infections
+
+Challenges: the cohorts for which microbiome data is available is limited in size. Teh amount of data required to properly probe the underlying factors is too large. The patterns are subtle, so statsuitically signaificat patterns would reqyure hude data sets. This project aims to solve thsi issue by leveraging underutilized diagnostic dimensions and sophisticated pattern recognition algorithms.
+
+Clinical Problem: Asthma and pneumomococcal pnenomnia in infants and toddlers, risk mitigation via microbiome pattern analysis, and clinical validation.
+ 
+ 

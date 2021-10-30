@@ -12,4 +12,4 @@ The microbiota of the GIT and the respiratory tract are involved in the gut–lu
 
 Current research has identified specific bacterial taxa, their components and metabolites that can influence host immunity.
 
- Expansion of the gut microbiota begins immediately after birth and is heavily influenced by environmental factors, with species in the phylum Actinobacteria often dominating during infancy123,124. In this early period of life, changes in the microbiota may be linked to the development of chronic lung disorders in later life.
+ Expansion of the gut microbiota begins immediately after birth and is heavily influenced by environmental factors, with species in the phylum Actinobacteria often dominating during infancy123,124. In this early period of life, changes in the microbiota may be linked to the development of chronic lung disorders in later life~\cite{budden2017emerging}.

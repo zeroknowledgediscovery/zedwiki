@@ -31,8 +31,10 @@ Current research has identified specific bacterial taxa, their components and me
  
 We aim to investigathe and identify patterns of mirobiota perturbations that modulate risk of future repisratory illnesses such as asthma and peumococcal infections
 
-Challenges: the cohorts for which microbiome data is available is limited in size. Teh amount of data required to properly probe the underlying factors is too large. The patterns are subtle, so statsuitically signaificat patterns would reqyure hude data sets. This project aims to solve thsi issue by leveraging underutilized diagnostic dimensions and sophisticated pattern recognition algorithms.
+## Challenges
+the cohorts for which microbiome data is available is limited in size. Teh amount of data required to properly probe the underlying factors is too large. The patterns are subtle, so statsuitically signaificat patterns would reqyure hude data sets. This project aims to solve thsi issue by leveraging underutilized diagnostic dimensions and sophisticated pattern recognition algorithms.
 
-Clinical Problem: Asthma and pneumomococcal pnenomnia in infants and toddlers, risk mitigation via microbiome pattern analysis, and clinical validation.
+# Clinical Problem
+Asthma and pneumomococcal pnenomnia in infants and toddlers, risk mitigation via microbiome pattern analysis, and clinical validation.
  
  

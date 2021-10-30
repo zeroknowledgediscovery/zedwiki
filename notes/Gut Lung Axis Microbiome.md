@@ -1,6 +1,10 @@
 #Title
 **Combining Large-scale  Electronic Health Records  with  Longitudinal Microbiome Profiles in Size-limited Cohorts To Reduce Future-risk of Respiratory Dysbiosis via Operationalizing the  Gut-lung Axis**
 
+# Research Problem
+
+`Gut microbiota has been liked to respiratory diseases. Particularly changes in microbiota in early life has been linked to long term respiratory issues.` 
+
 Pneumonia accounts for more deaths than any other infectious disease worldwide. The intestinal microbiota supports local mucosal immunity and is increasingly recognised as an important modulator of the systemic immune system. The precise role of the gut microbiota in bacterial pneumonia, however, is unknown. Here, we investigate the function of the gut microbiota in the host defence against Streptococcus pneumoniae infections~\cite{Schuijt575}.
 It has been shown in animal models that gut microbiota protects the host during pneumococcal pneumonia, as reflected by increased bacterial dissemination, inflammation, organ damage and mortality in microbiota-depleted mice compared with controls~\cite{Schuijt575}. 
 

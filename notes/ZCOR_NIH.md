@@ -9,4 +9,6 @@ diagnostic work up for patients that would be referred for dementia. I think thi
 
 + One limitation of biomarkers to predict specific diseases processes is that only Alzheimer’s can be detected early on. We don’t have biomarkers for other major dementias. But since Alzheimer’s is the most common in the elderly, I think it would still be worthwhile.
 + I’m also sending you a nice paper on the overview of diagnosis of Alzheimer’s Disease, which has elements of what I discuss in the diagnostic work up.
+ 
+[How early can we diagnose Alzheimer disease](/uploads/Petersen RC.pdf)
 

@@ -11,6 +11,7 @@ diagnostic work up for patients that would be referred for dementia. I think thi
 + I’m also sending you a nice paper on the overview of diagnosis of Alzheimer’s Disease, which has elements of what I discuss in the diagnostic work up.
  
 [How early can we diagnose Alzheimer disease](/uploads/Petersen RC.pdf)
+
 [DX workup](https://docs.google.com/document/d/130arvLm_gZZgHJYIJZfBrcUdm1ZnAADR/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true)
 
 

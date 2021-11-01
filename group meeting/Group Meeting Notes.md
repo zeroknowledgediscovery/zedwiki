@@ -4,7 +4,7 @@
     - pattern of patterns (performance eval)
 
 + david
-    - 
+    - check for ther nan bug.
     - Please organize where current results are: dmat,embed,pca,clusters, figures, csvs
     
 + dmytro
@@ -16,6 +16,7 @@
 
 + nic
     - looking at the hypothesis datframes
+    - simulate the cycle model
     - doing the qbiome analysis for **class**
     
 

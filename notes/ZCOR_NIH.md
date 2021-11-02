@@ -84,4 +84,75 @@ diagnostic work up for patients that would be referred for dementia. I think thi
 [DX workup](https://docs.google.com/document/d/130arvLm_gZZgHJYIJZfBrcUdm1ZnAADR/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true)
 
 
+# Other Documents
+
++ Applicants are required to include the following items in the Other Project Information section of the application: (i) Intellectual Property Strategy; and (ii) Team Management Plan for the proposed research project. 
++ Team Management Plan for the proposed research project: Each application submitted in response to this FOA must have a Team Management Plan for the research proposed within the application's specific aims. The project Team Management Plan must not exceed two pages. Applications that exceed this limit will be withdrawn. NIH strongly encourages applicants to form multidisciplinary teams that consist of non-clinical and clinical scientists, cognitive, statistical, population-based clinical research, and other relevant academic/industry experts and, as applicable, health disparities disease experts. This multi-disciplinary team should have the expertise needed to execute the research strategy, and include representation from the health system(s) involved. The Team Management Plan should describe how team members will collaborate to accomplish the aims as proposed.
+
+# Letter of Support
+Letters of support from participating HCS are required.
++ memory center
++ CRI
++ geriatric clinics
+
+# Resource Sharing
+Applications funded under this FOA are expected to provide a specific plan for sharing paradigm(s), including tool(s), with Consortium collaborators , and very broadly with others at the conclusion of this 5 year program, consistent with achieving the goals of the program.
+
+# Availability of Appropriate Institutional Resources
+
+Applicants must provide strong evidence of the availability of appropriate institutional resources, and suitable patient populations, providers, clinics, or facilities (depending on unit of randomization). Documentation of availability of eligible participants, clinic sites, or units of randomization, presented in tabular format must be provided. The application must include relevant information that addresses the feasibility of recruiting participants who are eligible for the pragmatic trial implementation study. Specifically, applicants must provide evidence that each recruiting center in the study or trial has access to a sufficient number of participants who meet the eligibility criteria as defined in the submitted protocol. For multisite applications, information must be provided for each participating site.
+
+# Recruitment
+
+The participant recruitment and retention plans must include a discussion of the availability of participants for the proposed study and the ability of enrollment sites to recruit and retain the proposed number of participants meeting the eligibility criteria, including women and minority participants as applicable. Data supporting recruitment and retention estimates must be provided. Evidence should be provided that relevant stakeholders (e.g., potential participants, referring and treating physicians, patient groups) have sufficient equipoise, consider the question to be important and the study acceptable.
+
+For a multicenter trial, applicants should survey the potential clinical sites to ensure that recruitment targets can be met. Present the survey results using a table where the rows represent potential clinical sites and the columns include responses to questions from the survey. The survey questions will depend on the nature of the trial and the protocol-specified screening procedures but might include these:
+
++ Has the PD/PI previously recruited patients with this disease into a clinical trial?
++ Does this site have all necessary equipment to complete eligibility evaluations?
++ If not, how far (in miles) will patients need to travel to complete eligibility evaluations?
++ What is the total number of patients seen at this site in the past 12 months?
++ How many of these appear to meet the pre-screening eligibility criteria?
++ How many of these are likely to be found fully eligible and consent to be enrolled?
++ Do the sites have appropriate demographics to comply with the Inclusion of women and minorities NIH Policy?
++ Is there a clear plan for recruitment of diverse patients, based on the patient population seen at that facility or in the local community?
+
+# Study Timeline
+
+For preparatory activities:
+
+- Development of data management system and case report forms, incorporating applicable NINDS Common Data Elements
+- Integration of the detection paradigm into the HCS HER.
+- Development of tools for data and quality management
+- Enrollment, retention, plans to minimize losses to follow-up, and acceptable attrition rates
+- Development of recruitment and retention strategies
+- Finalization of protocol, manual of procedures, consent forms, and data management plan
+- Finalization of planned analyses (including interim analyses, if appropriate)
+- Finalization of the study data sharing plan
+- Protocol approval from a Medical Monitor and/or Study Monitoring Committee
+- Initiation of contracts and training of clinical site personnel (NINDS expects the initiation of all study sites to occur in the start-up stage; if a large number of sites is needed, a plan that describes how additional sites will be added after the initiation of the study should be included)
+- Initiation of processes for including proposed international clinical sites, if applicable
+- Plans for site activation, execution of contracts and training of additional clinical sites, including any international sites, if applicable
+
+
+# Funding beyond timelimit
+
+Proposed milestones should be included for the entire trial, including any time beyond the five-year award. This information will be used for planning purposes and to support the rationale for the full trial but does not guarantee continued funding beyond the initial funding cycle.
+
+Milestones and timelines will be refined and finalized in consultation with Program staff at the time of award.
+
+
+For enrollment:
+
+Completion of start-up activities (finalization of protocol, contracting of sites, registration in ClinicalTrials.gov, completion of any final regulatory approvals, etc.)
+Earliest possible enrollment date
+Enrollment of 25%, 50%, 75% and 100% of the targeted sample size
+Completion of all study data collection
+Completion of primary endpoint and secondary endpoint data analyses
+Completion of final study report
+Publication of primary study results
+Reporting of results in ClinicalTrials.gov
+Submission of final public use dataset to NINDS
+If an adaptive design is to be used, indicate when adaptions will be considered.
+
 

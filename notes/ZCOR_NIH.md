@@ -1,3 +1,18 @@
+# Pragmatic Clinical Trial
+
+Applications must propose pragmatic clinical trials to test paradigms to detect cognitive impairment, including dementia, with adequate power in up to 3 populations including at least two specified populations that experience health disparities.
+
++ older African Americans, Hispanics and other populations that experience health disparities than among older whites.
++ Paradigms proposed must be supported by rigorous preliminary data that justifies proceeding to a pragmatic clinical trial.
+
+## Definition of a Pragmatic Clinical Trial
+According to Califf and Sugarman, there are “three key attributes of PCTs: (1) an intent to inform decision-makers (patients, clinicians, administrators, and policy-makers), as opposed to elucidating a biological or social mechanism; (2) an intent to enroll a population relevant to the decision in practice and representative of the patients or populations and clinical settings for whom the decision is relevant; and (3) either an intent to (a) streamline procedures and data collection so that the trial can focus on adequate power for informing the clinical and policy decisions targeted by the trial or (b) measure a broad range of outcomes. Given these attributes, a common-sense definition for a PCT would thus be as follows:
+
+> Designed for the primary purpose of informing decision-makers regarding the comparative balance of benefits, burdens and risks of a biomedical or behavioral health intervention at the individual or population level. (Califf and Sugarman 2015).
+
+
+
+
 # UO1 Template
 
 https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-22-009.html

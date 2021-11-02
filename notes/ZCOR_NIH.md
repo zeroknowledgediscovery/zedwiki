@@ -55,13 +55,13 @@ This FOA is only for studies related to humans; animal or other disease model st
 
 + Applications that are not focused on pragmatic clinical trials for implementing rapid (10 minutes of primary care provider time or less) paradigm(s) for detecting cognitive impairment, including dementia in large human populations in the United States are not responsive.
 
-+ Applications that do not link the proposed paradigm(s) to the EMR.
++ **Applications that do not link the proposed paradigm(s) to the EMR.**
 
-+ Applications that do not link the proposed paradigm(s) to billing.
++ **Applications that do not link the proposed paradigm(s) to billing.**
 
-+ Applications which do not include paradigms for detecting cognitive impairment, including dementia, which already have evidence of efficacy in the studied populations are not responsive.
++ **Applications which do not include paradigms for detecting cognitive impairment, including dementia, which already have evidence of efficacy in the studied populations are not responsive.**
 
-+ Applications that do not indicate how they will make their paradigm(s) available for others to utilize both during the funding period (e.g., at a minimum, to other consortium members), and after, including how and with minimum burden, are not responsive.
++ **Applications that do not indicate how they will make their paradigm(s) available for others to utilize both during the funding period (e.g., at a minimum, to other consortium members), and after, including how and with minimum burden, are not responsive.**
 
 + Applications that focus on related topics that are not central to the goals of this FOA, such as differentiating among cognitive domains, determining the degree of cognitive impairment and whether the cognitive impairment detected does or does not meet criteria for dementia, and differentiating among different dementia disorders, are not responsive.
 

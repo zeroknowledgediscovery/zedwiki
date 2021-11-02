@@ -43,7 +43,7 @@ https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-22-009.html
 
 > The purpose of this funding opportunity announcement (FOA) is to invite pragmatic clinical trial applications to test paradigms designed to address the unmet need to detect cognitive impairment, including dementia, in large and diverse populations seen in primary care across the United States when a patient, relative, or care provider indicates concern. Applications must propose pragmatic clinical trials to test paradigms to detect cognitive impairment, including dementia, with adequate power in up to 3 populations including at least two specified populations that experience health disparities. Clinical paradigms proposed for pragmatic clinical trials should have rigorous supporting preliminary data and utilize tools that are simple to use, standardized, integrated into the electronic medical record (EMR) workflow, and ideally take five minutes or less to administer in a primary care clinical setting. Paradigms must provide standardized and implementable turnkey guidance via the EMR to the care provider for follow-up based on results of either “no objective cognitive impairment detected” or “cognitive impairment possible or detected”.
 
-Applications Not-Responsive to this FOA
+# Applications Not-Responsive to this FOA
 
 This FOA is only for studies related to humans; animal or other disease model studies are not responsive to this FOA.
 

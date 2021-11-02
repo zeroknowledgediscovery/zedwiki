@@ -154,4 +154,20 @@ For preparatory activities:
 - Submission of final public use dataset to NINDS
 - If an adaptive design is to be used, indicate when adaptions will be considered.
 
+# Protection and Monitoring Plans
 
+# Study Team Structure
+
+# Study Design
+
+ + participant eligibility criteria including the demographic characteristics of the people to be tested (such as age, sex, ethnicity), and how it will be determined whether or not a given individual will be selected for testing.
+ + all assessments including clinical, laboratory, physiological, behavioral, patient-centered, or other outcomes addressing the research paradigm. 
+ + efficient data management and methods for monitoring quality, methods for monitoring the quality and consistency of paradigm administration, and methods for ensuring participant confidentiality. 
+ + informed consent process, and example consent language that describes sharing. Consent should allow sharing of de-identified clinical data and, if applicable, biospecimens, for broad biomedical research.
+
+# Statistical Power 
+Applicants must provide a description of statistical methods including sample size and power calculations, study outcome measures, plans for interim and final analyses, methods of bias control, and methods for handling missing data. Examples of the critical elements of a well-designed study are summarized on the NINDS website.
+
+---
+
+# Review

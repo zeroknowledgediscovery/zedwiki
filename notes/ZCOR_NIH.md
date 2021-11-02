@@ -135,24 +135,23 @@ For preparatory activities:
 - Plans for site activation, execution of contracts and training of additional clinical sites, including any international sites, if applicable
 
 
-# Funding beyond timelimit
+`Funding beyond timelimit`
+**Proposed milestones should be included for the entire trial, including any time beyond the five-year award. This information will be used for planning purposes and to support the rationale for the full trial but does not guarantee continued funding beyond the initial funding cycle.**
 
-Proposed milestones should be included for the entire trial, including any time beyond the five-year award. This information will be used for planning purposes and to support the rationale for the full trial but does not guarantee continued funding beyond the initial funding cycle.
-
-Milestones and timelines will be refined and finalized in consultation with Program staff at the time of award.
+**Milestones and timelines will be refined and finalized in consultation with Program staff at the time of award.**
 
 
-For enrollment:
+## For enrollment:
 
-Completion of start-up activities (finalization of protocol, contracting of sites, registration in ClinicalTrials.gov, completion of any final regulatory approvals, etc.)
-Earliest possible enrollment date
-Enrollment of 25%, 50%, 75% and 100% of the targeted sample size
-Completion of all study data collection
-Completion of primary endpoint and secondary endpoint data analyses
-Completion of final study report
-Publication of primary study results
-Reporting of results in ClinicalTrials.gov
-Submission of final public use dataset to NINDS
-If an adaptive design is to be used, indicate when adaptions will be considered.
+- Completion of start-up activities (finalization of protocol, contracting of sites, registration in ClinicalTrials.gov, completion of any final regulatory approvals, etc.)
+- Earliest possible enrollment date
+- Enrollment of 25%, 50%, 75% and 100% of the targeted sample size
+- Completion of all study data collection
+- Completion of primary endpoint and secondary endpoint data analyses
+- Completion of final study report
+- Publication of primary study results
+- Reporting of results in ClinicalTrials.gov
+- Submission of final public use dataset to NINDS
+- If an adaptive design is to be used, indicate when adaptions will be considered.
 
 

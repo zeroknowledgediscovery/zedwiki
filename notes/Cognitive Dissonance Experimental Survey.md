@@ -41,24 +41,25 @@
 + US should ban export of defensive military technology to foreign nations, including missile shields
 + US should have an open border policy on immigration
 + All counties should have an open border policy
-+ All immigrants should have a guaranteed universal basic income (UBI) that equals a living wage
-+ UBI should be paid for by US taxpayers
-+ Religious exceptions to ordances should be always legal
-+ Sharia law should be recognized legally
++ Citizens should have a guaranteed universal basic income (UBI) that equals a living wage
++ Minimum wage should be increased significantly
++ Universal Basic Income should be paid for by US taxpayers
++ Religious exceptions to laws and ordances is acceptable and should be legal
++ Adherence to Islamic law should be recognized as a religious liberty
 + Opinions of religious scholars should be factored into the legislative process
 + Covid vaccine should be mandated by law
-+ Yellow fever vaccine should be mandated by law
 + Influenza vaccine should be mandated by law
 + Common cold vaccine, if available, should be mandated by law
-+ Recreational drug use should have strict penalty or taxation
-+ Alcohol abuse should have criminal penalty and/or taxation
++ Recreational drug use should be illegal and should have strict penalty 
++ Alcohol abuse should have criminal penalty 
 + Unhealthy habits such as drinking soda or smoking should be penalized by the government
 + Religious institutions should pay tax in the same manner as any corporation
 + Socialism as an ideology is superior to capitalism
 + Socialist governments have historically led to prosperous societies
 + Free speech is an inalienable right
 + Speech that is dangerous should be silenced
-
++ Spreading misinformation should be illegal with criminal penalty
++ Big corporations make too much profit
 
 # Polar module
 ## Responses shown inline in '[...]'

@@ -1,3 +1,32 @@
+## Nov 8, 2021
+
++ drew
+    - pattern of patterns (performance eval)
+
++ david
+    - check for ther nan bug.
+    - Please organize where current results are: dmat,embed,pca,clusters, figures, csvs
+    
++ dmytro
+    - IPF (done for Dmytro)
+    - CKD Arleen (done)
+    - Alex cancers (ongoing)
+    - EDA for ASD
+    - EDA for "pneumococcal pneumonia" [Pnenomia codes](https://bjgp.org/highwire/markup/23085/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)
+
++ nic
+    - looking at the hypothesis datframes
+    - simulate the cycle model
+    - doing the qbiome analysis for **class**
+    
+
++ lucas
+    - hypothesis class for cognet
+
+
+
+
+
 ## Nov 1, 2021
 
 + drew

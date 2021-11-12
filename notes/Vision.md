@@ -50,28 +50,29 @@ Thank you for being here, and participating in this process. I have broad resear
 
 
 39. QNet Architecture: originally developed to predict evolutionary trajectories of emerging viruses. But is actually a general framework to model complex multi-variate systems.
-40. How do we compute distance between strains.. edit distance or the number of mutations they are apart do not refelect biology. The Qnet allows us to infere dependencies between mutations, and induces a biology aware distance metric the qdistance, which adapts to teh organism, the evolutionary processes, the selection pressures etc. Using the qdistanec we can estimate if two sequences are close: in teh sense if one is likely to jump to another in teh wild. 
+40. How do we compute distance or similarity between viral strains.. edit distance or the number of mutations they are apart do not reflect biology. The Qnet allows us to infere dependencies between mutations, and induces a biology aware distance metric the qdistance, which adapts to the organism, the evolutionary processes, the selection pressures etc. Using the qdistance we can estimate if two sequences are close: in the sense if one is likely to jump to another in the wild. 
 41. example of qnet construction
 43. example that we can indeed predict fututre muations. We outperform WHO in 98% of next-flu-season strain prediction over the past 20 years.
-44. And it works in experiment as well (Aaron's lab)
-45. Future: NORAD for Biological/pandemic threats
-46. As I said Qnets are applicable to any complexc multi-varauate systems, and the othetr application I am looking into wit Erika Claud is gut microbiome modeling .
+44. And it works in experiment as well (Aaron's lab). We predicted variants on the SARS-CoV2 spike protein uisng Qnets, and a random sample from those were evaluated in the lab: all of them expressed, were functional ie bound to teh human ACE2 receptor, and soem evaded standard neutralization. 
+
+## Qnet future
+
+45. Future: NORAD for Biological/pandemic threats: rand-ordering strains in teh animal reservoirs and targeting them before teh first human infection. ANd if a pandemic still  happens then predict timelines, and variants, and help design escape resistant vaccines.
+46. As I said Qnets are applicable to any complex multi-varauate systems, and the second application I am looking into with Erika Claud is gut microbiome modeling for infants.
 47. Model ecosystem evolution, and forecast in individual infants how their microbiome evolves, and matures.
 48. And we are immesely successful, as you can see.
 49. Future, map to disease states, and optimize interventions for microbiome tuning.
 50. Application to belief shifts
-51. examples
-52. Renditon of opinions in society over time, each dot is an opinion vectyor, and closer dots can change (jump) to one another, far apart dots are mch less likely to.
-53. Predict responses to unaswered questions from patial data. 
+51. examples: opinions or beliefs have dependencies, and we can learn them using qnets from survey data (like the GSS), and this model then allows us to make predictions on how a particualr individual is going to respond to a question, before it is asked.
 54. Social experiment (collab with James Evans) to validate
-55. Also since we can predict responses, this opens up other possibilioties.. an algoithmic lie detector. We can tell if someone;s responses are consistent with their past responses using the complex inferred models, and is impossible to cheat. 
+55. Also since we can predict responses, this opens up the possiblity of an algoithmic lie detector. We can tell if someone;s responses are consistent with their past responses using the complex inferred models, and is impossible to cheat, and will have immense applications in psychometric testing, and general survey intergrity determination.
 
 # Time Series 
 
 
-56. New approach to modeling stochastic phenomena. One application is using past flu incidence data to predeict COVID case count.
-58. And in teh CDC backed forecast hub, we beat everyone with our algorithm, including stanford, mit, columbia, LANL .
-59. SImialr underlying principles allow us to model rare and extreem pehnomnea, which is challenging even for state of teh art ML, including extereme weather evenst, earthqaukes, crime.
+56. New approach to modeling stochastic phenomena, that addresses some major gaps in current state of the art. One application is using past flu incidence data to predeict COVID case count.
+58. And in teh CDC backed forecast hub, we beat everyone, including stanford, mit, columbia, LANL .
+59. SImialr underlying principles allow us to model rare and extreme pehnomnea, which is challenging even for state of teh art ML, including extereme weather evenst, earthqaukes, crime.
 60. without going into details, this capability arises from identifying emergent self-simialrities in stoichasti system that produces compact models (order of magnitude smaller that deep learning frameworks, leading to superior predictive performance)
 61. In crime, particualrly, we can also use our generative models to look for enforecemnt bias. So the predictive ability both empowres the state, and opens up new ways to audit effect of state policy decisions.
 62. We would have won in 119 out of 120 categories.

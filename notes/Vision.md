@@ -2,11 +2,7 @@ I have broad research intersts, which is  challneging to talk  about in 15 minut
 
 # Vision
 
-3. I am interested in intrinsic properties of data, how we can distill knowledge/actionable insights, and answer hard questions in biomedicine and the social sciences. We live in the age of data, and we can now imagine an update to the scientific method itself. Instead of classical cycle: make hypotheses -- test in experiments -- refine hypotheses, we can envision a process in which hypotheses are learned from data itself. Now, ML has made great strides, but we still are limited by a requirement of pre-selecting good features, and for that yopu need a lot of domain knowledge. I am interested in exploring if we can go further, instead of opaque solutions to individual problems, can we develop zero-knowledge pattern discovery tools to accelerate science.
-
-# Data
-4. 
-5. Data from different problem domains have different formats, contexts and relates to different questions of interest, e.g. I am inetersted in forecasting case counts in pandemics, predict future mutations in emerging pathogens, predict time and place of future crimes, screen and diagnose compelx diseases for which the pathobiology and  all risk factors might not be known yet. 
+3. I am interested in getting actionable knowledge from data, particualrly in domains where the underlying physics, biology or pathlobiology might not be completely known yet. For example, predicting case counts in a pandemic, or predicting future mutations and emergence of new pathogens, forecasting crime in cities, and estimating future risk fo complex diseases.
 
 6. I am interested in going from complex datasets to actionable insights, that help clinical decisions, accelerates cience and distill new theory.
 

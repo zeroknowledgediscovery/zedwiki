@@ -1,29 +1,21 @@
 I have broad research intersts, which is  challneging to talk  about in 15 minutes. Hence I will stick to my broad vision, what I set out to achieve, where I am  in that path (results), and where I intend to go in future. 
 
-**ZeDLab Vision**
-
 3. I am interested in intrinsic properties of data, how we can distill knowledge/actionable insights, and answer hard questions in biomedicine and the social sciences. We live in the age of data, and we can now imagine an update to the scientific method itself. Instead of classical cycle: make hypotheses -- test in experiments -- refine hypotheses, we can envision a process in which hypotheses are learned from data itself. Now, ML has made great strides, but we still are limited by a requirement of pre-selecting good features, and for that yopu need a lot of domain knowledge. I am interested in exploring if we can go further, instead of opaque solutions to individual problems, can we develop zero-knowledge pattern discovery tools to accelerate science.
-
-
-**Foundational Insights**
 
 4. 
 5. Data from different problem domains have different formats, contexts and relates to different questions of interest, e.g. I am inetersted in forecasting case counts in pandemics, predict future mutations in emerging pathogens, predict time and place of future crimes, screen and diagnose compelx diseases for which the pathobiology and  all risk factors might not be known yet. 
 
 6. I am interested in going from complex datasets to actionable insights, that help clinical decisions, accelerates cience and distill new theory.
 
-**The Core Algorithms**
 
 7. In the journey so far, I have identified an developed three core ideas or building blocks or algorithmic principles, that then spawn solutions to diverse problems. With significant funding I have procured, I have an dma pursuing these diurection that I am going to talk about in a moment. 
 
 8. Briefly these three distinct building bloack s are a new approach to EHR analytics, the Q-Net framework, and fundamentally new approaches to stochastic time series modeling.
 
-**People**
 
 10. These are all the associates an dstudents I have worked with. Yi and Nick are my postdocs (Yi just left for BNL, both are math PhDs), and teh rest are graduate or UG students in CS and math. 
 11. Here are my collaborators across the campus and beyond. And showing the diversity of applications and problems I have worked on, here are all the home departments of my collaborators outside medicine. psychiatry, pediatrics, cardiology,  pulomonary care, statistics, PME, social sciences. 
 
-**EHR analytics**
 
 13. Lets talk about the first category of problems: diagnosis and screening of complex diseases with electronics health records. I designed a new approach to leverage comorbidities effectively and accurately estimate the future risk of a disease, I call these deisease specific estimates xCoR, where x specifies the disease. 
 

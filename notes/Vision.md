@@ -21,7 +21,7 @@ Thank you for being here, and participating in this process. I have broad resear
 
 13. Lets talk about the first category of problems: diagnosis and screening of complex diseases with electronics health records. I designed a new approach to leverage comorbidities effectively to estimate the future risk of a disease, I call these deisease specific estimates xCoR, where x specifies the disease. 
 
-14. 15. Universality. The dieases we have considered so far incluse; These are with the exception of ASDD are fatal diseases with no good screening tool that may be administerd in primary care, leading to missed and late diagnoses. All serious dieases have co-morbidities, they generate fingerprints in our medical histories. Can we use teh vast patianet history data that we have access now, to find and use these patterns?
+14. Universality. The diseases we have considered so far include asd ad ipf ; These are with the exception of ASDD are fatal diseases with no good screening tool that may be administerd in primary care, leading to missed and late diagnoses. All serious dieases have co-morbidities, they generate fingerprints in our medical histories. Can we use teh vast patianet history data that we have access now, to find and use these patterns?
 
 16. Conventional ML -- which aims to mimic the physician -- will not do. For these diseases we dont not know enough of the pathobiology to pre-specifiy all risk factors, instead we leverage underutilized diagnostic moadlities -- complex historical patterns -- to complement the physician's experience.
 

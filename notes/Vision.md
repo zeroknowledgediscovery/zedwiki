@@ -8,37 +8,43 @@ Thank you for being here, and participating in this process. I have broad resear
 
 # Journey 
 
-7. In the journey so far, I have identified/developed **three** core ideas or building blocks or algorithmic principles, that then spawn solutions to diverse problems. With significant funding I have procured, I have an dma pursuing these diurection that I am going to talk about in a moment. 
+7. In the journey so far, I have identified/developed **three** _core ideas or building blocks or algorithmic principles,_ that then spawn solutions to diverse problems, important and intersting enough to attract significant external funding. 
 
-8. Briefly these three distinct building bloack s are a new approach to EHR analytics, the Q-Net framework, and fundamentally new approaches to stochastic time series modeling.
+8. **Briefly these three distinct building bloacks define a new approach to EHR analytics, a new approach to analyze complex multivaraite dependencies (the Q-Net framework), and approach that fundementally rethinks stochastic time series modeling.**
 
 # People 
 
-10. These are all the associates an dstudents I have worked with. Yi and Nick are my postdocs (Yi just left for BNL, both are math PhDs), and teh rest are graduate or UG students in CS and math. 
-11. Here are my collaborators across the campus and beyond. And showing the diversity of applications and problems I have worked on, here are all the home departments of my collaborators outside medicine. psychiatry, pediatrics, cardiology,  pulomonary care, statistics, PME, social sciences. 
+10. These are all the associates and students I have worked with. Yi and Nick are my postdocs (Yi just left for BNL, both are math PhDs), and teh rest are graduate or UG students in CS and math. 
+11. Here are my collaborators across the campus and beyond. And showing the diversity of applications I have engaged, here are all the home departments of my collaborators outside medicine. psychiatry, pediatrics, cardiology,  pulomonary care, statistics, PME, social sciences. 
 
 # EHR
 
-13. Lets talk about the first category of problems: diagnosis and screening of complex diseases with electronics health records. I designed a new approach to leverage comorbidities effectively and accurately estimate the future risk of a disease, I call these deisease specific estimates xCoR, where x specifies the disease. 
+13. Lets talk about the first category of problems: diagnosis and screening of complex diseases with electronics health records. I designed a new approach to leverage comorbidities effectively to estimate the future risk of a disease, I call these deisease specific estimates xCoR, where x specifies the disease. 
 
-14. 15. Universality. The dieases we have considered so far incluse; These are with teh exception of ASDD are fatal diseases with no good screening tool that may be administerd in primary care, leading to missed and late diagnoses. All serious dieases have co-morbidities, they generate fingerprints in our medical histories. Can we use teh vast patianet history data that we have access now, to find and use these patterns?
+14. 15. Universality. The dieases we have considered so far incluse; These are with the exception of ASDD are fatal diseases with no good screening tool that may be administerd in primary care, leading to missed and late diagnoses. All serious dieases have co-morbidities, they generate fingerprints in our medical histories. Can we use teh vast patianet history data that we have access now, to find and use these patterns?
 
-16. Conventional ML -- which aims to mimic the physician -- will not do. For these diseases we dont not know enough of the pathobiology to pre-specifiy all risk factors, instead we leverage underutilized diagnostic moadlities -- complex historical patterns -- to complement the physician's experinece.
+16. Conventional ML -- which aims to mimic the physician -- will not do. For these diseases we dont not know enough of the pathobiology to pre-specifiy all risk factors, instead we leverage underutilized diagnostic moadlities -- complex historical patterns -- to complement the physician's experience.
+
 17. ASD: problem is delayed diagnosis which delays interventions
+
 18. We know children with autism have higher rates of many diseases. But the hetergenity of autism makes it non-trivial to naively use these patterns. 
-19. Our approach cuts down teh false posituves by half
-20. And here is teh ROC, and this is the state of teh art screening.
+
+19. Our approach cuts down teh false posituves by half.
+
+20. And here is the ROC, and this (MCHAT) is the state of teh art screening.
+
 21. And we get to close to 90% AUC at 4 years.
-22. This is the inferred comorbidity spectra..  showing how individual diagnoses module autism risk. 
-23. How does this work? we infer generative models of stochastic proceses that drive the diagnostic histories, making possible to leverage longitudinal effects beyond just binary presensce/absense of risk factors.
-24. here is an example of PFSA
-25. The algorithm uses 100s of such models pairs to intrenally respresent how the diagnosis patterns differe between the control and the treatment sets. 
+
+22. This is the inferred comorbidity spectra:  showing how individual diagnoses module autism risk. 
+23. **How does this work? we infer generative models of stochastic proceses that drive the diagnostic histories, making possible to leverage longitudinal effects beyond just binary presensce/absense of risk factors.**
+24. These generative models are known as probabilistic automaata: is an example of PFSA. Theer are subtle differences in teh models inferred in teh control and treatment categories, which are then quantified and used to optimize our predictions.
+25. The algorithm uses 100s of such models pairs to respresent how the diagnosis patterns differ between the control and the treatment sets. 
 26. BP, we aim to predict if a patient with depression will experience a manic switch. 
 30. IPF. 3-5 years survival post-diagnosis. We get AUCs approaching 88%, and can boost survival from ~100 weeks to >200 weeks on average, due to earlier diagnosis. Disease modifying drugs exist now, so this can be a big deal.
 31. ADRD. 67% to 87%. And we can predict AD diagnosis upto a decade in future. 
 36. Teh list if disorders we can target are expanding every week, e.g. cardiac risk in perioperative HK surgery, we estimate the adoption of our tool can save ~10K lives over teh next 20 years.
-37. prospective trails under way right now
-38. new approach to univreal screening across teh human diease soectrum
+37. Prospective trials under way right now
+38. new approach to universal screening across the human disease spectrum
 
 # QNET 
 

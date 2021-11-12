@@ -2,13 +2,13 @@ Thank you for being here, and participating in this process. I have broad resear
 
 # Vision
 
-3. I am interested in getting actionable knowledge from data, particualrly in domains where the underlying physics, biology or pathlobiology might not be completely known yet. For example, predicting case counts in a pandemic, or predicting future mutations and emergence of new pathogens, forecasting crime in cities, and estimating future risk fo complex diseases.
+3. I am interested in getting actionable knowledge from data, particularly in domains where the underlying physics, biology or pathlobiology might not be completely understood yet. Examples might be: predicting case counts in a pandemic, or predicting future mutations and emergence of new pathogens, forecasting when and where for crime in cities, estimating future risk fo complex diseases.
 
-6. I am interested in going from complex datasets to actionable insights, that help clinical decisions, accelerates cience and distill new theory.
+6. I am interested in getting actionable insights in complex systems, that help clinical decisions, accelerate science and distill new theory.
 
 # Journey 
 
-7. In the journey so far, I have identified an developed three core ideas or building blocks or algorithmic principles, that then spawn solutions to diverse problems. With significant funding I have procured, I have an dma pursuing these diurection that I am going to talk about in a moment. 
+7. In the journey so far, I have identified/developed **three** core ideas or building blocks or algorithmic principles, that then spawn solutions to diverse problems. With significant funding I have procured, I have an dma pursuing these diurection that I am going to talk about in a moment. 
 
 8. Briefly these three distinct building bloack s are a new approach to EHR analytics, the Q-Net framework, and fundamentally new approaches to stochastic time series modeling.
 

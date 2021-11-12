@@ -1,4 +1,4 @@
-I have broad research intersts, which is  challneging to talk  about in 15 minutes. Hence I will stick to my broad vision, what I set out to achieve, where I am  in that path (results), and where I intend to go in future. 
+Thank you for being here, and participating in this process. I have broad research intersts, which is  challneging to talk  about in 15 minutes. Hence I will stick to my broad vision, what I set out to achieve, where I am  in that path (results), and where I intend to go in future. 
 
 # Vision
 

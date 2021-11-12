@@ -1,4 +1,4 @@
-# The ZeDLab Vision
+# ZeDLab Vision
 
 # Foundational Insights
 

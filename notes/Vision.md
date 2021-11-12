@@ -4,7 +4,7 @@ Thank you for being here, and participating in this process. I have broad resear
 
 3. I am interested in getting actionable knowledge from data, particularly in domains where the underlying physics, biology or pathlobiology might not be completely understood yet. Examples might be: predicting case counts in a pandemic, or predicting future mutations and emergence of new pathogens, forecasting when and where for crime in cities, estimating future risk fo complex diseases.
 
-6. I am interested in getting actionable insights in complex systems, that help clinical decisions, accelerate science and distill new theory.
+6. I am interested in getting actionable insights in complex systems, that help clinical decisions, accelerate science and distill new theory. In SOA tools like ML often we need to begin with good informative features, which is not possible in domaind where we lack good understanding, and hence my goal is to push this notion of zero knowledge discovery.
 
 # Journey 
 

@@ -1,3 +1,35 @@
+# confidence bound with lowess
+
+```
+import scipy.stats as stats
+import statsmodels.api as sm
+from scipy import interpolate
+from scipy.interpolate import interp1d
+
+lowess = sm.nonparametric.lowess
+df.index=df.index.astype(float)
+df=df.sort_index()
+S=.8
+RUNS=10
+DF=df
+
+for i in range(RUNS):
+    X=df.sample(int(np.round(S*df.index.size))).sort_index().reset_index().values
+
+    z = lowess(X[:,1], X[:,0], frac= .25)
+    f = interp1d(z[:,0], z[:,1])
+    Y=f(X[:,0])
+    DF=DF.join(pd.DataFrame(Y,X[:,0]),rsuffix=str(i))
+DF=DF.interpolate(method='index',order=3,limit_direction='both')
+STD=pd.DataFrame(2.62*(DF.std(axis=1)/np.sqrt(RUNS)))
+Mf=pd.DataFrame(DF.mean(axis=1)).assign(sm=STD)
+Mf.columns=['mn','sm']
+ax=Mf.mn.plot()
+plt.fill_between(Mf.index,Mf.mn-Mf.sm,Mf.mn+Mf.sm,alpha=.5)
+ax.set_xlabel('mean number of items')
+ax.set_ylabel('mean accuracy')
+```
+
 # ICD10 API
 
 ```

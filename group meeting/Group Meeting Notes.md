@@ -2,6 +2,7 @@
 
 + drew
     - pattern of patterns (performance eval)
+    - ALex next steps
 
 + david
     - status of 4 steps

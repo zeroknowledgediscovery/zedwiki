@@ -1,3 +1,27 @@
+
+## Nov 15, 2021
+
++ drew
+    - pattern of patterns (performance eval)
+
++ david
+    - status of 4 steps
+    
++ dmytro
+    - ADRD/ASD performance
+    - erik meeting
+
++ nic
+    - looking at the hypothesis datframes
+    - simulate the cycle model
+    - doing the qbiome analysis for **class**
+    
+
++ lucas
+    - hypothesis class for cognet
+
+
+
 ## Nov 8, 2021
 
 + drew

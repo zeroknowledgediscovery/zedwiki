@@ -1,6 +1,9 @@
 # confidence bound with lowess
 
 ```
+#dataframe: index (float), csingle column with float
+
+
 import scipy.stats as stats
 import statsmodels.api as sm
 from scipy import interpolate

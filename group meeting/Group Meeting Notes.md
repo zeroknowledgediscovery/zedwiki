@@ -1,4 +1,3 @@
-
 ## Nov 15, 2021
 
 + drew
@@ -6,15 +5,21 @@
 
 + david
     - status of 4 steps
+    - qnet construction error fixed
+    - # 4------) the example on cognet repo is not complete. Make it so that it is.. it computes qnet, adds polar features, computes distance matrix on a sample 
+# and can update poles and recompute
+# 5-----) check trees to make sure no "nan" in qnet (eg. after taking qsamples)
+# 6-----) embedding
+
     
 + dmytro
     - ADRD/ASD performance
     - erik meeting
 
 + nic
-    - looking at the hypothesis datframes
-    - simulate the cycle model
-    - doing the qbiome analysis for **class**
+    - lets start draft
+    - datframe comparison (resolve conlict)
+    - alpha vs time
     
 
 + lucas

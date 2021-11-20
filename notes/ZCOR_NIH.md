@@ -170,4 +170,26 @@ Applicants must provide a description of statistical methods including sample si
 
 ---
 
-# Review
+# Review specifics
+
+# Neda Cooments
+
+**Pharmacologic interventions do not really slow dementia – though there could be interventions like better chronic disease management for diabetes and hypertension and obesity sleep apnea that could decrease the risk of dementia – that is one of the very cool things to me about this work. 
+**
+
+If you wanted to add – here are some citations with text so you can preview by PMID: - it was pretty easy to find these, and I can find more if you want.
+
+
+34711638: (prediabetes) Compared with normoglycemia, aHRs (95% CI) were 1.01 (1.01-1.02) in IFG, 1.45 (1.44-1.47) in new-onset diabetes, 1.32 (1.30-1.33) in known diabetes < 5 years, and 1.62 (1.60-1.64) in known diabetes ≥5 years. We found that associations between ischemic heart disease and chronic kidney disease with incident dementia were affected by the presence of diabetes. Ischemic stroke showed a greater association with incident dementia than diabetes.
+
+
+34768695 (angiotensin receptor blocker medicine a/w decreased dementia)
+
+We selected 21,208 patients from the Taiwan nationwide database from 1 January 2006 to 31 December 2006. We identified ARB users (n = 17,466) and ARB non-users (n = 3742) and their medication possession ratio (MPR). The Cox proportional hazard model was used to estimate hazard ratios (HRs) for the incidence of dementia in ARB users in the CKD population. During the 11-year follow-up period, 2207 dementia events were recorded; multivariate-adjusted hazard ratios for dementia by ARB usage and ARB usage per MPR were 0.578 (95% CI: 0.52-0.643) and 0.996 (95% CI: 0.995-0.998), respectively. This association was observed in almost all subgroups. Dose frequency effect of ARBs was noted; patients with higher MPRs of ARBs generally had higher protection from dementia. Patients with hypertension and CKD who received ARBs had a decreased risk of dementia. Protective effects of ARBs on dementia increased with the frequency of ARB use.
+
+
+34482601 (vascular disease, MESA study)
+
+African-Americans exhibited greater baseline Cardiovascular Risk Factors, Aging, and Incidence of Dementia (CAIDE), Framingham stroke risk profile (FSRP), and atherosclerotic cardiovascular disease risk estimate (ASCVD) scores than Whites. We observed no significant racial differences in Aβ positivity, cortical thickness, or white matter hyperintensity (WMH) volume. Higher baseline VRF scores were associated with lower cortical thickness and greater WMH volume, and FSRP and CAIDE were associated with Aβ. Aβ was cross-sectionally associated with cognition, and all imaging biomarkers were associated with greater 6-year cognitive decline.
+
+

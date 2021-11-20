@@ -193,3 +193,13 @@ We selected 21,208 patients from the Taiwan nationwide database from 1 January 2
 African-Americans exhibited greater baseline Cardiovascular Risk Factors, Aging, and Incidence of Dementia (CAIDE), Framingham stroke risk profile (FSRP), and atherosclerotic cardiovascular disease risk estimate (ASCVD) scores than Whites. We observed no significant racial differences in Aβ positivity, cortical thickness, or white matter hyperintensity (WMH) volume. Higher baseline VRF scores were associated with lower cortical thickness and greater WMH volume, and FSRP and CAIDE were associated with Aβ. Aβ was cross-sectionally associated with cognition, and all imaging biomarkers were associated with greater 6-year cognitive decline.
 
 
+
+***
+
+
+Also where are the approaches for specific aims 1-4 explicitly described?
+
+
+I get that some elements are universal – e.g., study population, recruitment, diagnostic assessments, but we still need aim 1-4 statistical analysis described.
+
+

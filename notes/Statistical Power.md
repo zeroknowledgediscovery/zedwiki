@@ -26,3 +26,10 @@ when each task is performed on the same subject.
 The required sample sizes were calculated and tabulated with different levels of accuracies and
 marginal errors with 95% confidence level for estimating and for various effect sizes with 80% power for
 purpose of testing as well.
+
+
+# Formula
+
+$
+n_{se} = 
+$

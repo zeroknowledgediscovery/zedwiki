@@ -31,5 +31,5 @@ purpose of testing as well.
 # Formula
 
 $
-n_{se} = 
+n_{s} = \frac{z^2_{\alpha/2} s (1-s) }{d^2 \rho}
 $

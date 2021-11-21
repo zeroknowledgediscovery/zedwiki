@@ -42,3 +42,12 @@ $
 n_{c} = \frac{z^2_{\alpha/2} c (1-c) }{d^2 (1-\rho)}
 $
 
+# power
+
+For the purpose of testing, instead
+of third element, the difference of sensitivity (or specificity) under
+the null and alternative hypothesis is required (i.e. the maximum
+difference to be detected in statistical test with power of \\\(1 - \beta \\\)
+where b is the probability of type II error). Thus, the power of sta-
+tistical test (the compliment of type II error) should be considered
+the prior sample size calculation.

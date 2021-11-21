@@ -42,7 +42,7 @@ $
 n_{c} = \frac{z^2_{\alpha/2} c (1-c) }{d^2 (1-\rho)}
 $
 
-# power
+# Power definition
 
 For the purpose of testing, instead
 of third element, the difference of sensitivity (or specificity) under
@@ -52,7 +52,7 @@ where b is the probability of type II error). Thus, the power of sta-
 tistical test (the compliment of type II error) should be considered
 the prior sample size calculation.
 
-# power calculation against existing test wrt sensitivity or specificity
+# Power calculation against existing test wrt sensitivity or specificity
 
 At \\\(1-\beta\\\) power, and confidence \\\(\alpha\\\), we have:
 

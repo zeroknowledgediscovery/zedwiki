@@ -29,7 +29,8 @@ purpose of testing as well.
 
 
 # Formula
-Let \\\( d\\\) be the marginal error, and \\\( \rho\\\) is the prevalence, and 
+Let \\\( d\\\) be the marginal error, and \\\( \rho\\\) is the prevalence, and \\\(s,c\\\) are sensitivity and specificity respectively, Then, we have:
+
 
 Sample size based on sensitivity:
 $

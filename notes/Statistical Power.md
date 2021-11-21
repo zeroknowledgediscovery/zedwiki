@@ -1,3 +1,4 @@
 # Sample Size Estimate in Diagnostic Trials
 
- /uploads/powercalculation.pdf
+ [Sample size estimation in diagnostic test studies of biomedical
+informatics](/uploads/powercalculation.pdf)

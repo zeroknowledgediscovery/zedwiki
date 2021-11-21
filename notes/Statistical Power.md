@@ -51,3 +51,10 @@ difference to be detected in statistical test with power of \\\(1 - \beta \\\)
 where b is the probability of type II error). Thus, the power of sta-
 tistical test (the compliment of type II error) should be considered
 the prior sample size calculation.
+
+# power calculation aganist existing test
+
+$
+n = \frac{z_{\alpha/2}\sqrt{p_0(1-p_0)} + z_{\beta}\sqrt{p_1(1-p_1)}}{(p_0-p_1)^2}
+$
+

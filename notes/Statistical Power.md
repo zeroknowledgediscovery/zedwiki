@@ -30,7 +30,6 @@ purpose of testing as well.
 
 # Formula
 Sample size based on sensitivity:
-
 $
 n_{s} = \frac{z^2_{\alpha/2} s (1-s) }{d^2 \rho}
 $

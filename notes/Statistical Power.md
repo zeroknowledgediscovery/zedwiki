@@ -52,7 +52,7 @@ where b is the probability of type II error). Thus, the power of sta-
 tistical test (the compliment of type II error) should be considered
 the prior sample size calculation.
 
-# power calculation aganist existing test
+# power calculation against existing test wrt sensitivity or specificity
 
 At \\\(1-\beta\\\) power, and confidence \\\(\alpha\\\), we have:
 

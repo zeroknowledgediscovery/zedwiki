@@ -55,9 +55,11 @@ the prior sample size calculation.
 # power calculation aganist existing test
 
 At \\\(1-\beta\\\) power, and confidence \\\(\alpha\\\), we have:
+
 $
 n =\left ( \frac{z_{\alpha/2}\sqrt{p_0(1-p_0)} + z_{\beta}\sqrt{p_1(1-p_1)}}{p_0-p_1}\right)^2
 $
+
 where \\\(p_0,p_1\\\) are the sensitivity or specifity values for old and new tests respectively.
 
 

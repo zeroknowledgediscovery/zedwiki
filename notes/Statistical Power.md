@@ -1,6 +1,6 @@
 # Ustatistic
-
-[variance](/uploads/boundsU.pdf)
++ [Use of U statistic](/uploads/mannU.pdf)
++ [variance of U statistic](/uploads/boundsU.pdf)
 
 # Sample Size Estimate in Diagnostic Trials
 

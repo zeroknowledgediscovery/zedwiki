@@ -1,6 +1,7 @@
 # Ustatistic
 + [Use of U statistic](/uploads/mannU.pdf)
 + [Variance of U statistic](/uploads/boundsU.pdf)
++ [one sample t tests]( /uploads/OneSampleTest_student.pdf)
 
 # Sample Size Estimate in Diagnostic Trials
 

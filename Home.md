@@ -45,7 +45,7 @@ Datasets that are often used in the lab
 ##  [[ZeD Concepts.md]]
 ## [Group Meeting Notes](group meeting/Group Meeting Notes.md)
 
-## [Grant Template]()
+## [Grant Template](/uploads/grant_example.tgz)
 
 # All Pages
 

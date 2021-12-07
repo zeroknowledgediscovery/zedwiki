@@ -1,5 +1,13 @@
 ## Dec 6, 2021
 
++ Nick
+  - paper
+  - narrative
+  - qbiome upadted code
++ dmytro
+    - cell writeup
++ david
+    - docuemntation for cognet
 
 
 ## Nov 15, 2021

@@ -5,6 +5,15 @@
 + [CI for 1-sample sensitivity and specificity](/uploads/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf)
 + [CI for single proprtion]( /uploads/confidence_proportion.pdf)
 
+# Confidence Bounds for sensitivity and specificity
+
+Simple asymptotic method ('Wald method'~\cite{newcombe1994confidence,newcombe1998two}) without continuity correction is sufficient where the number of samples is large, and suffices here:
+
+$
+p \pm z \sqrt{\frac{p(1-p)}{n}}
+$
+where z is the \\\( 1 - \alpha/2 \\\) point of the standard Normal distribution.
+
 ```
 @article{newcombe1998two,
   title={Two-sided confidence intervals for the single proportion: comparison of seven methods},

@@ -17,6 +17,17 @@
   publisher={Wiley Online Library}
 }
 
+@article{newcombe1994confidence,
+  title={Confidence intervals for a binomial proportion},
+  author={Newcombe, Robert G and Vollset, Stein Emil},
+  journal={Statistics in medicine},
+  volume={13},
+  number={12},
+  pages={1283--1285},
+  year={1994},
+  publisher={Wiley Online Library}
+}
+
 ```
 
 # Sample Size Estimate in Diagnostic Trials

@@ -2,6 +2,7 @@
 + [Use of U statistic](/uploads/mannU.pdf)
 + [Variance of U statistic](/uploads/boundsU.pdf)
 + [one sample t tests]( /uploads/OneSampleTest_student.pdf)
++ [CI for 1-sample sensitivity and specificity](/uploads/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf)
 
 # Sample Size Estimate in Diagnostic Trials
 

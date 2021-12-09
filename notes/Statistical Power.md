@@ -12,7 +12,8 @@ Simple asymptotic method ('Wald method'~\cite{newcombe1994confidence,newcombe199
 $
 p \pm z \sqrt{\frac{p(1-p)}{n}}
 $
-where z is the \\\( 1 - \alpha/2 \\\) point of the standard Normal distribution.
+where z is the \\\( 1 - \alpha/2 \\\) point of the standard Normal distribution. Replace with:
+90% : 1.645, 95%: 1.96, 99%: 2.6
 
 ```
 @article{newcombe1998two,

@@ -4,6 +4,21 @@
 + [one sample t tests]( /uploads/OneSampleTest_student.pdf)
 + [CI for 1-sample sensitivity and specificity](/uploads/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf)
 
+
+```
+@article{newcombe1998two,
+  title={Two-sided confidence intervals for the single proportion: comparison of seven methods},
+  author={Newcombe, Robert G},
+  journal={Statistics in medicine},
+  volume={17},
+  number={8},
+  pages={857--872},
+  year={1998},
+  publisher={Wiley Online Library}
+}
+
+```
+
 # Sample Size Estimate in Diagnostic Trials
 
  [Sample size estimation in diagnostic test studies of biomedical

@@ -17,7 +17,7 @@
 + `zbl_risk` is the column name of our estimated risk
 + Other column names:
     - `age` (not age_at_screening)
-+ <vartype>_<attrib>
++ vartype_attrib
     - auc_pfsa (correct)
     - p_final_cb (correct)
     - neg_LR_ (correct) NOT LR_neg or anything else

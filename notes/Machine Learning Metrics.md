@@ -4,7 +4,7 @@ Notation:
 + specificity: \\\(c\\\)
 + PPV: \\\(p\\\)
 + prevalence: \\\( \rho \\\)
-
++ NPV: \\\( \nu\\\)
 
 # AUC
 
@@ -18,4 +18,9 @@ $
 
 
 # NPV
+
+NPV = (specificity x (1 – prevalence)) / [ (specificity x (1 – prevalence)) + ((1 – sensitivity) x prevalence) ]
+
+$
+
 

@@ -30,7 +30,6 @@ NPV is the fraction of true negatives in all negative flags, i.e.,
 
 $
 \nu = \frac{t_n}{t_n+f_n}
-
 $
 
 From sensitivity and specificity, we can calculate:

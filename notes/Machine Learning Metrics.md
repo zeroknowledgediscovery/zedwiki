@@ -10,6 +10,12 @@ Notation:
 
 # PPV
 
+PPV is the fraction of true positives to all positive flags, i.e.,
+
+$
+p = \frac{t_p}{t_p+f_p}
+$
+
 PPV = (sensitivity x prevalence) / [ (sensitivity x prevalence) + ((1 – specificity) x (1 – prevalence)) ]
 
 $

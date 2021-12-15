@@ -22,5 +22,7 @@ $
 NPV = (specificity x (1 – prevalence)) / [ (specificity x (1 – prevalence)) + ((1 – sensitivity) x prevalence) ]
 
 $
+\nu = \frac{c(1-\rho)}{c(1-\rho) + (1-s)\rho}
 
+$
 

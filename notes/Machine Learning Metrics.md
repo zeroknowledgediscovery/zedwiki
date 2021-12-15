@@ -3,7 +3,7 @@ Notation:
 + sensitivity: \\\(s\\\)
 + specificity: \\\(c\\\)
 + PPV: \\\(p\\\)
-+ prevalence: \\\\rho \\\)
++ prevalence: \\\( \rho \\\)
 
 
 # AUC

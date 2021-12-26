@@ -18,7 +18,8 @@
 + vartype_attrib
     - auc_pfsa (correct)
     - p_final_cb (correct)
-    - neg_lr_ (correct) <<Warn(NOT neg_LR or  LR_neg or anything else)>>
+    - neglr (correct) <<Warn(NOT neg_LR or  LR_neg or anything else)>>
++ `varname_cb` is the confidence intervak for `varname`
     
 # Output files 
 

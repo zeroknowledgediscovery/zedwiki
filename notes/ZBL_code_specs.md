@@ -1,10 +1,9 @@
-
 # Filename conventions
 
 + SEX_database_model_subset_attrib0_attrib1_
-    - databse: TRUVEN, UCM or any other **(all caps)** <<Warn(all caps)>>
-    - model: ZBL, NN, CNN etc **(no underscores)**
-    - subset: **use BASIC for no subset**
+    - databse: TRUVEN, UCM or any other  <<Warn(all caps)>>
+    - model: ZBL, NN, CNN etc <<Warn(no underscores)>>
+    - subset: <<Warn(use BASIC for no subset)>>
 
 :warning:
 

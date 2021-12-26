@@ -1,9 +1,8 @@
 
-
 # Filename conventions
 
 + SEX_database_model_subset_attrib0_attrib1_
-    - databse: TRUVEN, UCM or any other **(all caps)**
+    - databse: TRUVEN, UCM or any other **(all caps)** <<Warn(all caps)>>
     - model: ZBL, NN, CNN etc **(no underscores)**
     - subset: **use BASIC for no subset**
 

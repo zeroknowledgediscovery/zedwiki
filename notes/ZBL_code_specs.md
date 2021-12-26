@@ -8,7 +8,7 @@
 + Tabular Files of size > 200MB have extension '.dat'
 
 
-# Columnname conventions
+# Column-name conventions
 
 + No capitalization
 + varnames: **auc, poslr, neglr, fpr, tpr, sensitivity, specificity**

@@ -1,10 +1,9 @@
 # Filename conventions
 
-+ **SEX_database_model_subset_attrib0_attrib1_**
++ **SEX_database_model_subset_attrib0_attrib1_...**
     - databse: TRUVEN, UCM or any other  <<Warn(all caps)>>
     - model: ZBL, NN, CNN etc <<Warn(no underscores)>>
     - subset: <<Warn(use BASIC for no subset)>>
-
 
 + Tabular Files of size > 200MB have extension '.dat'
 
@@ -13,14 +12,13 @@
 
 + No capitalization
 + varnames: **auc, poslr, neglr, fpr, tpr, sensitivity, specificity**
-+ report sensitivity and specificity not tpr, fpr
 + `zbl_risk` is the column name of our estimated risk
 + Other column names:
     - `age` (not age_at_screening)
 + vartype_attrib
     - auc_pfsa (correct)
     - p_final_cb (correct)
-    - neg_lr_ (correct) NOT neg_LR or  LR_neg or anything else
+    - neg_lr_ (correct) <<Warn(NOT neg_LR or  LR_neg or anything else)>>
     
 # Output files 
 

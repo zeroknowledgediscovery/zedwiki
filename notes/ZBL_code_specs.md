@@ -14,7 +14,7 @@
 + varnames: **auc, poslr, neglr, fpr, tpr, sensitivity, specificity**
 + `zbl_risk` is the column name of our estimated risk
 + Other column names:
-    - `age` <<Warn((not age_at_screening)>>
+    - `age` <<Warn(not age_at_screening)>>
 + vartype_attrib
     - auc_pfsa (correct)
     - p_final_cb (correct)

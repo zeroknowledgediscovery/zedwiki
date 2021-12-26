@@ -1,12 +1,5 @@
-# DSPL
-
-+ https://www.google.com/publicdata/directory
-+ Convert AUC STATS into DSPL (Dataset Publishing Language)
-+ https://developers.google.com/public-data/docs/dsplgen
-+ https://github.com/google/dspl
 
 
-***
 
 # Filename conventions
 
@@ -36,3 +29,12 @@
 + AUC stats
 + Patient_id
 + importance files
++ 
+
+# DSPL
+
++ https://www.google.com/publicdata/directory
++ Convert AUC STATS into DSPL (Dataset Publishing Language)
++ https://developers.google.com/public-data/docs/dsplgen
++ https://github.com/google/dspl
+

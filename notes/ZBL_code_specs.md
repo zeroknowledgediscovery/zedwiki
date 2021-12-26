@@ -7,14 +7,18 @@
 
 # Filename conventions
 
-+ SEX_attrib0_attrib1_...
++ SEX_database_model_subset_attrib0_attrib1_
+    - databse: TRUVEN, UCM or any other **(all caps)**
+    - model: ZBL, NN, CNN etc **(no underscores)**
+    - subset: **use BASIC for no subset**
+    
 + Tabular Files of size > 200MB have extension '.dat'
 
 
 # Columnname conventions
 
 + No capitalization
-+ varnames: auc, pos_lr, neg_lr, fpr, tpr, sensitivity, specificity
++ varnames: **auc, poslr, neglr, fpr, tpr, sensitivity, specificity**
 + report sensitivity and specificity not tpr, fpr
 + `zbl_risk` is the column name of our estimated risk
 + Other column names:

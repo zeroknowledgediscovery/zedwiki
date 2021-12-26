@@ -1,7 +1,7 @@
 # Filename conventions
 
 + **SEX_database_model_subset_attrib0_attrib1_...**
-    - databse: TRUVEN, UCM or any other  <<Note(all caps),"bell">>
+    - databse: TRUVEN, UCM or any other  <<Note(all caps,"bell")>>
     - model: ZBL, NN, CNN etc <<Warn(no underscores)>>
     - subset: <<Warn(use BASIC for no subset)>>
 

@@ -1,13 +1,14 @@
 
 
-
 # Filename conventions
 
 + SEX_database_model_subset_attrib0_attrib1_
     - databse: TRUVEN, UCM or any other **(all caps)**
     - model: ZBL, NN, CNN etc **(no underscores)**
     - subset: **use BASIC for no subset**
-    
+
+:warning:
+
 + Tabular Files of size > 200MB have extension '.dat'
 
 

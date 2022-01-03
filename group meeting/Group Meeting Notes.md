@@ -1,3 +1,18 @@
+## dec 13 2021
+
++ drew
+    - meeting this week (?)... Friday
+    - new dataset
+    
++ Dmytro 
+    - IPF results
+    - NN writeup
+    
++ Nick 
+    - Thursday(?)
+
++ 
+
 ## Dec 6, 2021
 
 + Nick

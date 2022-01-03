@@ -4,6 +4,11 @@
     - random vs qnet disssonance 
     - incorporate into cognet
 
++ Nicholas
++ dmytro
+    ifx
+
+
 
 
 ## dec 13 2021

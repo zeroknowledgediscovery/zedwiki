@@ -1,3 +1,11 @@
+## Jan 3, 2022
+
++ david
+    - random vs qnet disssonance 
+    - incorporate into cognet
+
+
+
 ## dec 13 2021
 
 + drew

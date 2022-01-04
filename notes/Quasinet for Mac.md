@@ -5,3 +5,4 @@ with the above version compiled for a MAC [here]( /uploads/dcor.so)
 
 # Other resources
 
++ [YFA Slides]( /uploads/Slides_CHATTOPADHYAY_YFA2020.pdf)

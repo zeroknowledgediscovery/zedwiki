@@ -5,6 +5,7 @@
 + [CI for 1-sample sensitivity and specificity](/uploads/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf)
 + [CI for single proprtion]( /uploads/confidence_proportion.pdf)
 + [note on power calculations]( /uploads/stat_power_calculations_columbia.pdf)
++ [power discussion](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
 
 # Confidence Bounds for sensitivity and specificity
 

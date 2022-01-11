@@ -4,6 +4,7 @@
 + [one sample t tests]( /uploads/OneSampleTest_student.pdf)
 + [CI for 1-sample sensitivity and specificity](/uploads/Confidence_Intervals_for_One-Sample_Sensitivity_and_Specificity.pdf)
 + [CI for single proprtion]( /uploads/confidence_proportion.pdf)
++ [note on power calculations]( /uploads/stat_power_calculations_columbia.pdf)
 
 # Confidence Bounds for sensitivity and specificity
 

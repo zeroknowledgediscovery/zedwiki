@@ -6,6 +6,7 @@
 + [CI for single proprtion]( /uploads/confidence_proportion.pdf)
 + [note on power calculations]( /uploads/stat_power_calculations_columbia.pdf)
 + [power discussion](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
++ [Effect Size]( /uploads/effect_sizes.pdf)
 
 # Confidence Bounds for sensitivity and specificity
 

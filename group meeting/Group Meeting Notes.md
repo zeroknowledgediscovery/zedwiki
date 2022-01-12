@@ -1,3 +1,10 @@
+## Jan 12
+
++ dmytro
+     - frailty paper sub
+     - adrd  paper sub
+
+
 ## Jan 3, 2022
 
 + david

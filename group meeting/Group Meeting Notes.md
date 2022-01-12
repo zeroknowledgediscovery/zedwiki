@@ -3,6 +3,17 @@
 + dmytro
      - frailty paper sub
      - adrd  paper sub
+     - 
++ Nic
+    - figures for DFI
+    - paper prop
+
++ David
+    - small samples completed
+    - 1785 samples?
++ drew
+    - finish agitation PAI
+    - Add library
 
 
 ## Jan 3, 2022

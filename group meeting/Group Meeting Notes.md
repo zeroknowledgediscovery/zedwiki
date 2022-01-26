@@ -1,3 +1,22 @@
+## Jan 26
+
++ dmytro
+     - frailty paper explanation of downsampling
+     - add table
+     - generate ADRD results
++ Nic
+    - paper update
+    - DFI hypotheses
+
++ David
+    - find a measure of neighborhood density for each sample
+    - 
++ drew
+    - finish agitation PAI
+    - Add library
+
+
+
 ## Jan 19
 
 + dmytro

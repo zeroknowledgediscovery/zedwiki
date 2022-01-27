@@ -5,15 +5,22 @@
      - add table
      - generate ADRD results
 + Nic
-    - paper update
-    - DFI hypotheses
+    - friday 430
+    - figure 1. feeding variable included qnets for dataset 1
 
 + David
     - find a measure of neighborhood density for each sample
     - 
 + drew
-    - finish agitation PAI
+    - agitation results (how many are correct?)
     - Add library
+    - Monday 330
+
++ kevin
+    - Influenza analysis (data is miising?)
+    - dominant strain per flu season
+    - 202021 Sep 2021 
+    - 
 
 
 

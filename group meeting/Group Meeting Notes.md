@@ -19,10 +19,8 @@
     - Monday 330
 
 + kevin
-    - Influenza analysis (data is miising?)
-    - dominant strain per flu season
-    - 202021 Sep 2021 
-    - 
+    - Results: match?
+    - Share : put them in the dataframe?
 
 
 

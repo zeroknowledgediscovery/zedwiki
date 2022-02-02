@@ -21,8 +21,7 @@
 + kevin
     - Results: match?
     - Share : put them in the dataframe?
-
-
+    
 
 ## Jan 26
 

@@ -7,8 +7,8 @@
 + Nic
     - figure 1. feeding variable included qnets for dataset 1
     - individual results 
-    -  
-    -
+    - feeding variable: what does the feeding impact the ecosystem
+    - confidence variables
 
 + David
     - find a measure of neighborhood density for each sample

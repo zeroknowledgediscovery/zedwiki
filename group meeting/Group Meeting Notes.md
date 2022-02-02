@@ -1,3 +1,31 @@
+## Feb 2
+
++ dmytro
+     - frailty paper explanation of downsampling
+     - add table
+     - generate ADRD results
++ Nic
+    - figure 1. feeding variable included qnets for dataset 1
+    - individual results 
+    -  
+    -
+
++ David
+    - find a measure of neighborhood density for each sample
+    - 
++ drew
+    - agitation results (how many are correct?)
+    - Add library
+    - Monday 330
+
++ kevin
+    - Influenza analysis (data is miising?)
+    - dominant strain per flu season
+    - 202021 Sep 2021 
+    - 
+
+
+
 ## Jan 26
 
 + dmytro

@@ -21,6 +21,7 @@
 + kevin
     - Results: match?
     - Share : put them in the dataframe?
+    - compare the variant distance 
     
 
 ## Jan 26

@@ -108,4 +108,6 @@ $
 
 where \\\(p_0,p_1\\\) are the sensitivity or specifity values for old and new tests respectively.
 
+# Confidence Interval for AUC
+
 

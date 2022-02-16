@@ -79,16 +79,16 @@ underlying assumptions are that given input sets for qnet construction require i
 background environment (based on their claim that the same pair of strains have different
 distances between two ‘environments’: 2008 and 2009).
 
-Validation assays are not well described. Increased receptor binding is not a metric of fitness.
++ Validation assays are not well described. Increased receptor binding is not a metric of fitness.
 Assays described for ‘neutralization’ are not even pseudo type neutralization assays, simply
 protein-protein interaction hinderances. The antibody the authors describe is an anti-nucleocapsid
 antibody, whereas their assay is a spike protein assay. Neutralization results in figure are not
 clear given this information.
 
-The costs of specific machinery, equipment, and usage fees needed for this proposal is not
++ The costs of specific machinery, equipment, and usage fees needed for this proposal is not
 accounted for in the budget.
 
-Validation experiments are unclear, but flu (BSL-2 or higher) and COVID-19 (BSL-3) require
++ Validation experiments are unclear, but flu (BSL-2 or higher) and COVID-19 (BSL-3) require
 dedicated safety equipment and laboratory space, which is not well described.
 
 

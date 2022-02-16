@@ -1,3 +1,17 @@
+# Issues
+
+## Input data description and justification
+
+    + To what extent do there exist standards for reporting and characterizing virus isolates beyond their sequence? What is the meta-data (beyond year of isolation and host
+animal) that will be used to "chart trajectories of wild pathogens at scale?”
+    + Do we use full length viruses? How do we get them? (Make a table)
+    + Is looking for S1 on spike sufficient for what we are trying to do?
+
+## Database description
+
+    + Describe how tool is FAIR
+
+
 + Intermediate weakness: To what extent do there exist standards for reporting and characterizing
 virus isolates beyond their sequence? What is the meta-data (beyond year of isolation and host
 animal) that will be used to "chart trajectories of wild pathogens at scale?” Such details were not

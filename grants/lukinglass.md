@@ -9,8 +9,38 @@ animal) that will be used to "chart trajectories of wild pathogens at scale?”
 
 ## Database description
 
-    + Describe how tool is FAIR
++ Describe how tool is FAIR
++ Database size
++ sampling bias in databases
 
+## Performance evaluation of constructed models
+
++ Performance metric
++ Sampel size requirements
++ computational cost and feasibility
+
+## Existing tools comparison
+
+## Time stammp of collection
+
+## Project timeline
+
+## Validation assays
+
+ Validation assays are not well described. Increased receptor binding is not a metric of fitness.
+Assays described for ‘neutralization’ are not even pseudo type neutralization assays, simply
+protein-protein interaction hinderances. The antibody the authors describe is an anti-nucleocapsid
+antibody, whereas their assay is a spike protein assay. Neutralization results in figure are not
+clear given this information.
+
++ The costs of specific machinery, equipment, and usage fees needed for this proposal is not
+accounted for in the budget.
+
++ Validation experiments are unclear, but flu (BSL-2 or higher) and COVID-19 (BSL-3) require
+dedicated safety equipment and laboratory space, which is not well described.
+
+
+# Raw commnets
 
 + Intermediate weakness: To what extent do there exist standards for reporting and characterizing
 virus isolates beyond their sequence? What is the meta-data (beyond year of isolation and host

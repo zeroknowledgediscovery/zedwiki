@@ -113,4 +113,5 @@ where \\\(p_0,p_1\\\) are the sensitivity or specifity values for old and new te
 + [AUC CI cal]( /uploads/lorraines.pdf)
 + [Modified Wald interval]()
     - The AUC is actually a probability. So we propose a modified Wald interval for a single proportion.
-
++ There are quite a few other methods to estimating the CI interval width 
++ Note: computing CI interval width and evaluating if AUC1 > AUC2 is significant are slightluy different questions

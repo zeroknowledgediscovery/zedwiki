@@ -1,3 +1,26 @@
+## Feb 16
+
++ nic
+  - lfs push the big file
+  - fig 1 i will do
+  - fig 2 regress on head center growth
+
++ dmytro
++ drew
++ david
++ kevin
++ nicole
+
+
+
+
+
+## Feb 9
+
++ nic
+
+
+
 ## Feb 2
 
 + dmytro

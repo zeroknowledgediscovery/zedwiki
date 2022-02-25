@@ -30,7 +30,24 @@ Thus, there is a knowledeg gap of scale.
 Lipsitch M, Galvani AP. Ethical Alternatives to Experiments with Novel Potential Pandemic Pathogens. May 20, 2014. http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001646#s3 
 
 
+
 # IRAT
+
+https://www.cdc.gov/flu/pandemic-resources/national-strategy/risk-assessment.htm
+
+The Influenza Risk Assessment Tool (IRAT) is an evaluation tool developed by CDC and external influenza experts that assesses the potential pandemic risk posed by influenza A viruses that currently circulate in animals but not in humans. 
+
+
+The IRAT uses 10 risk elements to measure the potential pandemic risk associated with each of these scenarios. These 10 risk elements can be grouped into three overarching categories: “properties of the virus,” “attributes of the population,” and “ecology & epidemiology of the virus.” Influenza subject matter experts evaluate novel influenza viruses based on each of these 10 risk elements. Each of the 10 risk elements is then weighted statistically based on its significance to each of the two scenarios. A composite score for each virus is then calculated based on the given scenario. These composite scores provide a means to rank and compare influenza viruses to each other in terms of their potential pandemic risk for each of the two scenarios.
+
+As we learn more about influenza A viruses, these 10 risk elements may change, other risk elements may be added or some current risk elements may be dropped. The IRAT is designed to be flexible and responsive to current scientific advances.
+
+## Can the IRAT predict a future pandemic?
+`No. The IRAT is an evaluative tool, not a predictive tool. Flu is unpredictable, as are future pandemics.
+`
+
+
+
 
 
 

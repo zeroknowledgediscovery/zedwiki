@@ -22,7 +22,12 @@
 Thus, there is a knowledeg gap of scale.
 **
 
++ One of the important applications of GoF research is the development of animal models, especially in the case of pathogens with pandemic potential, because to get approval to study a countermeasure compound in humans, the Food and Drug Administration's animal rule requires the presence of disease that mimics the human disease in an animal model. 
 
++  Whenever researchers are working with RNA viruses, GoF mutations are naturally arising all the time and escape mutants isolated in the laboratory appear “every time someone is infected with influenza.
++  alternative scientific approaches are not only less risky, but also more likely to generate results that can be readily translated into public health benefits
+
+Lipsitch M, Galvani AP. Ethical Alternatives to Experiments with Novel Potential Pandemic Pathogens. May 20, 2014. http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001646#s3 
 
 
 # IRAT

@@ -27,7 +27,7 @@ overleaf
 + Measure of innovation level ()
 + aspirational level is high, which is OK
 + noble failure
-+ *talk to sri*
++ *talk to sri* can we say it was interesting, and not yet 
 
 
 

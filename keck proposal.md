@@ -26,6 +26,8 @@ overleaf
 + (Justification is a big driver. Not feasible? Really difficult problem to approach. Science isnt the issue? Not enough preliminalry data.)
 + Measure of innovation level ()
 + aspirational level is high, which is OK
++ noble failure
++ *talk to sri*
 
 
 

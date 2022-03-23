@@ -5,26 +5,26 @@ Dmytro:
 - updates on pscore
 - updates on asd
 
-David
++ David
 
 - NN results? update
 - saving of models
-- 
 
-Nic
+
++ Nic
 
 - feeding control
 - what are the poinst of simialrities/differences with K's paper
 - finalize vingettes for figures
 
-Drew
++ Drew
 
 - update
 - plot
 - discuss Marian' comments
 - Need a complete descriptoion of the tools so far
 
-Kevin
++ Kevin
 
 - why is the axis zero in panel 1 (befor emergence).. how doe sit look with log
 - look at diffusion diameter

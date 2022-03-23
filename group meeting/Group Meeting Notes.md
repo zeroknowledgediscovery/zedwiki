@@ -1,3 +1,12 @@
+## Mar 2
+
++ nic:
+    - different qnets, what is teh auc
+    - 
+    - 
++ david
+    - 
+
 ## Feb 16
 
 + nic

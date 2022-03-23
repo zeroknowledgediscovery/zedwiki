@@ -1,30 +1,30 @@
 ## Mar 23
 
 + Dmytro:
-- updates on pscore
-- updates on asd
+    - updates on pscore
+    - updates on asd
 
 + David
-- NN results? update
-- saving of models
+    - NN results? update
+    - saving of models
 
 
 + Nic
-- feeding control
-- what are the poinst of simialrities/differences with K's paper
-- finalize vingettes for figures
+    - feeding control
+    - what are the poinst of simialrities/differences with K's paper
+    - finalize vingettes for figures
 
 + Drew
-- update
-- plot
-- discuss Marian' comments
-- Need a complete descriptoion of the tools so far
+    - update
+    - plot
+    - discuss Marian' comments
+    - Need a complete descriptoion of the tools so far
 
 + Kevin
-- why is the axis zero in panel 1 (befor emergence).. how doe sit look with log
-- look at diffusion diameter
-- strat a notebook for diffusion analysis
-- qnet uncertainty analysis
+    - why is the axis zero in panel 1 (befor emergence).. how doe sit look with log
+    - look at diffusion diameter
+    - strat a notebook for diffusion analysis
+    - qnet uncertainty analysis
 
 
 

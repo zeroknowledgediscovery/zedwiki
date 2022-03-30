@@ -13,11 +13,11 @@
     - saving of models
 
 + Nic
-    - feeding control
-    - what are the poinst of simialrities/differences with K's paper
-    - finalize vingettes for figures -- done
     - how the biomes actually interact *
-    - plot the network structure of the top biomes *
+    - plot the network structure of the top biomes * remove iterfeeding arcs
+    - closure with the top biomes
+    - look in thelitrature which interactions are knowm
+    - link me to Fig 1 fig 2 csvs
 
 + Drew
     - update

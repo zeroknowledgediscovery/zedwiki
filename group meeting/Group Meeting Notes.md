@@ -1,3 +1,43 @@
+## Mar 30 2022
+
++ Dmytro:
+    - updates on pscore
+    - updates on asd
+    - ucm on ADRD deleting amnesia, already ran it --> 0.794 .788 (without)
+    - truven? runs.
+    - IPF NN results?
+    - ASD results?
+
++ David
+    - NN results? update
+    - saving of models
+
++ Nic
+    - feeding control
+    - what are the poinst of simialrities/differences with K's paper
+    - finalize vingettes for figures -- done
+    - how the biomes actually interact *
+    - plot the network structure of the top biomes *
+
++ Drew
+    - update
+    - plot
+    - discuss Marian' comments
+    - Need a complete descriptoion of the tools so far
+
++ Kevin
+    - why is the axis zero in panel 1 (befor emergence).. how doe sit look with log
+    - look at diffusion diameter
+    - strat a notebook for diffusion analysis
+    - qnet uncertainty analysis
+    - make clusters and look more closely at teh geometry
+
+
+
+
+
+
+
 ## Mar 23
 
 + Dmytro:

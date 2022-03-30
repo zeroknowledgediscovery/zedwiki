@@ -3,6 +3,8 @@
 + Dmytro:
     - updates on pscore
     - updates on asd
+    - ucm on ADRD deleting amnesia, already ran it --> 0.794 .788 (without)
+    - truven? runs.
 
 + David
     - NN results? update
@@ -13,6 +15,8 @@
     - feeding control
     - what are the poinst of simialrities/differences with K's paper
     - finalize vingettes for figures
+    - how the biomes actually interact
+    - plot the network structure of the top biomes
 
 + Drew
     - update

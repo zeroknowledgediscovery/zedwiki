@@ -13,17 +13,14 @@
     - saving of models
 
 + Nic
-    - how the biomes actually interact *
-    - plot the network structure of the top biomes * remove iterfeeding arcs
-    - closure with the top biomes
-    - look in thelitrature which interactions are knowm
-    - link me to Fig 1 fig 2 csvs
+    - network represention
+    - discussion with lietaryure
 
 + Drew
-    - update
+    - write why patternly is important
     - plot
-    - discuss Marian' comments
-    - Need a complete descriptoion of the tools so far
+    - Marian' meeting Thursday
+    - update paper
 
 + Kevin
     - why is the axis zero in panel 1 (befor emergence).. how doe sit look with log

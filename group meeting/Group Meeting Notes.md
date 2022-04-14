@@ -11,7 +11,7 @@
 + David
     - print cognet state
     - testtrain split
--   - PTSD example
+    - PTSD example
     - NN  estimate of neighbor coordinates
 
 + Nic

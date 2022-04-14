@@ -1,3 +1,37 @@
+## APR 12 2022
+
++ Dmytro:
+    - updates on pscore
+    - updates on asd
+    - ucm on ADRD deleting amnesia, already ran it --> 0.794 .788 (without)
+    - truven? runs.
+    - IPF NN results?
+    - ASD results?
+
++ David
+    - NN results? update
+    - saving of models
+
++ Nic
+    - network represention
+    - discussion with lietarure
+
++ Drew
+    - write why patternly is important
+    - plot
+    - Marian' meeting Thursday
+    - update paper
+
++ Kevin
+    - why is the axis zero in panel 1 (befor emergence).. how doe sit look with log
+    - look at diffusion diameter
+    - strat a notebook for diffusion analysis
+    - qnet uncertainty analysis
+    - make clusters and look more closely at teh geometry
+
+
+
+
 ## APR 6 2022
 
 + Dmytro:

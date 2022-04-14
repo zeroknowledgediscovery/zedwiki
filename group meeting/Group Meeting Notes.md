@@ -9,12 +9,15 @@
     - ASD results?
 
 + David
-    - NN results? update
-    - saving of models
+    - print cognet state
+    - testtrain split
+-   - PTSD example
+    - NN  estimate of neighbor coordinates
 
 + Nic
     - network represention
-    - discussion with lietarure
+    - discussion with literature
+    - python script fro searching pubmed for associations
 
 + Drew
     - write why patternly is important
@@ -29,7 +32,14 @@
     - qnet uncertainty analysis
     - make clusters and look more closely at teh geometry
 
++ Mei wei
+    - classification and categorization of complex diseases from the perspective of screening and diagnostic tools
+        - importance of prevalence, false neg cost, false pos cost, ethics of early diagnosis
+        - Can we identify the optimal operating point given these considerations
 
++ Nicole Li
+    - meeting with David
+    - PTSD notebook annotation
 
 
 ## APR 6 2022

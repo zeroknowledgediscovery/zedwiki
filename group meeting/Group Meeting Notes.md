@@ -1,11 +1,8 @@
 ## APR 12 2022
 
 + Dmytro:
-    - updates on pscore
-    - updates on asd
-    - ucm on ADRD deleting amnesia, already ran it --> 0.794 .788 (without)
-    - truven? runs.
-    - IPF NN results?
+    - updates on qnet application
+    - IPF doc complete?
     - ASD results?
 
 + David

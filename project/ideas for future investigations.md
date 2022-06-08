@@ -1,6 +1,27 @@
 # Dataset Links
 
 + https://www.oasis-brains.org/
++ 
++ All participants who have clinical, cognitive, and neuroimaging data for at least
+one follow-up visit after baseline (i.e., about 1.5 years later), and all relevant measures must be collected within
+a 9 month period for each assessment timepoint (N=260; At entry: age M[SD]=72.29 6.13] yrs; 25% (n=65)
+depressed). Participants must also pass MRI data quality assurance.
++ Criteria are the same as in Aim 1 except fMRI data are not required, enabling inclusion of a
+larger sample (N=812). As an overview, at baseline non-depressed CDR 0 n=461, CDR 0.5+ n=118; depressed
+CDR 0 n=113, CDR 0.5+ n=131. Aim 2 will use clinical and cognitive assessments for all study visits available
+(follow-up: range 2-10 visits; median = 4 visits, over about 6 years).
+
+ADNI-D cohort: Includes 133 older adults (age M[SD] = 70.9[5.3] yrs, range 65-91; 67% women) with
+major depressive disorder (MDD), as assessed by Hamilton Depression Rating Scale ≥15 (M[SD] = 18.2[2.6])
+and GDS >6 (M[SD] = 7.3[3.2], range 1-15). Participants completed 6 min. resting state fMRI, structural MRI
+neuroimaging, amyloid PET, clinical psychiatric evaluation, and neurocognitive assessments at two time points
+2.5 years apart. All measures were collected within a month of one another at both timepoints. Two-thirds of the
+sample were cognitively normal (CDR 0) at baseline, and one-third showed very mild cognitive impairment
+(CDR 0.5). MMSE M(SD) = 29.06(1.03), range 26-30.
+
+All participants who completed the study protocol and pass fMRI data quality
+assurance (described further below).
+We have already attained access to OASIS data, and have submitted a data request for the ADNI-D sample.
 
 # Project Snippets
 

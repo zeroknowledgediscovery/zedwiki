@@ -1,7 +1,13 @@
 # Dataset Links
 
 + https://www.oasis-brains.org/
-+ 
+
+```
+https://central.xnat.org/app/template/Login.vm#!
+username: zedlab
+password: zed1728
+```
+
 + All participants who have clinical, cognitive, and neuroimaging data for at least
 one follow-up visit after baseline (i.e., about 1.5 years later), and all relevant measures must be collected within
 a 9 month period for each assessment timepoint (N=260; At entry: age M[SD]=72.29 6.13] yrs; 25% (n=65)

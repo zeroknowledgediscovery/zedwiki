@@ -20,4 +20,13 @@ OASIS-3 and ADNI-Depression projects. These data can be used to identify how cha
 
 ADNI database
 
+## AD Measures
+
+We propose to use CDR as the primary outcome measure in our
+models. However, other outcome measures could be additionally informative. Thus, we will also explore
+models with cognitive outcome variables that have a greater range of scores (e.g., MMSE or cross-domain
+cognitive composite scores), and probe single domains of cognition (e.g., episodic memory, executive function).
+For Aim 3, comparing the ADNI-D sample to the original ADNI (i.e., non-depressed) sample would further
+increase sample size and permit analyses across a full range of non-depressed up to MDD.
+
 

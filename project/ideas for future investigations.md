@@ -13,6 +13,9 @@ Late life depression confers 4-6x higher risk of cognitive dysfunction and decli
 Deeply-phenotyped, longitudinal datasets: OASIS-3 and ADNI-Depression Project. OASIS-3 will enable identifying functional brain changes distinguishing the trajectories of late-life depression from AD, or their comorbid occurrence.
 OASIS-3 and ADNI-Depression projects. These data can be used to identify how changes over time in specific brain networks interact with specific outcomes (maybe depression) to predict cognitive decline. 
 
++ identify resting state networks whose changes over time differs between depressed and non-depressed older adults, and then identify network changes that interact with depression to predict cognitive decline over time (OASIS-3)
+
+
 ## AD Biomarker Modeling
 
 ADNI database

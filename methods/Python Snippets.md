@@ -112,7 +112,8 @@ import numpy as np
 DUMMY=False
 STRA='L{1in}|L{1.25in}|L{1.25in}|L{1.5in}|L{.3in}|L{.3in}'
 
-def texTable(df,tabname='tmp.tex',FORMAT='%1.2f',INDEX=True,DUMMY=DUMMY,USE_l=False):
+def texTable(df,tabname='tmp.tex',FORMAT='%1.2f',INDEX=True,DUMMY=DUMMY,USE_l=False,
+             TABFORMAT=None,LNTERM='\\\\\\cline{2-5}\n'):
     '''
         write latex table
     '''
@@ -121,7 +122,7 @@ def texTable(df,tabname='tmp.tex',FORMAT='%1.2f',INDEX=True,DUMMY=DUMMY,USE_l=Fa
     if INDEX:
         df=df.reset_index()
     columns=df.columns
-    df.columns=[x.replace('_','\\_') for x in columns]
+    df.columns=[x.replace('_','\\_').replace('\_\_','_') for x in columns]
     for col in df.columns:
         if df[col].dtype == 'object':
             df[col]=df[col].str.replace('_','\\_')
@@ -129,17 +130,20 @@ def texTable(df,tabname='tmp.tex',FORMAT='%1.2f',INDEX=True,DUMMY=DUMMY,USE_l=Fa
     if USE_l:
         TABFORMAT='l'*len(df.columns)
     else:
-        TABFORMAT='L{1in}|'*len(df.columns)
-        TABFORMAT=TABFORMAT[:-1]
-    STR='\\begin{tabular}{'+TABFORMAT+'}\n'        
+        if TABFORMAT is None:
+            TABFORMAT='L{1in}|'*len(df.columns)
+            TABFORMAT=TABFORMAT[:-1]
+    STR='\\begin{tabular}{'+TABFORMAT+'}\\hline\n'        
     with open(tabname,'w') as f:
         f.write(STR)
     df.to_csv(tabname,float_format=FORMAT,
-              line_terminator='\\\\\\hline\n',
+              line_terminator=LNTERM,
               sep='&',quotechar=' ',index=None,mode='a')
     
     with open(tabname,'a') as f:
-        f.write('\\end{tabular}\n')
+        f.write('\\hline\\end{tabular}\n')
+        
+
 ```
 
 # Saving Publication Quality Figures from Matplotlib

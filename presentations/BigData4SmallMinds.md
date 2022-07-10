@@ -20,7 +20,7 @@ salt
 @enduml
 
 
-![](https://en.wikipedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif)
+![](https://cdn.britannica.com/77/83677-050-D0958F1A/Tycho-Brahe.jpg)
 
 
 

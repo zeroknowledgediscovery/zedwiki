@@ -7,11 +7,12 @@ salt
  +++ Large amounts of data have been used before
  +++ The resulst are often not simple equations
  +++ Ground truth might be too complex for our small minds
+ ++++ We intend to find answers to questions we have not yet thought to ask
  ++ Applications
- +++ EHR data for screening
- +++ Databases of sequences
- +++ Complex systems and rare and extreme events
- +++ Crime
+ +++ EHR data for screening 20 min
+ +++ Databases of sequences 20 min
+ +++ Complex systems and rare and extreme events 15 min
+ +++ Crime  15 min
  }
 }
 @enduml

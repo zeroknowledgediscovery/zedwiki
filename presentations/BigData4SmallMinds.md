@@ -5,7 +5,7 @@ salt
  + Presentation: 90 min
  ++ What is Big Data / ML / AI: 15min
  +++ Large amounts of data have been used before
- ++++ Tyco Brah, Johanes Keplar, and many others.
+ ++++ Tyco Brah, Johanes Keplar, Mendel, and many others.
  ++++ Even the human genome decoding
  +++ Now, The results are often not simple equations
  ++++Ground truth might be too complex for our small minds

@@ -7,9 +7,9 @@ salt
  +++ Large amounts of data have been used before
  ++++ Tyco Brah, Johanes Keplar, and many others.
  ++++ Even the human genome decoding
- +++ The results are often not simple equations
- +++ Ground truth might be too complex for our small minds
- ++++ We intend to find answers to questions we have not yet thought to ask
+ +++ Now, The results are often not simple equations
+ ++++Ground truth might be too complex for our small minds
+ +++++ We intend to find answers to questions we have not yet thought to ask
  ++ Applications
  +++ EHR data for screening 20 min
  +++ Databases of sequences 20 min

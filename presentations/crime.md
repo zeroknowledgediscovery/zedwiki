@@ -1,9 +1,13 @@
 # Q&A
 
-Link: https://rdcu.be/cQJwi
+**Links**
 
-https://www.nature.com/articles/s41562-022-01372-0/metrics 
-General Algorithmic Background
++ https://rdcu.be/cQJwi
++ https://www.nature.com/articles/s41562-022-01372-0/metrics
++ https://zed.uchicago.edu/data/pub_drafts_//PAI/crime_chattopadhyay.pdf
++ https://zed.uchicago.edu/data/pub_drafts_//PAI/fractal_net.pdf
+
+--
 
 ## How does your approach differs from earlier attempts at crime prediction?
 Existing approaches often attempt to model the dynamics of crime as being driven by hotposts. It's like assuming that crime spreads across an environment like a drop of ink in water, slowly diffusing out from places that experience elevated event rates (the hotspots). This has not proven very successful. Other approaches have tried to find similarities to earthquakes -- how one typically expects a series of “aftershocks” after, and “foreshocks” preceding a big event. Still others have thrown the kitchen-sink of standard machine learning models (deep learning etc) to the problem, using features that range from weather information to the presence of graffiti on nearby walls. While some of these approaches have better-than-random predictive performance, they are often not actionable (the events not predicted sufficiently early or the predicted location not small enough to be of any practical use). 

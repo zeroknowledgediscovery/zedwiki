@@ -21,13 +21,11 @@ salt
 
 <img src="https://cdn.britannica.com/77/83677-050-D0958F1A/Tycho-Brahe.jpg" alt="drawing" width="200"/>
 
-
-+ Tycho Brahe proposed a theory of the solar system, which contained elements of both the Earth-centred Ptolemaic system and the Sun-centred Copernican system. In his theory, the other planets revolved around the Sun, which itself revolved around Earth.
++ Tycho Brahe was in essensce the first dat ascientist. Collected precise astronomical observations, with instruments he himself developed (teh sextant), and amassed data that enabled Keplar to come up with his laws of planetary motion.
 + Johannes Kepler is best known for his three laws of planetary motion. These laws are: Planets move in orbits shaped like an ellipse. A line between a planet and the Sun covers equal areas in equal times.
 
 <img src="https://cdn.britannica.com/57/139557-004-F4E7E357/portrait-Johannes-Kepler-1730.jpg?s=1500x700&q=85" alt="drawing" width="200"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/800px-Gregor_Mendel_2.jpg" alt="drawing" width="200"/>
 
 
 ## defn of data
@@ -37,6 +35,7 @@ salt
 + we can add another constraint: data is self-consciously gathered – it does not result from another activity. Noe tthat this does not always apply, for example EHR data.  In ancient Rome they had tabularia – storehouses of receipts from individual purchases that gave the Romans vision into the state of commerce within the city.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Depiction_of_the_Forum_Romanum_%281866%29.jpg" alt="drawing" width="200"/>
-+ 
++ Mendel 
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/800px-Gregor_Mendel_2.jpg" alt="drawing" width="200"/>

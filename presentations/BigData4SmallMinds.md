@@ -29,3 +29,14 @@ salt
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/800px-Gregor_Mendel_2.jpg" alt="drawing" width="200"/>
 
+
+## defn of data
+
++ When we reference data today, we are speaking about very shallow, very specific, and very unambiguous observations.  Consider a buoy out at sea.  One data point from the buoy will tell you the sea temperature, elevation, and direction of the ocean current at a very specific GPS location at 2:05:05 PM on June 22nd, 2015. In fact, the information is so shallow, that we need to take these data points and combine them with many others to get a bigger picture.  This is precisely why the word data is almost always encountered in the plural.  It could be said that a datum is only valuable when it is combined into data (it’s about as valuable as a single pant that’s not joined into pants).
++ data is shallow, mechanically-gathered, systematic information that is recorded in an inanimate device.
++ we can add another constraint: data is self-consciously gathered – it does not result from another activity. Noe tthat this does not always apply, for example EHR data.  In ancient Rome they had tabularia – storehouses of receipts from individual purchases that gave the Romans vision into the state of commerce within the city.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Depiction_of_the_Forum_Romanum_%281866%29.jpg" alt="drawing" width="200"/>
++ 
+
+

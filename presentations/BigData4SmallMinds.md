@@ -1,6 +1,8 @@
 # TXT
 
-I am Ishanu Chattopadhyay, Assistant Professor of Medicine. Welcome to today's topic: Big Data for Small Minds, where we  will try to wrap our heads around the question: "What makes big data big?". And hoepfully, we will convince ourselves by teh end of this talk that the "bigness" of big data is perhaps a bit more than its raw size, and has non-trivial implications for solving challenging problems in biomedical and social systems. 
+I am Ishanu Chattopadhyay, Assistant Professor of Medicine. Welcome to today's topic: *Big Data for Small Minds*, where we  will try to wrap our heads around the question: "What makes big data big?". And hoepfully, by the end, we will convince ourselves that the **_bigness_** of big data perhaps involves a bit more than its raw size, and has non-trivial implications for solving challenging problems in biomedical and social systems. 
+
+
 
 Lets start at the beginining. Lets us ask ourselves: what is data? 
 

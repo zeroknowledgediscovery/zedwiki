@@ -1,4 +1,5 @@
 # Important Links
+## [tmp link](https://slides.com/ishanuchattopadhyay/bigdata4smallminds)
 ## [[ZeDLab Onboarding]]
 ## [Group Meeting Zoom Link](https://uchicagomedicine.zoom.us/j/93466313522?pwd=WG52L3hQREZNbnRCMENET3lrYWNVUT09)
 ## [Group Meeting Google Meet](https://meet.google.com/pxo-ctid-emj)

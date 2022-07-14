@@ -20,6 +20,11 @@
  
  What are some examples? Pnademics.. how they manifest, and respond to countermeasures. How novel pathogens emerge.. why are some spillover events result in epidemicda and pandemics, while other dont? How do we model socila dynamics? Are events like crime predictable? How do we screen for complex diseases, diseases which are shaped by the interaction of hundreds of thosands of genes, and unchareted epigentic effects, it is lamost obvious that there phgenomena do not have "simple" explanations, and teh data about them are not compressible by a a few laws.. they are intrinsically complex. 
  
+ So what now? Clearly this cyclic approach will not work? Can we salvage it? Yes, we have to reinterpret what we mean by "undertanding". We can make broad hypotheses, but some part of the "model" that we infer, will always be not "simple" or "understandable" in teh classical sense. The complexity has to go somewhere, since simple laws do not exist, the inherent compelxity of the phenomena must be represented somewhere. And we have to be OK with that, because it appears that some problems or phenomena in nature are like that... they have emergent complexity, and to reason abou them, or answer questions about them, we need to work with that irreducible complexity.
+ 
+ How do we doit? Well a popular approach is machine learning. We have inputs and outputs and the tool sof ML will tell you how the inputs conenct with teh outputs. WHat goes on in that jumble of connections might not be undertsandble, but thats ok, that is what capturing the irreducible complexity of the phenomenois you are trying to study.
+ 
+ Lets look at some cncrete  example. 
  
 
 

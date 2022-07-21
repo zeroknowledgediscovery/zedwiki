@@ -1,5 +1,12 @@
 # Short term
 
+
++ update Table .. abbreviations, biome lists
++ Fig 3 .. regen AUC data
++ Fig 4.... shap analysis
+
+
+
 ## Qbiome paper
 
 ## Qbiome paper 2: How do we characterize a healthy microbiome

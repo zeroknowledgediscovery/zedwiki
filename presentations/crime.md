@@ -1,6 +1,6 @@
 # Cook County Commision on Social Innovation
 
-Thanbk you for this opportunity to talk to the Cook County Commission on Social Innovation.
+Thank you for this opportunity to talk to the Cook County Commission on Social Innovation.
 A big thanks to Marc for making this happen.
 I am Ishanu Chattopadhyay, and that was a very nice introduction.
 What I plan to talk about today is how I feel
@@ -22,6 +22,12 @@ Yes
 
 First, the paper which atsrted this conversation, is not about simply predicting crime
 It is about creating a digital twin of the social system of crime and enforcement.
+
+That is a crucial difference. Intent.
+But more so, we actively tried to minimize bias.
+
+Only de-identified PUBLIC data
+
 
 
 

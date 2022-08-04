@@ -1,3 +1,34 @@
+# Cook County Commision on Social Innovation
+
+Thanbk you for this opportunity to talk to the Cook County Commission on Social Innovation.
+A big thanks to Marc for making this happen.
+I am Ishanu Chattopadhyay, and that was a very nice introduction.
+What I plan to talk about today is how I feel
+AI , machine learning and data science can inform polcy makers, and help choose between
+competing decisions, maybe where before one had to simply follow their gut, we can 
+bring in some data-driven insight. How we can leverage data and all these facncy algorithms that we are 
+coming up with, to make lives better. 
+
+Now crime is a problem, no just in Chicago, or Us. It is one of the leading causes of death in 
+younger people all over the world. And teh sdtatistics in Cook County is not great. 
+
+Can algorithms, artificial Intelligence, and access to vast amounts of data help?
+
+ANytime we talk about crime, enforcement and prediction, we are reminded that this has been tried before,with
+less than stellar results. Has not worked weell, has propgated biases, and has has pushback from communities everywhere.
+Is what I am talking about any different?
+
+Yes
+
+First, the paper which atsrted this conversation, is not about simply predicting crime
+It is about creating a digital twin of the social system of crime and enforcement.
+
+
+
+
+
+
+
 # Q&A
 
 **Links**

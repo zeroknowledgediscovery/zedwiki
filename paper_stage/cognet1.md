@@ -1,3 +1,29 @@
+{\bf \sffamily \fontsize{10}{10} \selectfont                                                       
+  Human society is a complex system shaped by the beliefs of its inhabitants. Missing a reliable  \
+theory of belief evolution, we are limited in our understanding of how thought-centers emerge and \
+evolve, and the role of putative factors that drive societal polarization. Here, we introduce a co\
+mputational framework (\cognet) to discover dependencies between individual opinions on diverse to\
+pics, to ultimately craft a predictive theory of belief shift. Automatically analyzing responses f\
+rom $> 60,000$ US participants over approximately half a century collected via the General Social \
+Survey~\cite{GSS}, and over $>3M$ European participants via the Eurobarometer surveys, we show tha\
+t the \cognet architecture can reason with, and reliably predict individual  responses to thousand\
+s of controversial social questions out of sample. This predictive capability (out-of-sample recon\
+struction: x\% on GSS, y\% on Eurobarometer) arises from an  emergent metric (\qdist) on the space\
+ of opinions  quantifying world-view differences. The \qdist  automatically adapts to the  fluid  \
+geometry of the evolving opinion space, and yields   domain-agnostic measures of societal polariza\
+tion, including the estimated variation  of the ``distance'' between two fixed extreme worldviews \
+over the years.    Investigation with the validated \cognet architecture suggests that the divide \
+between ideological thought-centers  is likely modulated by economic variables, $i.e.$,   a falter\
+ing economy  causally worsens  polarization. Additionally, we discover that affective polarization\
+ is  a likely causal precursor to ideological polarization, yielding a valuable insight into how s\
+ocial structures respond to economic stress: opinion clusters increase in numerosity and move apar\
+t, leading to widening gap between dominant ideologies. Such tractable tools to uncover  opinion m\
+echanics may help foster more  effective socio-economic policy, and illuminate new frontiers  in s\
+ocial theory.                                                                                      
+}
+
+
+
 # Reverse-engineering Societal Fracture
 
 **Quantifying Difference in Opinion**

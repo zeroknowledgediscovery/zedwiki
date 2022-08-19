@@ -17,3 +17,4 @@ The important variables are combined into an order parameter field. In figure 4,
 
 https://math.stackexchange.com/questions/2539181/meaning-of-inverse-temperature
 
+https://en.wikipedia.org/wiki/Critical_exponent

@@ -1,13 +1,13 @@
 # GSS Affective Items
 
-| GSS variable   | pole 1                   | pole 2              | description                                  |
+| GSS variable   | pole 1                   | pole 2    (high)    | description                                  |
 |:---------------|:-------------------------|:--------------------|:---------------------------------------------|
 | intlwhts       | 7                        | 1                   | whites Unintelligent -intelligent            |
-| intlblks       | 1                        | 7                   | blacks Unintelligent - intelligent           |
+| intlblks       | 7                        | 1                   | blacks Unintelligent - intelligent           |
 | intljews       | 7                        | 1                   | jews Unintelligent - intelligent             |
 | intlasns       | 7                        | 1                   | Unintelligent - intelligent                  |
-| intlhsps       | 1                        | 7                   | hispanics Unintelligent - intelligent        |
-| trust          | Can't trust              | Depends             | Can people be trusted                        |
+| intlhsps       | 7                        | 1                   | hispanics Unintelligent - intelligent        |
+| trust          | Depends                  | Can't trust         | Can people be trusted                        |
 | confinan       | A GREAT DEAL             | HARDLY ANY          | Confidence in banks & financial institutions |
 | conbus         | A GREAT DEAL             | HARDLY ANY          | Confidence in major companies                |
 | conclerg       | A GREAT DEAL             | HARDLY ANY          | Confidence in organized religion             |
@@ -33,9 +33,9 @@
 | socbar         | ALMOST DAILY             | NEVER               | Spend evening at bar                         |
 | racmar         | YES                      | NO                  | Favor law against racial intermarriage       |
 | raclive        | YES                      | NO                  | Any opp. race in neighborhood                |
-| natrace        | TOO MUCH                 | TOO LITTLE          | Improving the conditions of blacks           |
-| fear           | YES                      | NO                  | Afraid to walk at night in neighborhood      |
-| courts         | Not harshly enough       | Too harshly         | Courts dealing with criminals                |
-| natcrime       | TOO LITTLE"              | TOO MUCH            | Halting rising crime rate                    |
-| happy          | Not too happy            | Very happy          | General happiness                            |
+| natrace        | TOO LITTLE               | TOO MUCH            | Improving the conditions of blacks           |
+| fear           | NO                       | YES                 | Afraid to walk at night in neighborhood      |
+| courts         | Too harshly              | Not harshly enough  | Courts dealing with criminals                |
+| natcrime       | TOO MUCH                 | TOO LITTLE          | Halting rising crime rate                    |
+| happy          | Very happy               | Not too happy       | General happiness                            |
 | hapmar         | VERY HAPPY               | NOT TOO HAPPY       | Happiness of marriage                        |

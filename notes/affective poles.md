@@ -1,3 +1,5 @@
+# Affective Items
+
 | GSS variable   | pole 1                   | pole 2              | description                                  |
 |:---------------|:-------------------------|:--------------------|:---------------------------------------------|
 | intlwhts       | 7                        | 1                   | whites Unintelligent -intelligent            |

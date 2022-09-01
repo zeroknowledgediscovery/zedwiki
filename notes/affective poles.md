@@ -1,6 +1,6 @@
 # GSS Affective Items
 
-| GSS variable   | pole 1                   | pole 2    (high)    | description                                  |
+| GSS variable   | pole 1  (low)            | pole 2    (high)    | description                                  |
 |:---------------|:-------------------------|:--------------------|:---------------------------------------------|
 | intlwhts       | 7                        | 1                   | whites Unintelligent -intelligent            |
 | intlblks       | 7                        | 1                   | blacks Unintelligent - intelligent           |

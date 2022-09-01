@@ -1,4 +1,4 @@
-# Affective Items
+# GSS Affective Items
 
 | GSS variable   | pole 1                   | pole 2              | description                                  |
 |:---------------|:-------------------------|:--------------------|:---------------------------------------------|

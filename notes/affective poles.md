@@ -1,6 +1,7 @@
 
-
 # GSS Affective Items
+
+https://gssdataexplorer.norc.org/variables/vfilter
 
 | GSS variable   | pole 1  (low)            | pole 2    (high)    | description                                  |
 |:---------------|:-------------------------|:--------------------|:---------------------------------------------|

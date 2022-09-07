@@ -30,7 +30,25 @@ Only de-identified PUBLIC data
 
 
 
+# predpol
 
+PredPol, Inc, now known as Geolitica,[2] is a predictive policing company that attempts to predict property crimes using predictive analytics. PredPol is also the name of the software the company produces. PredPol began as a project of the Los Angeles Police Department (LAPD) and UCLA professor Jeff Brantingham. PredPol has produced a patented algorithm, which is based on a model used to predict earthquake aftershocks.
+
+As of 2020, PredPol's algorithm is the most commonly used predictive policing algorithm in the U.S.[3][4] Police departments that use PredPol are given printouts of jurisdiction maps that denote areas where crime has been predicted to occur throughout the day.[5] The Los Angeles Times reported that officers are expected to patrol these areas during their shifts, as the system tracks their movements via the GPS in their patrol cars.[6] Scholar Ruha Benjamin called PredPol a "crime production algorithm," as police officers then more heavily patrol these predicted crime zones, expecting to see crime, which leads to a self-fulfilling prophecy.[3]
+
+PredPol was created in 2010 and was a leading vendor of predictive policing technology by 2012.[7] Smithsonian magazine remarked in 2018 that no independent published research had ever confirmed PredPol's claims of its software's accuracy.[8] In March 2019, the LAPD's internal audit concluded that there were insufficient data to determine if PredPol software helped reduce crime.[6]
+
+In October 2018 Cory Doctorow described the secrecy around identifying which police departments use PredPol.[9] PredPol does not share this information.[9] The information is not accessible to the public.[9] In February 2019 Vice followed up to report that many police departments secretly use PredPol.[10] According to PredPol in 2019, 60 police departments in the U.S. used PredPol, most of which were mid-size agencies of 100 to 200 officers. In 2019, several cities reported cancelling PredPol contracts due to cost. The city of Mountain View, California spent more than $60,000 on the program between 2013 and 2018, and Hagerstown, Maryland spent $15,000 a year on the service until 2018.[6]
+
+In 2016 Mic reported that PredPol inappropriately directs police to minority neighborhoods.[11]
+
+In 2017 Santa Cruz placed a moratorium on the use of predictive policing technology.[12] In 2020, the Santa Cruz City Council banned the use of predictive policing, a move that was supported by a coalition of civil liberties and racial justice groups.[13]
+
+Institutions like the Brennan Center have urged transparency from police departments employing the technology, because in order for policymakers and auditors to evaluate these algorithms, audit logs of who creates and accesses the predictions need to be kept and disclosed.[14]
+
+In April 2020, the Los Angeles Police Department, one of the oldest customers of PredPol, ended its program [15] without being able to measure its effectiveness in reducing crime.[16]
+
+In December 2021, a report was published by Gizmodo and The Markup indicating that PredPol perpetuated racial biases by targeting Latino and Black neighborhoods, while crime predictions for white middle- to upper-class areas were absent.
 
 
 

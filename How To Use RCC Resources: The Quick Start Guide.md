@@ -9,7 +9,7 @@ edit
 # Accessing RCC
 
 ```
-ssh -X username@midway.rcc.uchicago.edu
+ssh -X username@midway2.rcc.uchicago.edu
 ```
  Follow instructions
 

@@ -1,4 +1,4 @@
-# Proposal
+# Proposal & Budget
 
 https://uchicago.box.com/s/hz2x1zq8l1m7w6jyyscxtdoqaqeuvwg7
 

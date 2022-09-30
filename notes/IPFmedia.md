@@ -79,6 +79,10 @@ https://www.nature.com/articles/s41591-022-02010-y
 
 
 ![f1](http://34.66.189.202:4567/uploads/infographic.png)
+![f1](http://34.66.189.202:4567/uploads/f1.webp)
+![f1](http://34.66.189.202:4567/uploads/f2.webp)
+![f1](http://34.66.189.202:4567/uploads/f3.webp)
+![f1](http://34.66.189.202:4567/uploads/f4.webp)
 
 
 

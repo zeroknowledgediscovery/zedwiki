@@ -4,6 +4,8 @@ Detailed documentation on how to use RCC is [here](https://rcc.uchicago.edu/docs
 What follows is to be used as a *quick start*, along with some specific details on 
 how the ZedLab applications are often run on RCC nodes.
 
+edit
+
 # Accessing RCC
 
 ```

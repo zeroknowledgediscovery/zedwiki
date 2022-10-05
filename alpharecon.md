@@ -1,7 +1,6 @@
-
 # questions
 
-1. Only static reports?
+1. Only static reports? (threat vulnerability reports)
 2. Do u have dynamic updates
 3. globally? DoD? conflict countries?
 4. Insurance ?

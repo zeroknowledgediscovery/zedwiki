@@ -1,3 +1,6 @@
+October 5 2022 1100 central
+
+
 # questions
 
 1. Only static reports? (threat vulnerability reports)

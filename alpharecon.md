@@ -22,7 +22,7 @@ October 5 2022 1100 central
 
 # products
 
-1. campuses (product 2)::: XXX
+1. campuses (product 2)::: XXX (auxillion)
 2. pro bversion (law enforcement)
 3. omniscient 
 

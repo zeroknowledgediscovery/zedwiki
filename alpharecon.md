@@ -1,6 +1,4 @@
-Questions
 
----
 # questions
 
 1. Only static reports?
@@ -8,8 +6,6 @@ Questions
 3. globally? DoD? conflict countries?
 4. Insurance ?
 
-
----
 
 # points
 
@@ -20,9 +16,7 @@ Questions
 1. High profile events planning (johhny depp)
 2. threat lansscape
 3. banks: where would be bank robberies
-4. 
 
---- 
 
 # products
 

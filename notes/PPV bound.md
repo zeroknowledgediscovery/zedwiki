@@ -1,8 +1,7 @@
-
 # IPF
 
 IPF has a prevalence of ~ 0.0005. Thus, any screening will 
-necessarily have high false positives. Note that:
+necessarily have high false positives. Note that (s is sensitivity, c is specificity, and p is prevalence)
 
 $$PPV = \frac{s}{s+ (\frac{1}{p}-1)(1-c)} $$
 
@@ -16,3 +15,9 @@ the real question is whether you should send them for detailed evaluation. And t
 given by the positive likelihood ratio, which is independent of prevalence.
 
 $$LR+ = s/c $$
+
+If a person tests positive, then they having the disease is LR+ times more likely compared to the pre-test odds.
+Thus, id prevalence is the pre-test odds, then teh population of patients with a positive test is 
+at > 30 times that risk. So perhaps follow up is warranted.
+
+Note the study is NOT making a diagnostic claim. The claim is that it flags patienst who need a pulmonary consult.

@@ -1,5 +1,37 @@
 # Cost analysis
 
+PMID: 32947362
+chinese med journal
+
+Idiopathic pulmonary fibrosis (IPF) incidence shows wide variations in different countries, ranging from 3 to 9 per 100,000 inhabitants per year in North America and Europe, while in South America and Asia, incidence is lower, ranging from 1.2 to 4.16 per 100,000 inhabitants per year.[1] With the increase of the incidence of IPF, the economic burden caused by IPF is becoming heavier. A US study on the burden of illness in patients with IPF found that total direct medical costs (including inpatient services, outpatient services, and medication claims) were found to be 26,378 USD.[2]
+
+For hospitalized patients with IPF, the median (Q1, Q3) direct medical costs were 9378.3 (7366.9, 12,122.8) CNY per capita per admission. Testing fees (5745.8 [4105.4, 7043.7] CNY) constituted the largest proportion of direct medical costs, of which, laboratory costs were 3687.5 (2525.5, 4556.5) CNY. Drug costs amounted to only 1347.0 (624.9, 3809.9) CNY.
+---
+
+PMID: 22455577
+
+Burden of illness in idiopathic pulmonary fibrosis
+Harold R. Collard,Alex J. Ward,Stephan Lanes,D. Cortney Hayflinger,Daniel M. Rosenberg &Elke Hunsche
+
+A total of 9286 patients with idiopathic pulmonary fibrosis were identified. When compared with age- and gender-matched controls, these patients were at significantly increased risk for comorbidities including pulmonary hypertension and emphysema. The all-cause hospital admission rate (0.5 per person-year) and the all-cause outpatient visit rate (28.0 per person-year) were both ∼2-fold higher than in controls. Total direct costs for patients with idiopathic pulmonary fibrosis were $26,378 per person-year; the incremental costs over controls were $12,124 (2008 value).
+
+Inpatient mortality for IPF patients was 52.6 deaths per 1000 person-years. This was significantly higher than in controls (14.8 per 1000 person-years, rate ratio = 3.64, 95% CI: 3.12–4.26).
+
+https://bmjopenrespres.bmj.com/content/9/1/e001276
+*Diagnostic delay in IPF impacts progression-free survival, quality of life and hospitalisation rates*
+
+A long diagnostic delay (>1 year) was associated with worse progression-free survival compared with a short diagnostic delay (<1 year) (HR: 1.70, 95% CI: 1.18 to 2.46, p=0.004) especially in patients with mild disease at the time of diagnosis (FVC>80% predicted). Mean total scores of the St. George’s respiratory questionnaire (SGRQ), a derived IPF-specific version of the SGRQ and the chronic obstructive pulmonary disease assessment test (CAT) were consistently higher in patients with long diagnostic delays, indicating worse quality of life. 
+
+Mean hospitalisation rates were higher during the first year after diagnosis (Incidence rate ratio [IRR]: 3.28, 95% CI: 1.35 to 8.55, p=0.01) and during the entire follow-up (IRR: 1.74, 95% CI: 1.01 to 3.02, p=0.04).
+
+Trial registration number NCT02755441.
+
+How Much Does a HRCT Scan Cost? ~1000
+
+~5K per year is saved ~ total 20K is saved
+
+
+
 
 
 

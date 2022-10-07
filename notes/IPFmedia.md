@@ -1,3 +1,10 @@
+# Cost analysis
+
+
+
+
+
+
 # One line:
 
 Predictive screening of IPF upto 4 years before diagnosis by current medical practice

@@ -29,3 +29,10 @@ insight into how social structures respond to economic stress: opinion clusters 
 and move apart, leading to widening gap between dominant ideologies. Such computable frameworks,
 validated to capture the intricate dependencies between opinions and the ensuing evolutionary dynanics,
 may help foster more effective socio-economic policy, and illuminate new frontiers in social theory.
+
+---
+
+simulation of social and economic systems | digital twins | knowledge settings
+
+
+

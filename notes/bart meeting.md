@@ -34,17 +34,14 @@ validated to capture the intricate dependencies between opinions and the ensuing
 may help foster more effective socio-economic policy, and illuminate new frontiers in social theory.
 
 ---
+Points that we need 
 --------------------------------------------
 | simulation of social and economic systems | 
----------------------------------------------
 | digital twins | 
------------------
 | knowledge settings | 
-----------------------
 | opinion systems | 
--------------------
 | high value conjectures |
---------------------------
+
 ---
 
 

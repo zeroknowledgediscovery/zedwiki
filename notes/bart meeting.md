@@ -1,6 +1,8 @@
 **Tuesday Oct 18 1300**
+
 + Bart Russell 
-+ deputy director
++ Deputy director
+
 ----
 
 https://zed.uchicago.edu/data/pub_drafts_//YFA/cognet.pdf

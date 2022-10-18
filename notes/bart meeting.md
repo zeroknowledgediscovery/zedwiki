@@ -1,5 +1,6 @@
 **Tuesday Oct 18 1300**
-+ Bart Russell
++ Bart Russell 
++ deputy director
 ----
 
 https://zed.uchicago.edu/data/pub_drafts_//YFA/cognet.pdf
@@ -35,6 +36,8 @@ may help foster more effective socio-economic policy, and illuminate new frontie
 simulation of social and economic systems | digital twins | knowledge settings | opinion systems | high value conjectures 
 
 ---
+
+
 
 
 

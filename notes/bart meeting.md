@@ -39,9 +39,13 @@ Points that we need
 
 --------------------------------------------
 | simulation of social and economic systems | 
+------
 | digital twins | 
+------
 | knowledge settings | 
+------
 | opinion systems | 
+------
 | high value conjectures |
 
 ---

@@ -58,5 +58,16 @@ Microbial dysbiosis preceding NEC in preterm infants is characterized by increas
 
 
 # causal analysis and directional inference
-
+```
+@article{sazal2021causal,
+  title={Causal effects in microbiomes using interventional calculus},
+  author={Sazal, Musfiqur and Stebliankin, Vitalii and Mathee, Kalai and Yoo, Changwon and Narasimhan, Giri},
+  journal={Scientific reports},
+  volume={11},
+  number={1},
+  pages={1--15},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+```
 

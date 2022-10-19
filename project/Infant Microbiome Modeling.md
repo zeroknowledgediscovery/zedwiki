@@ -142,9 +142,9 @@ Firstly, microbiome data are compositional [11]; i.e. microbial counts represent
 
 Correlation-based techniques, including Pearson or Spearman correlation, are among the most popular methods for studying microbial interactions in human gut [12], oral [13] and soil [14] microbiomes. Weiss et al. [15] evaluated the strengths and weaknesses of eight different correlation methods and provided recommendations based on the nature of the data and identified sparsity as a key issue not sufficiently addressed by these approaches. Correlation analysis often results in artefactual and spurious associations between low-abundant microbial members in a community as it fails to account for compositionality [11]. As Lovell et al. [16], [17] showed, correlation-based methods are not subcompositionally coherent such that, for instance, depleting rare taxa is expected to change the outcome of correlation analysis. To overcome this issue, compositional data analysis can be employed. Various proportionality measures [16], [17] have been proposed some of which are implemented in the R package propr [18] and can be used for network construction. A frequently used method to account for compositionality is centered log ratio transformation (CLR) [19], [20], where the geometric mean of the sample vector is used as the reference. CLR transformation maps the relative counts from simplex into Euclidean space and hence makes these data compatible with linear analysis methods. Apart from these classical approaches, more complex methods have been proposed based on probabilistic graphical, Gaussian graphical and complex multiple regression models to construct microbial interaction networks [6], [21]. Most methods take compositionality into account either by performing CLR transformation as a pre-processing step or by using a Dirichlet multinomial model to directly account for compositionality. Existing methods differ with respect to sensitivity, specificity and computational complexity and can be grouped into four different categories (Fig. 2). 
 
-algorithm | limitation
+| algorithm | limitation |
 ----------------------
-SparCC (2012) | Nonlinear relationships cannot be detected
+| SparCC (2012) | Nonlinear relationships cannot be detected |
 
 
 

@@ -146,7 +146,14 @@ Correlation-based techniques, including Pearson or Spearman correlation, are amo
 
 | algorithm | limitation |
 |-----------|------------|
+| MENAP (2012) | does not address compositionaity bias, sparsity |
 | SparCC (2012) | Nonlinear relationships cannot be detected |
+| CCLasso (2015) | Nonlinear relationships cannot be detected |
+| REBACCA (2015) | linear |
+| CoNet (2016) | does not address compositionaity bias |
+| Meta-network  (2019) | does not address compositionaity bias |
+| Correlation-Centric Network (2020) | does not address compositionaity bias |
+
 
 
 

@@ -152,6 +152,9 @@ Microbial dysbiosis preceding NEC in preterm infants is characterized by increas
 }
 
 ```
+
+https://www.nature.com/articles/s41598-021-84905-3
+
 With advancements in high-throughput sequencing technology, it is now possible to examine microbial diversity in microbiomes with increased precision, and has elucidated associations between the microbiome and phenotypes such as obesity, neurological disorders, inflammation, immune disorders, metabolic diseases, and  more~\cite{john2016gut,li2017gut,honda2012microbiome,aarts2017gut}. Interest in constructing causal networks for microbiomes is recent, and focused experiments in the laboratory to elicit causal relationships within microbiomes do exist~\cite{fischbach2018microbiome}, but do not employ computational causal inferencing approaches. Sazal et al. were among the first to construct causal networks for microbiomes~\cite{sazal2018inferring}.
 
 

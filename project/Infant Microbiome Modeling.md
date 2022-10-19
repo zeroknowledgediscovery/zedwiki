@@ -69,5 +69,69 @@ Microbial dysbiosis preceding NEC in preterm infants is characterized by increas
   year={2021},
   publisher={Nature Publishing Group}
 }
+
+@article{john2016gut,
+  title={The gut microbiome and obesity},
+  author={John, George Kunnackal and Mullin, Gerard E},
+  journal={Current oncology reports},
+  volume={18},
+  number={7},
+  pages={1--7},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{li2017gut,
+  title={The gut microbiota and autism spectrum disorders},
+  author={Li, Qinrui and Han, Ying and Dy, Angel Belle C and Hagerman, Randi J},
+  journal={Frontiers in cellular neuroscience},
+  pages={120},
+  year={2017},
+  publisher={Frontiers}
+}
+@article{honda2012microbiome,
+  title={The microbiome in infectious disease and inflammation},
+  author={Honda, Kenya and Littman, Dan R},
+  journal={Annual review of immunology},
+  volume={30},
+  pages={759},
+  year={2012},
+  publisher={NIH Public Access}
+}
+
+@article{aarts2017gut,
+  title={Gut microbiome in ADHD and its relation to neural reward anticipation},
+  author={Aarts, Esther and Ederveen, Thomas HA and Naaijen, Jilly and Zwiers, Marcel P and Boekhorst, Jos and Timmerman, Harro M and Smeekens, Sanne P and Netea, Mihai G and Buitelaar, Jan K and Franke, Barbara and others},
+  journal={PloS one},
+  volume={12},
+  number={9},
+  pages={e0183509},
+  year={2017},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+
+@article{fischbach2018microbiome,
+  title={Microbiome: focus on causation and mechanism},
+  author={Fischbach, Michael A},
+  journal={Cell},
+  volume={174},
+  number={4},
+  pages={785--790},
+  year={2018},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{sazal2018inferring,
+  title={Inferring relationships in microbiomes from signed bayesian networks},
+  author={Sazal, Musfiqur Rahman and Ruiz-Perez, Daniel and Cickovski, Trevor and Narasimhan, Giri},
+  booktitle={2018 IEEE 8th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS)},
+  pages={1--1},
+  year={2018},
+  organization={IEEE}
+}
 ```
+
+With advancements in high-throughput sequencing technology, it is now possible to examine microbial diversity in microbiomes with increased precision, and has elucidated associations between the microbiome and phenotypes such as obesity, neurological disorders, inflammation, immune disorders, metabolic diseases, and more~\cite{john2016gut,li2017gut,honda2012microbiome,aarts2017gut}. Interest in constructing causal networks for microbiomes is recent~\cite{}. Focused experiments in the laboratory to elicit causal relationships within microbiomes do exist~\cite{fischbach2018microbiome}, but do not employ computational causal inferencing approaches. Sazal et al. were among the first to construct causal networks for microbiomes~\cite{sazal2018inferring}.
 

@@ -131,11 +131,32 @@ Microbial dysbiosis preceding NEC in preterm infants is characterized by increas
   year={2018},
   organization={IEEE}
 }
+
+@article{faust2015metagenomics,
+  title={Metagenomics meets time series analysis: unraveling microbial community dynamics},
+  author={Faust, Karoline and Lahti, Leo and Gonze, Didier and De Vos, Willem M and Raes, Jeroen},
+  journal={Current opinion in microbiology},
+  volume={25},
+  pages={56--66},
+  year={2015},
+  publisher={Elsevier}
+}
+@article{matchado2021network,
+  title={Network analysis methods for studying microbial communities: A mini review},
+  author={Matchado, Monica Steffi and Lauber, Michael and Reitmeier, Sandra and Kacprowski, Tim and Baumbach, Jan and Haller, Dirk and List, Markus},
+  journal={Computational and structural biotechnology journal},
+  volume={19},
+  pages={2687--2698},
+  year={2021},
+  publisher={Elsevier}
+}
+
 ```
 With advancements in high-throughput sequencing technology, it is now possible to examine microbial diversity in microbiomes with increased precision, and has elucidated associations between the microbiome and phenotypes such as obesity, neurological disorders, inflammation, immune disorders, metabolic diseases, and  more~\cite{john2016gut,li2017gut,honda2012microbiome,aarts2017gut}. Interest in constructing causal networks for microbiomes is recent, and focused experiments in the laboratory to elicit causal relationships within microbiomes do exist~\cite{fischbach2018microbiome}, but do not employ computational causal inferencing approaches. Sazal et al. were among the first to construct causal networks for microbiomes~\cite{sazal2018inferring}.
 
 
 **Network analysis methods for studying microbial communities: A mini review**
+~\cite{matchado2021network}
 Threee important biases: compositionality, sparsity and spurious correlations in microbial co-occurrence network analysis.
 Firstly, microbiome data are compositional [11]; i.e. microbial counts represent proportions instead of absolute abundances. Secondly, sparsity in the dataset can lead to false associations of microorganisms. A zero indicates either the absence of a microorganism, or an insufficient sequencing depth. Thirdly, it is challenging to differentiate between direct and indirect associations, in particular if these are related to environmental factors. 
 
@@ -153,6 +174,21 @@ Correlation-based techniques, including Pearson or Spearman correlation, are amo
 | CoNet (2016) | does not address compositionaity bias |
 | Meta-network  (2019) | does not address compositionaity bias |
 | Correlation-Centric Network (2020) | does not address compositionaity bias |
+| MDiNE (2019) | single binary covariate to construct the networks |
+
+** correlation-based methods**
+Many correlation-based methods employ variants of Pearson or Spearman correlation to obtain an estimate of microbial interaction between pairs of taxa [24], [25]. However, these measures do not account for compositionality, where, for instance, an increase in absolute abundance of just a single taxon is followed by a decrease in relative abundances of all other taxa even if their absolute abundance does not change. This can be mitigated by ratio transformation of the data. Ratio transformations ensure that the ratios between two features are the same whether the data are absolute counts or proportions. Taking the logarithm of these counts makes the data further symmetric and linearly related [19]. The resulting correlation coefficients are thus compositionally coherent, i.e. the log ratio of two taxa is completely independent of other taxa. 
+
+** regularized linera regression**
+An alternative to correlation methods is to build linear regression models in which the abundance of each taxon is modelled as a response variable using the abundance of all other taxa as explanatory variables. Here, the coefficient of each taxon serves as a linear measure for the interaction strength of two taxa. However, due to the large number of features, such models are generally prone to overfitting.
+
+** conditional dependence and graphical methods **
+Partial correlation [40] and related approaches are used here to distinguish between direct and indirect interactions, resulting in an undirected weighted graph where the edges imply the conditional dependency between two taxa.
+
+** time series analysis for microbiomes **
+
+~\cite{faust2015metagenomics}
+Although many standard approaches for longitudinal analysis require long time series with short and regular sampling intervals, the currently available metagenomic time series tend to be short (few time points), gapped (missing time points), sparse (zero-rich) and noisy, necessitating preprocessing steps such as filtering, standardizing, interpolation and detrending to make time points equidistant and comparable. 
 
 
 

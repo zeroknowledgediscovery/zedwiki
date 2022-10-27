@@ -22,9 +22,23 @@ we can conclude:
 $$\frac{f_p}{f^B_p} = \frac{\frac{1}{p}-1}{\frac{1}{p^B}-1}\times \frac{P}{P^B}$$
  
  So $$p^B < p \Rightarrow  fp < f_p^B$$
+  if we are choosing the two groups as having the same number of positive cases.
+ So there is that minor point, we must be looking at cohorts with same number of positive cases to draw your conclusion, otherwise we can only say that PPV would be lower in the black population (not false positives)
  
- if we are choosing the two groups as having the same number of positive cases.
  
+ 2. But in general, this is a very important question. In our recent study we came upo with a universal screener for idiopathic pulmonary fibroisis (IPF), a rare disease with prevalence (base rate) 0.0005. This cases issues, since for prevalence = 0.0005 (5 in 10,000), for 90% sensitivity and 
+90% specificity, the PPV is 0.005 or 0.5% For 100% sensitivity, the PPV is still around 0.5%.
+To get really high PPV, you need to get ridiculously high specificities. Even for 99% specificity and 
+100% sensitivity, the PPV is still around just 5%. So what is the right metric to use to measure performance?
+
+So what we argued is that while you really want to know what is the percentage of flagged patients have IPF,
+the real question is whether you should send them for detailed evaluation. And that answer is 
+given by the positive likelihood ratio, which is independent of prevalence. Now the positive likelihood ratio is simply 
+$$LR+=s/c$$, the ratio of sensitivity to specificity. So if those are constant, then the LR+ is identical as well, which DOES in somre precise sense tell us that the screening tool is working equally well in teh two populations, irrespective of teh base rate. 
+
+The absolute risk is of course a function of teh base rate. But the relative increase in risk once someone is flagged is teh sam ein the two populations. 
+
+Now that might be just teh beginning, since absolute quatities matter in policy making. So lets discusss, when you have time. And
  
  
  

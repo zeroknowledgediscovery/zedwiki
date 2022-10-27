@@ -21,6 +21,7 @@ we can conclude:
 
 $$\frac{f_p}{f^B_p} = \frac{\frac{1}{p}-1}{\frac{1}{p^B}-1}\times \frac{P}{P^B}$$
  
+ So $$p^B < p \Rightarrow  fp < f_p^B$$
  
  
  

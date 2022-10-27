@@ -19,7 +19,7 @@ Personally, I’m excited by the editor/chair’s request. I think the idea of a
 
 we can conclude:
 
-$$f_p/f^B_p = \frac{\frac{1}{p}-1}{\frac{1}{p^B}-1} \frac{P}{P^B}$$
+$$\frac{f_p}{f^B_p} = \frac{\frac{1}{p}-1}{\frac{1}{p^B}-1}\times \frac{P}{P^B}$$
  
  
  

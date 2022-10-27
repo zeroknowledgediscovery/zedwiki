@@ -14,7 +14,12 @@ Personally, I’m excited by the editor/chair’s request. I think the idea of a
  Specifically, does he agree that the commentary has sufficiently fertile content to be worth writing? For example, is a frank discussion of forced choices in the types of “predictive fairness” worth proactive consideration for screener design and implementation? If yes, does he have thoughts on the best way to address those forced choices? For example, should we just maximize PPV at the cost of all else? Or maybe should we survey stakeholders to see what kinds of predictive errors they think are most fair?
  
  
- 1. You are aboslutely correct that we cannot have same sensitivity in two groups with different base rates. This easy to see, of course:
+ 1. You are aboslutely correct that we cannot have same sensitivity in two groups with different base rates. This easy to see, of course, from:
+ $$PPV = \frac{s}{s+ (\frac{1}{p}-1)(1-c)} $$
+
+we can conclude:
+
+$$f_p/f^B_p = \frac{\frac{1}{p}-1}{\frac{1}{p^B}-1} \frac{P}{P^B}
  
  
  

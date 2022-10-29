@@ -34,12 +34,12 @@
 18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology-modeling-%20-lightgrey)  Exeter University, Alan Turing Institute
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey) Dalhousie University  
-21. Alex Leow, Psychiatry, UIC, alexfeuillet@gmail.com
-22. Eugene Chang, Gastroentrology/Microbiome, UChicago, echang@medicine.bsd.uchicago.edu https://img.shields.io/badge/-UChicago-red
+21. Alex Leow alexfeuillet@gmail.com ![](https://img.shields.io/badge/Psychiatry-%20-lightgrey) UIC
+22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey) https://img.shields.io/badge/-UChicago-red
 
 # Less Interaction
-2. Rick Stevens, AI, ANL, stevens@anl.gov 
-3. Ian Foster, AI, foster@uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
+2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey) Aronne National Lab
+3. Ian Foster foster@uchicago.edu ![](https://img.shields.io/badge/AI-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 4. Harold Pollack haroldp@uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Uncertain

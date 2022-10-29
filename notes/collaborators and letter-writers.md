@@ -12,7 +12,7 @@
 9. Marian Anghel manghel@lanl.gov ![](https://img.shields.io/badge/statistics-%20-lightgrey) LANL
 10. Peter Hraber phraber@lanl.gov ![](https://img.shields.io/badge/Biology-%20-lightgrey) LANL 
 11. Carolyn Begeman cbegeman@lanl.gov ![](https://img.shields.io/badge/Geosciences-%20-lightgrey) LANL  
-12. Yolanda Gill gil@isi.edu ![](https://img.shields.io/badge/AI-%20-lightgrey) AI Institute, USC
+12. Yolanda Gill gil@isi.edu ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) AI Institute, USC
 13. Paul Bogdan pbogdan@usc.edu  ![](https://img.shields.io/badge/Networks-%20-lightgrey) USC
 14. David Wolpart david.h.wolpert@gmail.com ![](https://img.shields.io/badge/Physics-%20-lightgrey) Santa Fe Institute
 15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
@@ -25,8 +25,8 @@
 22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Less Interaction
-2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey) Aronne National Lab
-3. Ian Foster foster@uchicago.edu ![](https://img.shields.io/badge/AI-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) Aronne National Lab
+3. Ian Foster foster@uchicago.edu ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) ![](https://img.shields.io/badge/-UChicago-red)
 4. Harold Pollack haroldp@uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Uncertain

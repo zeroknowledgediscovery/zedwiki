@@ -1,12 +1,13 @@
 # Co-authors
-+ Michael Msall, Developmental Pediatrics Section Chief, UChicago, mmsall@peds.bsd.uchicago.edu 
-+ Peter Smith, Pediatrics Autism, UChicago, psmith2@peds.bsd.uchicago.edu 
-+ Fernando Martinez, Pulmonology, Weil Cornell, fjm2003@med.cornell.edu 
-+ Andrew Limper, Pulmonology, Mayo Clinic, limper.andrew@mayo.edu 
-+ Gary M. Hunninghake, Pulmonology, Harvard Medical School, ghunninghake@bwh.harvard.edu 
-+ R. Parker Ward, Cardiology, UChicago, pward@medicine.bsd.uchicago.edu 
-+ Gurol Suel, systems biology, UCSD, gsuel@ucsd.edu 
-+ Hod Lipson, Columbia, Robotics, Hod.lipson@columbia.edu
+
+1. + Michael Msall, Developmental Pediatrics Section Chief, UChicago, mmsall@peds.bsd.uchicago.edu 
+2. + Peter Smith, Pediatrics Autism, UChicago, psmith2@peds.bsd.uchicago.edu 
+3. + Fernando Martinez, Pulmonology, Weil Cornell, fjm2003@med.cornell.edu 
+4. + Andrew Limper, Pulmonology, Mayo Clinic, limper.andrew@mayo.edu 
+5. + Gary M. Hunninghake, Pulmonology, Harvard Medical School, ghunninghake@bwh.harvard.edu 
+6. + R. Parker Ward, Cardiology, UChicago, pward@medicine.bsd.uchicago.edu 
+7. + Gurol Suel, systems biology, UCSD, gsuel@ucsd.edu 
+8. + Hod Lipson, Columbia, Robotics, Hod.lipson@columbia.edu
 
 # Concept Buddies
 + Marian Anghel, LANL, Statistics Division, manghel@lanl.gov 

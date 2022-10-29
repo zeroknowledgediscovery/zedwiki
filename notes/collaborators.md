@@ -1,8 +1,8 @@
 # Co-authors
 + Michael Msall, Developmental Pediatrics Section Chief, UChicago, mmsall@peds.bsd.uchicago.edu 
-+ Peter Smith, Pediatrics Autism, UChicago
-+ Fernando Martinez, Pulmonology, Weil Cornell, 
-+ Andrew Limper, Pulmonology, Mayo Clinic
++ Peter Smith, Pediatrics Autism, UChicago, psmith2@peds.bsd.uchicago.edu 
++ Fernando Martinez, Pulmonology, Weil Cornell, fjm2003@med.cornell.edu 
++ Andrew Limper, Pulmonology, Mayo Clinic, limper.andrew@mayo.edu 
 
 # Concept Buddies
 + Marian Anghel, LANL, Statistics Division, manghel@lanl.gov 
@@ -12,16 +12,16 @@
 + Paul Bogdan, Network Science, USC, pbogdan@usc.edu 
 + Hod Lipson, Columbia, Robotics, Hod.lipson@columbia.edu
 + David Wolpart, Physics, Santa Fe Institute, david.h.wolpert@gmail.com
-+ Erika Claud, Pediatrics Microbiome, UChicago
-+ Aaron Esser-kahn, Vaccine Science, UChicago PME, 
-+ Don Hedekar, Statistics, UChicago, 
++ Erika Claud, Pediatrics Microbiome, UChicago, EClaud@peds.bsd.uchicago.edu 
++ Aaron Esser-kahn, Vaccine Science, UChicago PME, aesserkahn@uchicago.edu 
++ Don Hedekar, Statistics, UChicago, hedeker@uchicago.edu 
 + David Llewellyn, Dementia modeling, Exeter University UK, Alan Turing Institute, David.Llewellyn@exeter.ac.uk
-+ James Mastrianni, Neurology, UChicago
-+ Kenneth Rockwood, Neurology, Dalhousie University
-+ Gary M. Hunninghake, Pulmonology, Harvard Medical School
-+ R. Parker Ward, Cardiology, UChicago
-+ Gurol Suel, 
-
++ James Mastrianni, Neurology, UChicago, jmast@neurology.bsd.uchicago.edu 
++ Kenneth Rockwood, Neurology, Dalhousie University, Kenneth.Rockwood@dal.ca 
++ Alex Leow, Psychiatry, UIC, alexfeuillet@gmail.com
++ Gary M. Hunninghake, Pulmonology, Harvard Medical School, ghunninghake@bwh.harvard.edu 
++ R. Parker Ward, Cardiology, UChicago, pward@medicine.bsd.uchicago.edu 
++ Gurol Suel, systems biology, UCSD, gsuel@ucsd.edu 
 
 # Mentors
 + Robert Gibbons, UChicago, 

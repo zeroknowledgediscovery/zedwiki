@@ -15,7 +15,7 @@
 12. Yolanda Gill gil@isi.edu ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) AI Institute, USC
 13. Paul Bogdan pbogdan@usc.edu  ![](https://img.shields.io/badge/Networks-%20-lightgrey/?labelColor=55ff77) USC
 14. David Wolpart david.h.wolpert@gmail.com ![](https://img.shields.io/badge/Physics-%20-lightgrey/?labelColor=55ff77) Santa Fe Institute
-15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey/?labelColor=aaffaa)  ![](https://img.shields.io/badge/-UChicago-red)
+15. Erika Claud EClaud@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey/?labelColor=aaffaa)  ![](https://img.shields.io/badge/-UChicago-red)
 16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/immunology-%20-lightgrey/?labelColor=aaffaa)  ![](https://img.shields.io/badge/-UChicago-red)
 17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) ![](https://img.shields.io/badge/-UChicago-red)
 18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology modeling-%20-lightgrey/?labelColor=aaffff)  Exeter University, Alan Turing Institute

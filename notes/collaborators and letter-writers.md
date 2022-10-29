@@ -1,16 +1,3 @@
-# Areas 
-
-+ Sociology
-+ Neurology
-+ Developmental Pediatrics
-+ Cardiology
-+ Vaccine science, infectious disease
-+ Microbiome
-+ Network Science
-+ Machine Learning
-+ Statistics
-+ Physics, geosciences
-
 # Co-authors
 1. Michael Msall  mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 2. Peter Smith psmith2@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)

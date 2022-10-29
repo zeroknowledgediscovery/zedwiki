@@ -49,4 +49,4 @@
 
 # Mentors
 1. James Allen Evans, jevans@uchicago.edu ![](https://img.shields.io/badge/sociology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
-23. Robert Gibbons, Statistics, UChicago, rgibbons1@bsd.uchicago.edu  ![](https://img.shields.io/badge/-UChicago-red)
+23. Robert Gibbons rgibbons1@bsd.uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)

@@ -28,19 +28,19 @@
 12. Yolanda Gill, AI Institute, USC, gil@isi.edu 
 13. Paul Bogdan, Network Science, USC, pbogdan@usc.edu 
 14. David Wolpart, Physics, Santa Fe Institute, david.h.wolpert@gmail.com
-15. Erika Claud, Pediatrics Microbiome, UChicago, EClaud@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
-16. Aaron Esser-kahn, Vaccine Science, UChicago PME, aesserkahn@uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
-17. Don Hedekar, Statistics, UChicago, hedeker@uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
-18. David Llewellyn, Dementia modeling, Exeter University UK, Alan Turing Institute, David.Llewellyn@exeter.ac.uk
-19. James Mastrianni, Neurology, UChicago, jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
-20. Kenneth Rockwood, Neurology, Dalhousie University, Kenneth.Rockwood@dal.ca 
+15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
+16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/-UChicago-red) ![](https://img.shields.io/badge/-UChicago-red)
+17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology-modeling-%20-lightgrey)  Exeter University UK, Alan Turing Institute
+19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey) Dalhousie University  
 21. Alex Leow, Psychiatry, UIC, alexfeuillet@gmail.com
 22. Eugene Chang, Gastroentrology/Microbiome, UChicago, echang@medicine.bsd.uchicago.edu https://img.shields.io/badge/-UChicago-red
 
 # Less Interaction
 2. Rick Stevens, AI, ANL, stevens@anl.gov 
 3. Ian Foster, AI, foster@uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
-4. Harold Pollack, Statistics, UChicago, haroldp@uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
+4. Harold Pollack haroldp@uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Uncertain
 

@@ -22,6 +22,7 @@
 + James Mastrianni, Neurology, UChicago, jmast@neurology.bsd.uchicago.edu 
 + Kenneth Rockwood, Neurology, Dalhousie University, Kenneth.Rockwood@dal.ca 
 + Alex Leow, Psychiatry, UIC, alexfeuillet@gmail.com
++ Eugene Chang, Gastroentrology/Microbiome, UChicago, echang@medicine.bsd.uchicago.edu 
 
 # Mentors
 + Robert Gibbons, Statistics, UChicago, rgibbons1@bsd.uchicago.edu 

@@ -1,6 +1,6 @@
 # Co-authors
-1. Michael Msall  mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
-2. Peter Smith psmith2@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+1. Michael Msall  mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey/?labelColor=228833) ![](https://img.shields.io/badge/-UChicago-red)
+2. Peter Smith psmith2@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey/?labelColor=228833) ![](https://img.shields.io/badge/-UChicago-red)
 3. Fernando Martinez fjm2003@med.cornell.edu ![](https://img.shields.io/badge/pulmonology-%20-lightgrey) Weil Cornell
 4. Andrew Limper limper.andrew@mayo.edu ![](https://img.shields.io/badge/pulmonology-%20-lightgrey) Mayo Clinic
 5. Gary M. Hunninghake  ghunninghake@bwh.harvard.edu ![](https://img.shields.io/badge/pulmonology-%20-lightgrey) Harvard Medical Schoo

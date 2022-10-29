@@ -27,6 +27,7 @@
 # Less Interaction
 2. Rick Stevens, AI, ANL, stevens@anl.gov 
 3. Ian Foster, AI, foster@uchicago.edu 
+4. Harold Pollack, Statistics, UChicago, haroldp@uchicago.edu 
 
 # Uncertain
 

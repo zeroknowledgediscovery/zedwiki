@@ -35,7 +35,7 @@
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey) Dalhousie University  
 21. Alex Leow alexfeuillet@gmail.com ![](https://img.shields.io/badge/Psychiatry-%20-lightgrey) UIC
-22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey) https://img.shields.io/badge/-UChicago-red
+22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Less Interaction
 2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey) Aronne National Lab

@@ -18,7 +18,7 @@
 15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
 16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/immunology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
 17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
-18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology-modeling-%20-lightgrey)  Exeter University, Alan Turing Institute
+18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology modeling-%20-lightgrey)  Exeter University, Alan Turing Institute
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey) Dalhousie University  
 21. Alex Leow alexfeuillet@gmail.com ![](https://img.shields.io/badge/Psychiatry-%20-lightgrey) UIC

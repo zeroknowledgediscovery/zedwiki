@@ -17,7 +17,7 @@
 14. David Wolpart david.h.wolpert@gmail.com ![](https://img.shields.io/badge/Physics-%20-lightgrey) Santa Fe Institute
 15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
 16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/immunology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
-17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) ![](https://img.shields.io/badge/-UChicago-red)
 18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology modeling-%20-lightgrey)  Exeter University, Alan Turing Institute
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey) Dalhousie University  
@@ -27,7 +27,7 @@
 # Less Interaction
 2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) Aronne National Lab
 3. Ian Foster foster@uchicago.edu ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) ![](https://img.shields.io/badge/-UChicago-red)
-4. Harold Pollack haroldp@uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
+4. Harold Pollack haroldp@uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) ![](https://img.shields.io/badge/-UChicago-red)
 
 # Uncertain
 

@@ -34,4 +34,5 @@
 
 
 # Mentors
+1. James Allen Evans, Sociology, jevans@uchicago.edu
 23. Robert Gibbons, Statistics, UChicago, rgibbons1@bsd.uchicago.edu 

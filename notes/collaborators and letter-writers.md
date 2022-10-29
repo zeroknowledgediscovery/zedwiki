@@ -9,8 +9,8 @@
 8. Hod Lipson Hod.lipson@columbia.edu ![](https://img.shields.io/badge/robotics-%20-lightgrey/?labelColor=555555) Columbia
 
 # Concept Buddies
-9. Marian Anghel manghel@lanl.gov ![](https://img.shields.io/badge/statistics-%20-lightgrey) LANL
-10. Peter Hraber phraber@lanl.gov ![](https://img.shields.io/badge/Biology-%20-lightgrey) LANL 
+9. Marian Anghel manghel@lanl.gov ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) LANL
+10. Peter Hraber phraber@lanl.gov ![](https://img.shields.io/badge/Biology-%20-lightgrey/?labelColor=554422) LANL 
 11. Carolyn Begeman cbegeman@lanl.gov ![](https://img.shields.io/badge/Geosciences-%20-lightgrey) LANL  
 12. Yolanda Gill gil@isi.edu ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) AI Institute, USC
 13. Paul Bogdan pbogdan@usc.edu  ![](https://img.shields.io/badge/Networks-%20-lightgrey) USC

@@ -16,7 +16,7 @@
 13. Paul Bogdan pbogdan@usc.edu  ![](https://img.shields.io/badge/Networks-%20-lightgrey) USC
 14. David Wolpart david.h.wolpert@gmail.com ![](https://img.shields.io/badge/Physics-%20-lightgrey) Santa Fe Institute
 15. Erika Claud EClaud@peds.bsd.uchicago.eduPediatrics ![](https://img.shields.io/badge/Microbiome-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
-16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/-UChicago-red) ![](https://img.shields.io/badge/-UChicago-red)
+16. Aaron Esser-kahn aesserkahn@uchicago.edu  ![](https://img.shields.io/badge/immunology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
 17. Don Hedekar hedeker@uchicago.edu  ![](https://img.shields.io/badge/statistics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology-modeling-%20-lightgrey)  Exeter University, Alan Turing Institute
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)

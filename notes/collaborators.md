@@ -30,7 +30,7 @@
 
 # Uncertain
 
-1. Yoav Gilad, Biology, Leadership UChicago,  (not sure if he CAN write a letter)
+1. Yoav Gilad, Biology, Leadership UChicago, gilad@uchicago.edu  (not sure if he CAN write a letter)
 
 
 # Mentors

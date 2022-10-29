@@ -1,3 +1,16 @@
+# Areas 
+
++ Sociology
++ Neurology
++ Developmental Pediatrics
++ Cardiology
++ Vaccine science, infectious disease
++ Microbiome
++ Network Science
++ Machine Learning
++ Statistics
++ Physics, geosciences
+
 # Co-authors
 1. Michael Msall, Developmental Pediatrics Section Chief, UChicago, mmsall@peds.bsd.uchicago.edu 
 2. Peter Smith, Pediatrics Autism, UChicago, psmith2@peds.bsd.uchicago.edu 

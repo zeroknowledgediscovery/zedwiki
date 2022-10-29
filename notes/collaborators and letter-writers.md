@@ -12,7 +12,7 @@
 + Physics, geosciences
 
 # Co-authors
-1. Michael Msall, Developmental Pediatrics Section Chief, UChicago, mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
+1. Michael Msall  mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental-pediatrics-%20-lightgrey) ![](https://img.shields.io/badge/-UChicago-red)
 2. Peter Smith, Pediatrics Autism, UChicago, psmith2@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/-UChicago-red)
 3. Fernando Martinez, Pulmonology, Weil Cornell, fjm2003@med.cornell.edu 
 4. Andrew Limper, Pulmonology, Mayo Clinic, limper.andrew@mayo.edu 

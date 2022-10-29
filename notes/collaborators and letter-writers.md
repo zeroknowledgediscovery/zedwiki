@@ -1,4 +1,10 @@
+
+# Mentors
+1. James Allen Evans, jevans@uchicago.edu ![](https://img.shields.io/badge/sociology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
+23. Robert Gibbons rgibbons1@bsd.uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) ![](https://img.shields.io/badge/-UChicago-red)
+ 
 # Co-authors
+
 1. Michael Msall  mmsall@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey/?labelColor=228833) ![](https://img.shields.io/badge/-UChicago-red)
 2. Peter Smith psmith2@peds.bsd.uchicago.edu ![](https://img.shields.io/badge/developmental pediatrics-%20-lightgrey/?labelColor=228833) ![](https://img.shields.io/badge/-UChicago-red)
 3. Fernando Martinez fjm2003@med.cornell.edu ![](https://img.shields.io/badge/pulmonology-%20-lightgrey/?labelColor=998855) Weil Cornell
@@ -33,7 +39,3 @@
 
 1. Yoav Gilad, Biology, Leadership UChicago, gilad@uchicago.edu  (not sure if he CAN write a letter)
 
-
-# Mentors
-1. James Allen Evans, jevans@uchicago.edu ![](https://img.shields.io/badge/sociology-%20-lightgrey)  ![](https://img.shields.io/badge/-UChicago-red)
-23. Robert Gibbons rgibbons1@bsd.uchicago.edu ![](https://img.shields.io/badge/statistics-%20-lightgrey/?labelColor=2233aa) ![](https://img.shields.io/badge/-UChicago-red)

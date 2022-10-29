@@ -24,5 +24,5 @@
 + Gurol Suel, systems biology, UCSD, gsuel@ucsd.edu 
 
 # Mentors
-+ Robert Gibbons, UChicago, 
++ Robert Gibbons, Statistics, UChicago, rgibbons1@bsd.uchicago.edu 
 + 

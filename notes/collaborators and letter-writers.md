@@ -39,3 +39,7 @@
 1. Yoav Gilad, Biology, Leadership UChicago, gilad@uchicago.edu  (not sure if he CAN write a letter)
 
 # Discuusion with Chip Fergusson
+
++ COAP external members? How do we ensure that COAP has the right context to evaluate the case?
++ Muktidisciplinary background, with emphasis in data science, machine learning, AI , with application sin biomedicine and social systems. Theory/tool design to address hard problems. The mathematics of complex systems modeling and prediction or rare/extreme events.
+

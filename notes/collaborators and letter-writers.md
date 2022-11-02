@@ -49,3 +49,12 @@ notes:
 
 https://sites.google.com/site/bsdacademicaffairs/home
 
++ 6 to 7 letters
++ co-authors are frwowned upon, but they can find other collagues to write letters
++ state of achiements is what letter writers see
++ categorize speaking engagements
++ statement of achievements must cater to both experts and lay biologists and non-biologists
++ chip can look over soa
++ yoav/steve white/meltzer/mentors decide who to get letters from
++ 
+

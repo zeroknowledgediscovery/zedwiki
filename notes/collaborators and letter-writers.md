@@ -45,3 +45,7 @@ Nov 2 11.00 am
 + COAP external members? How do we ensure that COAP has the right context to evaluate the case?
 + Muktidisciplinary background, with emphasis in data science, machine learning, AI , with application sin biomedicine and social systems. Theory/tool design to address hard problems. The mathematics of complex systems modeling and prediction or rare/extreme events.
 
+notes:
+
+https://sites.google.com/site/bsdacademicaffairs/home
+

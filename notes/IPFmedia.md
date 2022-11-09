@@ -32,6 +32,24 @@ The other important point is how we setup the problem. We only raise these flags
 
 We set up a case control scenario where we identify the cases using adminsitrative records.. ICD9/10 codes . We look at 2 years of past data, and atempt to make a diagnosis one to 4 years in future. We define the control cohort as one that have no idication of ILD or IPFs at least upto 2 years in future from where the ZCOR evaluation is being done. Most results I am going to present refers to when we make predictions 1 year in the future, ie our prediction are being made 1 year before teh current medical diagnosis.
 
+We use the standard codes for IPF and broadly ILD. We analyze the two scenarios separate;y.. can we raise flags for ILD, and and can we raise flags for IPF. Now there are objections often to using admin coides for idemtifuying cases,And we also investigate what happends if we do a cmore comolex case identifcation approacg.. maybe use the two drusg perfinidone or ofab along with admin codes corresponding to PF, or look for the diganostic fingerprint that typically would be there before an IPF dx. And our results remain unchanged for each of those categoriers.
+
+Here is the data: Teh marketscan data have over 100M patients, and some mmdicare data. We also use dat afrom UCm and Optumlabs.. total 2.9M patienst with over 50K cases
+
+Results. For one yaer in future predictions, we get close to 90% auc, which was urprising to us and pretty incredicble. VAnd the performnce not only is high in teh general population, but reamins comparable when we look ta subcohosrst, People who have COPD, or heart condition, or asthma, have no identifibale high risk factors and acros the three independent databases.
+
+And we get likelihood ratios that go over 30 or 40 at 99% specificity. And as we tary to predict or raise flags earlier than 1 year, we do a bit worse, but our predictions hold up pretty well.
+
+More detailed results. Noet that ILD has twice the prevalence of IPF, and the PPV remains pretty much the same, but the likelihood ratio roughly doubles. Wjhat this means is that we pretty much are equally cabale of picjking up ILDs and IPFs.
+
+All the diagnoss that contributes to risk. This howveer is only teh tip of teh iceberg, the patterns we find arte not representable at simpley risk factors. But nevrtheless, we can ask how different dx on average modulayte teh risk. And we find Resporatory circulatory, ill-defined ysmptoms.
+
+Is it agood idea to screen? David Schartwz already made teh case. Yes. What about false positives, we get about 1 positive for everu 2-30 flags. Questions on Healthcare capacity, and risk for imaging which minimal. There is also teh ethics question of 
+notifying pataients years earlier. But what we showe that we can perhaps offer a different cheaper fastyer apprach to identify the Precliniucal IPF or ILD patienst that David Schawartz was ytlajking about.
+
+Deplaoy as an epic app, to sealmelessly work with epic. Measure outcomes when deployed. ANd maybe add other modlaities and get top ZCOR 2.0 so maybe become useful at teh secondary centers as well.
+
+
 
 ---
 

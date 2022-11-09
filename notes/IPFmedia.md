@@ -15,6 +15,15 @@
 * psychological impact might not be that important
 * minimally complex genetic disease
 
+-----
+Morningeveryone. Let me begin by saying I am excited to be part of this summit, and it has been an aboslutely fascinating learning experience. A huge thanks to Fernando and Sydney for inviting me, and alosto the 3 lakes foundation and PFF and NHLBI for making this happen. 
+
+So what I am going to talk about is our recent results on the possibility of accelerating the diagnostic odessey for patients to reach a aignosis, and may maybe avoid or at least the odds of the delays that patients like Mark sometimes face. IPF is of course is very bad disease to have with interventions that weel, as we have heard, are increasingly promising, but not poerfect. And we have heard that it can be hard to diagnose the disorder, symptims are non-specific, shortness of breath, dry cough, unless you can hear the crackles. And it is sort of rare, ILD about 10 of 10,000, ipf 5 of 10,000, But over 200,000 people are living now with IPF, and postDX survival is about 4-5 years. 
+
+55% get at least one misdiagnoses, more than 38% two or more misdiagnoses, and often confused with age.  often confused with asthma, pnenomia, bronchitis, allergies , COPD, and simple CXR might not be conclusive. And on top of that, particualrly due to the workload of teh PCPs, signs are missed, leading to delayed and missed diagnosis
+
+What we were able to do is look at EHR records and potentially bring back the diagnosis by 4 year before what is done in current practice. It is retrospective data.
+
 
 ---
 

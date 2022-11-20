@@ -1,3 +1,6 @@
+![](https://s3.pgkb.org/pathway/PA166121347.png?versionId=zFzLwnA_QjqGwtLTD0V2LjnkEyYFua8Y)
+
+
 # Hypothesis
 
 1. * Paroxitine strongly inhibits CYP2D6 https://pubmed.ncbi.nlm.nih.gov/9817620/

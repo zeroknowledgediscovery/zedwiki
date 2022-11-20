@@ -10,6 +10,9 @@
 5. * Paroxitine passes from mother to fetus https://pubmed.ncbi.nlm.nih.gov/30105921/
 6. * Our result that Paroxitine has a strong protective effect.
 
+# Paroxetine
+
+* These data are consistent with mechanism-based inhibition of CYP2D6 by paroxetine but not by quinidine or fluoxetine. https://dmd.aspetjournals.org/content/31/3/289
 
 # SSRI impact
 

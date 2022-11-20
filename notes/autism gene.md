@@ -13,6 +13,7 @@
 # Paroxetine
 
 * These data are consistent with mechanism-based inhibition of CYP2D6 by paroxetine but not by quinidine or fluoxetine. https://dmd.aspetjournals.org/content/31/3/289
+* Paroxetine strongly inhibits CYP2D6 but no other P45 enzymes
 
 # SSRI impact
 

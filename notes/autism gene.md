@@ -35,3 +35,6 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 + Citalopram No_Inhibition https://pubmed.ncbi.nlm.nih.gov/11876575/ OR Moderate_Inhibitor https://pubmed.ncbi.nlm.nih.gov/9068931/
 + 
 
+# Role of CYP2D6 in fetal development
+
++ https://pubmed.ncbi.nlm.nih.gov/15696014/  activity increases in pregnancy

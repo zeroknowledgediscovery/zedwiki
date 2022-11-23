@@ -15,6 +15,7 @@
 * These data are consistent with mechanism-based inhibition (MBI) of CYP2D6 by paroxetine but not by quinidine or fluoxetine. https://dmd.aspetjournals.org/content/31/3/289
 * Paroxetine strongly inhibits CYP2D6 but no other P45 enzymes
 * Fluoxetine also strongly inhibits CYP2D6 but competitively (not MBI)
+* Bupropion also might strongly inhibit CYP2D6, but it is not MBI https://tcpharm.org/search.php?where=aview&id=10.12793/jkscpt.2008.16.2.111&code=0179JKSCPT&vmode=FULL 
 
 # SSRI impact
 

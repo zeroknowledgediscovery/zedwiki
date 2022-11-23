@@ -17,6 +17,13 @@
 * Fluoxetine also strongly inhibits CYP2D6 but competitively (not MBI)
 * Bupropion also might strongly inhibit CYP2D6, but it is not MBI https://tcpharm.org/search.php?where=aview&id=10.12793/jkscpt.2008.16.2.111&code=0179JKSCPT&vmode=FULL 
 
+# MBI
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557591/
+
+Various types of CYP450 inhibition (competitive, non-competitive, mechanism-based) have been observed clinically, and interactions of these types require a distinct clinical management strategy. This review focuses on mechanism-based inhibition, which occurs when a substrate forms a reactive intermediate, creating a stable enzyme–intermediate complex that irreversibly reduces enzyme activity. This type of inhibition can cause interactions with drugs such as omeprazole, paroxetine, macrolide antibiotics, or mirabegron.
+
+
 # SSRI impact
 
 ## CYP2D6

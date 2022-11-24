@@ -45,6 +45,10 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 + CYP2D6 is functional in brain in vivo https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7383223/
 + https://www.futuremedicine.com/doi/10.2217/pgs.14.151 CYP2D6 has been found in neurons in numerous human brain areas, including the thalamus, hypothalamus, hippocampus, substantia nigra, cerebellum, and in several layers of the frontal neocortex [4,5] raising questions about its potential role in these neurons. The enzyme was implicated in metabolism of the endogenous compounds 5-methoxytryptamine, anandamide, progesterone and tyramine and in generation of serotonin and dopamine from trace amines [6].
 
+
+CYP2D6 has been found in neurons in numerous human brain areas, including the thalamus, hypothalamus, hippocampus, substantia nigra, cerebellum, and in several layers of the frontal neocortex [4,5] raising questions about its potential role in these neurons. The enzyme was implicated in metabolism of the endogenous compounds 5-methoxytryptamine, anandamide, progesterone and tyramine and in generation of serotonin and dopamine from trace amines [6].
+
+
 # Pharmacogenomics of CYP2D6
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7692531/

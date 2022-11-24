@@ -54,6 +54,14 @@ Associations between CYP2D6 genotypes and personality traits gave the first indi
 
 The UM CYP2D6 phenotype has been suggested to predict suicidal risk [13,14] and increased suicidal behavior among individuals with eating disorders [15]. In search for a physiological effect of higher CYP2D6 brain expression in such individuals, Stingl and collaborators examined the perfusion rates in the thalamus and the right hippocampus among healthy human subjects. They detected an effect of CYP2D6 polymorphism on resting-state perfusion in the thalamus, hypothalamus, posterior cerebral cortex, and isolated parts of the medial temporal lobe and orbitofrontal cortex, where PMs had lower perfusion rates, a pattern that suggested an association with brain circuits involved in vigilance. Also, they tested the effect of the CYP2D6 polymorphism on a standard working-memory task and recognition of facial expressions, a task eliciting neural circuits related with the detection of emotionally arousing stimuli measured with fMRI. In both studies they found an effect of the CYP2D6 polymorphism in visual areas in the posterior cerebral cortex, whereas no effect could be detected in areas outside of those staked out by the previous perfusion study (see [16] and references therein). This provides an interesting mechanistic link to the findings concerning a relationship to suicide.
 
+# Demographic differences
+
++ Unique CYP2D6 activity distribution and genotype-phenotype discordance in black Americans
+https://pubmed.ncbi.nlm.nih.gov/12152006/ Significantly lower CYP2D6 activity in the black American group (0.016) than in a white control population (0.0044; P =.0001) 
+
++ CYP2D6 allele frequency in European Caucasians, Asians, Africans and their descendants https://pubmed.ncbi.nlm.nih.gov/11972444/
+European Caucasians and their descendants, the functional group of alleles are predominant, with a frequency of 71%. Non-functional alleles represent 26% of the variability, mainly CYP2D6*4. In Asians and their close descendants, functional alleles represent only ~ 50% of the frequency of CYP2D6 alleles. Asians and Pacific Islanders have a high frequency (median = 41%) of a reduced function allele, CYP2D6*10, contributing to the population shift to the right of metabolic rates indicating slower metabolism.
+
 
 # Pharmacogenomics of CYP2D6
 

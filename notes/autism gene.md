@@ -36,7 +36,7 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 + 
 
 # Role of CYP2D6 in fetal development
-
++ Induction of CYP2D6 in pregnancy https://pubmed.ncbi.nlm.nih.gov/9357391/
 + https://pubmed.ncbi.nlm.nih.gov/15696014/  activity increases in pregnancy
 + https://www.sciencedirect.com/science/article/pii/S0197458011003290?via%3Dihub  
 

@@ -33,7 +33,7 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 + Paroxetine Strong_Inhibitor https://pubmed.ncbi.nlm.nih.gov/11876575/
 + Sertraline Moderate_Inhibitor https://pubmed.ncbi.nlm.nih.gov/11876575/
 + Citalopram No_Inhibition https://pubmed.ncbi.nlm.nih.gov/11876575/ OR Moderate_Inhibitor https://pubmed.ncbi.nlm.nih.gov/9068931/
-+ 
+
 
 # Role of CYP2D6 in fetal development
 
@@ -54,6 +54,12 @@ Associations between CYP2D6 genotypes and personality traits gave the first indi
 
 The UM CYP2D6 phenotype has been suggested to predict suicidal risk [13,14] and increased suicidal behavior among individuals with eating disorders [15]. In search for a physiological effect of higher CYP2D6 brain expression in such individuals, Stingl and collaborators examined the perfusion rates in the thalamus and the right hippocampus among healthy human subjects. They detected an effect of CYP2D6 polymorphism on resting-state perfusion in the thalamus, hypothalamus, posterior cerebral cortex, and isolated parts of the medial temporal lobe and orbitofrontal cortex, where PMs had lower perfusion rates, a pattern that suggested an association with brain circuits involved in vigilance. Also, they tested the effect of the CYP2D6 polymorphism on a standard working-memory task and recognition of facial expressions, a task eliciting neural circuits related with the detection of emotionally arousing stimuli measured with fMRI. In both studies they found an effect of the CYP2D6 polymorphism in visual areas in the posterior cerebral cortex, whereas no effect could be detected in areas outside of those staked out by the previous perfusion study (see [16] and references therein). This provides an interesting mechanistic link to the findings concerning a relationship to suicide.
 
+
+## Effect of Cytochrome P450 2D6 Genotype on Maternal Paroxetine Plasma Concentrations during Pregnancy
+
+Differences in CYP2D6 genotype may have divergent effects on maternal plasma paroxetine concentrations during pregnancy, with therapeutic consequences. Accumulation of paroxetine in a considerable group of pregnant women will lead to unintended increased exposure of paroxetine to the unborn child. Knowledge about a patient’s CYP2D6 genotype is indispensable when prescribing paroxetine in pregnancy
+
+
 # Demographic differences
 
 + Unique CYP2D6 activity distribution and genotype-phenotype discordance in black Americans
@@ -63,6 +69,8 @@ https://pubmed.ncbi.nlm.nih.gov/12152006/ Significantly lower CYP2D6 activity in
 European Caucasians and their descendants, the functional group of alleles are predominant, with a frequency of 71%. Non-functional alleles represent 26% of the variability, mainly CYP2D6*4. In Asians and their close descendants, functional alleles represent only ~ 50% of the frequency of CYP2D6 alleles. Asians and Pacific Islanders have a high frequency (median = 41%) of a reduced function allele, CYP2D6*10, contributing to the population shift to the right of metabolic rates indicating slower metabolism.
 
 The above observations would indicate if our hypothesis is correct that ASD prevalence will be lower in africans, african americans and asians compared to caucasians, which is correct
+
++ https://www.sciencedirect.com/science/article/pii/S1098360021015410 Prediction of CYP2D6 phenotype from genotype across world populations
 
 # Pharmacogenomics of CYP2D6
 

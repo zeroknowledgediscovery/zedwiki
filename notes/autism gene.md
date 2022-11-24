@@ -62,6 +62,7 @@ https://pubmed.ncbi.nlm.nih.gov/12152006/ Significantly lower CYP2D6 activity in
 + CYP2D6 allele frequency in European Caucasians, Asians, Africans and their descendants https://pubmed.ncbi.nlm.nih.gov/11972444/
 European Caucasians and their descendants, the functional group of alleles are predominant, with a frequency of 71%. Non-functional alleles represent 26% of the variability, mainly CYP2D6*4. In Asians and their close descendants, functional alleles represent only ~ 50% of the frequency of CYP2D6 alleles. Asians and Pacific Islanders have a high frequency (median = 41%) of a reduced function allele, CYP2D6*10, contributing to the population shift to the right of metabolic rates indicating slower metabolism.
 
+The above observations would indicate if our hypothesis is correct that ASD prevalence will be lower in africans, african americans and asians compared to caucasians, which is correct
 
 # Pharmacogenomics of CYP2D6
 

@@ -38,13 +38,15 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 # Role of CYP2D6 in fetal development
 
 + Induction of CYP2D6 in pregnancy https://pubmed.ncbi.nlm.nih.gov/9357391/
-+ https://pubmed.ncbi.nlm.nih.gov/15696014/  activity increases in pregnancy
-+ https://www.sciencedirect.com/science/article/pii/S0197458011003290?via%3Dihub  
++ Activity increases in pregnancy https://pubmed.ncbi.nlm.nih.gov/15696014/  
++ The neuroprotective enzyme CYP2D6 increases in the brain with age and is lower in Parkinson's disease patients https://www.sciencedirect.com/science/article/pii/S0197458011003290?via%3Dihub  
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0197458011003290-gr2.jpg)
 
 + CYP2D6 is functional in brain in vivo https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7383223/
-+ https://www.futuremedicine.com/doi/10.2217/pgs.14.151 CYP2D6 has been found in neurons in numerous human brain areas, including the thalamus, hypothalamus, hippocampus, substantia nigra, cerebellum, and in several layers of the frontal neocortex [4,5] raising questions about its potential role in these neurons. The enzyme was implicated in metabolism of the endogenous compounds 5-methoxytryptamine, anandamide, progesterone and tyramine and in generation of serotonin and dopamine from trace amines [6].
++ CYP2D6 has been found in neurons in numerous human brain areas https://www.futuremedicine.com/doi/10.2217/pgs.14.151 
+
+CYP2D6 has been found in neurons in numerous human brain areas, including the thalamus, hypothalamus, hippocampus, substantia nigra, cerebellum, and in several layers of the frontal neocortex [4,5] raising questions about its potential role in these neurons. The enzyme was implicated in metabolism of the endogenous compounds 5-methoxytryptamine, anandamide, progesterone and tyramine and in generation of serotonin and dopamine from trace amines [6].
 
 This hypothesis is strengthened by the fact that in a transgenic mouse model, with CYP2D6 expressed in the brain, higher serotonin levels have been measured in several brain regions, including the cerebellum and hippocampus [7]. CYP2D6 might also affect the endocannabinoid system within the CNS due to its ability to metabolize anandamide and its derivatives [8]; however, the physiological significance of such metabolism is still unclear.
 

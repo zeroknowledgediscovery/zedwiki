@@ -42,6 +42,8 @@ Various types of CYP450 inhibition (competitive, non-competitive, mechanism-base
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0197458011003290-gr2.jpg)
 
+
+
 # Pharmacogenomics of CYP2D6
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7692531/

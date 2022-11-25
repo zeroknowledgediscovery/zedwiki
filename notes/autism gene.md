@@ -78,6 +78,10 @@ https://www.frontiersin.org/articles/10.3389/fnins.2022.862315/full
 
 > CYP1A2, ABCB1, ABCG2, GSTM1, and CYP2D6 and benzo-(a)-pyrene, valproic acid, bisphenol A, particulate matter, methylmercury, and perfluorinated compounds. Individuals carrying predicted damaging variants in high evidence XenoReg genes are likely to have less efficient detoxification systems or impaired physiological barriers. They can therefore be particularly susceptible to early life exposure to ubiquitous xenobiotics, which elicit neuropathological mechanisms in the immature brain, such as epigenetic changes, oxidative stress, neuroinflammation, hypoxic damage, and endocrine disruption.
 
++ This international consortium aimed to use high-throughput sequencing techniques to identify genetic risk factors for ASD (Buxbaum et al., 2012). ASC data was available through dbGaP portal (accession code: phs000298.v4.p3)
++ https://www.ncbi.nlm.nih.gov/sra/docs/sra-dbgap-download/
+
+* need to downlaod this dataset, and find if non-functional variants of CYP2D6 are over-represented in the control population *
 
 
 # Pharmacogenomics of CYP2D6

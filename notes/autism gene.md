@@ -71,6 +71,7 @@ European Caucasians and their descendants, the functional group of alleles are p
 The above observations would indicate if our hypothesis is correct that ASD prevalence will be lower in africans, african americans and asians compared to caucasians, which is correct
 
 + https://www.sciencedirect.com/science/article/pii/S1098360021015410 Prediction of CYP2D6 phenotype from genotype across world populations
+
 # asd genes
 
 https://www.frontiersin.org/articles/10.3389/fnins.2022.862315/full

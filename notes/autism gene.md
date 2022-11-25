@@ -76,6 +76,9 @@ The above observations would indicate if our hypothesis is correct that ASD prev
 
 https://www.frontiersin.org/articles/10.3389/fnins.2022.862315/full
 
+> CYP1A2, ABCB1, ABCG2, GSTM1, and CYP2D6 and benzo-(a)-pyrene, valproic acid, bisphenol A, particulate matter, methylmercury, and perfluorinated compounds. Individuals carrying predicted damaging variants in high evidence XenoReg genes are likely to have less efficient detoxification systems or impaired physiological barriers. They can therefore be particularly susceptible to early life exposure to ubiquitous xenobiotics, which elicit neuropathological mechanisms in the immature brain, such as epigenetic changes, oxidative stress, neuroinflammation, hypoxic damage, and endocrine disruption.
+
+
 
 # Pharmacogenomics of CYP2D6
 

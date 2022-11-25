@@ -81,7 +81,7 @@ https://www.frontiersin.org/articles/10.3389/fnins.2022.862315/full
 + This international consortium aimed to use high-throughput sequencing techniques to identify genetic risk factors for ASD (Buxbaum et al., 2012). ASC data was available through dbGaP portal (accession code: phs000298.v4.p3)
 + https://www.ncbi.nlm.nih.gov/sra/docs/sra-dbgap-download/
 
-* need to downlaod this dataset, and find if non-functional variants of CYP2D6 are over-represented in the control population *
+*need to downlaod this dataset, and find if non-functional variants of CYP2D6 are over-represented in the control population*
 
 
 > For CNV identification we analyzed genetic data from the Autism Genome Project (AGP) consortium (N = 2,446) (accession code: phs000267.v5.p2) (Pinto et al., 2010, 2014; Supplementary Table 1) and from the Simons Simplex Collection (SSC) (N = 1,124) (Sanders et al., 2011) datasets, amounting to a total of 3,570 subjects with genome-wide CNV data. The AGP is a large-scale, international research consortium designed to identify autism candidate genes (Hu-Lince et al., 2005), while the SSC is a resource from the Simons Foundation for Autism Research (SFARI) (Fischbach and Lord, 2010) (RRID: SCR_004261). CNV data from two cohorts of subjects without clinical history of neuropsychiatric disease (NPD) (N = 9,649) was used to estimate CNV frequencies in the general population (Shaikh et al., 2009; Cooper et al., 2011; Supplementary Table 1). CNV data from these control datasets are publicly available through the Database of Genomic Variants (DGV) (MacDonald et al., 2014; RRID: SCR_007000; Supplementary Table 1). All these populations were genotyped using Illumina arrays.

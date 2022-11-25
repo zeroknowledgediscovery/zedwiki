@@ -84,6 +84,12 @@ https://www.frontiersin.org/articles/10.3389/fnins.2022.862315/full
 * need to downlaod this dataset, and find if non-functional variants of CYP2D6 are over-represented in the control population *
 
 
+> For CNV identification we analyzed genetic data from the Autism Genome Project (AGP) consortium (N = 2,446) (accession code: phs000267.v5.p2) (Pinto et al., 2010, 2014; Supplementary Table 1) and from the Simons Simplex Collection (SSC) (N = 1,124) (Sanders et al., 2011) datasets, amounting to a total of 3,570 subjects with genome-wide CNV data. The AGP is a large-scale, international research consortium designed to identify autism candidate genes (Hu-Lince et al., 2005), while the SSC is a resource from the Simons Foundation for Autism Research (SFARI) (Fischbach and Lord, 2010) (RRID: SCR_004261). CNV data from two cohorts of subjects without clinical history of neuropsychiatric disease (NPD) (N = 9,649) was used to estimate CNV frequencies in the general population (Shaikh et al., 2009; Cooper et al., 2011; Supplementary Table 1). CNV data from these control datasets are publicly available through the Database of Genomic Variants (DGV) (MacDonald et al., 2014; RRID: SCR_007000; Supplementary Table 1). All these populations were genotyped using Illumina arrays.
+
+> ASC, AGP, and SSC datasets obtained genetic data from family trios. Maternal genetic data was available for 1,702 (63.6%) subjects from ASC, 2,241 (91.6%) subjects from AGP, and 778 (70.1%) subjects from SSC. In these subjects we assessed the transmission pattern of selected SNVs and CNVs in XenoReg genes encoding detoxification enzymes. Because some subjects may be common between these datasets, we analyzed each dataset separately.
+
+
+
 # Pharmacogenomics of CYP2D6
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7692531/

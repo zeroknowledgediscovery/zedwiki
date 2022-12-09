@@ -1,3 +1,10 @@
+# Matt Hunninghake meeting
+
+## dec 9 900 am
+
+
+
+
 # Bhavika Kaul meeting 
 
 ## Nov 16 3.00 PM
@@ -11,6 +18,27 @@ VA population age?
 10 M vets a year nationally, largest integrated system backing to 1990
 
 ---
+
+ILD.  
+
+## VA Corporate Data warehouse
+
++ case definitions doen precisely
++ agent orange exposure
++ Biden signed 200B ILD service connected disorder
+
++ integerate the VA better
++ imaging data
+
+----
+
+disease severity
+PFT, oxygen use, CT scan, percentage of fibrosis
+
+disease would be caught.
+
+
+
 
 
 

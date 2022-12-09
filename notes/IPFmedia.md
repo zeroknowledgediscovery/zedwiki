@@ -12,7 +12,7 @@ allergies | adam right | conditions in EHR |
 * K award ? Would be to see if she can test your algorithm in scleroderma patients
 * techniques learn
 
-
+---
 
 
 # Bhavika Kaul meeting 

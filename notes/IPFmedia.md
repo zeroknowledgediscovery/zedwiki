@@ -2,6 +2,16 @@
 
 ## dec 9 900 am
 
+David Bateds cheikf of medical brigham
+
+allergies | adam right | conditions in EHR | 
+
+* Ann K award
+* pubmed papers | IPF is teh most common ILD | connective tissue disses | scleroderma most common 
+* all pulmonary fibrsos may be common syndrom  | scleroderma | How connected is it?
+* K award ? Would be to see if she can test your algorithm in scleroderma patients
+* techniques learn
+
 
 
 

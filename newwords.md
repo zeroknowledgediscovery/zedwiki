@@ -1,1 +1,9 @@
 bukas: house
+kula: juice
+food: kit
+banana: pikala
+toy: poy
+bird: pok
+road: po
+car: palak
+school: kula

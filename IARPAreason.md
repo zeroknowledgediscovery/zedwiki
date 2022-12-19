@@ -33,3 +33,7 @@ REASON will help intelligence analysts solve national security puzzles by identi
 # Job of Intelligence Analyst
 
 + Collect, analyze and report intelligence that uncovers the intentions of foreign governments and non-state entities worldwide.
++ Analyze a nation's ability to mobilize and sustain its armed forces, destroy strategic and tactical targets, employ denial and deception, and achieve specified wartime objectives.
++ Examine economic factors that affect a nation's ability to support its armed forces, conduct military operations, and project power and influence.
++ Develops creative solutions to answer analytic questions and solve difficult problems. Conducts research, develops query strategies, and analyzes foreign target intelligence to produce reports and recommendations.
++ Uses geographic, regional, and/or cultural expertise to produce analytic summaries and reports for key decision-makers to safeguard personnel, information, facilities, systems operations, and plans.

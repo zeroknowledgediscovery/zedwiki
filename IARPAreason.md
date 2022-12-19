@@ -22,6 +22,9 @@ REASON will help intelligence analysts solve national security puzzles by identi
     - quantify unceratinty estimates in causal reports or narratives
     - identify evidencary support for narratives
 
+# Core Capabilities
 
++ fractal net : time sequence of events
++ gibbs net: spatial structure and evolution, including beliefs, variable alignment, under missing data
 
 

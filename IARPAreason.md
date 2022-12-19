@@ -30,3 +30,6 @@ REASON will help intelligence analysts solve national security puzzles by identi
     - will an individual take action A, B or C? what are teh probabilities?
     - Predicting organizational actions in terror groups or crime families or hate groups.
 
+# Job of Intelligence Analyst
+
++ Collect, analyze and report intelligence that uncovers the intentions of foreign governments and non-state entities worldwide.

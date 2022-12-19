@@ -9,10 +9,19 @@
 REASON will help intelligence analysts solve national security puzzles by identifying crucial overlooked pieces of information and showing ways they fit together.
 
 + Predicting terror events
-    - how predictable (is it stiochastic?)
+    - how predictable (is it stochastic?)
     - Is it predictable?
     - What variables are important?
-    - what variables is interesting?
+
++ Assess threat levels
+    - reconstruct missing information
+    - reconstruct partially observable world views
+
++ Predict risk of future events
+    - draw future event sequences
+    - quantify unceratinty estimates in causal reports or narratives
+    - identify evidencary support for narratives
+
 
 
 

@@ -26,5 +26,7 @@ REASON will help intelligence analysts solve national security puzzles by identi
 
 + fractal net : time sequence of events
 + gibbs net: spatial structure and evolution, including beliefs, variable alignment, under missing data
-
+    - what beliefs do an individual actually hold?
+    - will an individual take action A, B or C? what are teh probabilities?
+    - Predicting organizational actions in terror groups or crime families or hate groups.
 

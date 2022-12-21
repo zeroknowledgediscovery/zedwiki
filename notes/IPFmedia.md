@@ -1,3 +1,13 @@
+# Fernanando Andrew meeting
+
+
+Dec 21 300 PM
+
+
+
+
+
+
 # Matt Hunninghake meeting
 
 ## dec 9 900 am
@@ -17,6 +27,18 @@ allergies | adam right | conditions in EHR |
 * Will gordon (CMMI)
 
 ------
+
+* Future Work:
+
++ IPF prev is 100 times more common
++ IL is also 100 times more common
++ screen people
+
+Dr Bates: complemetary aims
+
+dementia
+total hip and knee MACE events
+
 
 
 

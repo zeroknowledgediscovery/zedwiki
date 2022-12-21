@@ -3,8 +3,31 @@
 
 Dec 21 300 PM
 
++ OPtum Labs.. dataset comes from united healthcare... Harvard is also a partner... 
++ United Healthcare interested in reeducing time to dx
++ Prospective test study with UHcare
++ Please reach back out again... broker something going forward.
++ Medicare claims + optum dataset
++ agreements UChicago Optum parent Hravard Unitd HeALTH
++ lINDSEY SANGRALINGHAM .. KEY PERSON FRO oPTUM
++ sOMEHWRE DOWN THE ROAD: ACTUAL SCREENING PROSPECTIVE.. 
+    - WHAT GROUP YOU WOULD GO AFTER IS IMPORTANT
+    - A proposal would be great.----> Find actual disease do IRB
+    - Real screening: on a dataset.. and pull out high risk people.
+    - If you found disease that way. 
++ There's a lots of othe ractivities 
+    - 3 Lakes Foundation
+    - 
+    - 
++ do  PROSPECTIVE sTUDY WITHIN HIGH RISK GROUPS
++ copd FOR EXAMPLE
 
+### WHAT WOULD CONVINCE
 
++ CAN DO PRACTICALLY
++ DONE IT A COUPLE OF TIMES
++ PROVIDER 
++ 
 
 
 

@@ -40,3 +40,20 @@ Current statistical methods for analyzing polymorphism data can account for some
 
 Overall, while it is possible to learn about multi-way epistatic interactions from polymorphism data, it can be challenging due to the complexity of these interactions and the limitations of current statistical methods.
 
+# How to write analysis plan
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552232/
+
+
+The first step in a data analysis plan is to describe the data collected in the study. This can be done using figures to give a visual presentation of the data and statistics to generate numeric descriptions of the data.
+
+
+The first step in identifying relevant inferential statistics for a study is to consider the type of research question being asked.
+
+A relational question seeks information about the relationship among variables; in this situation, investigators will be interested in determining whether there is an association. A causal question seeks information about the effect of an intervention on an outcome; in this situation, the investigator will be interested in determining whether there is a difference.
+
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4552232_cjhp-68-311f1.jpg
+
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4552232_cjhp-68-311f2.jpg
+
+### study design

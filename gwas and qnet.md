@@ -1,3 +1,12 @@
+# Analysis Plan
+
++ Learning multi-way epistatic interactions between polymorphisms that modulate the current and future risk of in ILD
++ DIrectly incorprate the role of environmental modifiers with polymorphism data (heterogenous varaibles in teh modeling framerwork)
++ Use the notion of learning 'digital twins' of the genetric interaction and disease fate, vi ateh Gibbs net framework.
+
+
+
+
 # GWAS
 
 A genome-wide association study (abbreviated GWAS) is a research approach used to identify genomic variants that are statistically associated with a risk for a disease or a particular trait. The method involves surveying the genomes of many people, looking for genomic variants that occur more frequently in those with a specific disease or trait compared to those without the disease or trait. Once such genomic variants are identified, they are typically used to search for nearby variants that contribute directly to the disease or trait.

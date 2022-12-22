@@ -17,3 +17,17 @@ Allosteric interactions are an important mechanism by which proteins can be regu
 Allosteric interactions are also important in other types of proteins, such as receptors, which bind specific molecules (called ligands) and transmit signals into cells. The binding of ligands to allosteric sites on receptors can alter the activity of the receptor and influence downstream signaling pathways.
 
 Overall, allosteric interactions are an important mechanism for the regulation of protein function and play a key role in many biological processes.
+
+
+# n-way intrecations
+
+It is possible to infer multi-way epistatic interactions from polymorphism data, although it can be challenging due to the complexity of such interactions and the limitations of current statistical methods.
+
+Polymorphism data refers to the presence of multiple alleles (variants) of a gene within a population. By analyzing the frequency and distribution of these alleles in different individuals, it is possible to infer the patterns of inheritance and the genetic basis of traits and diseases.
+
+Multi-way epistatic interactions involve the combined effect of three or more genes on a trait or disease. These interactions can be difficult to detect and quantify due to their complexity and the large number of possible combinations of alleles that can contribute to an observed phenotype.
+
+Current statistical methods for analyzing polymorphism data can account for some types of epistatic interactions, such as pairwise interactions between two genes. However, methods for detecting and quantifying multi-way epistatic interactions are still under development and may require larger sample sizes or more sophisticated statistical approaches.
+
+Overall, while it is possible to learn about multi-way epistatic interactions from polymorphism data, it can be challenging due to the complexity of these interactions and the limitations of current statistical methods.
+

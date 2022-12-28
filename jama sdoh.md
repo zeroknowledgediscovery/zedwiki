@@ -34,9 +34,15 @@ structured data.
 
 # what do NLP bring new to the table?
 
+showing that SDOH matches when extrcated from notes.
+
 # Why is better that structured SDOH?
 
+Structured sdoh is expensive
+
 # What are the limitations?
+
+tokenization is never perfect
 
 
 

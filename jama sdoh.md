@@ -28,5 +28,7 @@ health studies.
 EHR data is generally assumed to be noisy, often with dubious predictive value, if restricted to administrative codes.
 There are limitatiuons to NLP processing, although progress in ML/AI is rapidly changing that.
 
-
+Authors correctly note: 
+A recent study showed that unstructured data contain about 90 times more SDOH information than
+structured data13.
 

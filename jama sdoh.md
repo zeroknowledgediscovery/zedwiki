@@ -44,5 +44,8 @@ Structured sdoh is expensive
 
 tokenization is never perfect
 
-
+As for parsing negation, our NLP system was specifically trained to simultaneously detect
+SDOH mentions and two of their attributes - presence and period. The presence attribute tells
+us whether the mention of an SDOH detected by the NLP system is a negative occurrence or
+not (e.g., “no housing issue” will have the presence attribute ‘no’). 
 

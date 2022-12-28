@@ -17,3 +17,8 @@ on unstructured data eight SDOH (social isolation, job or financial insecurity, 
 problems, barriers to care, violence, transition of care, and food insecurity), and combining them yielded
 nine SDOH. Adjusted odds ratios (aORs) and 95% confidence intervals (CIs) were estimated using
 conditional logistic regression.
+
+
+NLP-extracted SDOH, with and without structured SDOH, were significantly
+associated with increased risk of suicide among Veterans, suggesting the potential of NLP in public
+health studies.

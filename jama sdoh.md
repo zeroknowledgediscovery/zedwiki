@@ -1,3 +1,19 @@
 # commentary on article
 
 Associations Between Natural Language Processing Enriched Social Determinants of Health and Suicide Death among US Veterans
+
+## abstract 
+Are social determinants of health (SDOH), extracted from both structured and unstructured
+clinical data, associated with an increased risk of suicide death among US Veterans? In this nested case-control study, SDOH from both structured data and unstructured data (extracted using a natural language processing [NLP] system) were associated with an increased risk of suicide death among US Veterans. SDOH are risk factors for suicide among the US Veterans and NLP can be leveraged to extract SDOH information from unstructured data.
+
+
+# Insight
+
+Social determinants of health (SDOH) are known to be associated with increased risk of suicidal behaviors, but few studies utilized SDOH from unstructured electronic health record (EHR) notes. Cases of suicide deaths were matched with 4 controls on birth year, cohort entry date, sex, and duration of follow-up. Suicide was ascertained by National Death Index and patients were followed-up up to 2 years after cohort entry with a study end date of September 30, 2015.
+We developed an NLP system to extract SDOH from unstructured clinical notes. Structured data yielded
+seven SDOH (social or familial problems, employment or financial problems, housing instability, legal
+problems, lack of access to care or transportation, violence, and non-specific psychosocial needs), NLP
+on unstructured data eight SDOH (social isolation, job or financial insecurity, housing instability, legal
+problems, barriers to care, violence, transition of care, and food insecurity), and combining them yielded
+nine SDOH. Adjusted odds ratios (aORs) and 95% confidence intervals (CIs) were estimated using
+conditional logistic regression.

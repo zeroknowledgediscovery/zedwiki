@@ -30,5 +30,13 @@ There are limitatiuons to NLP processing, although progress in ML/AI is rapidly 
 
 Authors correctly note: 
 A recent study showed that unstructured data contain about 90 times more SDOH information than
-structured data13.
+structured data.
+
+# what do NLP bring new to the table?
+
+# Why is better that structured SDOH?
+
+# What are the limitations?
+
+
 

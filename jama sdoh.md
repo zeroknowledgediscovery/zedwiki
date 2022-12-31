@@ -23,6 +23,9 @@ NLP-extracted SDOH, with and without structured SDOH, were significantly
 associated with increased risk of suicide among Veterans, suggesting the potential of NLP in public
 health studies.
 
+
+> what does "combining" mean?
+
 # EHR data
 
 EHR data is generally assumed to be noisy, often with dubious predictive value, if restricted to administrative codes.

@@ -2,6 +2,12 @@
 
 Associations Between Natural Language Processing Enriched Social Determinants of Health and Suicide Death among US Veterans
 
+
+## structure data?
+
+structured data (using ICD codes,
+206and VHA stop codes, details in Appendix 2).
+
 ## point
 
 SDOH are risk factors for suicide among the US Veterans and NLP can be leveraged to extract

@@ -5,9 +5,11 @@
 ## [Current and Pending Publications](https://zed.uchicago.edu/data/pub_drafts_/)
 ## [How to use RCC resources](/How%20To%20Use%20RCC%20Resources%3A%20The%20Quick%20Start%20Guide.md)
 
+---
+
 # [Highlighted Slide Deck](https://slides.com/ishanuchattopadhyay/bigdata4smallminds)
 
-
+---
 
 # Top Pages
 

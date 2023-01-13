@@ -7,7 +7,7 @@
 
 ---
 
-# [Highlighted Slide Deck](https://slides.com/ishanuchattopadhyay/bigdata4smallminds)
+ [Highlighted Slide Deck](https://slides.com/ishanuchattopadhyay/bigdata4smallminds)
 
 ---
 

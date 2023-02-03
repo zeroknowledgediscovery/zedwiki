@@ -1,0 +1,2 @@
+## api key
+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

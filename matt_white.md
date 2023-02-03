@@ -1,9 +1,11 @@
 # demo scenarios
 
-## investigate increased robberies 
+## 1. investigate increased robberies 
 
-## start of a shift resource allocation
+## 2. start of a shift resource allocation
 
 # digital twin
 
 ## grocies, store locations
+
+---------------------------------------------

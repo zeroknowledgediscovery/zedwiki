@@ -43,6 +43,9 @@ where z is the \\\( 1 - \alpha/2 \\\) point of the standard Normal distribution.
 }
 
 ```
+# Confidence on PPV and NPV
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668447/
 
 # Sample Size Estimate in Diagnostic Trials
 

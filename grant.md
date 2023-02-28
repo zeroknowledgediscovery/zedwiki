@@ -23,7 +23,8 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-006.html 
     
     "Make healthrecord to risk predictor app"
-     Develop smartphone apps for non-invasive, on-demand, self-detection of HLBS diseases/conditions.
+    Develop smartphone apps for non-invasive, on-demand, self-detection of HLBS diseases/conditions.
+    June 5
 
 ## Complex diseases R01 NIH
 
@@ -35,7 +36,7 @@ https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
         - IPF
         - CKD
         - Bipolar
-
+    June 5
 
 ## AI Google
 
@@ -46,6 +47,10 @@ https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
 ## summer students
 
 https://docs.google.com/document/d/1Rpxyt2z9NsSVZZko5m6VvB1-wi0NzGhs/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true
+https://collegesurveys.uchicago.edu/curricular-innovation-research-portal
+
+    March 31
+    
 
 # RDT
 

@@ -43,4 +43,7 @@ https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
 
 https://docs.google.com/document/d/1Rpxyt2z9NsSVZZko5m6VvB1-wi0NzGhs/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true
 
+# RDT
 
+Amount: > 6M total costs, ie about 4M direct costs
+Our goal is that the new RDT will help stimulate more science at the interface of different disciplines and transcend traditional departmental boundaries. I’m excited to be committing resources to support more far-reaching research proposals and to help increase our visibility and position as scientific leaders. If you have questions about the implementation of the RDT or have an upcoming proposal deadline that may qualify for RDT services, please contact Connie Lee at `cmlee@bsd.uchicago.edu`. Our hope is that team will be fully staffed by later this spring.

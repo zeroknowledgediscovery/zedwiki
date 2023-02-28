@@ -35,6 +35,10 @@ https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
 
 ## AI Google
 
+    vaccine + AI
+    March 17
+    
+
 ## summer students
 
 https://docs.google.com/document/d/1Rpxyt2z9NsSVZZko5m6VvB1-wi0NzGhs/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true

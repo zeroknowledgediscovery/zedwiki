@@ -2,8 +2,17 @@
 
 ## NSF mathematical biology
 
+    Need mathematician
+    
 
 ## IPF DoD
+
+https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
+
+    IPF 
+    need VA researcher
+    4 years 1.6M
+
 
 ### Potential IPF
     

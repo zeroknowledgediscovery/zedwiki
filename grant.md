@@ -10,7 +10,7 @@
 https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-006.html 
     
     "Make healthrecord to risk predictor app"
-
+     Develop smartphone apps for non-invasive, on-demand, self-detection of HLBS diseases/conditions.
 
 ## Complex diseases R01 NIH
 

@@ -1,7 +1,7 @@
 # Fetch the remote 
 
 ```
-git --fetch all
+git fetch --all
 git reset --hard origin/main #origin/master
 ```
 

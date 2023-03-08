@@ -6,6 +6,12 @@ https://www.nsf.gov/pubs/2023/nsf23537/nsf23537.htm
     Need mathematician
     March 22
     
+PI
+
+total: 450K per year (150K per year)
+Title: Theoretical Foundations of Predictive Intelligence in Viral Evolution and Emergence in SARS-Cov2
+Time: 3 years
+
 
 ## IPF DoD
 

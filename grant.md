@@ -26,11 +26,13 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 
 ### Potential IPF
     
-https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-006.html 
+https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-024.html
     
     "Make healthrecord to risk predictor app"
-    Develop smartphone apps for non-invasive, on-demand, self-detection of HLBS diseases/conditions.
+    *Develop smartphone apps for non-invasive, on-demand, self-detection of HLBS diseases/conditions.*
     June 5
+    
+
 
 ## Complex diseases R01 NIH
 

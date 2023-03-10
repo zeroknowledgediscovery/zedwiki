@@ -21,8 +21,7 @@ Time: 3 years
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 
     IPF 
-    need VA researcher
-    4 years 1.6M
+    David Schwarz
      April 19, 2023 LOI
      MAY 31 2023 full app
 

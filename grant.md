@@ -3,7 +3,8 @@
 ## NSF mathematical biology
 https://www.nsf.gov/pubs/2023/nsf23537/nsf23537.htm
 
-    Need mathematician
+    Paul lead, Gustavo
+    https://docs.google.com/document/d/1vXys_8YphLpk_5x_YIC9TG4cLku8a8rPfDsY5GLAmT4/edit?usp=sharing
     March 22
     
 PI

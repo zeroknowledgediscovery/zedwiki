@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1vXys_8YphLpk_5x_YIC9TG4cLku8a8rPfDsY5GLAmT4/
     Paul lead, Gustavo
     March 22
     
-PI
+PI/ co with Paul Lead
 
 total: 450K per year (150K per year)
 Title: Theoretical Foundations of Predictive Intelligence in Viral Evolution and Emergence in SARS-Cov2

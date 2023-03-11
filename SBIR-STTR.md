@@ -3,12 +3,15 @@
 https://grants.nih.gov/grants/guide/pa-files/PAS-22-196.html
 
 
+# NIH Info
+
+https://seed.nih.gov/small-business-funding/small-business-program-basics/understanding-sbir-sttr?redirect_from=sbir.nih.gov
 
 # Requirements
 
-**We can only go for STTR**
 
-# SBIR vs STTR
+## SBIR vs STTR
+**We can only go for STTR**
 
 [Uchicago Restrictions](/uploads/SBIR and STTR Program Info sheet.pdf)
 

@@ -14,9 +14,9 @@ https://seed.nih.gov/small-business-funding/small-business-program-basics/unders
 
 We must register ZBL in [SBIR/STTR company registry](https://www.sbir.gov/registration) before sending STTR applications.
 
-[General Eligibility][https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf]
+[General Eligibility](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf)
 
-[General Instructions][https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/sbir-sttr-forms-h.pdf]
+[General Instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-h/sbir-sttr-forms-h.pdf)
 
 ## SBIR vs STTR
 **We can only go for STTR**

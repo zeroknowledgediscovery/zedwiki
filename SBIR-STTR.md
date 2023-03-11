@@ -8,6 +8,9 @@ https://grants.nih.gov/grants/guide/pa-files/PAS-22-196.html
 
 # SBIR vs STTR
 
+ /uploads/SBIR and STTR Program Info sheet.pdf
+
+
 |    |     SBIR      |  STTR |
 |----------|:-------------:|------:|
 | Principal Investigator | Primary employment (more than half-time) must be with small business | Primary employment may be with small business or research partner; must commit to at least 10 percent effort in project

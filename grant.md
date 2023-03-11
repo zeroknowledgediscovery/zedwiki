@@ -67,6 +67,15 @@ https://collegesurveys.uchicago.edu/curricular-innovation-research-portal
 https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-067.html
 
 
+Investigation of pleiotropic gene effects and gene expression patterns across several cardiovascular risk factors
+
+Research using AI/ML/modeling approaches to determine likely areas of the genome and/or variants related to biological function and HLBS diseases, such as the discovery of novel quantitative trait loci (e.g., expression, methylation, metabolomics, proteomics) or patterns in allele-specific expression that impact the risk of developing HLBS diseases
+
+Research using AI/ML/modeling approaches to predict the incidence, prevalence, and outcomes of HLBS diseases
+
+
+
+
     James Luo, Ph.D.
     Division of Cardiovascular Sciences
     National Heart, Lung, and Blood Institute (NHLBI)

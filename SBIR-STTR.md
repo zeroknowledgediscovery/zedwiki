@@ -6,6 +6,8 @@ https://grants.nih.gov/grants/guide/pa-files/PAS-22-196.html
 
 # Requirements
 
+** We can only go for STTR **
+
 # SBIR vs STTR
 
 [Uchicago Restrictions](/uploads/SBIR and STTR Program Info sheet.pdf)

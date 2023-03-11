@@ -8,7 +8,7 @@ https://grants.nih.gov/grants/guide/pa-files/PAS-22-196.html
 
 # SBIR vs STTR
 
- /uploads/SBIR and STTR Program Info sheet.pdf
+ (Uchivcago)[/uploads/SBIR and STTR Program Info sheet.pdf]
 
 
 |    |     SBIR      |  STTR |

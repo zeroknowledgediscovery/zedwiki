@@ -73,6 +73,12 @@ Under parent R01
 https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html
 
 
+Using TOPMed Data:
+
+IPF	Whole Genome Sequencing in Familial and Sporadic Idiopathic Pulmonary Fibrosis	Schwartz David; Fingerlin, Tasha	 	phs001607	2,883	835
+
+
+
 Investigation of pleiotropic gene effects and gene expression patterns across several cardiovascular risk factors
 
 Research using AI/ML/modeling approaches to determine likely areas of the genome and/or variants related to biological function and HLBS diseases, such as the discovery of novel quantitative trait loci (e.g., expression, methylation, metabolomics, proteomics) or patterns in allele-specific expression that impact the risk of developing HLBS diseases

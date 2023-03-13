@@ -118,7 +118,13 @@ give why how
 
 + make sure they get reviews of classes.
 + off a year from the norm.
-+ have yoyr department explain that.
++ have your department explain that.
++ WHY NOT TEACHING FROM YEAR 1
+
+
+# Timeline 
+
+Late august early september
 
 
 

@@ -114,7 +114,9 @@ give why how
 
 ---
 
+# education
 
+make sure they get reviews of classes.
 
 
 

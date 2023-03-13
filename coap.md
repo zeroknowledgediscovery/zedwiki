@@ -116,8 +116,9 @@ give why how
 
 # education
 
-make sure they get reviews of classes.
-
++ make sure they get reviews of classes.
++ off a year from the norm.
++ have yoyr department explain that.
 
 
 

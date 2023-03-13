@@ -109,8 +109,10 @@ give why how
 # letter writers
 ---
 
++ If you bias their list too heavily, then it woudl appear you are hand-picking your reviewers
++ resources
 
-
+---
 
 
 

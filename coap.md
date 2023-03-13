@@ -52,6 +52,43 @@ Five exemplary:
 
 # CHip meeting (march 13)
 
+## comments
+
+SOA:
+
++ very nicely layout platforms developed
++ used to predictive processes
++ biomedical and sociolofgical applications
++ welldone
+
+But:
+
+
++ some aspect of why these pltforms why these platforms are superior? What are they?
++ Not that many people will read this statement will apreciate
++ try to explain what are teh advances in methodology that you have made
++ makes it possible to use these things
+
+----
+
+ZCoR: messy data, that could?
+Qnet: rare events from high lvel complex datasets
+
+-----
+
++ Try to say more so overview WHAT THEY ALLOW YOU TO DO
++ 
+==> prefatory page is good/ excellant
+==> messy data into the prefatory... you have done a little bit. But do more.
+
+==> Focus on individual papers too much.. instead of working through individual papers, give a narrative. Spend a third to half of a page explaininbg how ZCoR works and how it works. Shopuld not feel like magic.
+
+-----
+
+
+
+
+
 
 
 

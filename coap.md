@@ -85,6 +85,34 @@ Qnet: rare events from high lvel complex datasets
 
 -----
 
++ prefatory: focus on philosophy and waht you see what are the big problems as you see it. 
++ Key contribution was a bit of redundant
++ Age of AI can probably be shortened
++ WHAT YOUR BIG QUESTIONS ARE
+
+
+give why how
+
++ Peer-reviewed:
+    - narrative form is better.
+    - should the paper pargraphs be there? Right now a bit too long and too detailed
+    - I want to know what zcoir is, what is the the philosophy
+    --- 4 : past data, geographical data sets. Tell me why and how.
+    --- 5 : stochastic data generotors... philosophy of fractal net.
+
+
++ Length is fine.
++ Add philosophy in 
++ 3 pages / 2 pages 
++ How much money do you need... slip in that in the statement. We are fully supported, we wish to expand.
+
+# letter writers
+
+
+
+
+
+
 
 
 

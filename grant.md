@@ -20,9 +20,9 @@ Time: 3 years
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-ARP-IDA_GG.pdf
 
- PREPRPOSAL aPRL 19
- FINAL DUE MAY 24
- 3 YEARS 550k
+    PREPRPOSAL aPRL 19
+    FINAL DUE MAY 24
+    3 YEARS 550k
 
 ## Lukinglass CDMRP
 

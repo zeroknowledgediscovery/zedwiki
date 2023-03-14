@@ -21,8 +21,7 @@ Time: 3 years
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 
     IPF 
-    need VA researcher
-    4 years 1.6M
+    David Schwarz
      April 19, 2023 LOI
      MAY 31 2023 full app
 
@@ -67,8 +66,3 @@ https://collegesurveys.uchicago.edu/curricular-innovation-research-portal
 
 Amount: > 6M total costs, ie about 4M direct costs
 Our goal is that the new RDT will help stimulate more science at the interface of different disciplines and transcend traditional departmental boundaries. I’m excited to be committing resources to support more far-reaching research proposals and to help increase our visibility and position as scientific leaders. If you have questions about the implementation of the RDT or have an upcoming proposal deadline that may qualify for RDT services, please contact Connie Lee at `cmlee@bsd.uchicago.edu`. Our hope is that team will be fully staffed by later this spring.
-
-
-# R43/44
-
-http://34.66.189.202:4567/SBIR-STTR.md

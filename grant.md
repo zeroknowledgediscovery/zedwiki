@@ -16,6 +16,14 @@ Title: Theoretical Foundations of Predictive Intelligence in Viral Evolution and
 Time: 3 years
 
 
+## ASD CDMRP
+
+https://cdmrp.health.mil/funding/pa/HT9425-23-ARP-IDA_GG.pdf
+
+ PREPRPOSAL aPRL 19
+ FINAL DUE MAY 24
+ 3 YEARS 550k
+
 ## Lukinglass CDMRP
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-DA-GG.pdf

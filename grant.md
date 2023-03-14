@@ -16,11 +16,21 @@ Title: Theoretical Foundations of Predictive Intelligence in Viral Evolution and
 Time: 3 years
 
 
+## Lukinglass CDMRP
+
+https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-DA-GG.pdf
+
+    2 years 200K DC
+    March 29  LOI
+    April 26, 2023
+
+
 ## IPF DoD
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 
     IPF 
+    4 years 2M direct cost total
     David Schwarz
      April 19, 2023 LOI
      MAY 31 2023 full app

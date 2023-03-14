@@ -41,6 +41,8 @@ To be submitted under: [](https://grants.nih.gov/grants/guide/pa-files/PA-20-185
 
     R01
     June 5
+    
+    As this data resource gains maturity, analyses that effectively synthesize very large volumes of information from across many different datatypes remain scarce. NHLBI seeks to fund analyses and development of tools that utilize existing TOPMed omics data to uncover the molecular mechanisms driving HLBS disease. Investigators are encouraged to utilize a systems approach incorporating computational modeling to bring together high throughput genotype and phenotype datasets. Analyses may incorporate new or existing data generated outside of TOPMed. However, this Notice seeks studies that will use existing TOPMed data as the major resource for analyses of HLBS diseases and measures. TOPMed has particular interest in questions about identifying associations between variants and disease phenotypes, and in analyses using existing functional data to reveal associations and/or make functional inferences. Investigators are encouraged to use the ancestry diversity of TOPMed for discovery and not merely for replication of findings in a single ancestry group.
 
     James Luo, Ph.D.
     Division of Cardiovascular Sciences

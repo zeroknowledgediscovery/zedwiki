@@ -33,6 +33,13 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-DA-GG.pdf
     April 26, 2023
     Balaji?
 
+## NHLBI Trans-Omics for Precision Medicine
+
+https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-067.html
+    
+    R01
+    June 5
+    
 
 ## IPF DoD
 

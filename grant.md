@@ -1,6 +1,4 @@
-# Upcoming grant plan 2023
-
-## NSF mathematical biology
+# NSF mathematical biology
 https://www.nsf.gov/pubs/2023/nsf23537/nsf23537.htm
 
 https://docs.google.com/document/d/1vXys_8YphLpk_5x_YIC9TG4cLku8a8rPfDsY5GLAmT4/edit?usp=sharing
@@ -15,8 +13,9 @@ total: 450K per year (150K per year)
 Title: Theoretical Foundations of Predictive Intelligence in Viral Evolution and Emergence in SARS-Cov2
 Time: 3 years
 
+---
 
-## ASD CDMRP
+# ASD CDMRP
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-ARP-IDA_GG.pdf
 
@@ -24,7 +23,9 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-ARP-IDA_GG.pdf
     FINAL DUE MAY 24   (on invitation, 8 pages narrative without tables/figures)
     3 YEARS 550k
 
-## Lukinglass CDMRP
+---
+
+# Lukinglass CDMRP
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-DA-GG.pdf
 
@@ -32,8 +33,9 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-DA-GG.pdf
     March 29  LOI
     April 26, 2023
     Balaji?
+---
 
-## NHLBI Trans-Omics for Precision Medicine
+# NHLBI Trans-Omics for Precision Medicine
 
 https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-067.html
     
@@ -62,9 +64,9 @@ To be submitted under: [](https://grants.nih.gov/grants/guide/pa-files/PA-20-185
     Telephone: 301-435-0202
     Email: ganw2@nih.gov  
     
-    
+---    
 
-## IPF DoD
+# IPF DoD
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
 
@@ -74,8 +76,9 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf
      April 19, 2023 LOI
      MAY 31 2023 full app
 
+---
 
-### Potential IPF
+# Potential IPF
     
 https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-024.html
     
@@ -84,8 +87,9 @@ https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-024.html
     June 5
     
 
+---
 
-## Complex diseases R01 NIH
+# Complex diseases R01 NIH
 
 https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
     
@@ -97,19 +101,23 @@ https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html
         - Bipolar
     June 5
 
-## AI Google
+---
+
+# AI Google
 
     vaccine + AI
     March 17
     
+---
 
-## summer students
+# summer students
 
 https://docs.google.com/document/d/1Rpxyt2z9NsSVZZko5m6VvB1-wi0NzGhs/edit?usp=sharing&ouid=115287839448583692127&rtpof=true&sd=true
 https://collegesurveys.uchicago.edu/curricular-innovation-research-portal
 
     March 31
     
+---
 
 # RDT
 

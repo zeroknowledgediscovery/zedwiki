@@ -1,8 +1,13 @@
 # PCORI
 
+May 2
+
 High prpensity: people who recive care here
 Can we expand this cohort to high propensity cohort beyond who is going to recive care here
 
++ WHo will get back to care here in UCM 
++ univariate , standard ML , standard mulrivariate cohorts
++ 
 
 
 # NSF mathematical biology

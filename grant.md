@@ -7,7 +7,11 @@ Can we expand this cohort to high propensity cohort beyond who is going to reciv
 
 + WHo will get back to care here in UCM 
 + univariate , standard ML , standard mulrivariate cohorts
-+ 
++ Aim1
+    - read if this is a good description of ML standard methods
+    - Add a comparator for more advanced methods
+    - Dont delete text in bold
+    - if you feel that it is wrong on redundant or something like that, correcting it or editing
 
 
 # NSF mathematical biology

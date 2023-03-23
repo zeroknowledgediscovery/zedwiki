@@ -29,5 +29,13 @@ October 5 2022 1100 central
 
 # Mar 23 2023
 
++ neil 
++ sean
++ patrick -- data science lead?
++ dylan
++ parkavi
 
+### intel ops
++ paige
++ Tami 
 

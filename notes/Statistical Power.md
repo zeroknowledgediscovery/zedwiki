@@ -7,6 +7,12 @@
 + \\\(\beta \equiv power \equiv TPR \equiv sensitivity \equiv 1-FNR \equiv 1-type \ 2 \ error \\\)
     - probability of correctly rejecting the null hypothesis ie true positive
 
+## meaning of 5% significance and 80% power
+
++ 5% significance level: This means that the false positive rate, or the probability of making a Type 1 error, is 5%. In other words, there's a 5% chance that you will incorrectly reject the null hypothesis when it is true, leading to a false positive result. The significance level is set by the researcher and is a threshold for determining whether an observed effect is statistically significant or not. A lower significance level (e.g., 1%) indicates a more stringent threshold and a lower chance of making a Type 1 error.
+
++ 80% power: Power is the probability of correctly rejecting the null hypothesis when it is false, i.e., the probability of detecting a true effect. If a test has 80% power, it means that there's an 80% chance that you will correctly identify a significant effect when it exists. The complement of the power is the Type 2 error rate or the false negative rate. In this case, the false negative rate is 20% (100% - 80%). This means that there's a 20% chance that you will fail to reject the null hypothesis when it is false, leading to a false negative result.
+
 # Ustatistic
 + [Use of U statistic](/uploads/mannU.pdf)
 + [Variance of U statistic](/uploads/boundsU.pdf)

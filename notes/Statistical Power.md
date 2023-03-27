@@ -1,3 +1,8 @@
+# relation between power, significance
+
+
+
+
 # Ustatistic
 + [Use of U statistic](/uploads/mannU.pdf)
 + [Variance of U statistic](/uploads/boundsU.pdf)

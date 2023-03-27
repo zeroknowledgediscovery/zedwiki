@@ -1,6 +1,6 @@
 # relation between power, significance
 
-+ Significance level (\(\alpha\)): This is the probability of rejecting the null hypothesis when it is true. In other words, it represents the likelihood of making a Type 1 error, which is the incorrect rejection of a true null hypothesis. The significance level is generally set by the researcher, with common values being 0.05 (5%) or 0.01 (1%).
++ Significance level (\\\(\alpha\\\)): This is the probability of rejecting the null hypothesis when it is true. In other words, it represents the likelihood of making a Type 1 error, which is the incorrect rejection of a true null hypothesis. The significance level is generally set by the researcher, with common values being 0.05 (5%) or 0.01 (1%).
 
 
 # Ustatistic

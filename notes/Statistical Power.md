@@ -18,11 +18,10 @@
 Sensitivity and statistical power are related concepts, but they are used in different contexts: sensitivity is used in the context of diagnostic tests, while statistical power is used in hypothesis testing. Let's break down each concept:
 
 + Sensitivity: Sensitivity, also known as the true positive rate, is a measure of how well a diagnostic test can correctly identify individuals with a specific condition. It is the proportion of true positive results among those who actually have the condition. A higher sensitivity indicates that the test is better at detecting the presence of the condition when it is truly present, resulting in fewer false negative results.
-
-    -Formula: Sensitivity = (True Positives) / (True Positives + False Negatives)
+    - Formula: Sensitivity = (True Positives) / (True Positives + False Negatives)
 
 + Statistical Power: Power is the probability of correctly rejecting the null hypothesis when it is false in the context of hypothesis testing. In other words, it represents the likelihood of detecting a true effect or association when it exists. A higher statistical power means that the test is better at identifying a significant effect when it is truly present, resulting in fewer Type 2 errors (false negatives).
-    -Formula: Power = 1 - β, where β is the Type 2 error rate (false negative rate)
+    - Formula: Power = 1 - β, where β is the Type 2 error rate (false negative rate)
 
 The difference between sensitivity and statistical power lies in their applications:
 

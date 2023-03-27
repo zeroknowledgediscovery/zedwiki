@@ -1,6 +1,5 @@
 
-
-
+ ![](/uploads/roc.png)
 
 # Relation between power, significance
 

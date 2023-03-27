@@ -1,4 +1,4 @@
-# relation between power, significance
+# Relation between power, significance
 
 + Significance level (\\\(\alpha\\\)): This is the probability of rejecting the null hypothesis when it is true. In other words, it represents the likelihood of making a Type 1 error, which is the incorrect rejection of a true null hypothesis. The significance level is generally set by the researcher, with common values being 0.05 (5%) or 0.01 (1%).
 + Type 2 error (\\\(\beta\\\)): This is the probability of failing to reject the null hypothesis when it is false. In other words, it represents the likelihood of making a false negative error, which is the incorrect acceptance of a false null hypothesis. The Type 2 error rate depends on factors such as the sample size, the effect size, and the test's statistical power.
@@ -7,7 +7,7 @@
 + \\\(\beta \equiv power \equiv TPR \equiv sensitivity \equiv 1-FNR \equiv 1-type \ 2 \ error \\\)
     - probability of correctly rejecting the null hypothesis ie true positive
 
-## meaning of 5% significance and 80% power
+## Meaning of 5% significance and 80% power
 
 + 5% significance level: This means that the false positive rate, or the probability of making a Type 1 error, is 5%. In other words, there's a 5% chance that you will incorrectly reject the null hypothesis when it is true, leading to a false positive result. The significance level is set by the researcher and is a threshold for determining whether an observed effect is statistically significant or not. A lower significance level (e.g., 1%) indicates a more stringent threshold and a lower chance of making a Type 1 error.
 

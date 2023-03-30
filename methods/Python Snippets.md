@@ -492,3 +492,50 @@ s=fancyPivot(BF1,INDEX='target problem',COLUMN='gender',SUBINDEX='subcohort',STR
 with open("../figfiles/tex/Figures/subcohort.tex", "w") as text_file:
     text_file.write("%s" % s)
 ```
+
+
+## python geo libraries
+
+ArcGIS - https://lnkd.in/dgC6sKJH
+
+Cartopy - https://lnkd.in/dc8ijXRg
+
+Contextily - https://lnkd.in/dTdQsmKX
+
+Descartes - https://lnkd.in/dCJykxwW
+
+Fiona - https://lnkd.in/d8sJ3Q5a
+
+Folium - https://lnkd.in/dfSsE-MB
+
+Gdal - https://lnkd.in/dYBJBaAY
+
+Geohash - https://lnkd.in/d_NxJ4_M
+
+Geojson - https://lnkd.in/daGs2WYq
+
+Geopandas - https://lnkd.in/dBTFKKV3
+
+Geopy - https://lnkd.in/dfAzR8Xa
+
+Gevent - http://www.gevent.org
+
+H3 - https://h3geo.org/docs/
+
+OSMnx - https://lnkd.in/dm3pHgUS
+
+PyQGIS - https://lnkd.in/dShWyWVr
+
+PySAL - https://pysal.org
+
+Pydeck - https://lnkd.in/dGBFu-iw
+
+Pyproj - https://lnkd.in/dNG9fdkm
+
+RTree - https://lnkd.in/dURMiYpU
+
+Rasterio - https://lnkd.in/dEMC6ve6
+
+Scikit-mobility - https://lnkd.in/dpHhaX2J
+
+Shapely - https://lnkd.in/d568datK

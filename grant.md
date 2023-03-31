@@ -39,7 +39,8 @@ https://cdmrp.health.mil/funding/pa/HT9425-23-ARP-IDA_GG.pdf
     FINAL DUE MAY 24   (on invitation, 8 pages narrative without tables/figures)
     3 YEARS 550k
     
-• Improve diagnosis across the life span 
+Improve diagnosis across the life span 
+
 ---
 
 # Lukinglass CDMRP

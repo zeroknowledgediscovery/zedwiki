@@ -82,6 +82,18 @@ To be submitted under: [](https://grants.nih.gov/grants/guide/pa-files/PA-20-185
     
 ---    
 
+
+# ADRD DoD
+
+Transforming Research Award ($1M/3 years)
+Transforming Diagnosis Award ($2.5M/4 years)
+https://cdmrp.health.mil/funding/prarp
+
+Pre-application May 31 2 pages
+Full invited application July 10
+
+Ask mastrianni for community engagement possibilities from Memory Center
+
 # IPF DoD
 
 https://cdmrp.health.mil/funding/pa/HT9425-23-PRMRP-IIRA-GG2.pdf

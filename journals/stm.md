@@ -15,8 +15,13 @@ Shorter Research Articles with fewer figures will also be considered and may be 
 + One Sentence Summary:
 + Authors:
 + Affiliations:
-+ Abstract:
++ Abstract: (250 words)
 + Main Text:
+    - introduction
+    - results
+    - discussion
+    - Materials and Methods
+    - List of suppl. materials
 + References and Notes (followed by a numbered list)
 + Acknowledgements:
 + Fig. #: (Begin each figure caption with a label, “Fig. 1.” for example, as a new paragraph)

@@ -19,6 +19,33 @@ Can we expand this cohort to high propensity cohort beyond who is going to reciv
     - if you feel that it is wrong on redundant or something like that, correcting it or editing
 
 
+The application lacks details with regards to the machine learning (ML) methods that will be used to
+estimate propensity scores in Aim 1. 
+
+A suite of ML methods will be used and the best model will be chosen
+based on the weighted F1 metric using nested K-fold cross-validation on the training data. Given the sample
+size (=2,000) and the fact that ML methods are typically data greedy, this could be problematic and could
+potentially yield biased estimates of model accuracy. 
+
+Feature selection method for the longitudinal and
+temporal variables is also not described. (Moderate)
+
+It is also not clear if and how the ''best model'' will be validated on an external data to obtain honestestimates of the model accuracy. (Minor)
+
+Potential for algorithm bias across EHRs and contingency plans not discussed. (Minor)
+
+Aims 1 and 2 will use already existing PCOR/CER methods. No further development or refinement ofthese methods are planned. (Moderate)
+
+It is also not clear whether the research can produce a generalized framework that works uniformlybest across diverse EHRs. Therefore, the study may have limited impact on informing best practices orstandards for PCOR/CER. (Moderate)
+
+
+The size of study population may not be adequate for nonparametric estimates such as random forestproposed in Aim 1 (moderate).• 
+
+The investigators plan to use multiple imputation as one of their methods for Aim 2, which on its ownis insufficient for data that are missing not at random (MNAR) (moderate)
+
+We have only modest detail of how vanderbilt and oncology populations will be used as validationsets (minor). 
+
+
 # NSF mathematical biology
 https://www.nsf.gov/pubs/2023/nsf23537/nsf23537.htm
 

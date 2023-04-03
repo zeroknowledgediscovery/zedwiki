@@ -131,6 +131,17 @@ Late august early september
 # Meeting with David Meltzer April 2 2023 2100 hrs
 
 
++ all good
++ one area
+    - no question ML is important, AI is important
+    - doing important things that havent been done fore
+    - but
+        - what is it you are doing that people were not doing here
+        - what is it that is different
+            - two algoritms thtat you developoed
+            - can yiu write a few sentences (two sentences for both)
+            - describe other methods work less better
+            - why it always do better? 
 
 
 

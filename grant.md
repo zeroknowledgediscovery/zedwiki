@@ -30,7 +30,7 @@ potentially yield biased estimates of model accuracy.
 Feature selection method for the longitudinal and
 temporal variables is also not described. (Moderate)
 
-It is also not clear if and how the ''best model'' will be validated on an external data to obtain honestestimates of the model accuracy. (Minor)
+It is also not clear if and how the ''best model'' will be validated on an external data to obtain honestestimates of the model accuracy. (Minor)  **out of sample performance evaluation**
 
 Potential for algorithm bias across EHRs and contingency plans not discussed. (Minor)
 
@@ -39,7 +39,7 @@ Aims 1 and 2 will use already existing PCOR/CER methods. No further development 
 It is also not clear whether the research can produce a generalized framework that works uniformlybest across diverse EHRs. Therefore, the study may have limited impact on informing best practices orstandards for PCOR/CER. (Moderate)
 
 
-The size of study population may not be adequate for nonparametric estimates such as random forestproposed in Aim 1 (moderate).• 
+The size of study population may not be adequate for nonparametric estimates such as random forestproposed in Aim 1 (moderate). ** add estimated figure**
 
 The investigators plan to use multiple imputation as one of their methods for Aim 2, which on its ownis insufficient for data that are missing not at random (MNAR) (moderate)
 

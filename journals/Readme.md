@@ -7,6 +7,7 @@
 # Journals
 
 + [CELL](CELL.md)
++ [Science trans med](stm.md)
 
 # Authors
 

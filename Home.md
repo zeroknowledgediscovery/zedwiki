@@ -17,6 +17,11 @@ Documentation on how to edit a gollum wiki. Please review before adding pages
 
 Brief secription of current projects
 
+
+## [Grant Planning](grant.md)
+
+Near-future grants on queue
+
 ## [Reading List](reading/Readme.md)
 
 A reading list. Please add to this as you see fit.
@@ -44,7 +49,6 @@ Information on guidelines, page limits, formatting etc.
 
 Datasets that are often used in the lab
 
-# [Grant Planning](grant.md)
 
 ##  [[project/ZeD Projects]]
 ##  [[ZeD Concepts.md]]

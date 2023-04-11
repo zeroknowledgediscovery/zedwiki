@@ -7,10 +7,6 @@
 
 ---
 
- [Highlighted Slide Deck](https://slides.com/ishanuchattopadhyay/bigdata4smallminds)
-
----
-
 # Top Pages
 
 ## [[How To Edit This Wiki]]
@@ -48,6 +44,7 @@ Information on guidelines, page limits, formatting etc.
 
 Datasets that are often used in the lab
 
+# [Grant Planning](grant.md)
 
 ##  [[project/ZeD Projects]]
 ##  [[ZeD Concepts.md]]

@@ -9,3 +9,4 @@
 ## grocies, store locations
 
 ---------------------------------------------
+ #  capabilities list

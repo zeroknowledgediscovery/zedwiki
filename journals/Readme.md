@@ -1,17 +1,26 @@
 # journals
-
 | Journal                         | Impact Factor | Acceptance Rate | Time to Publication (weeks) |
 |---------------------------------|---------------|-----------------|-----------------------------|
-| Science Translational Medicine | 16.710        | ~10-20%         | 8-12                        |
-| Cell Host & Microbe             | 15.923        | ~10-15%         | 8-12                        |
-| Microbiome                      | 11.607        | ~20-30%         | 12-16                       |
+| Nature                          | 42.778        | ~8-10%          | 8-12                        |
+| Science                         | 41.846        | ~7-10%          | 8-12                        |
+| Cell                            | 38.637        | ~10-15%         | 8-12                        |
+| Nature Medicine                 | 36.130        | ~10-15%         | 8-12                        |
 | The Lancet Neurology            | 30.040        | ~10-15%         | 8-12                        |
 | The Lancet Digital Health       | 20.060        | ~15-25%         | 8-12                        |
+| Nature Communications           | 14.919        | ~20-30%         | 8-12                        |
+| Science Advances                | 14.136        | ~20-30%         | 8-12                        |
+| Cell Host & Microbe             | 15.923        | ~10-15%         | 8-12                        |
+| Science Translational Medicine | 16.710        | ~10-20%         | 8-12                        |
 | JAMA Pediatrics                 | 12.744        | ~15-25%         | 8-12                        |
-| JAMA Network Open               | 5.032         | ~25-35%         | 8-12                        |
+| Nature Human Behaviour          | 12.282        | ~10-20%         | 8-12                        |
+| Microbiome                      | 11.607        | ~20-30%         | 12-16                       |
+| PNAS                            | 11.205        | ~15-25%         | 6-10                        |
 | PLoS Computational Biology      | 5.786         | ~20-30%         | 8-12                        |
 | mSystems                        | 5.750         | ~25-35%         | 8-12                        |
+| JAMA Network Open               | 5.032         | ~25-35%         | 8-12                        |
 | npj Biofilms and Microbiomes    | 5.296         | ~20-30%         | 12-16                       |
+| PNAS Nexus                      | N/A           | N/A             | N/A                         |
+| Cell Medicine                   | N/A           | N/A             | N/A                         |
 
 
 

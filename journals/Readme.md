@@ -1,3 +1,20 @@
+# journals
+
+| Journal                         | Impact Factor | Acceptance Rate | Time to Publication (weeks) |
+|---------------------------------|---------------|-----------------|-----------------------------|
+| Science Translational Medicine | 16.710        | ~10-20%         | 8-12                        |
+| Cell Host & Microbe             | 15.923        | ~10-15%         | 8-12                        |
+| Microbiome                      | 11.607        | ~20-30%         | 12-16                       |
+| The Lancet Neurology            | 30.040        | ~10-15%         | 8-12                        |
+| The Lancet Digital Health       | 20.060        | ~15-25%         | 8-12                        |
+| JAMA Pediatrics                 | 12.744        | ~15-25%         | 8-12                        |
+| JAMA Network Open               | 5.032         | ~25-35%         | 8-12                        |
+| PLoS Computational Biology      | 5.786         | ~20-30%         | 8-12                        |
+| mSystems                        | 5.750         | ~25-35%         | 8-12                        |
+| npj Biofilms and Microbiomes    | 5.296         | ~20-30%         | 12-16                       |
+
+
+
 # Writing Different Sections
 
 + [Overall Guidance: STROBE](https://www.strobe-statement.org/download/strobe-checklist-case-control-studies-pdf)

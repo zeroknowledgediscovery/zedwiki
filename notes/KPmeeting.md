@@ -37,8 +37,8 @@ Cancer, acute vascular events, and acute infection subject to diagnostic challen
 Noted as a priority area for Moore Foundation
 • However, we will accept applications across any medical or healthcare domain
 
-Funding is not intended to support new or ongoing development of algorithms, except where used to 
-verify performance and support evaluation in a new healthcare setting. 
+**Funding is not intended to support new or ongoing development of algorithms, except where used to 
+verify performance and support evaluation in a new healthcare setting.** 
 
 
 

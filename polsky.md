@@ -30,11 +30,11 @@ US application, International Application ... a week from tomorrow, something ne
 
 ## Discuss ZBL Patents
 
-Keyur Parikh
+Keyur Parikh, Armstrong Teasdale Associate
 
-Armstrong Teasdale Associate
+June 6 2023
 
-June 6 
+
 
 
 

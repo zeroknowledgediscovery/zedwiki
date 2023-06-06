@@ -28,6 +28,8 @@ US application, International Application ... a week from tomorrow, something ne
 
 -----
 
+## Discuss ZBL Patents
+
 Keyur Parikh
 
 Armstrong Teasdale Associate

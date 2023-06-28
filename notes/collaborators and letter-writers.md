@@ -28,9 +28,8 @@
 18. David Llewellyn  David.Llewellyn@exeter.ac.uk ![](https://img.shields.io/badge/neurology modeling-%20-lightgrey/?labelColor=aaffff)  Exeter University, Alan Turing Institute
 19. James Mastrianni jmast@neurology.bsd.uchicago.edu ![](https://img.shields.io/badge/neurology-%20-lightgrey/?labelColor=aaffff) ![](https://img.shields.io/badge/-UChicago-red)
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey/?labelColor=aaffff) Dalhousie University  
-21. Alex Leow alexfeuillet@gmail.com ![](https://img.shields.io/badge/Psychiatry-%20-lightgrey/?labelColor=aaffff) UIC
-22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey/?labelColor=aaffaa) ![](https://img.shields.io/badge/-UChicago-red)
-23. S. George Djorgovski, Caltech Astrophysics, djorgovski@caltech.edu
+21. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey/?labelColor=aaffaa) ![](https://img.shields.io/badge/-UChicago-red)
+22. S. George Djorgovski, Caltech Astrophysics, djorgovski@caltech.edu
 
 
 # Less Interaction

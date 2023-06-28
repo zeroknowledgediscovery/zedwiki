@@ -28,6 +28,8 @@
 20. Kenneth Rockwood Kenneth.Rockwood@dal.ca ![](https://img.shields.io/badge/neurology-%20-lightgrey/?labelColor=aaffff) Dalhousie University  
 21. Alex Leow alexfeuillet@gmail.com ![](https://img.shields.io/badge/Psychiatry-%20-lightgrey/?labelColor=aaffff) UIC
 22. Eugene Chang echang@medicine.bsd.uchicago.edu ![](https://img.shields.io/badge/Microbiome-%20-lightgrey/?labelColor=aaffaa) ![](https://img.shields.io/badge/-UChicago-red)
+23. S. George Djorgovski, Caltech Astrophysics, djorgovski@caltech.edu
+
 
 # Less Interaction
 2. Rick Stevens stevens@anl.gov ![](https://img.shields.io/badge/AI-%20-lightgrey/?labelColor=221133) Aronne National Lab

@@ -13,12 +13,11 @@
 
 
 # ZBL Targets
-
-## ASD                                                                                                      |
-## ADRD                                                                                                     |
-## IPF                                                                                                      |
-## MACE                                                                                                     |
-## SI/SA                                                                                                    |
-## PTSD                                                                                                     |
-## CANCERS: Melanoma (with cpt), pancreatic, uterine, breast, lung, prostate, thyroid                      |
-## BIPOLAR/MANIC                     
++ ASD                                                                                                      |
++ ADRD                                                                                                     |
++ IPF                                                                                                      |
++ MACE                                                                                                     |
++ SI/SA                                                                                                    |
++ PTSD                                                                                                     |
++ CANCERS: Melanoma (with cpt), pancreatic, uterine, breast, lung, prostate, thyroid                      |
++ BIPOLAR/MANIC                     

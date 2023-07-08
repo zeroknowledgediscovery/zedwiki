@@ -14,6 +14,7 @@
     It is impprtant to specify how we incorporate time.
     Maybe it can be teh following formt:
         + XXX_<age_in_months>
+        
     Or we can use:
         + XXX_<time_to_end_of_record_in_months>
     wher end of record is where we want the record dto end .. say 3 months before target event or 1 year before

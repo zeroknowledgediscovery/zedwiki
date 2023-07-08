@@ -1,3 +1,5 @@
+# Current Plan
+
 | Number | Task Description                                                                                            |
 |--------|------------------------------------------------------------------------------------------------------------|
 | 1.     | Chromosome data download and processing                                                                      |
@@ -8,3 +10,4 @@
 | 4.     | Incorporate SHAP analysis in the zcor pipeline to generate the individual patient SHAP CSVs                |
 | 5.     | Need the complete and updated results for the current ZBL targets, with saved model objects.                |
                                                                        |
+

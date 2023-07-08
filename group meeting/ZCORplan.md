@@ -11,3 +11,14 @@
 | 5.     | Need the complete and updated results for the current ZBL targets, with saved model objects.                |
                                                                        |
 
+
+# ZBL Targets
+
+## ASD                                                                                                      |
+## ADRD                                                                                                     |
+## IPF                                                                                                      |
+## MACE                                                                                                     |
+## SI/SA                                                                                                    |
+## PTSD                                                                                                     |
+## CANCERS: Melanoma (with cpt), pancreatic, uterine, breast, lung, prostate, thyroid                      |
+## BIPOLAR/MANIC                     

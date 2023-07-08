@@ -2,7 +2,7 @@ Co-authors
 
 + Fernando Martinez fjm2003@med.cornell.edu 
 + Andrew Limper limper.andrew@mayo.edu 
-+ Garu Hunninghake ghunninghake@bwh.harvard.edu 
++ Gary Hunninghake ghunninghake@bwh.harvard.edu 
 + David Schwartz david.schwartz@cuanschutz.edu
 
 I won't ask Mercedes Pascual or Sarah Kobey, or people in their circle (intellectual diff might result in not great reviews). I also probably wont ask Mary Streck (Uchicago) or her associates (She is probably not super elated about AI)

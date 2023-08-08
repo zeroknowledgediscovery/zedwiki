@@ -31,7 +31,10 @@ cancers that arent detected.
 
 Earlier cancers fro which there is no screening.
 
-
+1. Recruitment
+2. Which considerations
+3. How to present information to teh patients (positive / negetaive results)
+4. melanoma, uterine, Brain
 
 
 

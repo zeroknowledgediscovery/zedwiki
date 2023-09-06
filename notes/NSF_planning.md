@@ -25,15 +25,15 @@ https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-preve
 * Christopher Fox (IDRI), Christopher.Fox@aahi.org
 * Darrick Carter (HDT), darrick.carter@pailifesciences.com
 * Allison August (CMO, Comanche Biopharma), 
-* Peter Harber (LANL), phraber@lanl.gov 
+* <tentative> Peter Harber (LANL), phraber@lanl.gov 
 
 ## Machine Learning
 
 * Rick Stevens (Argonne), stevens@cs.uchicago.edu 
-* Jure Leskovec (Stanford), jure@cs.stanford.edu
+* <tentative> Jure Leskovec (Stanford), jure@cs.stanford.edu
 
 ## Sociology 
 
-* Duncan Watts (UPenn), djwatts@seas.upenn.edu
-* Damon Centola (UPenn), damon.centola@asc.upenn.edu
-* James Evans (UChicago), jevans@uchicago.edu
+* <tentative> Duncan Watts (UPenn), djwatts@seas.upenn.edu
+* <tentative> Damon Centola (UPenn), damon.centola@asc.upenn.edu
+* <tentative> James Evans (UChicago), jevans@uchicago.edu

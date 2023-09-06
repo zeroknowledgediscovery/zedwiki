@@ -10,7 +10,7 @@ Informed by visioning activities in the scientific community as well as a previo
 
 + Theme 2: Data, AI/ML and Design - Computing, manufacturing and technology innovation for pandemics 
 
-Phase I grants: (/uploads/pipp_phase1_grants.txt)
+[Phase I grants](Phase I grants)
 
 # Ecology and Evolution of Infections Diseases
 

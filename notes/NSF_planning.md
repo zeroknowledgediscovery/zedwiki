@@ -10,6 +10,8 @@ Informed by visioning activities in the scientific community as well as a previo
 
 + Theme 2: Data, AI/ML and Design - Computing, manufacturing and technology innovation for pandemics 
 
+Phase I grants: (/uploads/pipp_phase1_grants.txt)
+
 # Ecology and Evolution of Infections Diseases
 
 https://www.nsf.gov/pubs/2023/nsf23616/nsf23616.htm#toc

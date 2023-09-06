@@ -2,7 +2,13 @@
 
 https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-prevention-phase
 
+Despite decades of research, scientists do not fully understand the dynamic nature of pathogen and disease emergence. Emerging (and re-emerging) pathogens represent a continuing risk to national security because they threaten health (animal, human, and ecosystem) and economic stability. 
 
+Informed by visioning activities in the scientific community as well as a previous round of development grant activities (PIPP Phase I), the program invites proposals for Centers that have a principal focus in one of the following multidisciplinary themes:
+
++ Theme 1: Pre-emergence – Predicting and detecting rare events in complex, dynamical systems 
+
++ Theme 2: Data, AI/ML and Design - Computing, manufacturing and technology innovation for pandemics 
 
 # Ecology and Evolution of Infections Diseases
 

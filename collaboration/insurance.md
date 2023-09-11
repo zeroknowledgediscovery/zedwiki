@@ -11,6 +11,11 @@ Director of Risk Management
 Justin.Bezner@phmic.com
 P. 515.295.2461 ext. 5026
 
+# Plan
++ model risk at Chicago and Philadelphia
++ at specific locations
+
+
 
 
 ## Use Case:

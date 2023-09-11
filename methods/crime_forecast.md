@@ -13,6 +13,10 @@
     - AI driven insurance
     - risk and insurance management
 
+# next steps
+
++ talk to polsky
++ get licensing
 
 
 ## justin Bezner

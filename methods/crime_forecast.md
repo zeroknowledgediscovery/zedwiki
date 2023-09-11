@@ -19,7 +19,7 @@
 + get licensing
 
 
-## justin Bezner
+## Justin Bezner
 
 
 

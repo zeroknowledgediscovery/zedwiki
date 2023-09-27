@@ -9,7 +9,9 @@
 
 https://docs.google.com/document/d/15iMXe3PkDfRpP9DeBdmGahQ342Aah9OCDWvaMHf4aAQ/edit?usp=sharing
 
-# slide deck
+# Slide deck
 
 https://slides.com/ishanuchattopadhyay/asd-54bcd1
+
+# Notes
 

@@ -13,6 +13,7 @@ We want to make sure we can task the developer correctky.
 Lets make sure our current code is a pure python application that can run in a different place other than midway
 
 Also we need to address the following points:
+
     + what is the "rawest" data input we can have (maybe from Epic data pull?)
     + make an example that reads data for a single patient and returns
         - zcor score

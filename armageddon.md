@@ -8,6 +8,8 @@
     - adrd
     - cognet
     - factalnet
-+ zcor saas
++ zcor presaas
++ Upwork hiring for saas dev
++ paraknowledge webpage
 + cynet code and buisiness: a b c
 + philadelhia cynet model

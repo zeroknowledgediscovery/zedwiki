@@ -14,12 +14,12 @@ Lets make sure our current code is a pure python application that can run in a d
 
 Also we need to address the following points:
 
-    + what is the "rawest" data input we can have (maybe from Epic data pull?)
-    + make an example that reads data for a single patient and returns
-        - zcor score
-        - decision (at a tunable value of specificity or LR+)
-        - some shap values
-    + have option for calibration (we would need a small dataset for this, this is dersirable, but can we do without?)
-        - test what happens to our performance if we do not calibrate? **
-        
++ what is the "rawest" data input we can have (maybe from Epic data pull?)
++ make an example that reads data for a single patient and returns
+    - zcor score
+    - decision (at a tunable value of specificity or LR+)
+    - some shap values
++ have option for calibration (we would need a small dataset for this, this is dersirable, but can we do without?)
+    - test what happens to our performance if we do not calibrate? **
+  
 

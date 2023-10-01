@@ -2,6 +2,8 @@
 
 + IPF model
 
+# Local Model "installation"
+[[Installation Guide|development/zbldev/zcor_setup]]
 
 # Epic APP
 

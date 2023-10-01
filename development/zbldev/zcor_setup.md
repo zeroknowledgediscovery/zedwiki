@@ -1,5 +1,7 @@
 # **ZCoR: Local Installation Steps**
 
+[[Back to zbldev|development/zbldev]]
+
 ## **1. Install the codebase**
 
 `git clone https://github.com/zeroknowledgediscovery/zcor.git

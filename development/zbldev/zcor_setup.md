@@ -38,8 +38,6 @@ python -m ipykernel install --user --name=zcor --display-name="ZCOR env"
 pip install zedstat
 ```
 
-## **5.
-
 ## **Then can do the ZCoR things**
 
 

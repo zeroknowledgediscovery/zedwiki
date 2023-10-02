@@ -13,7 +13,7 @@ git checkout dev
 
 ## **2. Extract the conda environment file**
 
-Run the `zcor/examples/local_zcor_run/RUN_LOADED_ZCOR.ipynb`, which will save the environment file to `midway_environment.yml`
+Run the `zcor/examples/local_zcor_run/EXTRACT_ENV_FILE.ipynb`, which will save the environment file to `midway_environment.yml`
 
 ## **3. Create the conda environment**
 
@@ -38,6 +38,7 @@ python -m ipykernel install --user --name=zcor --display-name="ZCOR env"
 pip install zedstat
 ```
 
-## **Then can do the ZCoR things**
+## **7. Run the sample run of loaded ZCoR object**
 
+Run the `zcor/examples/local_zcor_run/RUN_LOADED_ZCOR.ipynb`
 

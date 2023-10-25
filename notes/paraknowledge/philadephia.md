@@ -16,5 +16,50 @@ https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SEL
 
 https://cityofphiladelphia.github.io/carto-api-explorer/#incidents_part1_part2
 
+## Code
+
+```
+
+import requests
+
+def fetch_incidents(start_year, end_year):
+    base_url = "https://phl.carto.com/api/v2/sql"
+    
+    # Construct the SQL query with given years
+    query = f"""SELECT *, ST_Y(the_geom) AS lat, ST_X(the_geom) AS lng 
+                FROM incidents_part1_part2 
+                WHERE dispatch_date_time >= '{start_year}-01-01' 
+                AND dispatch_date_time < '{end_year}-01-01'"""
+
+    params = {
+        "filename": "incidents_part1_part2",
+        "format": "csv",
+        "q": query
+    }
+
+    try:
+        response = requests.get(base_url, params=params)
+        response.raise_for_status()  # Raises a HTTPError if the HTTP request returned an unsuccessful status code
+
+        # Return CSV data or save it as needed
+        return response.text
+
+    except requests.RequestException as error:
+        print(f"Error fetching data: {error}")
+        return None
+
+if __name__ == "__main__":
+    start_year = input("Enter start year (e.g., 2020): ")
+    end_year = input("Enter end year (e.g., 2024): ")
+
+    data = fetch_incidents(start_year, end_year)
+    if data:
+        # Print the fetched data or save it as required
+        print(data)
+
+```
+
+
+
 # contact
 Bob Kothari

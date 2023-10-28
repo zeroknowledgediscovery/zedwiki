@@ -15,6 +15,9 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
 
 https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
 
+## maricopa
+
+https://police.maricopa.edu/daily-crime-log
 
 ## incidents
 

@@ -14,7 +14,7 @@ So undertsandly while you really want to know what is the percentage of flagged 
 the real question is whether you should send them for detailed evaluation. And that answer is 
 given by the positive likelihood ratio, which is independent of prevalence.
 
-$$LR+ = s/c $$
+$$LR+ = s/(1-c) $$
 
 If a person tests positive, then they having the disease is LR+ times more likely compared to the pre-test odds.
 Thus, id prevalence is the pre-test odds, then teh population of patients with a positive test is 

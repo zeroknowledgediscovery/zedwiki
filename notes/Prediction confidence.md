@@ -11,8 +11,8 @@ $$ p(r) = \min_{u\geqq r} PPV(u)   $$
 where \(PPV(u)\) is PPV represented as a function of the threshold u, and \(r\) is the risk score of this patient.Note that we can compute PPV as:
 $$PPV = \frac{s}{s+ (\frac{1}{p}-1)(1-c)} $$
 which can be also stated as:
-$$PPV = \frac{LR+}{LR+ + (\frac{1}{p}-1)} $$
+$$PPV = \frac{LR+}{LR^+ + (\frac{1}{p}-1)} $$
 which for very small prevelence approximates to:
-$$ \rho LR+(r)$$
+$$ \rho LR^+(r)$$
 
 

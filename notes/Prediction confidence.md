@@ -12,5 +12,7 @@ where \(PPV(u)\) is PPV represented as a function of the threshold u, and \(r\) 
 $$PPV = \frac{s}{s+ (\frac{1}{p}-1)(1-c)} $$
 which can be also stated as:
 $$PPV = \frac{LR+}{LR+ + (\frac{1}{p}-1)} $$
+which for very small prevelence approximates to:
+$$ \rho LR+(r)$$
 
 

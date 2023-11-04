@@ -6,9 +6,11 @@
 
 # Probability of positive class
 
-From definition of PPV as the fraction of true positive flags in all raised flags, we conclude that the probability of a ptient being in the case cohort is as follows:
+From definition of PPV as the fraction of true positive flags in all raised flags, we conclude that the probability of a ptient being in the case cohort can be estimated as:
 
 $$ p(r) = \min_{u\geqq r} PPV(u)   $$
+
+where \(PPV(u)\) is PPV represented as a function of the threshold u, and \(r\) is the risk score of this patient.
 
 $$PPV = \frac{s}{s+ (\frac{1}{p}-1)(1-c)} $$
 

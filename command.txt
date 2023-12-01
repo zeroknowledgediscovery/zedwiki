@@ -1,0 +1,4 @@
+gollum --allow-uploads --mathjax
+
+gollum --allow-uploads --port 4568 --css
+gollum --allow-uploads --mathjax --critic-markup

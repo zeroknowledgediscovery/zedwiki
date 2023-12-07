@@ -15,5 +15,12 @@
 
 + general (NSF)
 
+# update grant
+
+
 ## Early life micobiome trajectories will change constantly
+
++ tRNA
+
+bacteria and host
 

@@ -13,13 +13,13 @@ abstract submitted that exceeds four (4) pages will only be reviewed at ARPA-H�
 
 ## Abstract format
 
-A. Cover Page
++ A. Cover Page
 The cover page should follow the same format as the full proposal described in Section 4.2.2.A.
 The cover page does not count towards the page limit.
-B. Concept Summary
++ B. Concept Summary
 Describe the proposed concept with minimal jargon and explain how it addresses the topic
 area(s) of the R&D Solicitation.
-C. Innovation and Impact
++ C. Innovation and Impact
 Clearly identify the health outcome(s) sought and/or the problem(s) to be solved with the
 proposed technology concept. Describe how the proposed effort represents an innovative and
 potentially revolutionary solution to the technical challenges posed by the R&D Solicitation.
@@ -30,27 +30,24 @@ technology concept to current and emerging technologies and includes:
 • State of the art / emerging technology “baseline”
 • Target for proposed technology in its final, commercializable form
 • Target for proposed technology at the end of the proposed ARPA-H project
-D. Proposed Work
++ D. Proposed Work
 Describe the final deliverable(s) for the project, one (1) or two (2) key interim milestones, and
 the overall technical approach used to achieve project objectives. Discuss alternative approaches
 considered, if any, and why the proposed approach is most appropriate for the project objectives.
 Describe the background, theory, simulation, modeling, experimental data, or other sound
 engineering and scientific practices or principles that support the proposed approach. Provide
-specific examples of supporting data and/or appropriate citations to the scientific and technical
-3275N99224R00001, APECx
+specific examples of supporting data and/or appropriate citations to the scientific and technical 
 literature. The list of citations does not count towards the page limit. Identify commercialization
 challenges to be overcome for the proposed technology to be successful in the health market.
 Describe why the proposed effort is a significant technical challenge and the key technical risks
 to the project. At a minimum, the abstract should address:
-
-
 Does the approach require one or more entirely new technical developments to succeed?
 How will technical risk be mitigated?
-E. Team Organization and Capabilities
++ E. Team Organization and Capabilities
 Indicate the roles and responsibilities of the organizations and key personnel that comprise the
 Project Team. Provide the name, position, and institution of each key team member and describe
 in 1-2 sentences the skills and experience they bring to the team.
-F. Rough Order of Magnitude (ROM)
++ F. Rough Order of Magnitude (ROM)
 Please include a ROM estimate of timeline and federal funds requested, as well as the total
 project cost including cost sharing, if applicable. The ROM should also include a breakdown of
 the work by direct labor, labor rates, subcontracts, materials, equipment, other direct costs (e.g.,

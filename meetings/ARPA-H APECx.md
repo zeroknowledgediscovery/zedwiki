@@ -3,6 +3,11 @@
 + Deadline Dec 15 abstract
 + Full prob Feb 16
 
+
+# IDEA: Future Proof Countermeasures
+
+[poster here]()
+
 ## abstract length
 total length should not exceed four (4) pages in length. The maximum page count excludes the cover page
 and the Rough Order of Magnitude. The Government will not review pages beyond 4; and any
@@ -125,12 +130,12 @@ Here is a table outlining different virus families that pose challenges due to m
 
 
 
+# Team
 
++ ishanu
++ paul
++ Rick stevens
++ Aaron
++ Structure person (HT protein structure analysis)
++ vaccine acndiate evaluation (aaron?)
 
-
-
-# gananakaran
-
-# LANL
-
-# Dec1 submnission

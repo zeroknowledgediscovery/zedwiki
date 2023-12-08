@@ -1,6 +1,5 @@
 
-
-[/uploads/75N99224R00001+APECx+Amd+No.+1.pdf]
+[here](/uploads/75N99224R00001+APECx+Amd+No.+1.pdf)
 
 # Description
 Current approaches to vaccine development are costly, time-consuming, and have not yielded

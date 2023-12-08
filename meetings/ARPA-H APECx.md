@@ -1,4 +1,4 @@
-# Ta1 Ta2 Ta3
+# TA1 TA2 TA3
 
 
 Here is a table outlining different virus families that pose challenges due to mutations and variations, and are significant for deployed military personnel, also noting their previous impact on force readiness:

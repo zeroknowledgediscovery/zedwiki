@@ -11,8 +11,6 @@ Here is a table outlining different virus families that pose challenges due to m
 | Bunyaviridae     | Hantavirus             | Limited, but impactful genetic variation   | Rodent-borne, risk in field settings                                   | Outbreaks in military, particularly in field environments        |
 | Retroviridae     | HIV                    | High mutation rate and genetic diversity   | Chronic condition, requires long-term treatment                        | Long-term health implications for infected personnel             |
 
-This table identifies virus families relevant to military personnel, highlighting the challenges in dealing with them due to their mutation rates and the historical impact they have had on military operations and readiness.
-
 
 
 

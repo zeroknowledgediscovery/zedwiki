@@ -117,6 +117,23 @@ and TA2.
 
 # no influenza covid or hiv
 
+Certainly! Here's the information formatted as a Markdown table:
+
+### Virus Genera Table with Characteristics, Biosafety Levels, and Expected Mortality
+
+| Virus Genus      | Key Viruses                     | Vaccine Availability/Efficacy                       | Fast Evolution/Variants | Global Relevance | Benefit to US Military | Biosafety Level (BSL) | Expected Mortality                |
+|------------------|---------------------------------|-----------------------------------------------------|-------------------------|------------------|------------------------|-----------------------|------------------------------------|
+| Orthomyxovirus   | Influenza                       | Annual vaccines available but need frequent updates | Yes                     | Yes              | Crucial for maintaining force readiness and health | BSL-2                  | Low (<0.1% for most strains)       |
+| Alphacoronavirus | Human Coronavirus (common cold) | No vaccines available                               | Moderate                | Yes              | Important for general health and operational readiness | BSL-2                  | Very low                           |
+| Flavivirus       | Zika, Dengue                    | Limited efficacy for some strains                   | Yes                     | Yes              | Particularly important in regions where these are endemic | BSL-2 for Zika and Dengue; BSL-3 for some like West Nile Virus | Varies (Dengue <1%, Zika very low) |
+| Enterovirus      | Poliovirus, Coxsackievirus      | Vaccines available but not for all strains          | Yes                     | Yes              | Especially relevant for deployments in areas with active outbreaks | BSL-2                  | Low (Poliovirus without paralysis is mild, others variable) |
+| Hantavirus       | Sin Nombre, Andes               | No vaccines available                               | Moderate                | Yes              | Particularly important in field settings and areas with rodent exposure | BSL-2 for most strains; BSL-3 for some strains | Varies (HPS up to 40%)            |
+| Henipavirus      | Nipah, Hendra                   | No vaccines available                               | Moderate                | Yes              | Relevant in regions where these viruses are present or pose a risk | BSL-4                  | High (Nipah up to 75%, Hendra up to 57%) |
+| Togaviridae      | Chikungunya                     | No widely available vaccine                         | Moderate                | Yes              | Especially relevant in deployments to regions with outbreaks | BSL-3                  | Low                                |
+
+This table provides a concise overview of several significant virus genera, their key viruses, the current state of vaccine availability and efficacy, their rate of evolution and variant formation, global relevance, benefit to U.S. military personnel, required biosafety levels for research, and expected mortality rates.
+
+
 
 Here is a table outlining different virus families that pose challenges due to mutations and variations, and are significant for deployed military personnel, also noting their previous impact on force readiness:
 

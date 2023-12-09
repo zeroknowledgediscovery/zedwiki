@@ -120,17 +120,20 @@ and TA2.
 
 ### Virus Genera Table with Characteristics, Biosafety Levels, and Expected Mortality
 
-| Virus Genus      | Key Viruses                     | Vaccine Availability/Efficacy                       | Fast Evolution/Variants | Global Relevance | Benefit to US Military | Biosafety Level (BSL) | Expected Mortality                |
-|------------------|---------------------------------|-----------------------------------------------------|-------------------------|------------------|------------------------|-----------------------|------------------------------------|
-| Orthomyxovirus   | Influenza                       | Annual vaccines available but need frequent updates | Yes                     | Yes              | Crucial for maintaining force readiness and health | BSL-2                  | Low (<0.1% for most strains)       |
-| Alphacoronavirus | Human Coronavirus (common cold) | No vaccines available                               | Moderate                | Yes              | Important for general health and operational readiness | BSL-2                  | Very low                           |
-| Flavivirus       | Zika, Dengue                    | Limited efficacy for some strains                   | Yes                     | Yes              | Particularly important in regions where these are endemic | BSL-2 for Zika and Dengue; BSL-3 for some like West Nile Virus | Varies (Dengue <1%, Zika very low) |
-| Enterovirus      | Poliovirus, Coxsackievirus      | Vaccines available but not for all strains          | Yes                     | Yes              | Especially relevant for deployments in areas with active outbreaks | BSL-2                  | Low (Poliovirus without paralysis is mild, others variable) |
-| Hantavirus       | Sin Nombre, Andes               | No vaccines available                               | Moderate                | Yes              | Particularly important in field settings and areas with rodent exposure | BSL-2 for most strains; BSL-3 for some strains | Varies (HPS up to 40%)            |
-| Henipavirus      | Nipah, Hendra                   | No vaccines available                               | Moderate                | Yes              | Relevant in regions where these viruses are present or pose a risk | BSL-4                  | High (Nipah up to 75%, Hendra up to 57%) |
-| Togaviridae      | Chikungunya                     | No widely available vaccine                         | Moderate                | Yes              | Especially relevant in deployments to regions with outbreaks | BSL-3                  | Low                                |
 
-This table provides a concise overview of several significant virus genera, their key viruses, the current state of vaccine availability and efficacy, their rate of evolution and variant formation, global relevance, benefit to U.S. military personnel, required biosafety levels for research, and expected mortality rates.
+
+| Virus Genus | Key Viruses | Vaccine | Fast Evolution | BSL | Combined Info (Mortality, Military Benefit, Global Relevance) |
+|-------------|-------------|---------|----------------|-----|----------------------------------------------------------------|
+| Orthomyxovirus | Influenza | Annual vaccines, frequent updates | Yes | 2 | Mortality: Low (<0.1%); Military: Crucial for readiness; Global: Yes |
+| Alphacoronavirus | Human Coronavirus | No vaccines | Moderate | 2 | Mortality: Very low; Military: Important for health; Global: Yes |
+| Flavivirus | Zika, Dengue | Limited efficacy | Yes | 2/3 | Mortality: Varies; Military: Important in endemic areas; Global: Yes |
+| Enterovirus | Poliovirus, Coxsackie | Not for all strains | Yes | 2 | Mortality: Low; Military: Relevant in outbreaks; Global: Yes |
+| Hantavirus | Sin Nombre, Andes | No vaccines | Moderate | 2/3 | Mortality: Varies; Military: Important in field settings; Global: Yes |
+| Henipavirus | Nipah, Hendra | No vaccines | Moderate | 4 | Mortality: High; Military: Relevant in risk regions; Global: Yes |
+| Togaviridae | Chikungunya | No widespread vaccine | Moderate | 3 | Mortality: Low; Military: Relevant in outbreaks; Global: Yes |
+| Nairovirus | CCHF | No vaccines | Moderate | 4 | Mortality: High; Military: Important in endemic regions; Global: Yes |
+| Arenavirus | Lassa Fever | No widespread vaccine | Moderate | 4 | Mortality: High (1-15%); Military: Important in West Africa; Global: Yes |
+| Filovirus | Ebola, Marburg | Limited availability | Moderate | 4 | Mortality: Very High; Military: Crucial in outbreak regions; Global: Yes |
 
 
 

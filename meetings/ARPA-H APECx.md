@@ -135,7 +135,20 @@ and TA2.
 | Arenavirus | Lassa Fever | No widespread vaccine | Moderate | 4 | Mortality: High (1-15%); Military: Important in West Africa; Global: Yes |
 | Filovirus | Ebola, Marburg | Limited availability | Moderate | 4 | Mortality: Very High; Military: Crucial in outbreak regions; Global: Yes |
 
+Certainly! Here's a more focused table excluding Influenza and Coronaviruses, but including Filoviruses, Hantavirus, Bunyaviridae (specifically Nairovirus for CCHF), Arenaviruses, Flaviviruses, and Togaviridae (for Chikungunya):
 
+### Focused Virus Genera Table
+
+| Virus Genus | Key Viruses | Vaccine | Fast Evolution | BSL | Combined Info (Mortality, Military Benefit, Global Relevance) |
+|-------------|-------------|---------|----------------|-----|----------------------------------------------------------------|
+| Flavivirus | Zika, Dengue | Limited efficacy | Yes | 2/3 | Mortality: Varies; Military: Important in endemic areas; Global: Yes |
+| Hantavirus | Sin Nombre, Andes | No vaccines | Moderate | 2/3 | Mortality: Varies; Military: Important in field settings; Global: Yes |
+| Nairovirus | CCHF | No vaccines | Moderate | 4 | Mortality: High; Military: Important in endemic regions; Global: Yes |
+| Arenavirus | Lassa Fever | No widespread vaccine | Moderate | 4 | Mortality: High (1-15%); Military: Important in West Africa; Global: Yes |
+| Filovirus | Ebola, Marburg | Limited availability | Moderate | 4 | Mortality: Very High; Military: Crucial in outbreak regions; Global: Yes |
+| Togaviridae | Chikungunya | No widespread vaccine | Moderate | 3 | Mortality: Low; Military: Relevant in outbreaks; Global: Yes |
+
+This table provides a succinct overview of the specified virus genera, focusing on those with significant implications for global health and U.S. military operations, particularly in terms of vaccine availability, evolutionary rate, biosafety level, and combined information on mortality, military benefit, and global relevance.
 
 
 

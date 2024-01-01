@@ -4,6 +4,15 @@ https://minerva.defense.gov/Portals/47/documents/2023%20Minerva%20Topics%20of%20
 
 ## Topics: 
 
++ Topic 2: Considering Societal Resilience at Multiple Scales
++ Co-POC: Laura Steckman, Air Force Office of Scientific Research, laura.steckman.1@us.af.mil
++ Co-POC: Gregory Ruark, DEVCOM ARL, Army Research Office, gregory.a.ruark.civ@army.mil
+
+
+
+
+
+
 
 # White Paper 
 

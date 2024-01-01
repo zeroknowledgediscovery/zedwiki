@@ -1,5 +1,9 @@
 # Minerva grant 
 
+https://minerva.defense.gov/Portals/47/documents/2023%20Minerva%20Topics%20of%20Interest.pdf?ver=i_V4-B4jLgTqjosWU7zdeg%3d%3d 
+
+## Topics: 
+
 
 # White Paper 
 

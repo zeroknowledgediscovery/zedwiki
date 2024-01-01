@@ -87,7 +87,7 @@ Bibliography:
 Matin, Nilufar, John Forrester, and Jonathan Ensor. 2018. What is Equitable Resilience? World
 Development 109: 197-205.
 
-
+/uploads/resdilience.pdf
 
 
 # White Paper 

@@ -55,29 +55,30 @@ The topic does not prescribe any particular use case(s) but does anticipate that
 one type of shock or societal sector will be insufficient to meet the topic’s intent. Experimental
 approaches are encouraged.
 Key areas of interest include, but are not limited to:
-• Develop theory/ies and refined definition(s) that consider societal resilience with cooccurring systems across the globe at multiple levels/scales
-• Conduct cross-cultural comparative studies on societal resilience in various regions or
+
++ Develop theory/ies and refined definition(s) that consider societal resilience with cooccurring systems across the globe at multiple levels/scales
++ Conduct cross-cultural comparative studies on societal resilience in various regions or
 contexts and explore the techniques used in different societies to absorb and recover from
 systemic shocks
-• Discover how societal resilience as a concept should be constructed from non-Western
++ Discover how societal resilience as a concept should be constructed from non-Western
 perspectives and explore whether new methods are required to understand and assess such
 resilience
-• Assess and test whether the concept of equitable societal resilience can be developed and
++ Assess and test whether the concept of equitable societal resilience can be developed and
 measured
-• Explore how to integrate local, indigenous knowledge systematically best and
++ Explore how to integrate local, indigenous knowledge systematically best and
 appropriately into societal resilience and determine how this knowledge revises the
 construct, if it does, and if so, how it affects different levels and scales
-• Measure societal resilience worldwide at national and, if possible, sub-national or other
++ Measure societal resilience worldwide at national and, if possible, sub-national or other
 levels/scales, with consideration for local assessment of societal resilience, and determine
 how best to normalize these measures, if appropriate
-• Identify key variables that influence type of and effectiveness of co-occurring societal
++ Identify key variables that influence type of and effectiveness of co-occurring societal
 resilience responses and outcomes (conservative, transformational) and how that differs
 based on shock characteristics (intensity, duration, timescale, etc.)
-• How does co-occurring societal resilience look under different types of stress, atypical
++ How does co-occurring societal resilience look under different types of stress, atypical
 compared to systemic, and when types differ between systems (e.g., societal resiliency in
 response to a prolonged, low intensity systemic shock and economic resiliency in response
 to an acute, momentary shock), and how does this look at different levels
-• Develop methods and/or models to understand when societal resilience(s) will yield a
++ Develop methods and/or models to understand when societal resilience(s) will yield a
 conversative compared to a transformational outcome, to incorporate any new resilience
 methods/models resulting from data analysis.
 

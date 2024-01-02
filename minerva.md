@@ -89,6 +89,7 @@ Development 109: 197-205.
 
 [resilience paper](/uploads/resdilience.pdf)
 
+[resilience book](/uploads/978-3-030-82072-5.pdf)
 
 # White Paper 
 

@@ -1,6 +1,6 @@
 # Potential Custormers
 
-## collaboration
+## Collaborations
 
 + Multitude Insights
 

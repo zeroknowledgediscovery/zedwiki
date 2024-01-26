@@ -6,9 +6,12 @@
 
 ## Revenue Generators
 
-+ ATT
-+ Citizen
-+ PhilliSafe
++ ATT [10k]
++ Citizen  [1M]
++ PhilliSafe [6k]
+
+
+
 
 ## Potential Customers
 

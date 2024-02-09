@@ -1,4 +1,3 @@
-
 # Eligibility
 
 + **The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.**
@@ -22,6 +21,9 @@
 
 ### Subtopics
 BM1. Diagnostics
+DH2. Health and Biomedical informatics
+DH6. Physical, Mental and Behavioral Health
+
 
 # Pitch Instruction
 

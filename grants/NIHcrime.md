@@ -27,41 +27,31 @@ Projects must include a focus on one or more NIH-designated populations that exp
 
 Innovative approaches to identifying, understanding, and developing strategies for overcoming barriers to the adoption, adaptation, integration, scale-up and sustainability of evidence-based interventions, tools, policies, and guidelines are of interest. Projects that focus on elimination of interventions that are ineffective, unproven, low-value, or harmful in advancing health equity are also invited. Implementation research aims should be guided by equity-oriented theoretical models and frameworks. Modeling studies that evaluate the impact of specific interventions and implementation strategies to identify leverage points on costs and prioritizing strategies, particularly across the broad multi-sector nature of SDOH to inform scale up of interventions across communities and contexts, would also be responsive. Research that directly tests the effectiveness of SDOH interventions in narrowing health gaps between health disparity and non-health disparity populations is also strongly encouraged.
 
-Community Partnerships: Projects must document or demonstrate throughout the research process meaningful community partnerships to foster the development of feasible and acceptable approaches as well as acceptance, uptake, and sustainability of proposed interventions and strategies. Community partners can include, but are not limited to, those in the housing, transportation, food system, economic development, education, social services, and criminal legal system sectors. Applicants should provide details on the nature and extent of the partnerships by clearly describing the roles of partners and providing evidence of support from partners.
+**Community Partnerships:** Projects must document or demonstrate throughout the research process meaningful community partnerships to foster the development of feasible and acceptable approaches as well as acceptance, uptake, and sustainability of proposed interventions and strategies. Community partners can include, but are not limited to, those in the housing, transportation, food system, economic development, education, social services, and criminal legal system sectors. Applicants should provide details on the nature and extent of the partnerships by clearly describing the roles of partners and providing evidence of support from partners.
 
 Prospective Interventions to Address SDOH may develop and test the effectiveness of new or adapted interventions in a variety of settings in the U.S., such as neighborhoods, community-based organizations, child welfare and human service settings, workplaces, businesses, stores and restaurants, schools, criminal justice settings, faith-based organizations, public works and facilities, healthcare systems, and recreational settings. Approaches may include group or cluster randomized controlled trial (RCT), stepped wedge RCT, stepped wedge group or cluster RCT, pragmatic RCT, pragmatic trials, adaptive designs (e.g., multiphase optimization strategy [MOST], sequential multiple assignment randomized trials [SMART]), implementation trials (including hybrid effectiveness/implementation designs), and rigorous quasi-experimental designs.
 
 Examples of projects supported in this category include, but are not limited to, studies that develop and evaluate the effectiveness of interventions to improve health or reduce health disparities by:
 
-Improving community conditions through community revitalization investment projects
-Improving economic stability, such as through increased job opportunities or quality employment
-Improving housing access, quality, or affordability
-Improving education quality
-Reducing community-level violence, including firearm violence
-Improving the availability or quality of green spaces or recreational spaces
-Improving community childcare availability together with providing access to parental support groups
-Improving nutritious food availability in the community in addition to providing primary care-based nutritional counseling to individuals
-Evaluation of Existing or Upcoming Interventions may examine policies, programs, interventions, or environmental changes that are existing or upcoming in the U.S. to address SDOH (structural factors or conditions of daily life) (regardless of NIH funding) by states/territories, cities, counties, tribal communities, healthcare systems, public health departments, school systems, employers, or other organizations. Projects including multiple sites, locations, or settings are strongly encouraged to allow for the analysis of variability across and within settings. Studies that compare outcomes across populations in the U.S. with other countries are also allowed, if the comparison elucidates intervention mechanisms to reduce health disparities in the U.S. In addition to examination of individual level impacts as primary outcomes, examination of secondary outcomes that address unintended consequences of a policy or program, degree of implementation (including acceptance, uptake, spread, and sustainability), and implementation barriers and facilitators, are encouraged.
+* Improving community conditions through community revitalization investment projects
+* Improving economic stability, such as through increased job opportunities or quality employment
+* Improving housing access, quality, or affordability
+* Improving education quality
+*** Reducing community-level violence, including firearm violence
+* Improving the availability or quality of green spaces or recreational spaces
+*** Improving community childcare availability together with providing access to parental support groups
+* Improving nutritious food availability in the community in addition to providing primary care-based nutritional counseling to individuals
 
-Examples of projects supported in this category include, but are not limited to studies that evaluate impacts on health and health disparities of:
 
-Federal, tribal, state, local, or organizational demonstration projects aimed at addressing SDOH
-Tribal policies or programs aimed to address SDOH among American Indian/Alaska Native populations
-New standards of care, changes in health insurance coverage, expansion of access to social services, and other factors that influence SDOH
-Programs or policies designed to improve access, quality, or affordability of housing, transportation, and food on health within communities
-Infrastructure changes related to housing, transportation, the food environment, or the built environment
-Programs, policies, or environmental changes targeting SDOH in addition to factors targeting individual or family circumstances such as housing instability, transportation access, nutrition insecurity
-Community economic development policy or program in addition to job training for individuals
-Program or policy to increase community availability of affordable housing, while also implementing screening and referrals for housing insecurity in healthcare settings
 Study Designs: Randomization may not be possible for all intervention studies, e.g., where it is not possible to assign participants to high versus low discrimination conditions or in small sample sizes where cross intervention contamination is likely to occur or be a problem. Alternative rigorous research designs that provide robust evidence of intervention effectiveness include quasi-experimental designs, such as multiple baseline or repeated measures design or interrupted time series design. Also, hybrid effectiveness-implementation designs allow observational investigation of implementation processes while also testing intervention effectiveness. Investigators should justify their research and analytic design selection and provide adequate evidence of their ability to execute a rigorous and appropriate analysis of randomized or non-randomized study data.
 
-Non-Responsive Applications
+### Non-Responsive Applications
 The following studies will be considered non-responsive for this announcement:
 
-Projects that do not address one or more SDOH as conceptualized as structural factors and conditions of daily life
-Projects that intervene solely at the individual/family level and not on SDOH as conceptualized by the NIH
-Intervention projects that do not include a community partnership
-Projects that do not focus on a population at higher risk of morbidity or mortality based on race, ethnicity, socioeconomic status, rurality, sexual orientation, and/or ability status
-Projects focusing on populations outside of the United States
-Projects that do not include a Plan for Enhancing Diverse Perspectives
-Construction and major renovations costs are unallowable through this RFA. Applications that propose to use grant funds to support construction or major alteration and renovation projects will be considered non-responsive.
+* Projects that do not address one or more SDOH as conceptualized as structural factors and conditions of daily life
+* Projects that intervene solely at the individual/family level and not on SDOH as conceptualized by the NIH
+* Intervention projects that do not include a community partnership
+* Projects that do not focus on a population at higher risk of morbidity or mortality based on race, ethnicity, socioeconomic status, rurality, sexual orientation, and/or ability status
+* Projects focusing on populations outside of the United States
+* Projects that do not include a Plan for Enhancing Diverse Perspectives
+* Construction and major renovations costs are unallowable through this RFA. Applications that propose to use grant funds to support construction or major alteration and renovation projects will be considered non-responsive.

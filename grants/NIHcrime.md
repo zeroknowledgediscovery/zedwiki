@@ -37,9 +37,9 @@ Examples of projects supported in this category include, but are not limited to,
 * Improving economic stability, such as through increased job opportunities or quality employment
 * Improving housing access, quality, or affordability
 * Improving education quality
-*** Reducing community-level violence, including firearm violence
-* Improving the availability or quality of green spaces or recreational spaces
-*** Improving community childcare availability together with providing access to parental support groups
+* **Reducing community-level violence, including firearm violence**
+* **Improving the availability or quality of green spaces or recreational spaces**
+* Improving community childcare availability together with providing access to parental support groups
 * Improving nutritious food availability in the community in addition to providing primary care-based nutritional counseling to individuals
 
 

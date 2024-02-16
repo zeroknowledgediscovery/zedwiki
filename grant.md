@@ -1,3 +1,32 @@
+
+# Child development fund - Diet and/or Microbiome
+
+http://www.waterloofoundation.org.uk/ChildDevelopmentResearchDeadlines.html
+
+£65,000GBP (81,843.289 US Dollars)
+
+The Waterloo Foundation invites applications for its child development fund - diet and the microbiome and ADHD. This supports research projects on diet or the microbiome in child development as well as attention deficit hyperactivity disorder (ADHD). For diet and the microbiomey, studies focusing on the following are particularly welcomed:
+•microbiome and Neurodevelopment in children;
+•the impacts of breastmilk on infant microbiome and brain: particularly early gut development in premature infants;
+•ADHD and the gut;
+•the impacts of micronutrients and fatty acids during Pregnancy and the effect on infant gut or neurodevelopment ADHD.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # google doc link
 
 https://docs.google.com/document/d/1URtxtx1068nLggIc0oHfs07AG2MuOtYkpYoUr-fF274/edit?usp=sharing

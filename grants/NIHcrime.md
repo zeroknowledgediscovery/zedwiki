@@ -55,3 +55,11 @@ The following studies will be considered non-responsive for this announcement:
 * Projects focusing on populations outside of the United States
 * Projects that do not include a Plan for Enhancing Diverse Perspectives
 * Construction and major renovations costs are unallowable through this RFA. Applications that propose to use grant funds to support construction or major alteration and renovation projects will be considered non-responsive.
+
+# NIH Institute Interest
+
+https://obssr.od.nih.gov/about/violence-research-initiatives
+
+
+
+

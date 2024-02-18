@@ -61,5 +61,50 @@ The following studies will be considered non-responsive for this announcement:
 https://obssr.od.nih.gov/about/violence-research-initiatives
 
 
+## Violence Research Initiatives
+
+Violence—defined by the World Health Organization as “the intentional use of physical force or power, threatened or actual, against oneself, another person, or against a group or community, that either results in or has a high likelihood of resulting in injury, death, psychological harm, maldevelopment, or deprivation”—is a significant public health problem that has profound impacts on lifelong health, opportunity, and well-being. 
+
+The National Institutes of Health (NIH) supports scientific research to increase our understanding of public health interventions to prevent different forms of violence and the trauma, injuries, and mortality resulting from them. Given that violence research cuts across many NIH institutes and centers and the central role of behavioral and social science research in violence related research, the NIH Office of Behavioral and Social Sciences Research (OBSSR) has increasingly played a coordinating role for this research at NIH. These efforts build off and complement existing NIH Institute, Center, and Office (ICO) priorities and of effective initiatives focused on specific types of violence such as child or elder maltreatment, youth violence, bullying, online harassment and abuse, community violence, intimate partner violence, and sexual violence.
+
+
+The FY2020 Further Consolidated Appropriations Act, FY21 Consolidated Appropriations Act, FY22 Consolidated Appropriations Act, and FY23 Consolidated Appropriations Act provided $12.5 million dollars of funding for each of the past 4 years to NIH to conduct research on firearm injury and mortality prevention by taking a comprehensive approach to studying the underlying causes and evidence-based methods of prevention of firearm injury, including crime prevention. Congressional language noted that the research must be ideologically and politically unbiased, that no funds could be used to advocate or promote gun control, and that grantees were required to fulfill NIH requirements around open data, open code, pre-registration of research projects, and open access to research articles.
+
+Firearms Focused Notices of Funding Opportunities (NOFO)
+Funded Projects
+FY2020
+FY2021
+FY2022
+FY2023
+
+FY2020 and FY2021
+OBSSR, along with IC partners, developed Notice of Funding Opportunity (NOFOs) PAR-20-143, NOT-OD-20-089, PAR-21-191 and PAR-21-192, that were intended to build upon the existing NIH research portfolio and address emerging opportunities. The NOFOs took a broad public health approach to firearm injury and mortality prevention, encouraging research on interventions delivered in healthcare and community settings, integration of individual, family, interpersonal, community, and structural or system (e.g., legal, child welfare) approaches and included focusing on both victimization and perpetration of firearm violence across the life course and across populations.
+
+FY2022
+OBSSR worked with other ICs to coordinate two NOFOs, PAR 22-115 and PAR 22-120, that solicited applications for a coordinating center and a network of research projects to develop and test community/organization level interventions to prevent firearm and related violence, injury and mortality. The goal of the network is to support research projects to develop, implement, and evaluate innovative interventions that seek to modify characteristics of organizations, environments and/or settings to target higher order, “root” causes of firearm mortality and injury. The Coordinating Center will provide cross-network coordination, communication, analytics, engagement, and dissemination efforts to enhance the impact and generalizability of the study findings.
+
+FY2023
+OBSSR coordinated with other ICOs to publish a NOFO (PAR-23-066) that was a re-issue of PAR-22-115 to add additional network sites. In addition, NIH published two NOFOs (PAR-23-107 and PAR-23-108) focused on advanced training and career development for established NIH investigators in related fields to obtain the necessary skills and expertise to integrate firearm injury prevention work into their research. These awards will be a critical first step into expanding the field of qualified researchers and building capacity for the future. OBSSR issued a Notice of Intent to Publish a Funding Opportunity Announcement for Career Enhancement Awards to Advance Research on Firearm Injury and Mortality Prevention (NOT-OD-23-192) on September 29, 2023. This NOFO is expected to be published in Winter 2023/2024 with an expected application due date in Spring 2024.
+
+Meet the Community Firearm Violence Prevention Network
+The Community Firearm Violence Prevention Network (CFVP) was seeded in September 2022 with three sites and a coordinating center at the University of Michigan. Three additional sites were added in September 2023. To meet the network and learn more about its projects, people, and activities,
+
+
+NIH-Wide Firearms Mortality Prevention NOFO:
+On December 16, 2022, OBSSR and NIH ICOs (National Institute on Aging (NIA), National Institute on Alcohol and Alcoholism (NIAAA), National Institute of Child Health and Human Development (NICHD), National Institute on Drug Abuse (NIDA), National Institute of Mental Health (NIMH), National Institute of Nursing Research (NINR), National Institute on Minority Health and Health Disparities (NIMHD), The National Center for Complementary and Integrative Health (NCCIH), The Sexual & Gender Minority Research Office (SGMRO), Office of Disease Prevention (ODP) and Office of Research on Women's Health (ORWH)) released a Notice of Special Interest (NOSI): Firearm Injury and Mortality Prevention Research (NOT-OD-23-039). The purpose of this Notice is to highlight interest in research to improve understanding of the determinants of firearm injury, the identification of those at risk of firearm injury (including self- and other-directed, victims and perpetrators, accidental injury), the development, piloting, and testing of innovative interventions to prevent firearm injury and mortality, and the examination of approaches to improve the implementation of existing, evidence-based interventions to prevent firearm injury and mortality. This Notice will expire on February 5, 2026.
+
+Active NOFOs
+On July 8, 2022, OBSSR and NIH ICOs (National Institute on Aging (NIA), National Institute on Alcohol Abuse and Alcoholism (NIAAA), Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), the National Institute on Deafness and Other Communication Disorders (NIDCD), National Institute of Dental and Craniofacial Research (NIDCR), National Institute on Drug Abuse (NIDA), National Institute Of Mental Health (NIMH), National Institute of Nursing Research (NINR), National Institute on Minority Health and Health Disparities (NIMHD), Sexual & Gender Minority Research Office (SGMRO), Office of Disease Prevention (ODP) and Office of Research on Women's Health (ORWH)) released a Notice of Special Interest (NOSI): Research on Addressing Violence to Improve Health Outcomes (NOT-OD-22-167). The purpose of this Notice is to highlight interest in addressing the role of violence in health outcomes and integrating violence-related screening and interventions into health care settings. This Notice is to encourage intervention research focused on addressing exposure to violence - including but not limited to child maltreatment, intimate partner violence/teen dating violence, elder mistreatment, peer violence/bullying, and community violence – to improve individual-level health processes and outcomes. This Notice will expire on October 5, 2025.
+
+On October 4, 2023, OBSSR and NIH ICOs (Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), National Institute of Nursing Research (NINR), Sexual & Gender Minority Research Office (SGMRO), Office of Disease Prevention (ODP) and Office of Research on Women's Health (ORWH)) released:
+
+RFA-OD-24-001: Career Enhancement Award to Advance the Study of Intimate Partner Violence (IPV) in the Context of Maternal Morbidity and Mortality Research (K18 Clinical Trial Not Allowed). This Notice of Funding Opportunity (NOFO) is designed specifically to support investigators proposing research that does not involve leading an independent clinical trial, a clinical trial feasibility study, or an ancillary clinical trial. Under this NOFO candidates are permitted to propose a research experience in a clinical trial led by a mentor or co-mentor. Those proposing a clinical trial or an ancillary clinical trial as lead investigator, should apply to the companion NOFO (RFA-OD-24-002). This funding opportunity will expire on December 2, 2023.
+RFA-OD-24-002: R25 for Short Courses on Techniques for Measuring Intimate Partner Violence (IPV) in Different Populations (R25 Clinical Trial Not Allowed). The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this R25 program is to support educational activities that foster a better understanding of biomedical, behavioral and clinical research and its implications. This funding opportunity will expire on December 2, 2023.
+
+
+
+
+
+
 
 

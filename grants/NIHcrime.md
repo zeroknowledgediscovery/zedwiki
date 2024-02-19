@@ -103,7 +103,14 @@ RFA-OD-24-002: R25 for Short Courses on Techniques for Measuring Intimate Partne
 
 
 
+# Phillisafe
 
++ what is teh current state
++ what is teh specific plan
++ who are community leaders engaed? Is there a spercific organization? Is there a city or state support to thios organizations
++ Is violent crime a serious problem
++ Has recent standrad measures being effective
++ Greening measures, plan, steps, stages etc.
 
 
 

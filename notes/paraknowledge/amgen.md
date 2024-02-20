@@ -10,4 +10,10 @@ GDL | TPL Respiratory
 
 Advisory?
 
+Fernando send to ETS May23 address a topic in the meeting
+May 23rd San Diego
+
+Chicago Amgen 
+
+
 

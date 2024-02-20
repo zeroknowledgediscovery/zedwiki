@@ -4,7 +4,10 @@
 Exec Director | Inflammation Drug Development
 GDL | TPL Respiratory
 
-**Future Trends in Respiratory Medicine **
+**Future Trends in Respiratory Medicine**
 
 ## Feb 20 2024
+
+Advisory?
+
 

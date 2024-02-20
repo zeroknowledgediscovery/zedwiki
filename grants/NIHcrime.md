@@ -112,6 +112,6 @@ RFA-OD-24-002: R25 for Short Courses on Techniques for Measuring Intimate Partne
 + Has recent standrad measures being effective
 + Greening measures, plan, steps, stages etc.
 
-
+https://www.publichealth.columbia.edu/profile/charles-branas-phd#related-news
 
 

@@ -1,4 +1,3 @@
-Here's the organized table with the grant information you provided:
 
 | Grant Name          | Deadline  | Amount Expected         | Duration    | RFP Link                                                                                           |
 |---------------------|-----------|-------------------------|-------------|----------------------------------------------------------------------------------------------------|

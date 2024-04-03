@@ -37,6 +37,15 @@
 
 # Authors
 
+> Robert Gibbons
+rgibbons1@bsd.uchicago.edu 
+
+> Royce Lee
+rlee1@bsd.uchicago.edu 
+
+> Michael Brook
+mbrook1@nm.org 
+
 > Jin Li
 jinli11@uchicago.edu
 

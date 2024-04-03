@@ -7,7 +7,7 @@
 | NIH ASD             | March 11  | Not specified           | 2 years     | Not specified                                                                                      |
 | NIH NHLBI           | June 5    | $450K per year          | 5 years     | [NOT-CA-24-031](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-031.html)                |
 | Waterloo Foundation | March 3   | Not specified           | Not specified | [Waterloo Foundation](https://waterloofoundation.org.uk/ChildDevelopmentResearchActiveCalls.html)  |
-| DARPA DUF           | April 5   | $300K                   | 1 year      | Not specified                                                                                      |
+| DARPA DUF           | April 5   | $300K                   | 1 year      | https://www.darpa.mil/ARC/DUF      |
 
 
 

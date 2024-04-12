@@ -1,7 +1,8 @@
 # What is a digital twin
 
-Not really like "old" digital twins, we may want excat replication of behavior of teh system, or a stochastic replication: systems can be science models, or people. Applications are in:
+Not really like "old" digital twins, we may want exact replication of behavior of teh system, or a stochastic replication: systems can be science models, or people. Applications are in:
 
++ new science, complex systems
 + social modeling?
 + polarization of society
 + game play

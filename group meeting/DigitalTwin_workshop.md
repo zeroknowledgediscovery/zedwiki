@@ -31,4 +31,4 @@ Human knowledge is limited. And this makes us distinctuve, maybe LLMs are "bad" 
 # DO humans behave diffrently when they play with AI?
 
 
-
+# ethical Question of Digital Twin

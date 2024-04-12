@@ -1,21 +1,24 @@
 # what is a digital twin
 
-Not really like "old" digital twins
+Not really like "old" digital twins, we may want excat replication of behavior of teh system, or a stochastic replication: systems can be science models, or people. Applications are in:
 
 + social modeling?
-+ polarization
++ polarization of society
++ game play
 + science of science
     - authors of a particulaer paper, roleplay, and brainstorm
     - generate reserach outcomes
     - do they generate more novels
-+ future human interactions
++ predicting future human interactions
 
 # why make a digital twin?
 
-+ solve unsolved problem
++ solve unsolved problems in science 
 + make humans better (coaching)?
 
 # population and individual models
+
+We can have piopulation and individual models, and can taje different ideas.
 
 # how to evaluate digital twins
 + simulate the real world, and have some metrics of computing simialrity
@@ -23,14 +26,19 @@ Not really like "old" digital twins
 + align large language models
 
 # the green bar
-
+  
+Can DT make us achive the green bar?
+  
 # over alignemnt of LLMs with User Prompt
+
+LLMs are bad, too predictable.
 
 # Do we need to give up something?
 
 Human knowledge is limited. And this makes us distinctuve, maybe LLMs are "bad" because it knows too much
 
-# DO humans behave diffrently when they play with AI?
 
+# Ethical Question of Digital Twin
 
-# ethical Question of Digital Twin
+Can we make DT of people, and release in the wild, or do we need regulatory oversight.
+

@@ -15,6 +15,8 @@ Not really like "old" digital twins
 + solve unsolved problem
 + make humans better (coaching)?
 
+# population and individual models
+
 # how to evaluate digital twins
 + simulate the real world, and have some metrics of computing simialrity
 + predictatbility of population vs local level

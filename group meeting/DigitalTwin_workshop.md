@@ -23,4 +23,7 @@ Not really like "old" digital twins
 
 Human knowledge is limited. And this makes us distinctuve, maybe LLMs are "bad" because it knows too much
 
+# DO humans behave diffrently when they play with AI?
+
+
 

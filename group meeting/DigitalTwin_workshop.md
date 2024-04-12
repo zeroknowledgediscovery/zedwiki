@@ -10,6 +10,11 @@ Not really like "old" digital twins
     - do they generate more novels
 + future human interactions
 
+# why make a digital twin?
+
++ solve unsolved problem
++ make humans better (coaching)?
+
 # how to evaluate digital twins
 + simulate the real world, and have some metrics of computing simialrity
 + predictatbility of population vs local level

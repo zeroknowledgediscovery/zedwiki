@@ -1,3 +1,5 @@
-# crystal Mountain 
+# Crystal Mountain 
 
-# sep 18 19
+# Sep 18 19
+
+# Sean Tilton

@@ -3,8 +3,8 @@
 ---
 
 + Crystal Mountain 
-+ Sep 18-19
-+ Sean Tilton
++ Sep 18-19 https://www.crystalmountain.com/
++ Sean Tilton  Sean_Tilton@fd.org
 
 ---
 

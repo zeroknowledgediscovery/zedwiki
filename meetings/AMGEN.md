@@ -19,7 +19,7 @@ LIANOS ACKERT
 SPAEKER 2
 
 COPD | IPF
-Fipaxalparant (LPAR1 SM)
+Fipaxalparant (LPAR1 SM) : mice protected against IPFß
 
 JAG-1 pathway 
 

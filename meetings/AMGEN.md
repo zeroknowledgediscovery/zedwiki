@@ -33,5 +33,6 @@ Exposome | generalized biomarkers
 
 population data --> deCODE project
 
+ASTHMA drug
 # Cys273Tyr. P: e-13
 

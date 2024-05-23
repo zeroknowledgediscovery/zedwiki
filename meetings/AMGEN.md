@@ -23,6 +23,11 @@ Fipaxalparant (LPAR1 SM) : mice protected against IPFß
 
 JAG-1 pathway 
 
+---
+
+precision medicine: benefit vs toxicity
+
+
 
 
 

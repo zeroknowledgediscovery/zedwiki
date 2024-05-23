@@ -34,7 +34,7 @@ Exposome | generalized biomarkers
 population data --> deCODE project
 
 ASTHMA drug
-+ Cys273Tyr. P: e-13
++ Cys273Tyr pvalue e-13
 + 
 
 

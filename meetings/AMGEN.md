@@ -46,4 +46,7 @@ ASTHMA drug
 + Have to move away from damage based constructs of teh disease
 + prognostic and predictive biomarkers
 
+# Toby
+
++ quality of life prediction
 

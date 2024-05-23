@@ -11,3 +11,5 @@
 
 + early diagnosos
 + tolerability
++ Trail enrollment is quite slow
+

@@ -14,7 +14,11 @@ LIANOS ACKERT
 + tolerability
 + trail enrollment is quite slow
 
+---
+
 SPAEKER 2
 
 COPD | IPF
+
+Fipaxalparant (LPAR1 SM)
 

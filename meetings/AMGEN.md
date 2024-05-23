@@ -7,9 +7,8 @@
 
 ## IPF
 
-2 competitors
-
+2 competitors 
 + early diagnosos
 + tolerability
-+ Trail enrollment is quite slow
++ trail enrollment is quite slow
 

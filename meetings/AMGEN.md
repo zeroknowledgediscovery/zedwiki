@@ -2,4 +2,12 @@
 
 ## COPD:
 
-no approved biologc  options
++ no approved biologc  options
++ early diagnosis is important
+
+## IPF
+
+2 competitors
+
++ early diagnosos
++ tolerability

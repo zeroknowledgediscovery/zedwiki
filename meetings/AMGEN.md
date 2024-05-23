@@ -39,5 +39,5 @@ ASTHMA drug
 
 # Ian
 
-Primary care makes outcomes better
++ Primary care makes outcomes better as shown in heart disease
 

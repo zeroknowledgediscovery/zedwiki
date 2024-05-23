@@ -33,5 +33,5 @@ Exposome | generalized biomarkers
 
 population data --> deCODE project
 
-
+# Cys273Tyr. P: e-13
 

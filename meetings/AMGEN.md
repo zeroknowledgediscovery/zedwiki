@@ -41,4 +41,8 @@ ASTHMA drug
 
 + Primary care makes outcomes better as shown in heart disease
 + Fire alarm: get before damage
++ peresymptomatic damage (damage befor symptoms manifest)
++ obvious comorbidities cannot distinguish outcomes very well
+
+
 

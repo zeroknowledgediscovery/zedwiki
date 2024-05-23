@@ -43,6 +43,7 @@ ASTHMA drug
 + Fire alarm: get before damage
 + peresymptomatic damage (damage befor symptoms manifest)
 + obvious comorbidities cannot distinguish outcomes very well
++ Have to move away from damage based constructs of teh disease
 
 
 

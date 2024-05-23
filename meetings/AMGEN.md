@@ -19,6 +19,11 @@ LIANOS ACKERT
 SPAEKER 2
 
 COPD | IPF
-
 Fipaxalparant (LPAR1 SM)
+
+JAG-1 pathway 
+
+
+
+
 

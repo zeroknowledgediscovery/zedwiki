@@ -29,7 +29,9 @@ precision medicine: benefit vs toxicity
 Exposome | generalized biomarkers
 
 
+# ASTA
 
+population data --> deCODE project
 
 
 

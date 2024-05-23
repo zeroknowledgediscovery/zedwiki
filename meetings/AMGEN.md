@@ -1,3 +1,5 @@
+LIANOS ACKERT
+
 # Opportunities
 
 ## COPD:
@@ -11,4 +13,8 @@
 + early diagnosos
 + tolerability
 + trail enrollment is quite slow
+
+SPAEKER 2
+
+COPD | IPF
 

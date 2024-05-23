@@ -49,4 +49,5 @@ ASTHMA drug
 # Toby
 
 + quality of life prediction
++ Prediction with antifibrotic adverse effect metric (everything goes bad)
 

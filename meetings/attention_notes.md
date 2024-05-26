@@ -10,7 +10,7 @@
 + Thompsonville, Michigan from September 18 to 20, 2024
 
 # Bioinference: Trends and Reproducibility
-
++ notravel
 + Marina Evangelou, Executive Guest Editor <STMJournals@author.email.elsevier.com>
 + https://www.sciencedirect.com/journal/journal-of-theoretical-biology/about/call-for-papers#bioinference-trends-and-reproducibility
 
@@ -21,6 +21,7 @@
 +  August 22 to August 23, 2024, in Arlington, VA. 
 
 # PREPARE Challenge
++ notravel
 + https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/page/783/
 
 #  2024 MPS Workshop for New Investigators

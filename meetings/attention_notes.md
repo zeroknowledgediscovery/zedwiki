@@ -18,7 +18,7 @@
 
 + chennan@math.wisc.edu
 + https://community.apan.org/wg/afosr/w/researchareas/39911/2024-data-driven-causal-inference-information-theory-meets-dynamical-systems/
-
++  August 22 to August 23, 2024, in Arlington, VA. 
 
 # PREPARE Challenge
 + https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/page/783/
@@ -27,5 +27,9 @@
 + Risher, Katherine A" kmacwilkinson@ufl.edu
 + https://reg.conferences.dce.ufl.edu/physics/1202
 + https://reg.conferences.dce.ufl.edu/physics/1202
++ July 8-9.
++ https://www.google.com/maps?um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KbFMwOCosbeJMWEFfIQ2XnTz&daddr=400+Courthouse+Square,+Alexandria,+VA+22314
++ Check-In Date (Sunday 7/7), Check-out Date (Tuesday 7/9):
+
 
 

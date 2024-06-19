@@ -6,6 +6,11 @@ Geolytica (pred-pol), alpha-recon (risk calculation)
 
 PD, Corporations such as ATT, Individuals, Federal Govt
 
++ ATT
++ Citizen
++ Boston PD
++ Pharmaceutical Insurance
+
 # resources needed
 
 + data (log from PD, Chicago, Philly available)

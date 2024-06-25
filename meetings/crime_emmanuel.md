@@ -11,9 +11,9 @@
 
 # Meeting 2 Jun 25
 
-## Geneva, Police
++ Geneva, Police
++ Auto theft
 
-## Auto theft
 
 ---
 

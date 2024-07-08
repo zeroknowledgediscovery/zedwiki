@@ -13,6 +13,8 @@ Highly compettitive proposal: 1) MATH, 2) BIOLOGY, 3) INTEGRATION, 4) VALIDATION
 # INTERESTING1
 
 Title: Coupled Spatial-Network Models for Epidemiological Applications
-PI: Christina Dur ́on
+PI: Christina Duŕon
 Institution: Pepperdine University
+
+
 

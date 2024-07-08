@@ -16,5 +16,11 @@ Title: Coupled Spatial-Network Models for Epidemiological Applications
 PI: Christina Duŕon
 Institution: Pepperdine University
 
+# INTERESTING 2
+
+Analyzing Network Connectivity in Stochastic Cancer Dynamics
+Shusen Pu, Email: spu@uwf.edu
+Assistant Professor, Department of Mathematics and Statistics, University of West Florida
+
 
 

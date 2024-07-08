@@ -5,3 +5,8 @@ Mathematical biology needs validation.
 
 Highly compettitive proposal: 1) MATH, 2) BIOLOGY, 3) INTEGRATION, 4) VALIDATION, 5) BROADER IMPACTS
 
+# INTERESTING1
+
+Title: Coupled Spatial-Network Models for Epidemiological Applications
+PI: Christina Dur ́on
+Institution: Pepperdine University

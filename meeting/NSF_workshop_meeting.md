@@ -112,7 +112,7 @@ More specific plan for health policy will be useful
 + Integation: yes
 
 
-# proposal panel summary
+# Proposal Panel Summary
 
 + Real time data is confused with digital twins.
 

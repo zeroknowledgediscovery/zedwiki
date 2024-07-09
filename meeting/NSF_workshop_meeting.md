@@ -61,7 +61,7 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - do not present a laundry list, choose judicioulsy ans develop broader aspects in depth
     - demonstrate commitment, and depth
     - working with undergraduates
-    - 1 to 2 pages
+    - 1 to 2 pages, and add budget justification
     - xxxx
     - original and creative, not ncessarily of the instituition
     - research acitvities, or even complementary to research

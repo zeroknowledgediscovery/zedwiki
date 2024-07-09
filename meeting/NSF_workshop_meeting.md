@@ -54,6 +54,7 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - bottle necks or deadends and offer alternatives (what if its a method we are proposing?)
     - demonstrate expertise and capabilities (include standard letters confirming collaboration hwre necessarry)
     - formulate compelling conclusions (what will change in teh field if you suceed)
+    - lastly write the project summary highlighting teh advances you plan to make
 
 
 

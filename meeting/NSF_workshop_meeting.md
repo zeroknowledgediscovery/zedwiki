@@ -64,6 +64,8 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - 1 to 2 pages
     - xxxx
     - original and creative, not ncessarily of the instituition
+    - research acitvities, or even complementary to research
+    - inclusion, engagement, STEM education, societal well-being, 
 + submit to the appropriate division and program
     - do nsf awardsearch, use advanced search with key words www.nsf.gov/awardsearch
     - talk to program officers

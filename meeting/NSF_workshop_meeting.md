@@ -94,17 +94,25 @@ Innovation: good
 Inntekectual Merit: 
 Combination of TDA and ?. Linking might be missing.
 
-streangths: application of TDA is innovative. There is a datasite, levergiung data
+streangths: application of TDA is innovative. There is a datasite, levergiung data.
+large datasize, global
 
-weakness: missing link "how to apply TDA to real problem"
+weakness: missing link "how to apply TDA to real problem". hetergenous data, demographic variability.
+How will TDA be used to analyze this data.
+Previous work not mentioned.
 
-Educational impact: there
-
-Diagnosis and treatment for public health.
+Educational impact: 
+Diagnosis and treatment for public health. camn improve quality of health. 
 
 Weakness: no specific plan
+More specific plan for health policy will be useful
 
-More specific plan for health policy.
+Mathematical innovation: maybe, can be better
+Biological innovation: yes
+Integation: yes
+
+
+
 
 
 

@@ -45,7 +45,8 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 + Webinars
 + send most creative idea
 + identify transformative potential and impact, change the paradigm
-+ logical, well organized, well illustrated, easily readable
++ logical, well organized, well illustrated, easily readable (figures must be readable)
++ 
 
 
 

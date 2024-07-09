@@ -40,7 +40,6 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 
 
 # how to write competitive proposal
-
 + READ solicitation (additional requirements)
 + Webinars
 + send most creative idea
@@ -70,11 +69,9 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - revise based on panel reviews
 
 # REU 
-
 what is this? apparently this program must exist in the first place
 
 # salary support
-
 Submit a letter that you need to bring in salary support.
     
     

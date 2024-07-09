@@ -71,7 +71,11 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 
 # REU 
 
-what is this?
+what is this? apparently this program must exist in the first place
+
+# salary support
+
+Submit a letter that you need to bring in salary support.
     
     
 

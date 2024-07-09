@@ -55,6 +55,14 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - demonstrate expertise and capabilities (include standard letters confirming collaboration hwre necessarry)
     - formulate compelling conclusions (what will change in teh field if you suceed)
     - lastly write the project summary highlighting teh advances you plan to make
++ Broader Impacts
+    - what does NSF mean? 
+    - consider what your project contributes inherently (integration of research with education, diversity ehancement, broader scientoifc ans social impacts, technological relevance)
+    - additional focused broader activities, outreach, broadening participation, of underpresented groups, reserach experiences of undergraduates or teachers
+    - do not present a laundry list, choose judicioulsy ans develop broader aspects in depth
+    - demonstrate commitment, ans depth
++ submit to the appropriate division and program
+    - do nsf awardsearch, use advanced search with key words
 
 
 

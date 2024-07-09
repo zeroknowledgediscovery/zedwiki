@@ -1,14 +1,15 @@
-# comments
+# Comments
 
-It seems people want to not critique.
-Mathematical biology needs validation.
++ It seems people want to not critique.
++ Mathematical biology needs validation.
 
-+ INVOLVEMENT OF UNDERGRADS
-+ WHERE WORK IS GOING TO BE SHARED
+Highly compettitive proposal: 
 
-
-
-Highly compettitive proposal: 1) MATH, 2) BIOLOGY, 3) INTEGRATION, 4) VALIDATION, 5) BROADER IMPACTS
+1) MATH
+2) BIOLOGY
+3) INTEGRATION
+4) VALIDATION
+5) BROADER IMPACTS
 
 # Contact 1
 

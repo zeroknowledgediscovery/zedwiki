@@ -88,10 +88,10 @@ Submit a letter that you need to bring in salary support.
 
 Yuan Wang
 
-1. is seeking a devlop algorithm neroimaging data to classify patients. ENIGMA
+Is seeking a devlop algorithm neroimaging data to classify patients. ENIGMA
 Innovation: good
 
-Inntekectual Merit: 
+Inntellectual Merit: 
 Combination of TDA and ?. Linking might be missing.
 
 streangths: application of TDA is innovative. There is a datasite, levergiung data.
@@ -107,9 +107,13 @@ Diagnosis and treatment for public health. camn improve quality of health.
 Weakness: no specific plan
 More specific plan for health policy will be useful
 
-Mathematical innovation: maybe, can be better
-Biological innovation: yes
-Integation: yes
++ Mathematical innovation: maybe, can be better
++ Biological innovation: yes
++ Integation: yes
+
+# ---
+
+
 
 
 

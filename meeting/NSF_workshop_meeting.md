@@ -62,7 +62,8 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - do not present a laundry list, choose judicioulsy ans develop broader aspects in depth
     - demonstrate commitment, ans depth
 + submit to the appropriate division and program
-    - do nsf awardsearch, use advanced search with key words
+    - do nsf awardsearch, use advanced search with key words www.nsf.gov/awardsearch
+    - 
 
 
 

@@ -112,8 +112,9 @@ More specific plan for health policy will be useful
 + Integation: yes
 
 
+# proposal panel summary
 
-# ---
+
 
 
 

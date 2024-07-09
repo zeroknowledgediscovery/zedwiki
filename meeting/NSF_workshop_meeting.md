@@ -25,21 +25,18 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 
 # Reviews
 
-## broader impacts
+## Broader impacts
 
 + scientific literacy, wonen , education, minorities
 + economic status improvemnt of US
 
-## additional criteria?
+## Additional criteria?
 
 + solicitation
 + DCL
 + home at NSF
 
-## Who Reviews and How
-
-
-# how to write competitive proposal
+# How to write competitive proposal
 + READ solicitation (additional requirements)
 + Webinars
 + send most creative idea

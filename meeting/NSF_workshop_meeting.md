@@ -47,6 +47,13 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 + identify transformative potential and impact, change the paradigm
 + logical, well organized, well illustrated, easily readable (figures must be readable)
 + maybe prepare data management paln, post doc mentoring and grad student mentoring plan.
++ Intellectual Merit
+    - thorough well referenced background
+    - place proposal clearly in the context (stota, unsolved questions)
+    - convincin description of proposed research (hypothesis, preliminary results, approach)
+    - bottle necks or deadends and offer alternatives (what if its a method we are proposing?)
+    - demonstrate expertise and capabilities (include standard letters confirming collaboration hwre necessarry)
+    - formulate compelling conclusions (what will change in teh field if you suceed)
 
 
 

@@ -10,14 +10,14 @@ Mathematical biology needs validation.
 
 Highly compettitive proposal: 1) MATH, 2) BIOLOGY, 3) INTEGRATION, 4) VALIDATION, 5) BROADER IMPACTS
 
-# INTERESTING1
+# Contact 1
 
 > Title: Coupled Spatial-Network Models for Epidemiological Applications
 PI: Christina Duŕon
 Institution: Pepperdine University
 
 
-# INTERESTING 2
+# Contact 2
 
 > Analyzing Network Connectivity in Stochastic Cancer Dynamics
 Shusen Pu, Email: spu@uwf.edu

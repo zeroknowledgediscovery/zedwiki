@@ -23,5 +23,21 @@ Institution: Pepperdine University
 Shusen Pu, Email: spu@uwf.edu
 Assistant Professor, Department of Mathematics and Statistics, University of West Florida
 
+# Reviews
+
+## broader impacts
+
++ scientific literacy, wonen , education, minorities
++ economic status improvemnt of US
+
+## additional criteria?
+
++ solicitation
++ DCL
++ home at NSF
++ 
+
+
+
 
 

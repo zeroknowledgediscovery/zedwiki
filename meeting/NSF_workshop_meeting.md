@@ -114,6 +114,7 @@ More specific plan for health policy will be useful
 
 # proposal panel summary
 
++ Real time data is confused with digital twins.
 
 
 

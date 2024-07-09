@@ -84,6 +84,40 @@ Submit a letter that you need to bring in salary support.
 + DT
 
 
+# Scribe
+
+Yuan Wang
+
+1. is seeking a devlop algorithm neroimaging data to classify patients. ENIGMA
+Innovation: good
+
+Inntekectual Merit: 
+Combination of TDA and ?. Linking might be missing.
+
+streangths: application of TDA is innovative. There is a datasite, levergiung data
+
+weakness: missing link "how to apply TDA to real problem"
+
+Educational impact: there
+
+Diagnosis and treatment for public health.
+
+Weakness: no specific plan
+
+More specific plan for health policy.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

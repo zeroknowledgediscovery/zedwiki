@@ -117,6 +117,7 @@ More specific plan for health policy will be useful
 + Real time data is confused with digital twins.
 + Need to make sure to highlight how that is applied
 + State of the art
++ Definition of digital twins
 
 
 

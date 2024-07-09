@@ -46,7 +46,7 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
 + send most creative idea
 + identify transformative potential and impact, change the paradigm
 + logical, well organized, well illustrated, easily readable (figures must be readable)
-+ 
++ maybe prepare data management paln, post doc mentoring and grad student mentoring plan.
 
 
 

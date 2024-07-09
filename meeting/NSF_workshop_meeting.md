@@ -61,10 +61,13 @@ Assistant Professor, Department of Mathematics and Statistics, University of Wes
     - additional focused broader activities, outreach, broadening participation, of underpresented groups, reserach experiences of undergraduates or teachers
     - do not present a laundry list, choose judicioulsy ans develop broader aspects in depth
     - demonstrate commitment, ans depth
+    - 1 to 2 pages
 + submit to the appropriate division and program
     - do nsf awardsearch, use advanced search with key words www.nsf.gov/awardsearch
     - talk to program officers
     - **suggest reviewers** 
+    - revise based on panel reviews
+    
     
 
 

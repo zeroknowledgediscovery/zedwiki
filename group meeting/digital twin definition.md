@@ -1,3 +1,4 @@
 # what is a digital twin
-    + how is it different from a model
+
++ how is it different from a model
     

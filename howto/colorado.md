@@ -22,7 +22,9 @@ Enter your password:
 
 # Datapath on Alpine
 
-+ path = `/projects/jcardwell@xsede.org/Ishanu/``
+```
+path=/projects/jcardwell@xsede.org/Ishanu/
+```
 
 
 

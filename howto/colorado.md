@@ -10,6 +10,8 @@ There seems to be linux login also possible. But need to remember password.
 
 ## Logging in from Linux
 
+https://curc.readthedocs.io/en/latest/access/logging-in.html
+
 Open a terminal window from your application menu and type: `ssh username@login.rc.colorado.edu`, where username is your research computing username (ichattopadhyay)
 
 Enter your password:

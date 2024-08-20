@@ -1,3 +1,4 @@
+# questions
 1) Following up on the encouraging results shown or mentioned for the ten cities where the algorithm has been run.  We want to examine/discuss the results in greater detail.
 
 - Review what the example confusion matrix summaries mean.  Is that for an average AUC tile?  An average of tiles? Is there a range of confusion matrices?

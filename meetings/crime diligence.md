@@ -1,7 +1,7 @@
 # Links
 
 + [paper](/uploads/s41562-022-01372-0 (2).pdf) in Nature Human Behavior
-+ FractalNet Theory Paper 
++ FractalNet Theory [Paper ]( /uploads/v1_covered.pdf)
 + slides https://slides.com/ishanuchattopadhyay/fnet?token=0L45fQ-T (Round 1)
 + slides Round 2 
 

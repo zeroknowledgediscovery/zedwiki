@@ -1,7 +1,9 @@
 # Links
 
-+ paper
-+ slides https://slides.com/ishanuchattopadhyay/fnet?token=0L45fQ-T
++ paperin Nature Human Behavior
++ FractalNet Theory Paper 
++ slides https://slides.com/ishanuchattopadhyay/fnet?token=0L45fQ-T (Round 1)
++ slides Round 2 
 
 # Round 2 questions
 1) Following up on the encouraging results shown or mentioned for the ten cities where the algorithm has been run.  We want to examine/discuss the results in greater detail.

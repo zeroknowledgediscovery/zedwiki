@@ -3,7 +3,7 @@
 + [paper](/uploads/s41562-022-01372-0 (2).pdf) in Nature Human Behavior
 + FractalNet Theory [Paper ]( /uploads/v1_covered.pdf)
 + slides https://slides.com/ishanuchattopadhyay/fnet?token=0L45fQ-T (Round 1)
-+ slides Round 2 
++ slides Round 2 https://slides.com/ishanuchattopadhyay/fractalnetalgo2?token=X8h7x4It
 
 # Round 2 questions
 1) Following up on the encouraging results shown or mentioned for the ten cities where the algorithm has been run.  We want to examine/discuss the results in greater detail.

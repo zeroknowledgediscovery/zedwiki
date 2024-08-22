@@ -1,3 +1,3 @@
 # Erik Bolt
 
-schreiber  transfer entropy. (modern take on granger causality)
+Thomas schreiber  transfer entropy. (modern take on granger causality)

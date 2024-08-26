@@ -19,3 +19,14 @@
 + judge burnes
 + christina baptista  DoJ christina.baptista2@usdoj.gov
 
+# aim of the session
+
++ AI and the practice of law
++ apllications of AI
++ responsible use of AI
++ internal equities
++ vetted and tested
++ westlaw
++ facial recognition
++ ranking tips
++ 

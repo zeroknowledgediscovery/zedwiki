@@ -9,3 +9,7 @@
 ---
 
 # harper lecture
+
+
+# meeting AUg 26 2024
+

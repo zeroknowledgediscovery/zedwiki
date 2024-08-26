@@ -30,3 +30,8 @@
 + facial recognition
 + ranking tips
 + 
+
+# questions
+
++ run down a lead
++ 

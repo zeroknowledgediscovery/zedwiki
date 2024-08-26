@@ -11,5 +11,11 @@
 # harper lecture
 
 
-# meeting AUg 26 2024
+# Meeting Aug 26 2024
+
++ sean Tinton
++ peter wwinn Doj
++ james Fisher DoJ
++ judge burnes
++ christina baptista  DoJ
 

@@ -6,7 +6,7 @@ DARPA funds the research and development of technologies with the potential for 
 
 Foundational technologies that promote simulation and prediction of biological systems and outcomes, like simulation, foundational models, and data generation.
 
-[RFP pdf](uploads/DARPA-SCA-24-01.pdf)
-[portal](https://usg.valideval.com/teams/aibto_2024/signup)
++ [RFP pdf](uploads/DARPA-SCA-24-01.pdf)
++ [portal](https://usg.valideval.com/teams/aibto_2024/signup)
 
 October 9

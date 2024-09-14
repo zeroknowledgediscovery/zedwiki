@@ -36,18 +36,18 @@ Margins – 1 inch
 Spacing – single-spaced
 Font – Times New Roman, 12-point
 
-(a) Cover page: Include the PI’s name and university. Include a protective legend for proprietary
++ (a) Cover page: Include the PI’s name and university. Include a protective legend for proprietary
 information, if applicable.
-(b) Abstract (not to exceed 300 words): Describe the research objective, technical approaches,
++ (b) Abstract (not to exceed 300 words): Describe the research objective, technical approaches,
 and anticipated outcome of the specific research. A non-proprietary version of the abstract must
 be submitted without other restrictions. The non- proprietary abstract must be a version that is
 releasable to the public under the Freedom of Information Act without changes.
-(c) Basic Research Statement (one (1) page limit, single-sided): Describe how the proposed
++ (c) Basic Research Statement (one (1) page limit, single-sided): Describe how the proposed
 research meets the DoD definition of basic research provided Section II. A. Program Description
 of this announcement. Describe the extraordinary outcomes that may be achieved as a result of
 the proposed project.
-(d) Subject Research: Identify anticipated human or animal subject research (where applicable).
-(e) White paper (four (4) page limit, single-sided): Describe the basic scientific or technical
++ (d) Subject Research: Identify anticipated human or animal subject research (where applicable).
++ (e) White paper (four (4) page limit, single-sided): Describe the basic scientific or technical
 research to be undertaken. Describe the technical approach. Summarize the state of the field and
 describe what is innovative about the proposed approach. Assuming a successful completion of
 the course of investigation, what results, new knowledge, or insights might it afford compared to
@@ -55,3 +55,9 @@ alternate approaches other researchers in this field have taken. Include approxi
 for the project in a brief statement. Reference citations are not required but may be included
 within the four-page limit, and can be inserted as footnotes. If used, figures are also part of the
 page limit.
+
++ (f) PI’s Curriculum Vitae (CV) (no page limit) -The CV should include relevant experience,
+publications, and funding received in the area of interest, and any previous involvement and
+experiences with the DoD. List all previous DoD funding including project titles within the last
+eight years.
+

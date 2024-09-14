@@ -13,6 +13,12 @@ DEADLINE: Wednesday, October 9, 2024 by 4:00PM EDT.
 + [submission portal](https://usg.valideval.com/teams/aibto_2024/signup)
 + [white paper template](uploads/Attachment_A_-_White_Paper_Template_BTO.docx)
 
-# ARPA-H
+# ARPA-H PRECISE-AI
+
+https://arpa-h.gov/research-and-funding/programs/precise-ai
+
+Performance and Reliability Evaluation for Continuous Modifications and Useability of Artificial Intelligence
 
 # VBUSH
+
+

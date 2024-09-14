@@ -22,3 +22,36 @@ Performance and Reliability Evaluation for Continuous Modifications and Useabili
 # VBUSH
 
 [RFP Link]( /uploads/N0001424SF007 FY25 VBFF.pdf)
+
+Deadline: 27 September 2024 (Friday) at 05:00 PM Eastern Time 
+
+Format: Individual PIs must submit a Cover Page, Abstract, Basic Research Statement, White Paper, and
+Curriculum Vitae (CV). All documents must be submitted in PDF format in compliance with the
+guidelines below. When submitting the documents, the PI must upload the Cover Page, Abstract, Basic
+Research Statement, White Paper and CV as one PDF file.
+i.
+Format
+Paper size – 8.5x11-inch
+Margins – 1 inch
+Spacing – single-spaced
+Font – Times New Roman, 12-point
+
+(a) Cover page: Include the PI’s name and university. Include a protective legend for proprietary
+information, if applicable.
+(b) Abstract (not to exceed 300 words): Describe the research objective, technical approaches,
+and anticipated outcome of the specific research. A non-proprietary version of the abstract must
+be submitted without other restrictions. The non- proprietary abstract must be a version that is
+releasable to the public under the Freedom of Information Act without changes.
+(c) Basic Research Statement (one (1) page limit, single-sided): Describe how the proposed
+research meets the DoD definition of basic research provided Section II. A. Program Description
+of this announcement. Describe the extraordinary outcomes that may be achieved as a result of
+the proposed project.
+(d) Subject Research: Identify anticipated human or animal subject research (where applicable).
+(e) White paper (four (4) page limit, single-sided): Describe the basic scientific or technical
+research to be undertaken. Describe the technical approach. Summarize the state of the field and
+describe what is innovative about the proposed approach. Assuming a successful completion of
+the course of investigation, what results, new knowledge, or insights might it afford compared to
+alternate approaches other researchers in this field have taken. Include approximate yearly costs
+for the project in a brief statement. Reference citations are not required but may be included
+within the four-page limit, and can be inserted as footnotes. If used, figures are also part of the
+page limit.

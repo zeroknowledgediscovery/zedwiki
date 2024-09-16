@@ -19,7 +19,7 @@ https://arpa-h.gov/research-and-funding/programs/precise-ai
 
 Performance and Reliability Evaluation for Continuous Modifications and Useability of Artificial Intelligence
 
-[RFP LINK](uploads/arpa-h-sol-25-113-draft-dot-pdf.txt)
+[RFP LINK](uploads/arpa-h-sol-25-113-draft-dot-pdf)
 
 
 # VBUSH

@@ -13,6 +13,8 @@ DEADLINE: Wednesday, October 9, 2024 by 4:00PM EDT.
 + [submission portal](https://usg.valideval.com/teams/aibto_2024/signup)
 + [white paper template](uploads/Attachment_A_-_White_Paper_Template_BTO.docx)
 
+---
+
 # ARPA-H PRECISE-AI
 
 https://arpa-h.gov/research-and-funding/programs/precise-ai
@@ -110,7 +112,7 @@ In a clinical setting where AI predicts the need for ICU admission, the system s
 
 The ARPA-H PRECISE-AI program aims to build **robust, scalable systems** that can continuously extract surrogate ground truth labels, detect AI model performance degradation, and implement corrective actions. With a focus on leveraging EHR data across diverse clinical settings, the program seeks to improve the reliability of AI decision-support tools in healthcare, ensuring they remain effective and trustworthy over time. Proposals should emphasize **innovation in new algorithms**, **real-world applicability**, and **scalability** across healthcare systems.
 
-
+---
 
 # VBUSH
 

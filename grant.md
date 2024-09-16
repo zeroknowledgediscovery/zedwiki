@@ -24,18 +24,13 @@ Performance and Reliability Evaluation for Continuous Modifications and Useabili
 
 
 
-### Detailed Document: Objectives of TA1, TA2, and TA3 in ARPA-H's PRECISE-AI Program with Focus on EHR Data
+### Objectives of TA1, TA2, and TA3 in ARPA-H's PRECISE-AI Program with Focus on EHR Data
 
----
+Here is an in-depth exploration of the objectives and expectations for **Technical Area 1 (TA1)**, **Technical Area 2 (TA2)**, and **Technical Area 3 (TA3)** within ARPA-H's PRECISE-AI program, specifically focusing on **Electronic Health Records (EHR)** data. It includes guidelines on **ground truth labeling**, key examples of **use cases**, as well as details on the required scope of work, page limits, and deadlines for proposal submissions.
 
-#### Introduction
-This document provides an in-depth exploration of the objectives and expectations for **Technical Area 1 (TA1)**, **Technical Area 2 (TA2)**, and **Technical Area 3 (TA3)** within ARPA-H's PRECISE-AI program, specifically focusing on **Electronic Health Records (EHR)** data. It includes guidelines on **ground truth labeling**, key examples of **use cases**, as well as details on the required scope of work, page limits, and deadlines for proposal submissions.
 
----
+#### Technical Area 1 (TA1): **Automated Surrogate Ground Truth Label Extraction**
 
-### Technical Area 1 (TA1): **Automated Surrogate Ground Truth Label Extraction**
-
-#### Objective:
 TA1 focuses on automating the extraction of **surrogate ground truth labels** from healthcare data, particularly from EHR systems. The aim is to develop scalable, generalizable methods to continuously generate these labels across various clinical scenarios. Ground truth labels represent the best estimate of the clinical state of a patient based on available evidence, serving as a benchmark for evaluating AI models.
 
 ##### Key Components:
@@ -52,11 +47,9 @@ For a pneumonia diagnosis using chest X-ray images, TA1 performers might extract
 ##### Scope:
 - **Not Developing New AI Models**: The focus is on developing methods to extract labels that can be used to evaluate existing AI systems, not creating new AI decision-support tools (AI-DSTs).
   
----
 
-### Technical Area 2 (TA2): **Degradation Detection and Self-Correction**
+#### Technical Area 2 (TA2): **Degradation Detection and Self-Correction**
 
-#### Objective:
 TA2 aims to develop tools for **continuous monitoring** of AI models used in clinical settings, specifically identifying when model performance degrades over time. This area is focused on maintaining model accuracy by diagnosing issues and implementing corrective actions based on EHR data and other healthcare sources.
 
 ##### Key Components:
@@ -74,11 +67,8 @@ TA2 aims to develop tools for **continuous monitoring** of AI models used in cli
 ##### Example Use Case:
 An AI model that predicts sepsis may see performance degradation as the hospital updates its clinical protocols, leading to changes in the patterns of vital signs in the EHR. TA2 tools would detect the drop in accuracy, identify that the changes are due to shifts in the EHR input data, and suggest corrective actions like updating the model with more recent data.
 
----
+#### Technical Area 3 (TA3): **Quantifying Uncertainty and Improving Clinician Performance**
 
-### Technical Area 3 (TA3): **Quantifying Uncertainty and Improving Clinician Performance**
-
-#### Objective:
 TA3 is designed to enhance clinician trust in AI predictions by quantifying and effectively communicating **uncertainty** in model outputs. This ensures that clinicians can make informed decisions based on AI recommendations.
 
 ##### Key Components:
@@ -92,7 +82,6 @@ TA3 is designed to enhance clinician trust in AI predictions by quantifying and 
 ##### Example Use Case:
 In a clinical setting where AI predicts the need for ICU admission, the system should provide not only the prediction but also the associated uncertainty (e.g., a 90% confidence in the need for ICU care). If the uncertainty is high, clinicians might opt for more careful monitoring or further tests.
 
----
 
 ### Application Focus and Guidance
 
@@ -107,8 +96,6 @@ In a clinical setting where AI predicts the need for ICU admission, the system s
 3. **Application Context**:
    - ARPA-H expects the work to be highly applied, with a focus on **real-world clinical settings**. Proposals should include plans for testing solutions across **multiple clinical sites** with diverse patient populations.
 
----
-
 ### Submission Guidelines
 
 #### Page Limits:
@@ -120,13 +107,7 @@ In a clinical setting where AI predicts the need for ICU admission, the system s
 - Use at least **12-point font** for the main text.
 - Proposals must be submitted in **PDF format** through the designated submission portal.
 
-#### Deadlines:
-- **Proposers’ Day**: Scheduled for October 2024 (final date to be confirmed).
-- **Proposal Due Date**: To be announced in the final solicitation.
 
----
-
-### Conclusion
 The ARPA-H PRECISE-AI program aims to build **robust, scalable systems** that can continuously extract surrogate ground truth labels, detect AI model performance degradation, and implement corrective actions. With a focus on leveraging EHR data across diverse clinical settings, the program seeks to improve the reliability of AI decision-support tools in healthcare, ensuring they remain effective and trustworthy over time. Proposals should emphasize **innovation in new algorithms**, **real-world applicability**, and **scalability** across healthcare systems.
 
 

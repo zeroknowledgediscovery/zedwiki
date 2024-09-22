@@ -165,7 +165,7 @@ There is no guarantee that any of the proposals submitted in a particular scient
 recommended for funding, and more than one proposal may be recommended for funding for a particular
 area. The Government reserves the right to select for negotiation some, one, or none of the proposals
 received in response to this announcement.
-o Total Amount of Funding Available: $24 million to $30 million
-o Anticipated Number of Awards: 8 to 10
-o Anticipated Range of Individual Award Amounts: $3 million
-o Previous Year(s) Average Individual Award Amounts: $3 million 
+- Total Amount of Funding Available: $24 million to $30 million
+- Anticipated Number of Awards: 8 to 10
+- Anticipated Range of Individual Award Amounts: $3 million
+- Previous Year(s) Average Individual Award Amounts: $3 million 

@@ -13,6 +13,19 @@ DEADLINE: Wednesday, October 9, 2024 by 4:00PM EDT.
 + [submission portal](https://usg.valideval.com/teams/aibto_2024/signup)
 + [white paper template](uploads/Attachment_A_-_White_Paper_Template_BTO.docx)
 
+It is anticipated that awards will be made in the form of grants to U.S. institutions of higher education
+(IHE) (universities). It is anticipated an individual maximum award value will be $3 million for five (5)
+years, with the actual amount contingent on availability of funds.
+There is no guarantee that any of the proposals submitted in a particular scientific area will be
+recommended for funding, and more than one proposal may be recommended for funding for a particular
+area. The Government reserves the right to select for negotiation some, one, or none of the proposals
+received in response to this announcement.
+o Total Amount of Funding Available: $24 million to $30 million
+o Anticipated Number of Awards: 8 to 10
+o Anticipated Range of Individual Award Amounts: $3 million
+o Previous Year(s) Average Individual Award Amounts: $3 million 
+
+
 ---
 
 # ARPA-H PRECISE-AI

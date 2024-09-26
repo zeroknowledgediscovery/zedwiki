@@ -11,4 +11,4 @@
 
 ---
 
-[Notes](grant_notes.md)
+[Notes](grant_planning/grant_notes.md)

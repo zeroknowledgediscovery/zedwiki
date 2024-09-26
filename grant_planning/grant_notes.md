@@ -11,9 +11,9 @@ Foundational technologies that promote simulation and prediction of biological s
 ## Time
 DEADLINE: Wednesday, October 9, 2024 by 4:00PM EDT. 
 
-+ [RFP pdf](uploads/DARPA-SCA-24-01.pdf)
++ [RFP pdf](../uploads/DARPA-SCA-24-01.pdf)
 + [submission portal](https://usg.valideval.com/teams/aibto_2024/signup)
-+ [white paper template](uploads/Attachment_A_-_White_Paper_Template_BTO.docx)
++ [white paper template](../uploads/Attachment_A_-_White_Paper_Template_BTO.docx)
 
 
 
@@ -25,7 +25,7 @@ https://arpa-h.gov/research-and-funding/programs/precise-ai
 
 Performance and Reliability Evaluation for Continuous Modifications and Useability of Artificial Intelligence
 
-[RFP LINK](uploads/ARPA-H-SOL-25-113_DRAFT.pdf)
+[RFP LINK](../uploads/ARPA-H-SOL-25-113_DRAFT.pdf)
 
 
 

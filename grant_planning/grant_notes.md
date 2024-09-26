@@ -1,7 +1,4 @@
 
-More detailed notes follow.
-
-
 # AI BTO DARPA
 
 https://www.darpa.mil/news-events/2024-09-13

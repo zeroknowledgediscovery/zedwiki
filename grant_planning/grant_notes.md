@@ -27,7 +27,7 @@ Performance and Reliability Evaluation for Continuous Modifications and Useabili
 
 [RFP LINK](uploads/ARPA-H-SOL-25-113_DRAFT.pdf)
 
-
+uploads/ARPA-H-SOL-25-113_DRAFT.pdf
 
 
 ### Objectives of TA1, TA2, and TA3 in ARPA-H's PRECISE-AI Program with Focus on EHR Data

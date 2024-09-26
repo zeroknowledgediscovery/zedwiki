@@ -9,7 +9,9 @@
 | RO1       | February 5 | Crime-prevention   | OBSSR/NINR/NIMHD    | 500K/yr direct         | -                                                                                            |
 
 
+---
 
+More detailed notes follow.
 
 
 # AI BTO DARPA

@@ -1,8 +1,7 @@
-
 # Planned Grant Submissions
 
 
-| Mechanism | Deadline  | Proposal Name    | Agency             | Budget                | Link                                                                                         |
+| Mechanism | Deadline  | Proposal Short-Name    | Agency             | Budget                | Link                                                                                         |
 |-----------|-----------|------------------|--------------------|-----------------------|----------------------------------------------------------------------------------------------|
 | DARPA BTO AI | October 9  |   LukinGlass             |        DARPA       | 300K total            | [DARPA News Event](https://www.darpa.mil/news-events/2024-09-13), [DARPA-SCA-24-01.pdf](http://34.66.189.202:4567/uploads/DARPA-SCA-24-01.pdf) |
 | ARPA-H Precise AI | November   | Precise AI         | ARPA-H             | 10M total             | [ARPA-H Program](https://arpa-h.gov/research-and-funding/programs/precise-ai)                 |

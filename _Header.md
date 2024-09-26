@@ -1,4 +1,4 @@
-### Wiki for Zero Knowledge Discovery, University of Chicago
+### Wiki for Zero Knowledge Discovery, University of Kentucky, Division of Biomedical Informatics
 
 [zeroknowledgediscovery.org/wiki](http://34.66.189.202:4567/)
 

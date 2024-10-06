@@ -17,6 +17,8 @@ Nov 8
 
 [Info](/uploads/MidSouth REACH Cycle 2 RFA.pdf)
 
+---
+
 # AI BTO DARPA
 
 https://www.darpa.mil/news-events/2024-09-13

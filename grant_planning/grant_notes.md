@@ -2,9 +2,7 @@
 # REACH 
 
 
-## Deadline
-
-Nov 8
+**Deadline Nov 8**
 
 ## Summary/Objective
 

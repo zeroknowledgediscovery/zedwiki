@@ -9,15 +9,16 @@ These platforms, while offering a wide variety of EHR-powered solutions, share t
 1. Most state-of-the-art predictive AI solutions rely on imaging data ([Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/), [Google Health](https://health.google/health-research/imaging-and-diagnostics/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)), neglecting the insights that can be found in the data sources that are collected universally in clinical setting and limiting the scope of targettable problems to those with established practice of imaging. 
 2. Models that rely on EHR tend to focuswith focus on EHR analysis tend to focus on common diseases and complications (such as [early detection of sepsis in hospital environment](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis)) and do not specialize in co-occurring disease patterns or ultra-rare conditions.
 
-There are AI models in development use EHR data for early prediction of rare diseases:
+There are multiple AI models in development that use EHR data for early prediction of rare diseases, including:
 
-A 
+* [Alzheimer's Disease](https://www.nature.com/articles/s43587-024-00573-8#MOESM3)
+* [Renal Faliure](https://www.sciencedirect.com/science/article/pii/S2214579621000514#fg0050) 
+* [Heart Failure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260885) 
+* [Chronic Obstructive Pulmonary Disease](https://peerj.com/articles/16950/) 
+* [Melanoma](https://www.medrxiv.org/content/10.1101/2024.07.26.24311080v1)
 
-B
 
-C
-
-However, ... ... ... , ...
+However, these models tend to rely on a limited set of EHR-derived features that are already known to have a connection to the risk of disease onset, and often require laboratory tests to achieve optimal predictive performance.
 
 ***
 

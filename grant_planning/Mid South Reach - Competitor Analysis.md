@@ -21,7 +21,8 @@ There are multiple AI models in development that use EHR data for early predicti
 However, these models tend to rely on a limited set of EHR-derived features that are already known to have a connection to the risk of disease onset, and often require laboratory tests to achieve optimal predictive performance.
 
 ***
-
+Various note below
+***
 
 ...   or use audiovisual data to detect irregularities in behavior ([Cognoa](https://cognoa.com/technology/
 

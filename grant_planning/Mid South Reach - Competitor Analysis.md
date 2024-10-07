@@ -2,12 +2,15 @@
 
 The healthcare analytics market, specifically predictive analytics, is expected to reach over $30 billion by 2027. 
 
-Key competitors in this space include large-scale EHR systems with embedded analytics tools 
-such as:
+Key competitors in this space include large-scale EHR systems with embedded analytics tools focusing on different problems, such as:
 
+* AI imaging for early detection and monitoring - [Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf)), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/)
+* Population health analytics - 
+* Generative AI Clinical Assistants - 
 
-* Merative ([AI solutions focus on imaging](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf))
-* 
+* Merative ([Predictive AI solutions focus on imaging](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf))
+* Epic's Cognitive Computing Suite ([Focusing on population health insights, automatization of medical coding](https://www.epic.com/software/ai/))
+* Google Health
 
 Epic’s “Cognitive Computing” suite, and Cerner's "Predictive Analytics,". 
 

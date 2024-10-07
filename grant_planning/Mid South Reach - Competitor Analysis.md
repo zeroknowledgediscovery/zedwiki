@@ -6,7 +6,8 @@ Key competitors in this space include large-scale EHR systems with embedded anal
 such as:
 
 
-* Merative Merative
+* Merative ([AI solutions focus on imaging](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf))
+* 
 
 Epic’s “Cognitive Computing” suite, and Cerner's "Predictive Analytics,". 
 

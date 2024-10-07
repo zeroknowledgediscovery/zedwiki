@@ -4,18 +4,15 @@ The healthcare analytics market, specifically predictive analytics, is expected 
 
 Key competitors in this space include large-scale EHR systems with embedded analytics tools focusing on different problems, such as:
 
-* AI imaging for early detection and monitoring - [Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf)), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/)
-* Population health analytics - 
-* Generative AI Clinical Assistants - 
+* AI models for early detection using EHR data - [Epic's Cognitive Suite, Luminaire (Early Detection of Sepsis in Hospital)](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis/)
+* AI models for early detection using imaging data - [Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/), [Google Health](https://health.google/health-research/imaging-and-diagnostics/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)
+* EHR-powered Population health analytics - [Tempus](https://www.tempus.com/life-sciences/lens/), [Epic](https://www.epic.com/software/ai/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)
+* Generative AI Clinical Assistants and Chatbots - [Google Health](https://sites.research.google/med-palm/), [Oracle Cerner](https://www.oracle.com/news/announcement/ai-powered-oracle-clinical-digital-assistant-transforms-interactions-between-practitioners-and-patients-2024-06-24/), 
+* AI-augmented note-taking and documentation assistance [Augmedix](https://www.augmedix.com/)
 
-* Merative ([Predictive AI solutions focus on imaging](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf))
-* Epic's Cognitive Computing Suite ([Focusing on population health insights, automatization of medical coding](https://www.epic.com/software/ai/))
-* Google Health
-
-Epic’s “Cognitive Computing” suite, and Cerner's "Predictive Analytics,". 
+These platforms, while widely used, mostly rely on imaging data (Tempus, Merative, PathAI, Google Health) or use audiovisual data to detect irregularities in behavior ([Cognoa](https://cognoa.com/technology/)). Models with focus on EHR analysis tend to focus on common diseases and complications (such as [early detection of sepsis in hospital environment](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis)) and do not specialize in co-occurring disease patterns or ultra-rare conditions.
 
 
-These platforms, while widely used, often focus on common diseases and do not specialize in co-occurring disease patterns or ultra-rare conditions. 
 
 [Part below belongs to a different section]
 

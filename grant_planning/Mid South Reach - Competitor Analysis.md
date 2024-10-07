@@ -2,6 +2,28 @@
 
 The healthcare analytics market, specifically predictive analytics, is expected to reach over $30 billion by 2027. 
 
+Key competitors in this space include large-scale EHR systems with embedded analytics tools such as Merative (formerly IBM Watson Health), Google Health, Oracle's Cerner and Epic’s Cognitive Computing suite. 
+
+These platforms, while offering a wide variety of EHR-powered solutions, share two key limitations in utilizing EHR data we aim to address:
+
+1. Most state-of-the-art predictive AI solutions rely on imaging data ([Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/), [Google Health](https://health.google/health-research/imaging-and-diagnostics/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)), neglecting the insights that can be found in the data sources that are collected universally in clinical setting and limiting the scope of targettable problems to those with established practice of imaging. 
+2. Models that rely on EHR tend to focuswith focus on EHR analysis tend to focus on common diseases and complications (such as [early detection of sepsis in hospital environment](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis)) and do not specialize in co-occurring disease patterns or ultra-rare conditions.
+
+There are AI models in development use EHR data for early prediction of rare diseases:
+
+A 
+
+B
+
+C
+
+However, ... ... ... , ...
+
+***
+
+
+...   or use audiovisual data to detect irregularities in behavior ([Cognoa](https://cognoa.com/technology/
+
 Key competitors in this space include large-scale EHR systems with embedded analytics tools focusing on different problems, such as:
 
 * AI models for early detection using EHR data - [Epic's Cognitive Suite, Luminaire (Early Detection of Sepsis in Hospital)](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis/)
@@ -9,8 +31,6 @@ Key competitors in this space include large-scale EHR systems with embedded anal
 * EHR-powered Population health analytics - [Tempus](https://www.tempus.com/life-sciences/lens/), [Epic](https://www.epic.com/software/ai/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)
 * Generative AI Clinical Assistants and Chatbots - [Google Health](https://sites.research.google/med-palm/), [Oracle Cerner](https://www.oracle.com/news/announcement/ai-powered-oracle-clinical-digital-assistant-transforms-interactions-between-practitioners-and-patients-2024-06-24/), 
 * AI-augmented note-taking and documentation assistance [Augmedix](https://www.augmedix.com/)
-
-These platforms, while widely used, mostly rely on imaging data (Tempus, Merative, PathAI, Google Health) or use audiovisual data to detect irregularities in behavior ([Cognoa](https://cognoa.com/technology/)). Models with focus on EHR analysis tend to focus on common diseases and complications (such as [early detection of sepsis in hospital environment](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis)) and do not specialize in co-occurring disease patterns or ultra-rare conditions.
 
 
 

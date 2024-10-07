@@ -15,6 +15,9 @@
 
 [Info](/uploads/MidSouth REACH Cycle 2 RFA.pdf)
 
+
+[Competition Analysis](./midsouthreach_competitors.md)
+
 ---
 
 # AI BTO DARPA

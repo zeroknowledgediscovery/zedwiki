@@ -4,7 +4,7 @@ The healthcare analytics market, specifically predictive analytics, is expected 
 
 Key competitors in this space include large-scale EHR systems with embedded analytics tools such as Merative (formerly IBM Watson Health), Google Health, Oracle's Cerner and Epic’s Cognitive Computing suite. 
 
-These platforms, while offering a wide variety of EHR-powered solutions, share two key limitations in utilizing EHR data we aim to address:
+These platforms, while offering a wide variety of EHR-powered solutions, share two key limitations in utilizing EHR data for the early disease detection that we aim to address:
 
 1. Most state-of-the-art predictive AI solutions rely on imaging data ([Merative](https://www.merative.com/content/dam/merative/documents/ebook/achieving-the-benefits-of-ai.pdf), [PathAI](https://www.pathai.com/), [Tempus](https://www.tempus.com/radiology/), [Google Health](https://health.google/health-research/imaging-and-diagnostics/), [Microsoft](https://www.microsoft.com/en-us/research/project/ai-for-health/)), neglecting the insights that can be found in the data sources that are collected universally in clinical setting and limiting the scope of targettable problems to those with established practice of imaging. 
 2. Models that rely on EHR tend to focuswith focus on EHR analysis tend to focus on common diseases and complications (such as [early detection of sepsis in hospital environment](https://www.mayoclinicplatform.org/2024/05/02/using-ai-to-predict-the-onset-of-sepsis)) and do not specialize in co-occurring disease patterns or ultra-rare conditions.

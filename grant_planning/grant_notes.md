@@ -96,6 +96,15 @@ An AI model that predicts sepsis may see performance degradation as the hospital
 
 TA3 is designed to enhance clinician trust in AI predictions by quantifying and effectively communicating **uncertainty** in model outputs. This ensures that clinicians can make informed decisions based on AI recommendations.
 
+
+| **Technical Area** | **Goal**                                                                                      | **Key Focus Areas**                                                                                                                                                                |
+|--------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **TA1: Automated Surrogate Ground Truth Label Extraction** | Develop scalable methods to automatically extract surrogate ground truth labels from healthcare data sources.    | - Automate label extraction from EHRs, lab results, imaging, etc. <br> - Continuously monitor AI model performance using real-time label updates <br> - Validate extracted labels by comparing them with manual labels <br> - Generalize methods to work across multiple clinical use cases and data sources. |
+| **TA2: Degradation Detection & Self-Correction**         | Detect, analyze, and correct performance degradation in AI models.                                              | - Continuously monitor AI model performance in real-time <br> - Perform AI-based root-cause analysis to identify causes of degradation <br> - Develop self-correcting mechanisms for AI models to automatically adjust when degradation occurs.                                                                                     |
+| **TA3: Quantify Uncertainty & Improve Clinician Performance** | Enhance clinician trust in AI models by improving how uncertainty and supplementary information are communicated. | - Quantify and clearly communicate AI model uncertainty <br> - Provide additional information like model explainability or similar cases <br> - Improve clinician-AI collaboration and decision-making <br> - Design intuitive interfaces through human-centered design and usability testing.         |
+
+
+
 ##### Key Components:
 1. **Uncertainty Quantification**:
    - Proposals should focus on methods to **quantify uncertainty** in AI predictions (e.g., confidence intervals or probabilistic outputs) and communicate this uncertainty in a manner that clinicians can understand and use effectively.

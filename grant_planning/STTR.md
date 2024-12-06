@@ -15,7 +15,6 @@ Study group? Study section? **Special emphasis panels**, so not very many option
 ---
 
 # Review criteria
-
 + significance: Unmet need, market, if successful how aims changes the interventionas, concepts etc. Will that lead to marketable product. Prior reserach solid?  1
 + investigators:  Background, qualifications (personal statement, biosketch), MPI: demonstrate complemnetary skills, system in place to manage, what happens if you disagree
 + Innovation: clear precisewhy approach is innovative (different from before, what it offers that other cannot) 2
@@ -25,11 +24,22 @@ Study group? Study section? **Special emphasis panels**, so not very many option
 # LOS
 Get letter of support, explianing why what you are doing is important. (not part of project)
 
-# Budget?
+# Budget
+
++ Budget justification. (60%)
++ compnay team: clear commercialization path (?). commercialization plan comes in phase 2. what is the plan for that. describe that in phase 1.
++ 
 
 
++ https://www.sciencedocs.com/specific-aims-page-behold-your-reviewer 
 
-# What else?
++ https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx 
+
+A very important item that you need to work on in the next couple of weeks is your budget. Here's a fairly detailed guide provided by NIH - read it carefully, and send me any questions you might have:
+
++ https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/develop-your-budget.htm 
+
+# What else
 
 
 

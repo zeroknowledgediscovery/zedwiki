@@ -22,7 +22,7 @@ Study group? Study section? **Special emphasis panels**, so not very many option
 + Approach: how you are doing it [how outcome of pahse 1 becaomes phase 2, backghround and preliminiary results, risk mitigation] 2
 + Environment: .5
 
-Get letter of support, explianing why what you are doing is important.
+Get letter of support, explianing why what you are doing is important. (not part of project)
 
 # Budget?
 

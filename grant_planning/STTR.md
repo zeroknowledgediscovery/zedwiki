@@ -10,6 +10,7 @@ Study group? Study section? **Special emphasis panels**, so not very many option
 + "preconception:   project summary... highlight this is not what you think it is"
 + "milestones: Measurable quantifiable to get in to Phase 2, whathappens if yoiu fail to reach it, what is the pivot"
 + "risk mitigation"
++ NIA/NIDA/NIAID  examples of succesful proposals
 
 
 # Budget?

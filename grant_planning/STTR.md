@@ -38,6 +38,8 @@ Get letter of support, explianing why what you are doing is important. (not part
 A very important item that you need to work on in the next couple of weeks is your budget. Here's a fairly detailed guide provided by NIH - read it carefully, and send me any questions you might have:
 
 + https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/develop-your-budget.htm 
++ 
+Holly :  do the IP
 
 # What else
 

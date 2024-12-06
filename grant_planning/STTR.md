@@ -16,11 +16,11 @@ Study group? Study section? **Special emphasis panels**, so not very many option
 
 # Review criteria
 
-+ significance: Unmet need, market, if successful how aims changes the interventionas, concepts etc. Will that lead to marketable product. Prior reserach solid?
++ significance: Unmet need, market, if successful how aims changes the interventionas, concepts etc. Will that lead to marketable product. Prior reserach solid?  1
 + investigators:  Background, qualifications (personal statement, biosketch), MPI: demonstrate complemnetary skills, system in place to manage, what happens if you disagree
-+ Innovation: clear precisewhy approach is innovative (different from before, what it offers that other cannot)
-+ Approach: how you are doing it
-+ Environment: 
++ Innovation: clear precisewhy approach is innovative (different from before, what it offers that other cannot) 2
++ Approach: how you are doing it [how outcome of pahse 1 becaomes phase 2, backghround and preliminiary results, risk mitigation] 2
++ Environment: .5
 
 # Budget?
 

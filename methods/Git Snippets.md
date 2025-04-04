@@ -5,6 +5,22 @@ git fetch --all
 git reset --hard origin/main #origin/master
 ```
 
+# ssh error
+
+```
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+error: Could not fetch origin
+
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+```
+
+
 # Rollback commit
 
 Check if something is committed with:

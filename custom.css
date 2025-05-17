@@ -1,16 +1,1 @@
-.has-sidebar #wiki-body {
-  width: 77%;
-}
-
-#wiki-wrapper {
-    max-width: 90%;
-}
-
-#wiki-sidebar {
-  width: 17%;
-}
-
-.markdown-body ul, .markdown-body ol {
-	    margin-top: 0;
-	        margin-bottom: 0;
-	}
+a { color: #882222}
